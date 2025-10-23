@@ -1,18 +1,27 @@
 import os
 from pathlib import Path
+from dotenv import load_dotenv
 
-# __file__ is het pad naar dit config.py bestand
-# .resolve() maakt het een absoluut pad
 # .parent is de 'src' map
 SRC_ROOT = Path(__file__).resolve().parent
 
 # .parent van de 'src' map is de project root
 PROJECT_ROOT = SRC_ROOT.parent
 
+# Laad de .env bestand in de project root
+load_dotenv(PROJECT_ROOT / ".env")
+
 # Definieer je datamap
 DATA_DIR = PROJECT_ROOT / "data"
 DOCUMENTS_DIR = DATA_DIR / "documents"
 
-# Optioneel: Je kunt hier ook andere configuratie (zoals API keys)
-# laden uit environment variables
-# QDRANT_HOST = os.environ.get("QDRANT_HOST", "http://qdrant_db:6333")
+#Api keys
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+
+#hosts
+QDRANT_HOST = os.getenv("QDRANT_HOST", "http://localhost:6333")
+
+
+
+
