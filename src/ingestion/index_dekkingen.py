@@ -5,6 +5,11 @@ This script uses hierarchical chunking to split markdown documents by headers,
 preserves metadata including headers, document name, company, and timestamp,
 and stores embeddings in Qdrant vector database using LangChain framework.
 
+DEDUPLICATION STRATEGY:
+- Uses filepath as unique document identifier
+- Before indexing: deletes all existing chunks for that document
+- Then: indexes fresh chunks (Strategy A: Replace)
+
 The design is modular - swap embedding models or vector stores by changing
 configuration constants at the top of the file.
 
@@ -17,13 +22,14 @@ Usage:
 from pathlib import Path
 from datetime import datetime
 from typing import List, Dict, Any
+import hashlib
 
 from pydantic import SecretStr
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
-from qdrant_client.http.models import Distance, VectorParams
+from qdrant_client.http.models import Distance, VectorParams, Filter, FieldCondition, MatchValue, PointIdsList
 
 from src.config import DOCUMENTS_DIR, QDRANT_HOST, GEMINI_API_KEY
 
@@ -50,6 +56,21 @@ DEKKINGEN_DIR = DOCUMENTS_DIR / "dekkingen"
 CHUNKS_OUTPUT_DIR = DEKKINGEN_DIR / "chunks"
 
 # =======================================================
+
+
+def generate_document_id(filepath: str) -> str:
+    """
+    Generate a unique, stable document ID from filepath.
+
+    Uses SHA-256 hash truncated to 16 characters for uniqueness.
+
+    Args:
+        filepath: Full path to the document
+
+    Returns:
+        Unique document identifier
+    """
+    return hashlib.sha256(filepath.encode()).hexdigest()[:16]
 
 
 def extract_company_from_filename(filename: str) -> str:
@@ -81,10 +102,12 @@ def load_markdown_documents(directory: Path) -> List[Dict[str, Any]]:
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
 
+        filepath_str = str(file_path)
         documents.append({
             "content": content,
             "filename": file_path.name,
-            "filepath": str(file_path),
+            "filepath": filepath_str,
+            "document_id": generate_document_id(filepath_str),
             "company": extract_company_from_filename(file_path.name),
             "ingestion_timestamp": datetime.now().isoformat(),
         })
@@ -120,6 +143,7 @@ def create_hierarchical_chunks(
             chunk_dict = {
                 "content": chunk.page_content,
                 "document_name": doc["filename"],
+                "document_id": doc["document_id"],
                 "company": doc["company"],
                 "ingestion_timestamp": doc["ingestion_timestamp"],
                 "filepath": doc["filepath"],
@@ -184,6 +208,7 @@ def save_chunks_to_disk(chunks: List[Dict[str, Any]], output_dir: Path) -> None:
             f.write("-" * 40 + "\n")
             f.write(f"Company: {chunk.get('company', 'N/A')}\n")
             f.write(f"Document: {chunk.get('document_name', 'N/A')}\n")
+            f.write(f"Document ID: {chunk.get('document_id', 'N/A')}\n")
             f.write(f"Filepath: {chunk.get('filepath', 'N/A')}\n")
             f.write(f"Ingestion Timestamp: {chunk.get('ingestion_timestamp', 'N/A')}\n")
 
@@ -231,9 +256,63 @@ def initialize_qdrant_collection(client: QdrantClient, collection_name: str) -> 
         print(f"Collection '{collection_name}' already exists.")
 
 
+def delete_document_from_qdrant(
+    client: QdrantClient,
+    collection_name: str,
+    document_id: str
+) -> int:
+    """
+    Delete all chunks belonging to a specific document from Qdrant.
+
+    Args:
+        client: QdrantClient instance
+        collection_name: Name of the collection
+        document_id: Unique document identifier
+
+    Returns:
+        Number of points deleted
+    """
+    try:
+        # Scroll through all points to find matching document_id
+        scroll_result = client.scroll(
+            collection_name=collection_name,
+            scroll_filter=Filter(
+                must=[
+                    FieldCondition(
+                        key="metadata.document_id",
+                        match=MatchValue(value=document_id)
+                    )
+                ]
+            ),
+            limit=1000,  # Adjust if documents have more chunks
+            with_payload=False,
+            with_vectors=False
+        )
+
+        point_ids = [point.id for point in scroll_result[0]]
+
+        if point_ids:
+            client.delete(
+                collection_name=collection_name,
+                points_selector=PointIdsList(points=point_ids)
+            )
+            print(f"  → Deleted {len(point_ids)} existing chunks for document_id: {document_id}")
+            return len(point_ids)
+        else:
+            print(f"  → No existing chunks found for document_id: {document_id}")
+            return 0
+
+    except Exception as e:
+        print(f"  ⚠ Warning: Could not delete existing chunks: {e}")
+        return 0
+
+
 def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
     """
-    Index document chunks into Qdrant vector store.
+    Index document chunks into Qdrant vector store with deduplication.
+
+    DEDUPLICATION: Before indexing, deletes all existing chunks for each document
+    based on document_id (Strategy A: Replace).
 
     Args:
         chunks: List of document chunks with metadata
@@ -253,11 +332,26 @@ def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
     # Ensure collection exists
     initialize_qdrant_collection(client, COLLECTION_NAME)
 
+    # === DEDUPLICATION: Delete existing documents before re-indexing ===
+    print("\n🔄 Checking for existing documents to deduplicate...")
+    unique_document_ids = set(chunk["document_id"] for chunk in chunks)
+
+    total_deleted = 0
+    for doc_id in unique_document_ids:
+        deleted_count = delete_document_from_qdrant(client, COLLECTION_NAME, doc_id)
+        total_deleted += deleted_count
+
+    if total_deleted > 0:
+        print(f"✅ Deduplication complete: removed {total_deleted} old chunks")
+    else:
+        print("✅ No duplicates found, proceeding with fresh indexing")
+
     # Prepare texts and metadata for indexing
     texts = [chunk["content"] for chunk in chunks]
     metadatas = [
         {
             "document_name": chunk["document_name"],
+            "document_id": chunk["document_id"],
             "company": chunk["company"],
             "ingestion_timestamp": chunk["ingestion_timestamp"],
             "filepath": chunk["filepath"],
@@ -268,7 +362,7 @@ def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
     ]
 
     # Create vector store and add documents
-    print(f"Indexing {len(texts)} chunks into Qdrant...")
+    print(f"\n📥 Indexing {len(texts)} chunks into Qdrant...")
     vector_store = QdrantVectorStore.from_texts(
         texts=texts,
         embedding=embeddings,
@@ -278,7 +372,7 @@ def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
         force_recreate=False  # Don't recreate if collection exists
     )
 
-    print(f"Successfully indexed {len(texts)} chunks.")
+    print(f"✅ Successfully indexed {len(texts)} chunks.")
     return vector_store
 
 
