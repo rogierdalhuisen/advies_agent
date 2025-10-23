@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 102 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: OUTPATIENT TREATMENT
+  header_5: Physiotherapy
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Physiotherapy  
+Dit dekt de kosten voor behandelingen door een fysiotherapeut om lichamelijke klachten te verhelpen of te verminderen, zonder dat hiervoor een ziekenhuisopname nodig is. Dit is niet gedekt onder het Essential plan. Het Bronze plan biedt 100% dekking tot € 1.000. Het Gold plan biedt 100% dekking tot € 3.000.

@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 25 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Poliklinisch
+  header_5: Fysiotherapie en oefentherapie
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Fysiotherapie en oefentherapie  
+Dit betreft de vergoeding voor behandelingen door een fysiotherapeut of oefentherapeut om bewegingsklachten te verhelpen of te voorkomen. Dit is niet gedekt onder het Standaard plan. Voor het Optimaal plan worden 20 behandelingen gedekt. Voor het Excellent plan worden 30 behandelingen gedekt.

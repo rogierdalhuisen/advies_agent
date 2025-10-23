@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 63 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Bijzondere rechten en aanspraken
+  header_5: Overvliegen bloed uit NL
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Overvliegen bloed uit NL  
+Dit betreft de vergoeding voor de kosten om bloed of bloedproducten vanuit Nederland naar de verblijfplaats in het buitenland te transporteren. Dit is niet gedekt onder het Standaard plan. Dit is niet gedekt onder het Optimaal plan. Voor het Excellent plan is dit 100% gedekt.

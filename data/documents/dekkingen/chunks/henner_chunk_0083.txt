@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 84 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: HOSPITALISATION
+  header_5: Out-patient surgery
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Out-patient surgery  
+Dit dekt chirurgische ingrepen die in dagbehandeling (zonder overnachting in het ziekenhuis) plaatsvinden. Het Essential plan biedt 100% dekking. Het Bronze plan biedt 100% dekking. Het Gold plan biedt 100% dekking.

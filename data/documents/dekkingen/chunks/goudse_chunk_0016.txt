@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 17 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Klinisch
+  header_5: Cosmetische chirurgie (bij verminking/geboorteafwijking)
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Cosmetische chirurgie (bij verminking/geboorteafwijking)  
+Dit omvat plastische chirurgie die noodzakelijk is om uiterlijke kenmerken te herstellen na een ongeval (verminking) of vanwege een aangeboren afwijking. Voor het Standaard plan is dit 100% gedekt. Voor het Optimaal plan is dit 100% gedekt. Voor het Excellent plan is dit 100% gedekt.

@@ -19,7 +19,9 @@ DOCUMENTS_DIR = DATA_DIR / "documents"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-#hosts
+# Hosts
+# In Docker: QDRANT_HOST=qdrant (service name)
+# Outside Docker: QDRANT_HOST=http://localhost:6333 (exposed port)
 QDRANT_HOST = os.getenv("QDRANT_HOST", "http://localhost:6333")
 
 

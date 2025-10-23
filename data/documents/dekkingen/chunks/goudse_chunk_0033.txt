@@ -1,0 +1,25 @@
+================================================================================
+CHUNK 34 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Genees- en hulpmiddelen
+  header_5: Geneesmiddelen
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+#### Genees- en hulpmiddelen  
+##### Geneesmiddelen  
+Dit betreft de vergoeding voor medicijnen die zijn voorgeschreven door een arts en geregistreerd zijn. Voor het Standaard plan is dit 100% gedekt. Voor het Optimaal plan is dit 100% gedekt. Voor het Excellent plan is dit 100% gedekt.

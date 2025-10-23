@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 32 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Poliklinisch
+  header_5: Psoriasisdagbehandeling
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Psoriasisdagbehandeling  
+Dit omvat dagbehandelingen in een kliniek die specifiek gericht zijn op het verminderen van de symptomen van de huidziekte psoriasis. Voor het Standaard plan worden 15 behandelingen gedekt. Voor het Optimaal plan worden 30 behandelingen gedekt. Voor het Excellent plan worden 30 behandelingen gedekt.

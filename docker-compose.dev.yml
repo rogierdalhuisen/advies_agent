@@ -12,6 +12,8 @@ services:
       - ./logs:/app/logs
       # Mount data directory
       - ./data:/app/data
+      # Mount .env for accessing environment variables
+      - ./.env:/app/.env
     ports:
       - "8000:8000"  # Expose for local development
       - "5678:5678"  # Debug port (e.g., for debugpy)
@@ -19,14 +21,55 @@ services:
       - ENVIRONMENT=development
       - LOG_LEVEL=DEBUG
       - PYTHONDONTWRITEBYTECODE=1
-    # Override command for development (e.g., with auto-reload)
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - QDRANT_GRPC_PORT=6334
+    # Keep container running in development mode for testing
+    command: tail -f /dev/null
+    # Alternative commands:
     # command: python -m debugpy --listen 0.0.0.0:5678 main.py
-    # Or for frameworks like FastAPI:
     # command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+    depends_on:
+      qdrant:
+        condition: service_healthy
     restart: "no"  # Don't auto-restart in dev mode
+    networks:
+      - agent_network
 
   qdrant:
     ports:
       - "6333:6333"  # Expose locally for debugging
       - "6334:6334"
     restart: "no"  # Don't auto-restart in dev mode
+
+  # JupyterLab for interactive development
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: development
+    container_name: advies_agent_jupyter
+    ports:
+      - "8888:8888"  # JupyterLab interface
+    volumes:
+      # Mount source code - notebooks can stay in src/
+      - ./src:/app/src
+      - ./main.py:/app/main.py
+      - ./data:/app/data
+      - ./logs:/app/logs
+      # Mount .env for accessing environment variables
+      - ./.env:/app/.env
+    environment:
+      - ENVIRONMENT=development
+      - LOG_LEVEL=DEBUG
+      - PYTHONDONTWRITEBYTECODE=1
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+      - QDRANT_GRPC_PORT=6334
+    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token='' --NotebookApp.password=''
+    depends_on:
+      qdrant:
+        condition: service_healthy
+    restart: "no"
+    networks:
+      - agent_network

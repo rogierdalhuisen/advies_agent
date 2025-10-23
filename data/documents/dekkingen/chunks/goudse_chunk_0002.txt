@@ -1,0 +1,30 @@
+================================================================================
+CHUNK 3 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 1. SOS-hulpverlening
+  header_3: 1.1 Inhoud SOS-hulpverleningspakket
+  header_4: 1.1.1 Extra reis- en verblijfkosten
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+#### 1.1.1 Extra reis- en verblijfkosten  
+De maximale vergoeding is € 7.500,- voor alle verzekerden samen per jaar.  
+- **Heen- en terugreiskosten:** Vergoed voor alle verzekerden bij overlijden of ernstige ziekte van een familielid in de eerste of tweede graad.
+- **Verblijfkosten:** Maximaal € 125,- per dag (alle verzekerden samen) voor maximaal 22 dagen.
+- **Overkomst bij levensgevaar:** Noodzakelijke overkomst van maximaal twee personen als een verzekerde in levensgevaar is.
+- **Verblijfskosten:** Maximaal € 175,- per dag (samen) voor maximaal 15 dagen.
+- **Extra vliegkosten:** Bij onverwacht langer verblijf buiten het woonland, tot maximaal € 1.500,- (alle verzekerden samen).
+- **Extra verblijfskosten:** Maximaal € 100,- per persoon per dag, en € 175,- voor alle verzekerden samen.
+- **Onvoorziene extra kosten:** Tot maximaal € 100,- voor alle verzekerden samen.

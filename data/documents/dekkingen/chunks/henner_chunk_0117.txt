@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 118 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Assistentie en Evacuatie
+  header_4: Assistentie bij overlijden
+  header_5: Begrafeniskosten
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Begrafeniskosten  
+Dit dekt de kosten voor een lokale begrafenis of crematie in het land waar het overlijden heeft plaatsgevonden, als alternatief voor repatriëring. Er geldt een maximale vergoeding van € 2.390 per verzekerde.

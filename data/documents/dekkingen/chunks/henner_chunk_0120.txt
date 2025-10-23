@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 121 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Aanvullende Verzekeringen
+  header_3: DENTAL PLAN
+  header_5: Uitgebreide tandzorg (ortho, etc.)
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Uitgebreide tandzorg (ortho, etc.)  
+Dit dekt meer ingrijpende tandheelkundige behandelingen, zoals het plaatsen van kronen, bruggen, implantaten of orthodontie (beugels). Het Dental 1 plan biedt 60% dekking tot een maximum van € 1.500. Het Dental 2 plan biedt 80% dekking tot een maximum van € 2.500.

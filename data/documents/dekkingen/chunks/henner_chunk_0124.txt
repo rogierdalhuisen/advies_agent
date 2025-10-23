@@ -1,0 +1,28 @@
+================================================================================
+CHUNK 125 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Aanvullende Verzekeringen
+  header_3: PERMANENT DISABILITY
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+### PERMANENT DISABILITY  
+Kan alleen worden afgesloten als aanvulling op 'Temporary Incapacity'. Garandeert een maandelijkse uitkering bij permanente invaliditeit door ziekte of ongeval.  
+- **Maandelijkse uitkering:** Kies tussen €1.000 / $1.250 en €10.000 / $12.500 (max. 80% van bruto salaris).
+- **Uitkeringsgraad:**
+- < 33.33% invaliditeit: Geen uitkering.
+- 33.33% - 66.67% invaliditeit: Proportionele uitkering.
+- > 66.67% invaliditeit: Volledige verzekerde uitkering.
+- **Extra eenmalige uitkering:** €25.000 / $31.250 indien hulp van derden nodig is voor dagelijkse activiteiten.

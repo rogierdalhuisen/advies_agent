@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 115 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Assistentie en Evacuatie
+  header_4: Evacuatie bij ongeval, ziekte en onverwachte gebeurtenissen
+  header_5: Vervroegde terugkeer
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Vervroegde terugkeer  
+Dit dekt de extra reiskosten voor een verzekerde om eerder dan gepland naar huis terug te keren vanwege een onverwachte noodsituatie, zoals het overlijden van een familielid. De werkelijke kosten worden vergoed, beperkt tot de kosten van een ticket.

@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 122 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Aanvullende Verzekeringen
+  header_3: LIFE COVER
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+### LIFE COVER  
+Garandeert de betaling van een eenmalig bedrag bij overlijden door welke oorzaak dan ook.  
+- **Verzekerd bedrag:** Kies tussen €50.000 / $65.000 en €500.000 / $625.000.

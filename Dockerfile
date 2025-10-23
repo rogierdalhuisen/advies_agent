@@ -39,7 +39,7 @@ RUN mkdir -p /app/data /app/logs
 FROM base AS development
 
 # Install development dependencies
-RUN pip install --no-cache-dir debugpy pytest pytest-cov black ruff ipython
+RUN pip install --no-cache-dir debugpy pytest pytest-cov black ruff ipython jupyterlab
 
 # Copy application code
 COPY src/ ./src/

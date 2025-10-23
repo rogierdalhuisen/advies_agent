@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 45 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Zwangerschap en bevalling
+  header_5: Bevalling (wel in VS)
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Bevalling (wel in VS)  
+Dit betreft de vergoeding van de kosten voor een bevalling die plaatsvindt in de Verenigde Staten. Dit is niet gedekt onder het Standaard plan. Voor het Optimaal plan is dit 100% gedekt bij voorafgaande toestemming van GMMI, en anders 50% gedekt. Voor het Excellent plan is dit 100% gedekt bij voorafgaande toestemming van GMMI, en anders 50% gedekt.

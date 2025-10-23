@@ -1,0 +1,25 @@
+================================================================================
+CHUNK 119 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Aanvullende Verzekeringen
+  header_3: DENTAL PLAN
+  header_5: Max. jaarlijkse vergoeding
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+## Aanvullende Verzekeringen  
+### DENTAL PLAN  
+##### Max. jaarlijkse vergoeding  
+Dit is het maximale totale bedrag dat de tandartsverzekering per jaar vergoedt voor alle gedekte tandheelkundige kosten. Voor het Dental 1 plan is dit € 3.000. Voor het Dental 2 plan is dit € 5.000.

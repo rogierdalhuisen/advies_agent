@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 74 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: HOSPITALISATION
+  header_5: Hospital room & board
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+#### HOSPITALISATION  
+##### Hospital room & board  
+Dit dekt de kosten voor de ziekenhuiskamer en het verblijf (kost en inwoning). Het Essential plan dekt 100% voor een semi-privé kamer of 80% voor een standaard privé kamer. Het Bronze plan dekt 100% voor een semi-privé kamer. Het Gold plan dekt 100% voor een standaard privé kamer.

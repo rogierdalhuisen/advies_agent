@@ -1,0 +1,24 @@
+================================================================================
+CHUNK 52 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Goudse
+Document: goudse_dekking.md
+Filepath: /app/data/documents/dekkingen/goudse_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439695
+
+Header Hierarchy:
+  header_1: Expat Pakket Individueel - Premie- en dekkingsoverzicht 2025
+  header_2: 2. Ziektekosten
+  header_3: 2.1 Verzekerde rubrieken ziektekosten
+  header_4: Zwangerschap en bevalling
+  header_5: Zwangerschap/bevalling (bekend bij ingang)
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Zwangerschap/bevalling (bekend bij ingang)  
+Dit betreft de vergoeding voor een zwangerschap of bevalling die al bekend was op het moment dat de verzekering inging. Dit is niet gedekt onder het Standaard plan. Voor het Optimaal plan geldt een maximale vergoeding van € 2.500,-, waarna vanaf de 10e maand de reguliere dekking van toepassing is. Voor het Excellent plan geldt een maximale vergoeding van € 5.000,-, waarna vanaf de 10e maand de reguliere dekking van toepassing is.

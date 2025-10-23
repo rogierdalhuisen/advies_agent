@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 82 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: HOSPITALISATION
+  header_5: HIV/AIDS treatment
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### HIV/AIDS treatment  
+Dit dekt de medische kosten voor de behandeling van HIV of AIDS. Het Essential plan biedt dekking tot € 50.000. Het Bronze plan biedt 100% dekking. Het Gold plan biedt 100% dekking.

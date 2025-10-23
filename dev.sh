@@ -91,6 +91,21 @@ case "$1" in
         fi
         ;;
 
+    jupyter)
+        echo -e "${GREEN}Opening JupyterLab in browser...${NC}"
+        echo -e "${GREEN}JupyterLab: http://localhost:8888${NC}"
+        if command -v open &> /dev/null; then
+            open "http://localhost:8888"
+        elif command -v xdg-open &> /dev/null; then
+            xdg-open "http://localhost:8888"
+        fi
+        ;;
+
+    jupyter-logs)
+        echo -e "${GREEN}Viewing JupyterLab logs...${NC}"
+        docker-compose $COMPOSE_FILES logs -f jupyter
+        ;;
+
     clean)
         echo -e "${RED}Removing all containers, volumes, and images...${NC}"
         read -p "Are you sure? This will delete all data. (y/N) " -n 1 -r
@@ -112,24 +127,27 @@ case "$1" in
         echo "Usage: ./dev.sh [command]"
         echo ""
         echo "Commands:"
-        echo "  up          - Start services (foreground)"
-        echo "  upd         - Start services (detached/background)"
-        echo "  build       - Build images"
-        echo "  rebuild     - Rebuild and start services"
-        echo "  down        - Stop services"
-        echo "  restart     - Restart services"
-        echo "  logs [svc]  - View logs (optionally for specific service)"
-        echo "  shell       - Open bash shell in agent container"
-        echo "  python      - Open Python REPL in agent container"
-        echo "  test [args] - Run pytest in agent container"
-        echo "  format      - Format code with black and ruff"
-        echo "  qdrant-ui   - Open Qdrant dashboard in browser"
-        echo "  status      - Show container status"
-        echo "  clean       - Remove all containers, volumes, and images"
+        echo "  up           - Start services (foreground)"
+        echo "  upd          - Start services (detached/background)"
+        echo "  build        - Build images"
+        echo "  rebuild      - Rebuild and start services"
+        echo "  down         - Stop services"
+        echo "  restart      - Restart services"
+        echo "  logs [svc]   - View logs (optionally for specific service)"
+        echo "  shell        - Open bash shell in agent container"
+        echo "  python       - Open Python REPL in agent container"
+        echo "  test [args]  - Run pytest in agent container"
+        echo "  format       - Format code with black and ruff"
+        echo "  qdrant-ui    - Open Qdrant dashboard in browser"
+        echo "  jupyter      - Open JupyterLab in browser"
+        echo "  jupyter-logs - View JupyterLab logs"
+        echo "  status       - Show container status"
+        echo "  clean        - Remove all containers, volumes, and images"
         echo ""
         echo "Examples:"
-        echo "  ./dev.sh up           # Start in foreground"
-        echo "  ./dev.sh logs agent   # View agent logs"
-        echo "  ./dev.sh test -v      # Run tests with verbose output"
+        echo "  ./dev.sh up            # Start in foreground"
+        echo "  ./dev.sh logs agent    # View agent logs"
+        echo "  ./dev.sh test -v       # Run tests with verbose output"
+        echo "  ./dev.sh jupyter       # Open JupyterLab"
         ;;
 esac

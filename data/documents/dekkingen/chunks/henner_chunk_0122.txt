@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 123 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: Aanvullende Verzekeringen
+  header_3: ACCIDENTAL DEATH AND INVALIDITY
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+### ACCIDENTAL DEATH AND INVALIDITY  
+Garandeert de betaling van een eenmalig bedrag bij overlijden of permanente invaliditeit door een ongeval.  
+- **Verzekerd bedrag:** Kies tussen €50.000 / $62.500 en €500.000 / $625.000.

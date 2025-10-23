@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 107 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: OUTPATIENT TREATMENT
+  header_5: Psychiatric outpatient care
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Psychiatric outpatient care  
+Dit dekt de kosten voor ambulante psychiatrische behandelingen, zoals consulten bij een psychiater of psycholoog, zonder dat er sprake is van een opname. Dit is niet gedekt onder het Essential plan. Dit is niet gedekt onder het Bronze plan. Het Gold plan biedt 50% dekking tot € 2.000.

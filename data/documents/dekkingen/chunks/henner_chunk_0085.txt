@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 86 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: HOSPITALISATION
+  header_5: Local ambulance
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Local ambulance  
+Dit dekt de kosten voor noodzakelijk lokaal vervoer per ambulance naar een ziekenhuis. Het Essential plan biedt 100% dekking tot € 1.500. Het Bronze plan biedt 100% dekking tot € 1.500. Het Gold plan biedt 100% dekking tot € 4.500.

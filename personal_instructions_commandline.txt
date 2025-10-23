@@ -28,7 +28,7 @@
   ./prod.sh backup          # Backup all data volumes
   ./prod.sh restore DIR     # Restore from backup
   ./prod.sh update          # Pull latest, rebuild, restart
-  ./prod.sh restart         # Restart services
+  ./prod.sh restart         # Restart 
   ./prod.sh clean-logs      # Remove logs >7 days old
   ./prod.sh down            # Stop (with confirmation)
 

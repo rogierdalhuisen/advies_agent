@@ -1,3 +1,11 @@
 .env
 __pycache__/
 .venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs and data directories
+logs/
+#data/

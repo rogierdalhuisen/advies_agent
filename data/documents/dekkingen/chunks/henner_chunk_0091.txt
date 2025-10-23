@@ -1,0 +1,23 @@
+================================================================================
+CHUNK 92 of 125
+================================================================================
+
+METADATA:
+----------------------------------------
+Company: Henner
+Document: henner_dekking.md
+Filepath: /app/data/documents/dekkingen/henner_dekking.md
+Ingestion Timestamp: 2025-10-23T13:44:10.439975
+
+Header Hierarchy:
+  header_1: International Expat Insurance Package - Benefit Overview 2025
+  header_2: International Medical and Assistance Insurance - Core Plan
+  header_4: HOSPITALISATION
+  header_5: Psychiatric care (inpatient)
+
+================================================================================
+
+CONTENT:
+----------------------------------------
+##### Psychiatric care (inpatient)  
+Dit dekt de kosten voor psychiatrische zorg tijdens een opname in een psychiatrisch ziekenhuis of instelling. Dit is niet gedekt onder het Essential plan. Dit is niet gedekt onder het Bronze plan. Het Gold plan biedt 100% dekking tot € 20.000.
