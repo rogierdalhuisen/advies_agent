@@ -3,7 +3,7 @@ version: '3.8'
 services:
   # Qdrant Vector Database
   qdrant:
-    image: qdrant/qdrant:v1.9.5
+    image: qdrant/qdrant:v1.15.1
     container_name: advies_agent_qdrant
     ports:
       - "${QDRANT_REST_PORT:-6333}:6333"

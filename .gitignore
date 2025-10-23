@@ -8,4 +8,4 @@ __pycache__/
 
 # Logs and data directories
 logs/
-#data/
+data/documents/dekkingen/chunks/

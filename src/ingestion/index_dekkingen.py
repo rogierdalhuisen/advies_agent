@@ -136,7 +136,7 @@ def create_hierarchical_chunks(
 
 def save_chunks_to_disk(chunks: List[Dict[str, Any]], output_dir: Path) -> None:
     """
-    Save document chunks to disk for inspection.
+    Save document chunks to disk for inspection, organized by company.
 
     Args:
         chunks: List of document chunks with metadata
@@ -145,22 +145,38 @@ def save_chunks_to_disk(chunks: List[Dict[str, Any]], output_dir: Path) -> None:
     # Create output directory if it doesn't exist
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Clear existing chunk files
-    for existing_file in output_dir.glob("*.txt"):
-        existing_file.unlink()
+    # Clear existing company subdirectories and chunk files
+    for existing_dir in output_dir.iterdir():
+        if existing_dir.is_dir():
+            for existing_file in existing_dir.glob("*.txt"):
+                existing_file.unlink()
+            existing_dir.rmdir()
 
     print(f"Saving {len(chunks)} chunks to {output_dir}...")
 
+    # Group chunks by company for numbering
+    company_chunk_counts = {}
+
     for idx, chunk in enumerate(chunks):
-        # Create a readable filename with company and chunk number
+        # Get company name and create company-specific subdirectory
         company = chunk.get("company", "unknown")
-        filename = f"{company.lower().replace(' ', '_')}_chunk_{idx:04d}.txt"
-        filepath = output_dir / filename
+        company_dir = output_dir / company.lower().replace(' ', '_')
+        company_dir.mkdir(parents=True, exist_ok=True)
+
+        # Track chunk number per company
+        if company not in company_chunk_counts:
+            company_chunk_counts[company] = 0
+        company_chunk_counts[company] += 1
+        chunk_num = company_chunk_counts[company]
+
+        # Create filename with company-specific chunk number
+        filename = f"chunk_{chunk_num:04d}.txt"
+        filepath = company_dir / filename
 
         # Write chunk content and metadata
         with open(filepath, "w", encoding="utf-8") as f:
             f.write("=" * 80 + "\n")
-            f.write(f"CHUNK {idx + 1} of {len(chunks)}\n")
+            f.write(f"CHUNK {chunk_num} (Global: {idx + 1} of {len(chunks)})\n")
             f.write("=" * 80 + "\n\n")
 
             # Write metadata
@@ -187,6 +203,7 @@ def save_chunks_to_disk(chunks: List[Dict[str, Any]], output_dir: Path) -> None:
             f.write("\n")
 
     print(f"Saved {len(chunks)} chunks successfully.")
+    print(f"Organized into {len(company_chunk_counts)} company folders: {', '.join(company_chunk_counts.keys())}")
 
 
 def initialize_qdrant_collection(client: QdrantClient, collection_name: str) -> None:

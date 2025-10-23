@@ -8,7 +8,7 @@
 
 This repo uses uv as the python package manager.
 
-the whole package is run using docker-compose, see dev.sh in root folder for instructions to run the applicatin
+the whole package is run using docker-compose, see dev.sh in root folder for instructions to run the application
 
 ## Installing packages
 
