@@ -24,6 +24,8 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 # Outside Docker: QDRANT_HOST=http://localhost:6333 (exposed port)
 QDRANT_HOST = os.getenv("QDRANT_HOST", "http://localhost:6333")
 
+#
+
 
 
 

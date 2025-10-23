@@ -27,9 +27,10 @@ import hashlib
 from pydantic import SecretStr
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_text_splitters import MarkdownHeaderTextSplitter
-from langchain_qdrant import QdrantVectorStore
+from langchain_qdrant import QdrantVectorStore, FastEmbedSparse, RetrievalMode
 from qdrant_client import QdrantClient
-from qdrant_client.http.models import Distance, VectorParams, Filter, FieldCondition, MatchValue, PointIdsList
+from qdrant_client.http import models
+from qdrant_client.http.models import Distance, VectorParams, Filter, FieldCondition, MatchValue, PointIdsList, SparseVectorParams
 
 from src.config import DOCUMENTS_DIR, QDRANT_HOST, GEMINI_API_KEY
 
@@ -41,6 +42,11 @@ COLLECTION_NAME = "dekkingen"
 EMBEDDING_MODEL_NAME = "models/embedding-001"  # Google's embedding model
 EMBEDDING_DIMENSION = 768  # embedding-001 produces 768-dimensional vectors
 DISTANCE_METRIC = Distance.COSINE
+
+# Sparse embedding configuration for hybrid retrieval
+SPARSE_MODEL_NAME = "Qdrant/bm25"  # BM25 sparse embeddings
+DENSE_VECTOR_NAME = "dense"  # Name for dense vectors in Qdrant
+SPARSE_VECTOR_NAME = "sparse"  # Name for sparse vectors in Qdrant
 
 # Headers to split on (hierarchical levels)
 HEADERS_TO_SPLIT = [
@@ -233,7 +239,7 @@ def save_chunks_to_disk(chunks: List[Dict[str, Any]], output_dir: Path) -> None:
 
 def initialize_qdrant_collection(client: QdrantClient, collection_name: str) -> None:
     """
-    Initialize Qdrant collection if it doesn't exist.
+    Initialize Qdrant collection with hybrid (dense + sparse) vectors if it doesn't exist.
 
     Args:
         client: QdrantClient instance
@@ -243,15 +249,22 @@ def initialize_qdrant_collection(client: QdrantClient, collection_name: str) -> 
     collection_names = [collection.name for collection in collections]
 
     if collection_name not in collection_names:
-        print(f"Creating collection '{collection_name}'...")
+        print(f"Creating collection '{collection_name}' with hybrid retrieval support...")
         client.create_collection(
             collection_name=collection_name,
-            vectors_config=VectorParams(
-                size=EMBEDDING_DIMENSION,
-                distance=DISTANCE_METRIC
-            ),
+            vectors_config={
+                DENSE_VECTOR_NAME: VectorParams(
+                    size=EMBEDDING_DIMENSION,
+                    distance=DISTANCE_METRIC
+                )
+            },
+            sparse_vectors_config={
+                SPARSE_VECTOR_NAME: SparseVectorParams(
+                    index=models.SparseIndexParams(on_disk=False)
+                )
+            },
         )
-        print(f"Collection '{collection_name}' created successfully.")
+        print(f"Collection '{collection_name}' created successfully with dense + sparse vectors.")
     else:
         print(f"Collection '{collection_name}' already exists.")
 
@@ -309,8 +322,9 @@ def delete_document_from_qdrant(
 
 def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
     """
-    Index document chunks into Qdrant vector store with deduplication.
+    Index document chunks into Qdrant vector store with hybrid retrieval and deduplication.
 
+    HYBRID RETRIEVAL: Uses both dense (Gemini) and sparse (BM25) embeddings for better retrieval.
     DEDUPLICATION: Before indexing, deletes all existing chunks for each document
     based on document_id (Strategy A: Replace).
 
@@ -318,18 +332,21 @@ def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
         chunks: List of document chunks with metadata
 
     Returns:
-        QdrantVectorStore instance
+        QdrantVectorStore instance configured for hybrid retrieval
     """
-    # Initialize embedding model
+    # Initialize dense embedding model (Google Gemini)
     embeddings = GoogleGenerativeAIEmbeddings(
         model=EMBEDDING_MODEL_NAME,
         google_api_key=SecretStr(GEMINI_API_KEY) if GEMINI_API_KEY else None
     )
 
+    # Initialize sparse embedding model (BM25)
+    sparse_embeddings = FastEmbedSparse(model_name=SPARSE_MODEL_NAME)
+
     # Initialize Qdrant client
     client = QdrantClient(url=QDRANT_HOST)
 
-    # Ensure collection exists
+    # Ensure collection exists with hybrid vector support
     initialize_qdrant_collection(client, COLLECTION_NAME)
 
     # === DEDUPLICATION: Delete existing documents before re-indexing ===
@@ -361,18 +378,22 @@ def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
         for chunk in chunks
     ]
 
-    # Create vector store and add documents
-    print(f"\n📥 Indexing {len(texts)} chunks into Qdrant...")
+    # Create vector store and add documents with hybrid retrieval
+    print(f"\n📥 Indexing {len(texts)} chunks into Qdrant with hybrid retrieval...")
     vector_store = QdrantVectorStore.from_texts(
         texts=texts,
         embedding=embeddings,
+        sparse_embedding=sparse_embeddings,
         metadatas=metadatas,
         url=QDRANT_HOST,
         collection_name=COLLECTION_NAME,
+        retrieval_mode=RetrievalMode.HYBRID,
+        vector_name=DENSE_VECTOR_NAME,
+        sparse_vector_name=SPARSE_VECTOR_NAME,
         force_recreate=False  # Don't recreate if collection exists
     )
 
-    print(f"✅ Successfully indexed {len(texts)} chunks.")
+    print(f"✅ Successfully indexed {len(texts)} chunks with dense + sparse vectors.")
     return vector_store
 
 
@@ -407,7 +428,9 @@ def main():
     print("=" * 60)
     print(f"Collection: {COLLECTION_NAME}")
     print(f"Total chunks indexed: {len(chunks)}")
-    print(f"Embedding model: {EMBEDDING_MODEL_NAME}")
+    print(f"Dense embedding model: {EMBEDDING_MODEL_NAME}")
+    print(f"Sparse embedding model: {SPARSE_MODEL_NAME}")
+    print(f"Retrieval mode: HYBRID (dense + sparse)")
     print(f"Qdrant host: {QDRANT_HOST}")
 
 

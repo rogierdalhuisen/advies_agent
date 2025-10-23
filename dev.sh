@@ -46,6 +46,12 @@ case "$1" in
         docker-compose $COMPOSE_FILES up --build
         ;;
 
+    rebuild-deps)
+        echo -e "${GREEN}Rebuilding images from scratch (no cache) to pick up new dependencies...${NC}"
+        docker-compose $COMPOSE_FILES build --no-cache
+        echo -e "${GREEN}Build complete. Use './dev.sh up' or './dev.sh upd' to start.${NC}"
+        ;;
+
     down)
         echo -e "${YELLOW}Stopping development environment...${NC}"
         docker-compose $COMPOSE_FILES down
@@ -79,6 +85,11 @@ case "$1" in
         echo -e "${GREEN}Formatting code with black and ruff...${NC}"
         docker-compose $COMPOSE_FILES exec agent black src/
         docker-compose $COMPOSE_FILES exec agent ruff check --fix src/
+        ;;
+
+    run)
+        echo -e "${GREEN}Running Python module in agent container...${NC}"
+        docker-compose $COMPOSE_FILES exec agent python -m "${@:2}"
         ;;
 
     qdrant-ui)
@@ -131,11 +142,13 @@ case "$1" in
         echo "  upd          - Start services (detached/background)"
         echo "  build        - Build images"
         echo "  rebuild      - Rebuild and start services"
+        echo "  rebuild-deps - Rebuild images from scratch (use after adding dependencies)"
         echo "  down         - Stop services"
         echo "  restart      - Restart services"
         echo "  logs [svc]   - View logs (optionally for specific service)"
         echo "  shell        - Open bash shell in agent container"
         echo "  python       - Open Python REPL in agent container"
+        echo "  run [module] - Run Python module (e.g., ./dev.sh run src.ingestion.index_dekkingen)"
         echo "  test [args]  - Run pytest in agent container"
         echo "  format       - Format code with black and ruff"
         echo "  qdrant-ui    - Open Qdrant dashboard in browser"
