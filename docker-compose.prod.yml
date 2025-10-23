@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  agent:
+    build:
+      target: production
+    volumes:
+      # Only persistent data volumes in production
+      - agent_data:/app/data
+      - agent_logs:/app/logs
+    ports:
+      # Only expose necessary ports
+      - "${AGENT_PORT:-8000}:8000"
+    environment:
+      - ENVIRONMENT=production
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    restart: unless-stopped
+    # Resource limits for production
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+
+  qdrant:
+    restart: unless-stopped
+    # Don't expose ports externally in production (only internal network)
+    ports: []
+    # Resource limits for Qdrant
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 1G
+
+volumes:
+  agent_data:
+    driver: local
+  agent_logs:
+    driver: local

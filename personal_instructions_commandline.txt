@@ -1,0 +1,60 @@
+  Helper Scripts
+
+  dev.sh - Development Helper
+
+  Quick commands for dev workflow:
+
+  ./dev.sh up          # Start services (foreground, see logs)
+  ./dev.sh upd         # Start services (background)
+  ./dev.sh logs        # View all logs
+  ./dev.sh logs agent  # View agent logs only
+  ./dev.sh shell       # Open bash in container
+  ./dev.sh python      # Open Python REPL
+  ./dev.sh test        # Run pytest
+  ./dev.sh format      # Format code (black + ruff)
+  ./dev.sh qdrant-ui   # Open Qdrant dashboard in browser
+  ./dev.sh status      # Show container status
+  ./dev.sh down        # Stop everything
+  ./dev.sh clean       # Remove everything (containers, volumes, images)
+
+  prod.sh - Production Helper
+
+  Production-safe commands with confirmations:
+
+  ./prod.sh up              # Start production (always detached)
+  ./prod.sh status          # Show status
+  ./prod.sh health          # Check health of services
+  ./prod.sh logs            # View logs (last 100 lines)
+  ./prod.sh backup          # Backup all data volumes
+  ./prod.sh restore DIR     # Restore from backup
+  ./prod.sh update          # Pull latest, rebuild, restart
+  ./prod.sh restart         # Restart services
+  ./prod.sh clean-logs      # Remove logs >7 days old
+  ./prod.sh down            # Stop (with confirmation)
+
+  How to Use
+
+  First time setup:
+  # Development
+  ./dev.sh up
+
+  # Production
+  cp .env.example .env
+  # Edit .env with production values
+  ./prod.sh up
+
+  Daily development:
+  ./dev.sh upd        # Start in background
+  ./dev.sh logs -f    # Watch logs
+  # Code auto-reloads on file changes
+  ./dev.sh down       # Stop when done
+
+  Production deployment:
+  ./prod.sh backup    # Backup before changes
+  ./prod.sh update    # Update and restart
+  ./prod.sh health    # Verify everything is healthy
+
+  The scripts automatically handle the compose file combinations and set the right environment variables!
+
+chmod +x dev.sh
+chmod +x prod.sh
