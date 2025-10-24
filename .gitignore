@@ -9,3 +9,5 @@ __pycache__/
 # Logs and data directories
 logs/
 data/documents/dekkingen/chunks/
+
+src/retrieval/notebook.ipynb
