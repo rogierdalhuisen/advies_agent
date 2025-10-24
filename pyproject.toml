@@ -9,6 +9,7 @@ dependencies = [
     "fastembed>=0.7.3",
     "ipykernel>=7.0.1",
     "langchain-google-genai>=3.0.0",
+    "langchain-openai>=1.0.1",
     "langchain-qdrant>=1.1.0",
     "langchain-text-splitters>=1.0.0",
     "pydantic>=2.12.3",

@@ -59,3 +59,4 @@
 chmod +x dev.sh
 chmod +x prod.sh
 uv run python -m src.ingestion.index_dekkingen
+curl -X DELETE "http://localhost:6333/collections/dekkingen"    

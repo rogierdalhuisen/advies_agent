@@ -26,21 +26,22 @@ import hashlib
 
 from pydantic import SecretStr
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import MarkdownHeaderTextSplitter
 from langchain_qdrant import QdrantVectorStore, FastEmbedSparse, RetrievalMode
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 from qdrant_client.http.models import Distance, VectorParams, Filter, FieldCondition, MatchValue, PointIdsList, SparseVectorParams
 
-from src.config import DOCUMENTS_DIR, QDRANT_HOST, GEMINI_API_KEY
+from src.config import DOCUMENTS_DIR, QDRANT_HOST, GEMINI_API_KEY, OPENAI_API_KEY
 
 
 # ==================== CONFIGURATION ====================
 # Change these constants to swap models or adjust behavior
 
 COLLECTION_NAME = "dekkingen"
-EMBEDDING_MODEL_NAME = "models/embedding-001"  # Google's embedding model
-EMBEDDING_DIMENSION = 768  # embedding-001 produces 768-dimensional vectors
+EMBEDDING_MODEL_NAME = "text-embedding-3-large"  # Google's embedding model
+EMBEDDING_DIMENSION = 3072  # text-embedding-3-large produces 3072-dimensional vectors
 DISTANCE_METRIC = Distance.COSINE
 
 # Sparse embedding configuration for hybrid retrieval
@@ -335,9 +336,9 @@ def index_chunks_to_qdrant(chunks: List[Dict[str, Any]]) -> QdrantVectorStore:
         QdrantVectorStore instance configured for hybrid retrieval
     """
     # Initialize dense embedding model (Google Gemini)
-    embeddings = GoogleGenerativeAIEmbeddings(
+    embeddings = OpenAIEmbeddings(
         model=EMBEDDING_MODEL_NAME,
-        google_api_key=SecretStr(GEMINI_API_KEY) if GEMINI_API_KEY else None
+        api_key=SecretStr(OPENAI_API_KEY) if OPENAI_API_KEY else None
     )
 
     # Initialize sparse embedding model (BM25)
