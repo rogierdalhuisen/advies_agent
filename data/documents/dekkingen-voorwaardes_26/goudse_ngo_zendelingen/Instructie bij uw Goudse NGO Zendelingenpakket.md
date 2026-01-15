@@ -1,427 +1,390 @@
-# Instructie Goudse NGO/Zendelingen Pakket
+# Instruction Goudse NGO/Missionary Package
 
-In dit document vindt u, als verzekerde, belangrijke informatie met betrekking tot uw Goudse NGO/Zendelingen pakket. Dit pakket wordt aangeboden door Goudse Verzekeringen en u heeft dit geregeld via intermediair JoHo Insurances.
+In this document you, as the insured, will find important information regarding your Goudse NGO/Missionary package. This package is offered by Goudse Verzekeringen and you have arranged this through the intermediary JoHo Insurances.
 
-## Inhoud:
+## Contents:
 
-1. Gebruik maken van de verzekering.
-2. Online declareren en declaratieformulieren.
-3. Wat te doen als u zwanger bent?
-4. Een verzekerde toevoegen.
-5. Verblijf van meer dan 120 dagen in Nederland.
-6. Reisadvies Buitenlandse zaken
-7. Betaling van uw verzekering.
-8. Looptijd en einde van uw verzekering.
-9. Bijlagen: declaratie en meld-formulieren
+1. Making use of the insurance.
+2. Online claiming and claim forms.
+3. What to do if you are pregnant?
+4. Adding an insured person.
+5. Stay of more than 120 days in the Netherlands.
+6. Ministry of Foreign Affairs travel advice.
+7. Payment of your insurance.
+8. Duration and termination of your insurance.
+9. Appendices: claim and notification forms.
 
 ---
 
-JoHo Insurances, expert internationale verzekeringen
+JoHo Insurances, expert in international insurances
 
-# 1. Gebruik maken van de verzekering
+# 1. Making use of the insurance
 
-Met dit verzekeringspakket heeft u te maken met 3 partijen:
+With this insurance package, you deal with 3 parties:
 
-1. De Goudse verzekeringen - de verzekeraar.
-2. De Alarmcentrale van De Goudse - voor hulpverlening wereldwijd 24/7.
-3. JoHo Insurances - uw intermediair.
+1. De Goudse Verzekeringen - the insurer.
+2. The Emergency Center (Alarmcentrale) of De Goudse - for assistance worldwide 24/7.
+3. JoHo Insurances - your intermediary.
 
-## 1) De Goudse verzekeringen (expat@goudse.com en claims@goudse.com)
+## 1) De Goudse Verzekeringen (expat@goudse.com and claims@goudse.com)
 
-De Goudse is de verzekeraar en verzorgt onder andere: de polisopmaak, de afhandeling declaraties, de voorwaarden, incasso van de premie. Voor daadwerkelijke (nood)hulpverlening in het buitenland kunt u gebruik maken van de Alarmcentrale van de Goudse.
+De Goudse is the insurer and handles, among other things: policy drafting, claim processing, conditions, and premium collection. For actual (emergency) assistance abroad, you can use the Emergency Center of De Goudse.
 
 ### Online portal Goudse
 
-Let op! De Goudse heeft een online portal maar daarin kunt u geen schade claims. Het portal van De Goudse dient alleen voor het downloaden van uw polisblad. Uit oogpunt van veiligheid wil De Goudse u namelijk geen polisbladen meer over mail toesturen. Als u ervoor heeft gekozen om uw polisblad te kunnen downloaden i.p.v. per post te ontvangen dan krijgt u elke keer dat er een nieuw document in de portal klaarstaat daarvan een notificatie van De Goudse per email.
+Note! De Goudse has an online portal, but you cannot claim damages in it. The Goudse portal serves only for downloading your policy schedule. For security reasons, De Goudse no longer wants to send policy schedules via email. If you have chosen to be able to download your policy schedule instead of receiving it by post, you will receive a notification from De Goudse via email every time a new document is ready in the portal.
 
-## 2) De alarmcentrale van De Goudse (+31 182 544 557)
+## 2) The emergency center of De Goudse (+31 182 544 557)
 
-De ANWB is vanaf 1 januari 2020 de alarmcentrale van De Goudse, en is 24/7 bereikbaar. De ANWB voert in opdracht van De Goudse een aantal handelingen uit voor de verzekerden op het Goudse Zendelingen/NGO Pakket. Dit kan vanwege hun werkzaamheden ook medische gegevens betreffen. De ANWB is hiervoor bevoegd, en gaat volgens de Nederlandse wet- en regelgeving om met uw gegevens. Het is voor u belangrijk om te weten wat de alarmcentrale wel doet en wat niet, zodat u bij de juiste instantie terecht kunt met uw vragen:
+Since January 1, 2020, the ANWB has been the emergency center for De Goudse and is available 24/7. The ANWB performs a number of actions on behalf of De Goudse for the insured on the Goudse Missionary/NGO Package. Due to their activities, this may also concern medical data. The ANWB is authorized for this and handles your data according to Dutch laws and regulations. It is important for you to know what the emergency center does and what it does not do, so that you can go to the right instance with your questions:
 
-### Wat doet de alarmcentrale WEL en wat doet de alarmcentrale NIET
+### What the emergency center DOES and DOES NOT do
 
-#### WEL:
+#### DOES:
 
-In de volgende situaties neemt u – altijd vooraf – contact op met De Goudse Alarmcentrale.
+In the following situations, you must – always in advance – contact De Goudse Emergency Center.
 
-- Ziekenhuisopname niet-spoedeisend.
-- Ziekenhuisopname spoedeisend: zsm contact opnemen zodra mogelijk (evt door familielid).
-- Direct billing van medische kosten hoger vanaf 1.000 euro.
-- Na diagnose voor een langdurig behandeltraject (bijvoorbeeld na de diagnose kanker).
-- Bij zwangerschap, vóórdat de eerste echo plaatsvindt. (zie ook elders in dit document)
-- Als u advies wilt bij het zoeken van een zorgverlener.
+- Non-emergency hospitalization.
+- Emergency hospitalization: contact as soon as possible (potentially by a family member).
+- Direct billing of medical costs from 1,000 euros and higher.
+- After diagnosis for a long-term treatment path (for example, after a cancer diagnosis).
+- In case of pregnancy, before the first ultrasound takes place (see also elsewhere in this document).
+- If you want advice on finding a healthcare provider.
 
-#### NIET:
+#### DOES NOT:
 
-De alarmcentrale biedt brede ondersteuning, maar het volgende valt niet onder de dienstverlening:
+The emergency center provides broad support, but the following is not part of the services:
 
-- Het voorschieten van kosten <1.000 euro (behalve bij ziekenhuisopname, zie hierboven).
-- Medische advisering. Dit is de taak van de behandelend arts of specialist.
-- Vragen beantwoorden over dekking van de niet-medische verzekeringen in uw Pakket.
-- Als u extra reis- en verblijfskosten gaat maken om terug te keren naar Nederland wanneer een familielid is overleden of ernstig ziek is (hiervoor moet wel de dekking “extra vliegreisverzekering” zijn meeverzekerd).
+- Advancing costs < 1,000 euros (except in case of hospitalization, see above).
+- Medical advice. This is the task of the treating physician or specialist.
+- Answering questions about coverage of the non-medical insurances in your Package.
+- If you incur extra travel and accommodation costs to return to the Netherlands when a family member has died or is seriously ill (for this, the "extra flight insurance" coverage must be insured).
 
-### Hoe de alarmcentrale te bereiken?
+### How to reach the emergency center?
 
-WERELDWIJD: +31 182 544 557.
+WORLDWIDE: +31 182 544 557.
 
 Expatverzekering.nl – contact@johoinsurances.org
 
 ---
 
-JoHo Insurances, expert internationale verzekeringen
+JoHo Insurances, expert in international insurances
 
-Verblijf u tijdelijk in de USA: +1 954 370 4538
+If you are staying temporarily in the USA: +1 954 370 4538
 
 ## 3) JoHo Insurances (contact@johoinsurances.org)
 
-Wij zijn de intermediair voor uw verzekering bij de Goudse. U kunt gebruik maken van de JoHo Insurances Premium Service en ons benaderen voor o.a.:
+We are the intermediary for your insurance with De Goudse. You can make use of the JoHo Insurances Premium Service and contact us for, among other things:
 
-- Het doorgeven van mutaties m.b.t. uw situatie en verzekeringsbehoeften;
-- Advies vragen over lopende of eventueel aan te vragen verzekeringen;
-- Hulp bij problemen en verschil van mening met de verzekeraar en/of alarmcentrale;
-- Onduidelijkheden wat betreft de dekking, polis, in rekening gebrachte premie.
-- Advies en ondersteuning betreffende de verzekeringen bij terugkeer naar Nederland.
+- Passing on changes regarding your situation and insurance needs;
+- Asking for advice on current or potential insurance applications;
+- Help with problems and differences of opinion with the insurer and/or emergency center;
+- Uncertainties regarding coverage, policy, or the premium charged.
+- Advice and support regarding insurance upon return to the Netherlands.
 
-Wij ondersteunen u gedurende de gehele looptijd van uw verzekering, zolang wij als intermediair op uw polis staan vermeld.
+We support you during the entire term of your insurance, as long as we are listed as the intermediary on your policy.
 
-> **LET OP!** Wij - JoHo Insurances - doen ook bepaalde zaken niet. Wij kunnen en mogen niet beoordelen of een specifieke claim gedekt is of niet, dat is voorbehouden aan De Goudse zelf. Als u wil weten of een bepaalde behandeling of medicijn gedekt is dan adviseren we u dat te vragen aan De Goudse op claims@goudse.com o.v.v. uw polisnummer en een duidelijke omschrijving van het behandelplan / medicijn, en de reactie vanuit De Goudse daarop af te wachten.
+> **PLEASE NOTE!** We – JoHo Insurances – also do not do certain things. We cannot and may not assess whether a specific claim is covered or not; that is reserved for De Goudse itself. If you want to know if a certain treatment or medicine is covered, we advise you to ask De Goudse at claims@goudse.com stating your policy number and a clear description of the treatment plan / medicine, and to wait for the response from De Goudse.
 
-## 4) Uw mailadres
+## 4) Your email address
 
-Communicatie met u over deze verzekering zal zowel door ons als De Goudse voornamelijk via email plaatsvinden. Het is om die reden erg belangrijk om onze berichten goed te (blijven) ontvangen. Als u mogelijkheden heeft in uw mailprogramma om mails van ons en De Goudse specifiek te duiden als zijnde 'niet-Spam' dan raden we u aan om dat te doen. Daarnaast adviseren we u om een privé mailadres te gebruiken in plaats van een werkadres. Ervaring leert namelijk dat mensen nogal eens van baan veranderen. U draagt zelf verantwoordelijkheid voor tijdig doorgeven van wijzigingen van een mailadres en/of de bereikbaarheid van uw mailadres. Wilt u uw mailadres wijzigen dan horen we dat graag van u op contact@johoinsurances.org.
+Communication with you regarding this insurance will take place mainly via email, both by us and De Goudse. For that reason, it is very important to (continue to) receive our messages properly. If you have options in your email program to specifically designate emails from us and De Goudse as 'not-Spam', we recommend you do so. Additionally, we advise you to use a private email address instead of a work address. Experience shows that people change jobs quite often. You bear personal responsibility for timely reporting of changes to an email address and/or the accessibility of your email address. If you wish to change your email address, please let us know at contact@johoinsurances.org.
 
-# 2 Declareren en declaratieformulieren
+# 2 Claiming and claim forms
 
-Bij ziekenhuisopname zal de Alarmcentrale de kosten in de regel rechtstreeks vergoeden aan het ziekenhuis. Voor kleinere issues dient u de kosten zelf voor te schieten en te declareren bij De Goudse. U kunt declaraties direct toesturen, of periodiek. De Goudse zal verrekening met het eigen risico op het afhandelingsoverzicht vermelden.
+In case of hospitalization, the Emergency Center will generally reimburse costs directly to the hospital. For smaller issues, you must advance the costs yourself and claim them from De Goudse. You can submit claims immediately or periodically. De Goudse will state the settlement with the deductible on the processing overview.
 
-Bewaar de originele nota’s wel goed, deze kunnen namelijk later nog worden opgevraagd.
+Keep the original invoices well, as they may be requested later.
 
-Contactgegevens van de Goudse afdeling claims:
-
-- claims@goudse.com
-- +31 (0)182 544 768.
-
-## 1) Medische kosten en tandheelkunde
-
-Declaraties kunnen via een online tool worden ingediend bij De Goudse. Volg daarvoor deze link:
-https://www.goudse.nl/ondernemer/mijnpersoneel/reizen/claim-expat-medisch?formulier=true
-
-Heeft u in Nederland ook een basiszorgverzekering?
-
-Expatverzekering.nl – contact@johoinsurances.org
-
----
-
-En heeft u hiermee ook korting verkregen op de premie ziektekosten? Dan kunt u de medische
-kosten eerst bij uw zorgverzekering in Nederland declareren. En hetgeen wat niet of deels wordt
-vergoed, kunt u daarna bij De Goudse declareren, met kopie van de terugkoppeling van de
-basiszorgverzekeraar. Bewaar voor het declareren bij de Nederlandse basiszorgverzekeraar wel
-kopieën van de nota’s en voorschriften.
-
-## Bezoekt u in Nederland een (huis)arts? UZOVI vermelding Goudse nummer 3357
-
-De Goudse staat vermeld in het UZOVI register. Dit is een register met informatie van alle
-zorgverzekeraars in Nederland. Het aanstellingsnummer van De Goudse is 3357. Als u zorg
-consumeert in Nederland kunt u dit nummer vermelden bij de administratie van de betreffende
-zorgverlener. Dit helpt de zorgverlener om uw ziektekostenverzekeraar te identificeren.
-
-**Let op!** Vermelden van dit nummer betekent niet dat de kosten van de zorg die u consumeert
-automatisch worden vergoed door De Goudse, dat is alleen bij een ziekenhuisopname van
-toepassing. U kunt de kosten zelf declareren bij De Goudse.
-
-## 2) Extra vliegreisverzekering (terugkeer naar NL i.v.m. familieomstandigheden)
-
-De extra vliegreisverzekering geeft – indien bijgesloten - dekking voor de vergoeding van
-reiskosten om Nederland te bezoeken, in een situatie waarbij een familielid (1ste en 2de graad)
-van verzekerde is overleden, of levensbedreigend ziek is. De vergoeding kent een maximum
-bedrag per polis (voor alle verzekerden samen). Van belang is wel dat bij aanvraag van de
-verzekering niet te voorzien was dat dit familielid ernstig ziek zou worden.
-
-Wat levensbedreigend is en wat niet levensbedreigend is, is soms heel duidelijk en soms niet. De
-Goudse heeft er voor gekozen om haar verzekerden te vertrouwen in de motivatie om aanspraak
-te maken op deze dekking, en daar soms ter controle navraag op te doen. Twijfelt u zelf of de
-medische situatie van een familielid wel beschouwd wordt als een levensbedreigende situatie?
-Neem dan telefonisch contact op met De Goudse en leg uw situatie aan hen voor (0031-182-544 903)
-
-### Ticket boeken
-
-- U kunt zelf een ticket boeken.
-- De vergoeding vindt plaats op basis van economy class.
-- U mag zelf bepalen of u een retourticket of 2x een enkele reis koopt.
-- Alle verzekerden op de polis mogen meereizen.
-- Er is geen toestemming nodig vooraf.
-
-Heeft u een probleem met het betalen van de ticketkosten? Dan kunt u alsnog de
-alarmcentrale bellen, en een verzoek indienen om het ticket voor u te regelen.
-
-### Declaratie
-
-U kunt uw kosten bij de Goudse declareren. Met de declaratie stuurt u naast de ticketgegevens
-een bewijs mee van overlijden (akte) of de levensbedreigende situatie (verklaring van een
-(huis)arts.
-
-## 3) Inboedel, reisbagage, annulering, aansprakelijkheid, ongevallen
-
----
-
-JoHo Insurances, expert internationale verzekeringen
-
-Heeft u schadeverzekering(en) afgesloten (zoals bijvoorbeeld inboedel of reisbagage) en wilt u daar een claim op indienen dan kunt u gebruikmaken van een ander aangifteformulier dan dat u voor ziektekosten zou gebruiken. Dit formulier treft u ook aan in bijlage van deze instructie.
-
-Declaraties kunnen per e-mail worden ingediend. Het emailadres dat kan worden gebruikt is claims@goudse.com. We raden u aan om uw polisnummer te vermelden in de email. Bewaar de originele nota’s wel goed, deze kunnen namelijk later nog worden opgevraagd. Het declaratieformulier mag overigens ook, samen met andere documenten zoals facturen, per post worden gestuurd naar de verzekeraar. Bewaar ook in dit geval kopieën, voor het geval een postzending kwijtraakt.
-
-Contactgegevens van De Goudse afdeling claims:
+Contact details for the Goudse claims department:
 
 - claims@goudse.com
 - +31 (0)182 544 768.
 
-## 4) Rechtsbijstand
+## 1) Medical costs and dental care
 
-De Goudse heeft de afhandeling van dit onderdeel ondergebracht bij BrandMR. Voor het indienen van een verzoek voor rechtsbijstand kan contact worden opgenomen met BrandMR:
+Claims can be submitted to De Goudse via an online tool. Use this link:
+[https://www.goudse.nl/ondernemer/mijnpersoneel/reizen/claim-expat-medisch?formulier=true](https://www.goudse.nl/ondernemer/mijnpersoneel/reizen/claim-expat-medisch?formulier=true)
 
-- bij voorkeur via internet: brandmr.nl/goudse
-- per telefoon: +31 (0) 88 018 85 00
-
-Voorheen was dit ondergebracht bij SRK, sinds 2023 loopt dit via BrandMR.
-
-## 5) Arbeidsongeschiktheid
-
-Heeft u een Arbeidsongeschiktheidsverzekering (AOV) via De Goudse, en bent u arbeidsongeschikt geraakt? Met andere woorden, u kunt momenteel niet werken en u verwacht dat dit enige tijd zal duren? Dan is het van belang om De Goudse hierover te informeren. Stuur ons een bericht en wij leggen u dan uit wat er precies moet gebeuren.
-
-# 3. Wat te doen als u zwanger bent?
-
-Dit verzekeringspakket biedt dekking voor zwangerschap en bevalling. Deze dekking is de eerste 9 negen maanden na ingang van uw verzekering beperkt tot maximaal € 2.500,-. Na 9 maanden geldt deze tijdelijke beperking niet meer, vanaf dat moment zijn de standaard voorwaarden van toepassing.
-
-## 1) Melding maken bij De Goudse Alarmcentrale
-
-Het kan per land verschillen wat gebruikelijk is, thuis bevallen of in een ziekenhuis. In beide gevallen is het verstandig vooraf een ziekenhuis te kiezen waar u wilt bevallen. Indien dat lastig is, kan de alarmcentrale hierin assisteren. Het is sowieso verplicht om de alarmcentrale te informeren over uw zwangerschap, voordat de eerste echo heeft plaatsgevonden middels het meldingsformulier voor zwangerschap en planbare zorg in de bijlage \*). Als u zelf mag kiezen voor een thuisbevalling of bevalling in een ziekenhuis dan raden we ook aan contact op te nemen met de alarmcentrale, voor goedkeuring. En naast advies over de keuze, assisteren ze met meer zaken, waaronder:
-
-- medisch advies
-- garantstelling betaling aan ziekenhuis
+Do you also have a basic health insurance in the Netherlands?
 
 Expatverzekering.nl – contact@johoinsurances.org
 
 ---
 
-JoHo Insurances, expert internationale verzekeringen
+And did you also obtain a discount on the health insurance premium with this? Then you can first claim the medical costs from your health insurance in the Netherlands. Any amount that is not or only partially reimbursed can then be claimed from De Goudse, with a copy of the feedback from the basic health insurer. Before claiming from the Dutch basic health insurer, keep copies of the invoices and prescriptions.
 
-\*) Als uw woonland de USA is dan gebruikt u dit formulier niet om de zwangerschap te melden en neemt u telefonisch contact op met GMMI voordat dat u vanwege de zwangerschap voor het eerst een zorgverlener (arts / verloskundige) wil raadplegen. Telnr GMMI: 001-800-694-9832
+## Are you visiting a (general) practitioner in the Netherlands? UZOVI mention Goudse number 3357
 
-## 2) Declareren van kosten
+De Goudse is listed in the UZOVI register. This is a register with information on all health insurers in the Netherlands. The appointment number for De Goudse is 3357. If you consume care in the Netherlands, you can mention this number to the administration of the relevant healthcare provider. This helps the healthcare provider identify your health insurer.
 
-Kosten in verband met ziekenhuisopname lopen (na aanmelding) in de regel via de alarmcentrale (telefoon: +31 182 544 557). Voor de "kleinere" zaken geldt zelf voorschieten en declareren.
+**Note!** Mentioning this number does not mean that the costs of the care you consume are automatically reimbursed by De Goudse; that only applies in the case of hospitalization. You can claim the costs yourself from De Goudse.
 
-Declaraties kunnen via een online tool worden ingediend bij De Goudse. Volg daarvoor deze link:  
-https://www.goudse.nl/ondernemer/mijnpersoneel/reizen/claim-expat-medisch?formulier=true
+## 2) Extra flight insurance (return to NL due to family circumstances)
 
-### Prenataal onderzoek
+The extra flight insurance provides – if included – coverage for the reimbursement of travel costs to visit the Netherlands in a situation where a family member (1st and 2nd degree) of the insured has died or is life-threateningly ill. The reimbursement has a maximum amount per policy (for all insured together). It is important that at the time of the insurance application, it was not foreseeable that this family member would become seriously ill.
 
-Houdt u er rekening mee dat de volgende prenatale onderzoeken in aanmerking komen voor vergoeding.
+What is life-threatening and what is not is sometimes very clear and sometimes not. De Goudse has chosen to trust its insured in their motivation for claiming this coverage, and occasionally requests information for verification. Do you doubt whether the medical situation of a family member is considered a life-threatening situation? Then contact De Goudse by phone and present your situation to them (0031-182-544 903).
 
-| Verzekerd                        | Gebruikelijke termijn, bij benadering: |
-| -------------------------------- | -------------------------------------- |
-| Vroege echo                      | 6-7 weken                              |
-| Termijn echo                     | 10-12 weken                            |
-| 20-weken echo                    | 20 weken                               |
-| Groei echo                       | 30 weken                               |
-| Verzekerd na medische indicatie: |                                        |
-| Bloedonderzoek                   |                                        |
-| Extra echo’s                     | maandelijks                            |
-| Liggingsecho                     | 36 weken                               |
-| Vruchtwater punctie              | vanaf 15 weken                         |
-| Vlokkentest                      | vanaf 11 weken                         |
-| NIPT                             | vanaf 10 weken                         |
+### Booking a ticket
 
-## 3) Vergoeding van vliegkosten naar Nederland?
+- You can book a ticket yourself.
+- The reimbursement is based on economy class.
+- You may decide whether you buy a return ticket or 2x a one-way trip.
+- All insured persons on the policy may travel along.
+- No prior permission is required.
 
-75% van de reiskosten voor de vrouw worden gedekt. De alarmcentrale kan assisteren met het regelen van een ticket en de voorwaarden omtrent vliegen tijdens zwangerschap.
+Do you have a problem paying for the ticket costs? Then you can still call the emergency center and submit a request for them to arrange the ticket for you.
 
-## 4) Vergoeding Kraamzorg
+### Claim
 
-Maximaal €1000,-. Per dag dat u in een ziekenhuis verblijft, wordt er €125,- in mindering gebracht.
+You can claim your costs from De Goudse. Along with the claim, send the ticket details and proof of death (certificate) or the life-threatening situation (statement from a (general) practitioner).
 
-## 5) Aanmelden van het kindje om ook verzekerd te zijn voor ziektekosten
+## 3) Home contents, travel baggage, cancellation, liability, accidents
 
-U kunt de pasgeborene binnen in de voorwaarden gestelde termijn aanmelden bij De Goudse. Wij adviseren u om dit binnen 1 maand te doen. Meldt u het kindje na de gestelde termijn aan, dan
+---
+
+JoHo Insurances, expert in international insurances
+
+If you have taken out non-life insurance(s) (such as home contents or travel baggage) and wish to submit a claim, you can use a different notification form than the one you would use for health costs. You will also find this form in the appendix of this instruction.
+
+Claims can be submitted via email. The email address that can be used is claims@goudse.com. We advise you to include your policy number in the email. Keep the original invoices well, as they may be requested later. The claim form may also be sent by post to the insurer, together with other documents such as invoices. In this case, also keep copies in case a postal shipment is lost.
+
+Contact details for De Goudse claims department:
+
+- claims@goudse.com
+- +31 (0)182 544 768.
+
+## 4) Legal assistance
+
+De Goudse has outsourced the handling of this component to BrandMR. To submit a request for legal assistance, contact BrandMR:
+
+- preferably via internet: brandmr.nl/goudse
+- by phone: +31 (0) 88 018 85 00
+
+Previously, this was handled by SRK; since 2023, this goes through BrandMR.
+
+## 5) Disability
+
+Do you have a Disability Insurance (AOV) via De Goudse, and have you become disabled? In other words, you currently cannot work and you expect this to last for some time? Then it is important to inform De Goudse. Send us a message and we will explain exactly what needs to happen.
+
+# 3. What to do if you are pregnant?
+
+This insurance package offers coverage for pregnancy and childbirth. This coverage is limited to a maximum of € 2,500 for the first 9 months after the start of your insurance. After 9 months, this temporary limitation no longer applies, and the standard conditions are applicable from that point on.
+
+## 1) Report to De Goudse Emergency Center
+
+It can vary by country what is customary: giving birth at home or in a hospital. In both cases, it is wise to choose a hospital where you want to give birth in advance. If that is difficult, the emergency center can assist with this. It is mandatory in any case to inform the emergency center about your pregnancy before the first ultrasound has taken place using the notification form for pregnancy and planned care in the appendix \*). If you are allowed to choose between a home birth or hospital birth yourself, we also recommend contacting the emergency center for approval. In addition to advice on the choice, they assist with more matters, including:
+
+- medical advice
+- guarantee of payment to the hospital
 
 Expatverzekering.nl – contact@johoinsurances.org
 
 ---
 
-mag De Goudse medische vragen stellen over de gezondheid van het kind en op basis daarvan
-bepalen of ze het gaan meeverzekeren. Dat is niet prettig en kan voor problemen zorgen.
+JoHo Insurances, expert in international insurances
 
-Premie: voor kinderen zal premie in rekening worden gebracht. Bij het Zendelingenpakket betaalt
-u voor maximaal 3 minderjarige kinderen premie.
+\*) If your country of residence is the USA, you do not use this form to report the pregnancy; instead, you contact GMMI by phone before you wish to consult a healthcare provider (doctor / midwife) for the first time due to the pregnancy. GMMI phone number: 001-800-694-9832
 
-Belangrijk: de dekking voor het kindje is inclusief vergoeding voor de medische kosten die
-gemaakt zijn voor het kindje direct na geboorte. Verzekert u het kindje niet direct mee, dan loopt
-u het risico dat u de kosten voor het kindje zelf moet betalen. Wij adviseren om deze reden altijd
-het kindje mee te verzekeren vanaf geboorte.
+## 2) Claiming costs
 
-# 4. Een verzekerde toevoegen aan uw polis
+Costs related to hospitalization generally go (after registration) through the emergency center (phone: +31 182 544 557). For "smaller" matters, advance the costs yourself and claim.
 
-Om verschillende redenen kan een persoon (familielid/partner) op een later moment (na
-ingangsdatum) aan de polis worden toegevoegd. Hoe dit werkt verschilt per
-verzekeringsonderdeel:
+Claims can be submitted to De Goudse via an online tool. Use this link:
 
-1. Ziektekosten (incl rubriek 2 en 4)
+[https://www.goudse.nl/ondernemer/mijnpersoneel/reizen/claim-expat-medisch?formulier=true](https://www.goudse.nl/ondernemer/mijnpersoneel/reizen/claim-expat-medisch?formulier=true)
 
-Voor de persoon die verzekerd moet worden, is het nodig een gezondheidsverklaring in te vullen.
-U stuurt deze gezondheidsverklaring naar ons, of naar wens rechtstreeks naar de medische
-afdeling van De Goudse. De verklaring zal worden beoordeeld door de medisch adviseur van De
-Goudse. Wij houden dit aanvraagproces in de gaten. Indien er vragen zijn naar aanleiding van de
-gezondheidsverklaring, neemt de verzekeraar direct contact met u op. Een uitzondering op deze
-werkwijze is aanmelding van een pasgeboren kindje. Mits aangemeld binnen de gestelde termijn
-na geboorte wordt een pasgeboren kindje automatisch meeverzekerd zonder medische vragen,
-indien de ouders reeds zijn verzekerd voor ziektekosten. Zie voor meer details onderdeel “3. Wat
-te doen als u zwanger bent?”.
+### Prenatal screening
 
-Na toevoeging van de verzekerde persoon, wordt de additionele premie door de verzekeraar in
-rekening gebracht. De meeverzekerde op de polis zal altijd dezelfde medische dekking moeten
-hebben als de andere reeds verzekerde personen.
+Please note that the following prenatal examinations are eligible for reimbursement.
 
-2. Tandheelkundige hulp
+| Insured                               | Usual timeframe, approximate: |
+| ------------------------------------- | ----------------------------- |
+| Early ultrasound                      | 6-7 weeks                     |
+| Dating ultrasound                     | 10-12 weeks                   |
+| 20-week ultrasound                    | 20 weeks                      |
+| Growth ultrasound                     | 30 weeks                      |
+| **Insured after medical indication:** |                               |
+| Blood test                            |                               |
+| Extra ultrasounds                     | monthly                       |
+| Presentation ultrasound               | 36 weeks                      |
+| Amniocentesis                         | from 15 weeks                 |
+| Chorionic villus sampling             | from 11 weeks                 |
+| NIPT                                  | from 10 weeks                 |
 
-Per persoon kan dekking tandheelkundige hulp worden toegevoegd.
+## 3) Reimbursement of flight costs to the Netherlands?
 
-3. Aansprakelijkheid, Reisverzekering, Rechtsbijstand, Extra vliegreis, Ongevallen
+75% of the travel costs for the woman are covered. The emergency center can assist with arranging a ticket and the conditions regarding flying during pregnancy.
 
-U stuurt ons een email met het verzoek om iemand toe te voegen aan uw polis. De premie wijzigt
-als de gezinssamenstelling verandert.
+## 4) Reimbursement Maternity care (Kraamzorg)
 
-4. Inboedel
+Maximum €1,000. For each day you stay in a hospital, €125 will be deducted.
 
-U stuurt ons een email met het verzoek om deze dekking toe te voegen aan uw polis. U geeft
-daarbij ook antwoord op alle vragen zoals die bij het onderdeel inboedel op het aanvraagformulier
-worden gesteld.
+## 5) Registering the child to also be insured for health costs
 
-# 5. Verblijf van meer dan 120 dagen in Nederland
+You can register the newborn with De Goudse within the period stated in the conditions. We advise you to do this within 1 month. If you register the child after the stated period,
 
-Gaat een verzekerde definitief terug naar Nederland? Of gaat een verzekerde tijdelijk terug naar
-Nederland voor een medische behandeling? En duurt het verblijf (waarschijnlijk) langer dan 120
+Expatverzekering.nl – contact@johoinsurances.org
 
 ---
 
-dagen? Dan is hij vanwege de Nederlandse wet verplicht om een basisverzekering te hebben vanaf de dag dat hij weer ingezetene is. Dit is de dag van terugkomst. Om een basisverzekering af te sluiten, moet hij zich eerst bij zijn gemeente inschrijven in de Basisregistratie Personen. Keert een verzekerde definitief terug om direct met een medische behandeling te starten? Dan begeleiden we hem graag en helpen wij bij het afsluiten van een basisverzekering en eventueel aanvullende pakketten. Het moment dat u de behandeling start is belangrijk voor de dekking van een basisverzekering. Het is raadzaam om eerst de basisverzekering te regelen, voordat u een behandeling in Nederland start, om problemen met de vergoeding te voorkomen.
+De Goudse may ask medical questions about the health of the child and determine whether they will include the child in the insurance based on that. This is not pleasant and can cause problems.
 
-# 6. Reisadvies Buitenlandse Zaken
+Premium: a premium will be charged for children. With the Missionary package, you pay a premium for a maximum of 3 minor children.
 
-Het reisadvies van het Ministerie van Buitenlandse Zaken kan van invloed zijn op uw dekking, indien er sprake is van een "rood" reisadvies:
+Important: coverage for the child includes reimbursement for medical costs incurred for the child immediately after birth. If you do not immediately insure the child, you run the risk of having to pay the costs for the child yourself. For this reason, we always advise insuring the child from birth.
 
-> "Zeer ernstige veiligheidsrisico's. Reis niet naar dit land of gebied. Reist u toch? Bereid u zich dan zeer goed voor. Door zeer ernstige veiligheidsrisico's is het er te gevaarlijk."
+# 4. Adding an insured person to your policy
 
-In de voorwaarden staat omschreven welke invloed het advies heeft op de dekkingen in dit verzekeringspakket. Meer informatie over de reisadviezen van het ministerie vindt u:
+For various reasons, a person (family member/partner) may be added to the policy at a later time (after the start date). How this works differs per insurance component:
 
-- Op de website www.nederlandwereldwijd.nl
-- In de Reisapp van het ministerie.
+1. Health costs (incl sections 2 and 4)
 
-Tip: in de Reisapp kunt u notificaties instellen voor één of meer landen waar u regelmatig verblijft. U krijgt dan automatisch bericht bij verandering van een reisadvies.
+For the person to be insured, it is necessary to fill out a health declaration. You send this health declaration to us, or if preferred, directly to the medical department of De Goudse. The declaration will be assessed by the medical advisor of De Goudse. We monitor this application process. If there are questions resulting from the health declaration, the insurer will contact you directly. An exception to this procedure is the registration of a newborn child. Provided registration occurs within the stated period after birth, a newborn child is automatically insured without medical questions if the parents are already insured for health costs. For more details, see section “3. What to do if you are pregnant?”.
 
-# 7. Betaling van uw verzekering
+After the insured person is added, the additional premium will be charged by the insurer. The co-insured on the policy must always have the same medical coverage as the other persons already insured.
 
-## 1) Automatische incasso
+2. Dental care
 
-Indien u heeft gekozen voor "automatische incasso" door De Goudse, dan zal de vermelde premie enkele dagen voor de startdatum, van het opgegeven (NL/SEPA) rekeningnummer worden afgeschreven. Als de polis al is gestart, dan zal deze z.s.m. worden geïncasseerd.
+Dental care coverage can be added per person.
 
-## 2) Ontvangen van een mail met daarin een Ideallink
+3. Liability, Travel insurance, Legal assistance, Extra flight, Accidents
 
-Indien u heeft gekozen voor de betaalwijze "nota per email" dan zal er (apart van de polis) een mail verzonden worden met een link naar Ideal voor betalen van de premie.
+Send us an email with the request to add someone to your policy. The premium changes if the family composition changes.
 
-Als u geen Ideal heeft en/of betaalt vanaf een buitenlandse rekening kunt er ook voor kiezen om het bedrag zelf over te maken. Daarvoor kunt u gebruik maken van de volgende gegevens:
+4. Home contents
+
+Send us an email with the request to add this coverage to your policy. In doing so, you also provide answers to all the questions asked in the home contents section of the application form.
+
+# 5. Stay of more than 120 days in the Netherlands
+
+Is an insured person returning to the Netherlands permanently? Or is an insured person returning to the Netherlands temporarily for medical treatment? And will the stay (likely) last longer than 120
+
+---
+
+days? Then, according to Dutch law, they are obliged to have basic insurance from the day they become a resident again. This is the day of return. To take out basic insurance, they must first register with their municipality in the Personal Records Database (Basisregistratie Personen). Is an insured person returning permanently to start medical treatment immediately? Then we are happy to guide them and help in taking out basic insurance and any supplementary packages. The moment you start treatment is important for the coverage of basic insurance. It is advisable to arrange the basic insurance first, before starting treatment in the Netherlands, to avoid problems with reimbursement.
+
+# 6. Ministry of Foreign Affairs Travel Advice
+
+The travel advice from the Ministry of Foreign Affairs can affect your coverage if there is a "red" travel advice:
+
+> "Very serious security risks. Do not travel to this country or area. Are you traveling anyway? Prepare yourself very well. Due to very serious security risks, it is too dangerous there."
+
+The conditions describe the influence the advice has on the coverages in this insurance package. More information about the ministry's travel advice can be found:
+
+- On the website www.nederlandwereldwijd.nl
+- In the Travel app of the ministry.
+
+Tip: in the Travel app, you can set notifications for one or more countries where you regularly stay. You will then automatically receive a message if a travel advice changes.
+
+# 7. Payment of your insurance
+
+## 1) Direct debit
+
+If you have chosen "direct debit" by De Goudse, the stated premium will be debited from the specified (NL/SEPA) account number a few days before the start date. If the policy has already started, it will be collected as soon as possible.
+
+## 2) Receiving an email containing an iDEAL link
+
+If you have chosen the payment method "invoice by email," an email will be sent (separate from the policy) with a link to iDEAL for paying the premium.
+
+If you do not have iDEAL and/or pay from a foreign account, you can also choose to transfer the amount yourself. You can use the following details for that:
 
 - Bank: ING Bank
-- Adres: Bijlmerplein 888, 1102 MG Amsterdam, The Netherlands
-- Naam: Goudse Schadeverzekeringen NV
+- Address: Bijlmerplein 888, 1102 MG Amsterdam, The Netherlands
+- Name: Goudse Schadeverzekeringen NV
 - IBAN code: NL50 INGB 0650 2166 01
 - BIC code: INGBNL2A
-- Referentie: EXPAT-6366 of 28486 + Polisnummer, Factuurnummer, Achternaam
+- Reference: EXPAT-6366 or 28486 + Policy number, Invoice number, Surname
 
 ---
 
-JoHo Insurances, expert internationale verzekeringen
+JoHo Insurances, expert in international insurances
 
-# Bankkosten
+# Bank costs
 
-Bij het overmaken van geld vanaf buitenlandse (niet-SEPA) bankrekeningen kunnen bankkosten in rekening worden gebracht. U dient alle bankkosten te voldoen, dus zowel die van uzelf als die van de ontvanger van de premie.
+When transferring money from foreign (non-SEPA) bank accounts, bank costs may be charged. You must pay all bank costs, both your own and those of the recipient of the premium.
 
-## 8. Looptijd en einde van uw verzekering
+## 8. Duration and termination of your insurance
 
-Uw verzekering wordt jaarlijks automatisch verlengd, tenzij u de verzekering zelf wilt stopzetten natuurlijk. In een aantal situaties zal uw verzekering verplicht eindigen:
+Your insurance is automatically renewed annually, unless you wish to stop the insurance yourself, of course. In a number of situations, your insurance will mandatorily end:
 
-- Bij situatie zoals o.a. wanbetaling, fraude, verzwijging (zie de algemene voorwaarden);
-- Bij definitieve terugkeer naar Nederland;
-- Op de laatste dag van het verzekeringsjaar waarin de verzekerde 72 jaar wordt. LET OP: vanaf 67 jaar geldt voor het onderdeel ziektekosten een beperkte dekking. Lees de voorwaarden voor de details van deze beperking.
+- In situations such as non-payment, fraud, concealment (see the general conditions);
+- Upon final return to the Netherlands;
+- On the last day of the insurance year in which the insured person turns 72. NOTE: from age 67, limited coverage applies to the health costs component. Read the conditions for the details of this limitation.
 
-Als een verzekeringsnemer (ook) de nationaliteit van het land van verblijf verkrijgt.
+If a policyholder (also) obtains the nationality of the country of residence.
 
-## 9. Bijlagen: schade- en meldformulieren
+## 9. Appendices: claim and notification forms
 
-Aan het einde van dit document vindt u de volgende bijlagen:
+At the end of this document, you will find the following appendices:
 
-1. Aanmeldformulier planbare zorg & zwangerschap
-2. Schadeaangifte formulier algemeen (overige verzekeringen)
+1. Registration form for planned care & pregnancy
+2. General claim notification form (other insurances)
 
-# Vragen?
+# Questions?
 
-Indien u vragen heeft naar aanleiding van dit document, dan kunt bij voorkeur via email contact met ons opnemen (contact@johoinsurances.org). Stel gerust uw vragen, daar zijn wij voor als intermediair. Indien wij u niet kunnen helpen, dan zullen wij u naar de juiste partij doorverwijzen. Wilt u telefonisch contact opnemen, bel dan +31 (0)88-3214561 tijdens Nederlandse kantooruren.
+If you have questions as a result of this document, you can contact us preferably via email (contact@johoinsurances.org). Feel free to ask your questions; that is what we are here for as an intermediary. If we cannot help you, we will refer you to the correct party. If you wish to contact us by phone, call +31 (0)88-3214561 during Dutch office hours.
 
 > expatverzekering.nl
->
 > JOHO INSURANCES
 
 Expatverzekering.nl – contact@johoinsurances.org
 
 ---
 
-# Expat Pakket
+# Expat Package
 
-## Aanmelden zorg/zwangerschap bij De Goudse Alarmcentrale
+## Registering care/pregnancy with De Goudse Emergency Center
 
-### Wanneer gebruikt u dit formulier?
+### When do you use this form?
 
-Met dit formulier kunt u noodzakelijke zorg aanmelden bij De Goudse Alarmcentrale. Het gaat om zorg die planbaar is. Dit is bijvoorbeeld het geval als u zwanger bent of als u een medische ingreep moet ondergaan en de verwachte kosten boven € 1.000,- uitkomen.
+With this form, you can register necessary care with De Goudse Emergency Center. This concerns care that is plannable. This is the case, for example, if you are pregnant or if you must undergo a medical procedure and the expected costs exceed € 1,000.
 
-Polisnummer Goudse Expat Pakket
+Policy number Goudse Expat Package
 
-### Gegevens verzekerdere
+### Details of the insured
 
-Alle verzekerden staan op uw polisblad. Vul hier de gegevens in van de verzekerde die de zorgbehoefte heeft.
+All insured persons are listed on your policy schedule. Fill in the details here of the insured person who has the care need.
 
-Achternaam en voornaam (Eerste voluit, daarna de voorletters van de overige voornamen)
+Surname and first name (First name in full, followed by the initials of the other names)
 
-Geboortedatum (d-m-j)
+Date of birth (d-m-y)
 
-| E-mail               | Telefoon |
-| -------------------- | -------- |
-| Straat en huisnummer |
-| Postcode             |
-| Plaats               | Land     |
+| Email                   | Phone   |
+| ----------------------- | ------- |
+| Street and house number |         |
+| Postal code             |         |
+| City                    | Country |
 
-### Zwangerschap
+### Pregnancy
 
-Uitgerekende datum
+Due date
 
-Waar wilt u bevallen?
+Where do you want to give birth?
 
-- [ ] Thuis
-- [ ] In Nederland
-- [ ] In een ziekenhuis in mijn woonland
+- [ ] At home
+- [ ] In the Netherlands
+- [ ] In a hospital in my country of residence
 
-### Overige zorg
+### Other care
 
-Is de zorg ingepland? [ ] Nee [ ] Ja, op (d-m-j)
+Is the care scheduled? [ ] No [ ] Yes, on (d-m-y)
 
-Geef kort aan welke ingreep of behandeling u moet ondergaan
+Briefly indicate which procedure or treatment you must undergo
 
-### Uw ziekenhuis of zorgverlener
+### Your hospital or healthcare provider
 
-(Heeft u nog geen keuze gemaakt? De Goudse Alarmcentrale helpt u graag; U kunt de vragen hierna dan leeglaten)
+(Have you not yet made a choice? De Goudse Emergency Center is happy to help; you can then leave the following questions blank)
 
-Naam ziekenhuis/zorgverlener
+Name of hospital/healthcare provider
 
-| E-mail | Telefoon |
-| ------ | -------- |
-| Plaats | Land     |
+| Email | Phone   |
+| ----- | ------- |
+| City  | Country |
 
-Als u dit formulier heeft ingevuld kunt u dit mailen naar alarmcentrale@anwb.nl. De alarmcentrale neemt dan contact met u op.
+Once you have completed this form, you can email it to alarmcentrale@anwb.nl. The emergency center will then contact you.
+
+---
+
+Would you like me to assist you with drafting the email to register a newborn or to request a change in your coverage?

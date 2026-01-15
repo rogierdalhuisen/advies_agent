@@ -1,294 +1,223 @@
-# Zendelingenpakket Premie- en dekkingsoverzicht 2026
+# Zendelingenpakket Premium and Coverage Overview 2026
 
-## 1. Ziektekosten
+## 1. Medical Costs
 
-De ziektekostenverzekering biedt dekking voor medische kosten met specifieke limieten gebaseerd op leeftijd en locatie.
+The health insurance provides coverage for medical costs with specific limits based on age and location.
 
-#### Algemene dekkingslimieten en voorwaarden
+#### General coverage limits and conditions
 
-De genoemde verzekerde bedragen gelden per verzekerde per verzekeringsjaar, tenzij anders vermeld. De maximale vergoeding voor verzekerden van 0 tot en met 66 jaar bedraagt € 1.500.000,- per ziektegeval. Voor verzekerden vanaf 67 jaar gelden afwijkende limieten: € 100.000,- per verzekerde per ziektegeval, € 150.000,- per verzekerde in geval van een ongeval, en € 150.000,- per verzekerde per ziektegeval in de Verenigde Staten. Indien een gebeurtenis begint voor de 67ste verjaardag en doorloopt daarna, geldt het lagere maximum voor de kosten gemaakt vanaf de 67ste verjaardag.
+The stated insured amounts apply per insured person per insurance year, unless stated otherwise. The maximum reimbursement for insured persons aged 0 to 66 inclusive is **€ 1,500,000** per illness. Different limits apply to insured persons aged 67 and older: **€ 100,000** per insured person per illness, **€ 150,000** per insured person in the event of an accident, and **€ 150,000** per insured person per illness in the United States. If an event begins before the 67th birthday and continues thereafter, the lower maximum applies to the costs incurred from the 67th birthday onwards.
 
-#### Ziekenhuisopname
+#### Hospitalization
 
-De dekking voor verblijf en behandeling in een ziekenhuis. Deze kosten worden voor 100% vergoed.
+Coverage for stay and treatment in a hospital. These costs are reimbursed at **100%**.
 
-#### Medisch specialist
+#### Medical specialist
 
-De kosten voor behandelingen door een medisch specialist. Deze kosten worden voor 100% vergoed.
+The costs for treatments by a medical specialist. These costs are reimbursed at **100%**.
 
-#### Geneesmiddelen
+#### Medicines
 
-De vergoeding voor voorgeschreven medicijnen. Deze kosten worden voor 100% vergoed.
+Reimbursement for prescribed medication. These costs are reimbursed at **100%**.
 
-#### Homeopathische geneesmiddelen
+#### Homeopathic medicines
 
-De dekking voor homeopathische medicatie. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+Coverage for homeopathic medication. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Ziekenvervoer per ambulance
+#### Patient transport by ambulance
 
-Het vervoer van een zieke per ambulance. Deze kosten worden voor 100% vergoed.
+The transport of a sick person by ambulance. These costs are reimbursed at **100%**.
 
-#### Huisarts
+#### General practitioner
 
-De kosten voor consulten en behandelingen bij de huisarts. Deze kosten worden voor 100% vergoed.
+The costs for consultations and treatments at the general practitioner (GP). These costs are reimbursed at **100%**.
 
-#### Hulpmiddelen
+#### Medical aids
 
-De dekking voor medische hulpmiddelen. De vergoeding hiervoor vindt plaats volgens het reglement hulpmiddelen.
+Coverage for medical aids. Reimbursement for this takes place according to the medical aids regulations.
 
-#### Nierdialyse
+#### Kidney dialysis
 
-De kosten voor nierdialysebehandelingen. Deze kosten worden voor 100% vergoed.
+The costs for kidney dialysis treatments. These costs are reimbursed at **100%**.
 
-#### Psychiatrische zorg (inrichting)
+#### Psychiatric care (inpatient)
 
-De dekking voor psychiatrische zorg met opname in een psychiatrische inrichting. Deze kosten worden vergoed voor maximaal 120 dagen.
+Coverage for psychiatric care with admission to a psychiatric institution. These costs are reimbursed for a maximum of **120 days**.
 
-#### Psychologische of psychiatrische zorg (zonder opname)
+#### Psychological or psychiatric care (outpatient)
 
-De kosten voor psychologische of psychiatrische zorg zonder opname in een inrichting. Deze kosten worden vergoed tot maximaal € 2.000,-.
+The costs for psychological or psychiatric care without admission to an institution. These costs are reimbursed up to a maximum of **€ 2,000**.
 
-#### Psychologische ondersteuning (zonder indicatie)
+#### Psychological support (without indication)
 
-De dekking voor psychologische ondersteuning waarvoor geen medische indicatie is. Deze kosten worden voor 100% vergoed tot een maximum van € 300,-.
+Coverage for psychological support for which there is no medical indication. These costs are reimbursed at **100%** up to a maximum of **€ 300**.
 
-#### Alternatieve geneeswijzen
+#### Alternative medicine
 
-De vergoeding voor alternatieve behandelmethoden. De dekking geldt voor maximaal 20 consulten of behandelingen, met een maximum van € 30,- per consult of behandeling.
+Reimbursement for alternative treatment methods. Coverage applies to a maximum of **20 consultations** or treatments, with a maximum of **€ 30** per consultation or treatment.
 
-#### Verloskundige
+#### Midwife/Obstetrician
 
-De kosten voor verloskundige hulp. Deze kosten worden voor 100% vergoed.
+The costs for obstetric assistance. These costs are reimbursed at **100%**.
 
-#### Opname in ziekenhuis/kraaminrichting (op medische indicatie)
+#### Admission to hospital/maternity unit (with medical indication)
 
-De kosten voor opname in een ziekenhuis of kraaminrichting wanneer hier een medische indicatie voor is. Deze kosten worden voor 100% vergoed.
+The costs for admission to a hospital or maternity unit when there is a medical indication. These costs are reimbursed at **100%**.
 
-#### Opname in ziekenhuis/kraaminrichting (zonder medische indicatie)
+#### Admission to hospital/maternity unit (without medical indication)
 
-De kosten voor opname in een ziekenhuis of kraaminrichting zonder medische indicatie. De vergoeding bedraagt € 125,- per dag voor maximaal 8 dagen, of 100% in landen waar een thuisbevalling niet mogelijk is.
+The costs for admission to a hospital or maternity unit without a medical indication. The reimbursement is **€ 125** per day for a maximum of **8 days**, or **100%** in countries where a home birth is not possible.
 
-#### Bevalling
+#### Childbirth
 
-De kosten direct gerelateerd aan de bevalling. Deze kosten worden voor 100% vergoed.
+The costs directly related to childbirth. These costs are reimbursed at **100%**.
 
-#### Bevallingscoach
+#### Childbirth coach
 
-De kosten voor een bevallingscoach. Deze worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for a childbirth coach. These are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Kraamzorg
+#### Maternity care (Kraamzorg)
 
-De kosten voor kraamzorg. Er is een vergoeding van € 1.500,-, onder aftrek van € 125,- vermenigvuldigd met het aantal dagen verblijf in het ziekenhuis.
+The costs for maternity care. There is a reimbursement of **€ 1,500**, less **€ 125** multiplied by the number of days spent in the hospital.
 
-#### Reiskosten bevalling in Nederland
+#### Travel costs for childbirth in the Netherlands
 
-De vergoeding voor reiskosten indien men kiest voor een bevalling in Nederland. Er wordt 75% van de vliegkosten voor de vrouw vergoed; als er terugvliegkosten zijn voor de baby, worden deze voor 100% vergoed.
+Reimbursement for travel costs if one chooses to give birth in the Netherlands. **75%** of the flight costs for the woman are reimbursed; if there are return flight costs for the baby, these are reimbursed at **100%**.
 
-#### Zwangerschap en bevalling in de eerste 9 maanden
+#### Pregnancy and childbirth in the first 9 months
 
-De dekking voor zwangerschapskosten in de eerste negen maanden na de ingangsdatum van de verzekering. Er geldt een maximale vergoeding van € 2.500,-; vanaf maand 10 geldt de dekking conform de reguliere rubrieken.
+Coverage for pregnancy costs in the first nine months after the start date of the insurance. A maximum reimbursement of **€ 2,500** applies; from month 10, coverage applies according to the regular sections.
 
-#### Vruchtbaarheidsbehandelingen
+#### Fertility treatments
 
-De dekking voor behandelingen gericht op vruchtbaarheid. Deze kosten zijn niet gedekt.
+Coverage for treatments aimed at fertility. These costs are **not covered**.
 
-#### Abortus
+#### Abortion
 
-De dekking voor abortus ingrepen. Deze kosten zijn niet gedekt.
+Coverage for abortion procedures. These costs are **not covered**.
 
-#### Fysiotherapie en oefentherapie
+#### Physiotherapy and exercise therapy
 
-De kosten voor fysiotherapie en oefentherapie. De dekking omvat 15 behandelingen per indicatie.
+The costs for physiotherapy and exercise therapy. Coverage includes **15 treatments** per indication.
 
-#### Logopedie en foniatrie
+#### Speech therapy and phoniatrics
 
-De kosten voor logopedie en foniatrie. Deze kosten worden voor 100% vergoed.
+The costs for speech therapy and phoniatrics. These costs are reimbursed at **100%**.
 
-#### Dieetadvisering
+#### Dietary advice
 
-De kosten voor advies door een diëtist. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for advice by a dietician. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Arts fleboloog
+#### Phlebologist
 
-De kosten voor een arts fleboloog. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for a phlebologist. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Ergotherapie
+#### Occupational therapy
 
-De kosten voor ergotherapie. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for occupational therapy. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Camouflagetherapie
+#### Camouflage therapy
 
-De kosten voor camouflagetherapie. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for camouflage therapy. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Podotherapie
+#### Podiatry
 
-De kosten voor podotherapie. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for podiatry. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Podotherapeutische zolen
+#### Podiatric insoles
 
-De vergoeding voor podotherapeutische zolen. Deze worden 100% vergoed, eenmaal per drie jaar.
+Reimbursement for podiatric insoles. These are reimbursed at **100%**, once every three years.
 
-#### Psoriasisdagbehandeling
+#### Psoriasis day treatment
 
-De dekking voor dagbehandeling van psoriasis. Er worden 20 behandelingen vergoed.
+Coverage for day treatment of psoriasis. **20 treatments** are reimbursed.
 
-#### Stottertherapie
+#### Stuttering therapy
 
-De kosten voor stottertherapie. Deze kosten worden voor 100% vergoed tot een maximum van € 200,-.
+The costs for stuttering therapy. These costs are reimbursed at **100%** up to a maximum of **€ 200**.
 
-#### Niet-klinische revalidatie
+#### Non-clinical rehabilitation
 
-De kosten voor revalidatie zonder klinische opname. Deze worden voor 100% vergoed tot een maximum van € 2.500,-.
+The costs for rehabilitation without clinical admission. These are reimbursed at **100%** up to a maximum of **€ 2,500**.
 
-#### Klinische revalidatie
+#### Clinical rehabilitation
 
-De kosten voor revalidatie met klinische opname. Deze worden voor 100% vergoed na toestemming van De Goudse.
+The costs for rehabilitation with clinical admission. These are reimbursed at **100%** after permission from De Goudse.
 
-#### Buitenlanddekking en tussentijds verblijf Nederland
+#### Foreign coverage and interim stay in the Netherlands
 
-De geldigheid van de dekking in het buitenland en tijdens tussentijds verblijf in Nederland. Voor beide situaties geldt een 100% vergoeding.
+The validity of the coverage abroad and during an interim stay in the Netherlands. For both situations, a **100%** reimbursement applies.
 
-#### Orgaantransplantaties bij ongevallen
+#### Organ transplants in case of accidents
 
-De kosten voor orgaantransplantaties (inclusief de donor) als gevolg van ongevallen. Deze kosten worden voor 100% vergoed.
+The costs for organ transplants (including the donor) as a result of accidents. These costs are reimbursed at **100%**.
 
 #### Second opinion
 
-De kosten voor het raadplegen van een tweede arts voor een oordeel. Dit wordt voor 100% vergoed.
+The costs for consulting a second physician for an assessment. This is reimbursed at **100%**.
 
-#### Preventief onderzoek
+#### Preventive screening
 
-De kosten voor preventieve medische onderzoeken. Er is 100% dekking voor preventief onderzoek naar baarmoederhals-, darm- en borstkanker, onderzoek van hart- en bloedvaten, en prostaatonderzoek.
+The costs for preventive medical examinations. There is **100%** coverage for preventive screening for cervical, colon, and breast cancer, examination of the heart and blood vessels, and prostate examination.
 
-#### Reisvaccinaties en Malariaprofylaxe
+#### Travel vaccinations and Malaria prophylaxis
 
-De vergoeding voor geadviseerde vaccinaties en preventie. Geadviseerde reisvaccinaties worden 100% vergoed tot maximaal € 100,- en Malariaprofylaxen worden 100% vergoed tot maximaal € 150,-.
+Reimbursement for recommended vaccinations and prevention. Recommended travel vaccinations are reimbursed at **100%** up to a maximum of **€ 100**, and Malaria prophylaxes are reimbursed at **100%** up to a maximum of **€ 150**.
 
-#### Sterilisatie
+#### Sterilization
 
-De kosten voor sterilisatie. Deze ingreep wordt voor 100% vergoed.
+The costs for sterilization. This procedure is reimbursed at **100%**.
 
-#### Verblijfskosten (bij ziekte)
+#### Accommodation costs (in case of illness)
 
-Vergoeding voor verblijfskosten in verband met ziekte. De dekking bedraagt € 100,- per dag voor maximaal 2 personen, tot een maximum van € 2.000,- per gebeurtenis.
+Reimbursement for accommodation costs in connection with illness. Coverage is **€ 100** per day for a maximum of **2 persons**, up to a maximum of **€ 2,000** per event.
 
-#### Thuisverpleging
+#### Home nursing
 
-De kosten voor thuisverpleging door een gediplomeerde verpleegkundige. De vergoeding geldt voor ten hoogste 8 uur per dag tot een maximum van 100 dagen.
+The costs for home nursing by a qualified nurse. The reimbursement applies to a maximum of **8 hours per day** up to a maximum of **100 days**.
 
-#### Repatriëring (Vliegreiskosten)
+#### Repatriation (Air travel costs)
 
-Kosten voor repatriëring per lijn- of ambulancevliegtuig. Deze kosten worden voor 100% vergoed.
+Costs for repatriation by scheduled or ambulance aircraft. These costs are reimbursed at **100%**.
 
-#### Repatriëring bij zwangerschapscomplicaties
+#### Repatriation for pregnancy complications
 
-Repatriëring in verband met spoedeisende complicaties tijdens de zwangerschap. Deze kosten worden voor 100% vergoed.
+Repatriation in connection with emergency complications during pregnancy. These costs are reimbursed at **100%**.
 
-#### Telecommunicatiekosten (bij repatriëring)
+#### Telecommunication costs (during repatriation)
 
-Vergoeding voor telecommunicatiekosten tijdens een repatriëringsgebeurtenis. De dekking bedraagt € 125,- per gebeurtenis.
+Reimbursement for telecommunication costs during a repatriation event. Coverage is **€ 125** per event.
 
-#### Verlenging vliegticket
+#### Extension of flight ticket
 
-Kosten voor het verlengen van een vliegticket in medische situaties. De vergoeding bedraagt € 1.250,-.
+Costs for extending a flight ticket in medical situations. The reimbursement is **€ 1,250**.
 
-#### Verblijfskosten (bij repatriëring)
+#### Accommodation costs (during repatriation)
 
-Extra verblijfskosten in het kader van repatriëring. De dekking is € 100,- per dag met een maximum van € 2.000,- per gebeurtenis.
+Extra accommodation costs in the context of repatriation. Coverage is **€ 100** per day with a maximum of **€ 2,000** per event.
 
-#### Vervoer stoffelijk overschot (Ziektekosten rubriek)
+#### Transport of mortal remains (Medical costs section)
 
-De dekking binnen de ziektekostenrubriek voor vervoer van het stoffelijk overschot naar Nederland en noodzakelijke documentatie. Dit is 100% gedekt tot maximaal € 20.000,-.
+The coverage within the medical costs section for the transport of the mortal remains to the Netherlands and necessary documentation. This is **100%** covered up to a maximum of **€ 20,000**.
 
-#### Begrafenis of crematie in buitenland (Ziektekosten rubriek)
+#### Burial or cremation abroad (Medical costs section)
 
-De kosten voor een uitvaart in het land van tijdelijk verblijf. De vergoeding is gelijk aan wat het vervoer van het stoffelijk overschot gekost zou hebben, echter tot een maximum van € 6.250,-.
+The costs for a funeral in the country of temporary residence. The reimbursement is equal to what the transport of the mortal remains would have cost, however up to a maximum of **€ 6,250**.
 
-#### Opsporings- en reddingsacties
+#### Search and rescue operations
 
-Kosten voor opsporing en redding. De dekking bedraagt € 25.000 per gebeurtenis.
+Costs for search and rescue. Coverage is **€ 25,000** per event.
 
-#### Tandheelkunde tot 18 jaar
+#### Dentistry up to 18 years
 
-Standaard tandheelkundige dekking voor kinderen tot 18 jaar. Alle behandelingen, behalve esthetische, zijn gedekt tot € 375,- per jaar. Er geldt geen eigen risico.
+Standard dental coverage for children up to 18 years. All treatments, except aesthetic ones, are covered up to **€ 375** per year. No deductible applies.
 
-#### Orthodontie tot 21 jaar
+#### Orthodontics up to 21 years
 
-Dekking voor orthodontie voor verzekerden tot 21 jaar. Er geldt een maximum van € 2.000,- voor de totale verzekeringsduur. Het corrigeren van een lip-, kaak- of verhemeltespleet wordt voor 100% vergoed.
+Coverage for orthodontics for insured persons up to 21 years. A maximum of **€ 2,000** applies for the total duration of the insurance. The correction of a cleft lip, jaw, or palate is reimbursed at **100%**.
 
-## 1.3 Optionele Tandheelkundige dekking (vanaf 18 jaar)
+## 1.3 Optional Dental Coverage (from 18 years)
 
-#### Tandheelkundige dekking vanaf 18 jaar
+#### Dental coverage from 18 years
 
-Een aanvullende dekking voor verzekerden van 18 jaar en ouder. De vergoeding is 85% van de kosten tot maximaal € 1.150,- per verzekerde per jaar. In de eerste twaalf maanden is er geen dekking voor parodontale behandelingen, kronen, bruggen en implantaten. Esthetische behandelingen zijn niet verzekerd en orthodontie is vanaf 21 jaar niet verzekerd. De premie voor dit onderdeel bedraagt € 300,- per persoon per jaar.
-
-## Premies Ziektekosten
-
-#### Jaarpremies Ziektekosten
-
-De premies zijn afhankelijk van de leeftijd en de regio (Wereld exclusief VS of inclusief VS). De tarieven stijgen wanneer een verzekerde een volgende leeftijdsgroep bereikt. Er wordt kindpremie betaald voor maximaal drie kinderen van 0 t/m 17 jaar.
-
-- **0 t/m 19 jaar:** € 1.020,- (excl. VS) / € 3.170,- (VS)
-- **20 t/m 24 jaar:** € 1.035,- (excl. VS) / € 3.000,- (VS)
-- **25 t/m 29 jaar:** € 1.270,- (excl. VS) / € 3.565,- (VS)
-- **30 t/m 34 jaar:** € 1.555,- (excl. VS) / € 4.430,- (VS)
-- **35 t/m 39 jaar:** € 1.710,- (excl. VS) / € 5.375,- (VS)
-- **40 t/m 44 jaar:** € 1.915,- (excl. VS) / € 6.325,- (VS)
-- **45 t/m 49 jaar:** € 2.135,- (excl. VS) / € 6.730,- (VS)
-- **50 t/m 54 jaar:** € 2.395,- (excl. VS) / € 7.120,- (VS)
-- **55 t/m 67 jaar:** € 2.715,- (excl. VS) / € 8.700,- (VS)
-- **68 t/m 72 jaar:** € 2.855,- (excl. VS) / € 10.250,- (VS)
-- **73+ jaar:** € 3.085,- (excl. VS) / € 11.200,- (VS)
-
-#### Eigen risico Ziektekosten
-
-Het eigen risico per verzekeringsjaar. Voor een gezin bedraagt dit € 500,- en voor een alleenstaande € 250,-. Het eigen risico is niet van toepassing op Tandheelkundige hulp, Repatriëring, Vervoer stoffelijk overschot en Opsporings- en reddingsacties.
-
-## 2. Vervoer stoffelijk overschot
-
-Deze rubriek is automatisch meeverzekerd met rubriek 1 ziektekosten.
-
-#### Vervoer stoffelijk overschot naar Nederland
-
-De kosten van vervoer van het stoffelijk overschot naar de woonplaats in Nederland, inclusief noodzakelijke documentatie en handelingen. De dekking is 100% tot maximaal € 20.000,-.
-
-#### Begrafenis of crematie in land van verblijf
-
-Kosten voor een uitvaart in het buitenland als alternatief voor repatriëring. De vergoeding is tot het bedrag dat vervoer gekost zou hebben, met een maximum van € 6.250,-.
-
-#### Premie Vervoer stoffelijk overschot
-
-De kosten voor deze specifieke dekking. De jaarpremie bedraagt € 23,- per persoon.
-
-## 3. Extra vliegreis
-
-#### Kosten extra vliegreis
-
-Dekking voor onverhoopte extra vliegkosten (inclusief luchthavenbelasting) voor terugroeping naar Nederland. De vergoeding is gebaseerd op de kostprijs van een retourticket tot maximaal het opgegeven verzekerd bedrag. Er wordt maximaal éénmaal per periode van 12 maanden een uitkering per bloed- of aanverwant uitgekeerd.
-
-#### Premie Extra vliegreis
-
-De kosten voor deze dekking. De premie bedraagt 5% van het opgegeven verzekerde bedrag per jaar.
-
-## 4. SOS-hulpverlening
-
-Deze rubriek is automatisch meeverzekerd met rubriek 1 ziektekosten.
-
-#### Repatriëring en hulpverlening
-
-Dekking voor diverse hulpverleningskosten. Vliegreiskosten (lijn- of ambulancevliegtuig) are 100% gedekt. Repatriëring bij spoedeisende zwangerschapscomplicaties is 100% gedekt. Telecommunicatiekosten zijn gedekt tot € 125,- per gebeurtenis. Verlenging van een vliegticket is gedekt tot € 1.250,-. Verblijfskosten zijn gedekt tot € 100,- per dag met een maximum van € 2.000,- per gebeurtenis.
-
-#### Vervoer stoffelijk overschot en uitvaart (SOS rubriek)
-
-Dekking voor overlijdensgerelateerde kosten binnen de SOS-rubriek. Vervoer naar Nederland inclusief documentatie is 100% gedekt tot maximaal € 20.000,-. Een begrafenis of crematie ter plaatse wordt vergoed tot het bedrag van de transportkosten, met een maximum van € 6.250,-.
-
-#### Opsporings- en reddingsacties (SOS rubriek)
-
-Kosten voor zoek- en reddingsacties. Deze zijn gedekt tot € 25.000 per gebeurtenis.
-
-#### Premies SOS-hulpverlening
-
-De premies zijn verdeeld in Zone A (Werelddekking excl. Afrika) en Zone B (Werelddekking incl. Afrika).
-
-- **Verzekerde:** € 159,- (Zone A) / € 176,- (Zone B).
-- **Elke volgende verzekerde:** € 131,- (Zone A) / € 148,- (Zone B).
+Additional coverage for insured persons aged 18 and older. The reimbursement is **85%** of the costs up to a maximum of **€ 1,150** per insured person per year. In the first twelve months, there is no coverage for periodontal treatments, crowns, bridges, and implants. Aesthetic treatments are not insured, and orthodontics is not insured from the age of 21. The premium for this component is **€ 300** per person per year.
