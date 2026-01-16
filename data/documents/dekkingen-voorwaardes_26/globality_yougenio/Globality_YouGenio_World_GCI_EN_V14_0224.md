@@ -1,20 +1,8 @@
-# Globality YouGenio® World
-
-# General Conditions of Insurance
-
-# HEALTH
-
-# GLOBALITY
-
-# premium health insurance worldwide
-
----
-
-# Globality Health
+# Globality YouGenio® World - General Conditions of Insurance
 
 ## Premium health insurance worldwide
 
-### Well-structured. Comprehensible. Comprehensive.
+Well-structured. Comprehensible. Comprehensive.
 
 One partner, many opportunities. Wherever you go, Globality Health will be at your side, paving the way for you and looking after all aspects of your health. With benefits that are unrivaled.
 
@@ -24,7 +12,7 @@ The General Conditions of Insurance contain all the information you need with re
 
 Should any questions remain after reading, we would be happy to answer them for you.
 
-_Terms which are printed in italics are explained in the glossary at the end of this document._
+Terms which are printed in italics are explained in the glossary at the end of this document.
 
 ### We are at your service throughout the world:
 
@@ -40,89 +28,87 @@ Internet: www.globality-health.com
 
 The supervisory authority for Foyer Global Health S.A. can be contacted at the following address:
 Commissariat aux Assurances, 11, rue Robert Stumper, L-2557 Luxembourg
+
 Commercial Register (R.C.S. Luxembourg): B 134.471
 
 ### Symbols used:
 
-- **Insured**: i.e. we will reimburse 100% of the eligible expenses, unless specified otherwise in our documents/description of benefits.
-- **Reimbursement is excluded from the scope of benefits.**
+**Insured** - we will reimburse 100% of the eligible expenses, unless specified otherwise in our documents/description of benefits.
 
----
+**Reimbursement is excluded** from the scope of benefits.
 
-# Contents
+## Contents
 
-### 1. General conditions
+### 1. General conditions (Page 4)
 
-1.1 Eligibility
-1.2 Pre-existing medical conditions
-1.3 Moratorium
-1.4 How to apply
-1.5 Right of withdrawal
+- 1.1 Eligibility
+- 1.2 Pre-existing medical conditions
+- 1.3 Moratorium
+- 1.4 How to apply
+- 1.5 Right of withdrawal
 
-### 2. Your insurance cover
+### 2. Your insurance cover (Page 6)
 
-2.1 What your cover includes
-2.2 Insured event
-2.3 Medically necessary
-2.4 Start of your insurance cover
-2.5 Waiting periods
-2.6 Policy period
-2.7 Renewal
-2.8 Termination of your insurance policy
-2.9 Ending your insurance cover
+- 2.1 What your cover includes
+- 2.2 Insured event
+- 2.3 Medically necessary
+- 2.4 Start of your insurance cover
+- 2.5 Waiting periods
+- 2.6 Policy period
+- 2.7 Renewal
+- 2.8 Termination of your insurance policy
+- 2.9 Ending your insurance cover
 
-### 3. Area of cover
+### 3. Area of cover (Page 8)
 
-3.1 Geographical area of cover
-3.2 Temporary cover for geographical area I
+- 3.1 Geographical area of cover
+- 3.2 Temporary cover for geographical area I
 
-### 4. Scope of benefits
+### 4. Scope of benefits (Page 9)
 
-4.1 Deductibles
-4.2 Double benefits for geographical area I
-4.3 Annual overall limit
-4.4 Scope of benefits: Inpatient treatment
-4.5 Scope of benefits: Outpatient treatment
-4.6 Scope of benefits: Dental treatment
-4.7 Scope of benefits: Medical assistance
-4.8 Scope of benefits: Additional assistance
-4.9 Description of benefits
+- 4.1 Deductibles
+- 4.2 Double benefits for geographical area I
+- 4.3 Annual overall limit
+- 4.4 Scope of benefits: Inpatient treatment
+- 4.5 Scope of benefits: Outpatient treatment
+- 4.6 Scope of benefits: Dental treatment
+- 4.7 Scope of benefits: Medical assistance
+- 4.8 Scope of benefits: Additional assistance
+- 4.9 Description of benefits
 
-### 5. Exclusions
+### 5. Exclusions (Page 30)
 
-### 6. How to claim
+### 6. How to claim (Page 34)
 
-6.1 Requirements to get medical benefits
-6.2 If an insured event happens
-6.3 Information to be shown in invoices
-6.4 If there is an accident or emergency
-6.5 Claims for benefits
-6.6 Refunding claimed benefits
-6.7 Eclaims
-6.8 Claiming benefits from a third party and 'setting off'
-6.9 Fraud
+- 6.1 Requirements to get medical benefits
+- 6.2 If an insured event happens
+- 6.3 Information to be shown in invoices
+- 6.4 If there is an accident or emergency
+- 6.5 Claims for benefits
+- 6.6 Refunding claimed benefits
+- 6.7 Eclaims
+- 6.8 Claiming benefits from a third party and 'setting off'
+- 6.9 Fraud
 
-### 7. Payment and charging premiums
+### 7. Payment and charging premiums (Page 37)
 
-### 8. General information
+### 8. General information (Page 39)
 
-8.1.a Change of country of residence and nationality or citizenship
-8.1.b Relocation back to home country
-8.1.c Changing contract information
-8.2 Changes to the general conditions of insurance
-8.3 Communication between you and us
-8.4 How to complain
-8.5 Place of jurisdiction
-8.6 Applicable law
-8.7 Language
+- 8.1.a Change of country of residence and nationality or citizenship
+- 8.1.b Relocation back to home country
+- 8.1.c Changing contract information
+- 8.2 Changes to the general conditions of insurance
+- 8.3 Communication between you and us
+- 8.4 How to complain
+- 8.5 Place of jurisdiction
+- 8.6 Applicable law
+- 8.7 Language
 
-### 9. Definitions
+### 9. Definitions (Page 41)
 
----
+## 1. General conditions
 
-# 1. General conditions
-
-## 1.1 Eligibility
+### 1.1 Eligibility
 
 The insurance policy is designed for expatriates. Anyone who stays abroad for at least three months is eligible for insurance unless we agree otherwise. If you return to your home country to make it the main country of residence, you can keep your policy, if we agree, as long as it is compliant with local national legislation. Please note that we cannot cover anyone who is permanently resident in the USA.
 
@@ -132,482 +118,549 @@ Whilst we will endeavor to take all appropriate measures to ensure compliance of
 
 We may terminate the individual insurance contract due to legal changes in a country, which result in a breach of regulations governing the provision of healthcare cover to local nationals, residents or citizens.
 
-## 1.2 Pre-existing medical conditions
+### 1.2 Pre-existing medical conditions
 
 We do not cover pre-existing medical conditions. They are governed by the moratorium clause (see 1.3). However, you can choose to include pre-existing medical conditions when applying for insurance.
 
-To check whether we can cover the pre-existing medical conditions from the start date of the insurance policy, you will need to answer all the health questions listed in the application correctly and to the best of your knowledge. Any applicant will also need a medical evaluation in this case.
+To check whether we can cover the pre-existing medical conditions from the start date of the insurance policy, you will need to answer all the health questions listed in the application correctly and to the best of your knowledge. Any applicant will also need a medical evaluation in this case. The medical evaluation may result in us adding conditions to the policy, charging an extra premium, adding an exclusion or rejecting your application/an insured person. We will also treat medical conditions which arise between you filling in the application form and us confirming that we will provide cover as 'pre-existing'.
 
-The medical evaluation may result in us adding conditions to the policy, charging an extra premium, adding an exclusion or rejecting your application/an insured person. We will also treat medical conditions which arise between you filling in the application form and us confirming that we will provide cover as 'pre-existing'.
-
-## 1.3 Moratorium
+### 1.3 Moratorium
 
 Instead of applying for full medical underwriting, if the insured person is 55 or younger and if we agree, you may choose a 'moratorium'.
 
 In that case any known pre-existing medical condition that an insured person has experienced during the last five years will be covered after a continuous two-year period free of medical treatment, advice, symptoms or medication relating to the pre-existing medical condition. If an insured person has any treatment, advice, symptoms or medication during the first two years of cover relating to a known pre-existing medical condition, the two-year period (free of any treatment, advice or medication) may start again for that pre-existing medical condition. We will cover any new and unrelated medical conditions immediately.
 
-## 1.4 How to apply
+### 1.4 How to apply
 
-You can apply for cover by filling out an application form which you can get from your insurance intermediary, direct from us or through our website. You must answer all questions on the form completely and correctly so that we can check the application. If you need insurance cover for another person, they will also be responsible - together with you - for making sure that the questions are answered completely and correctly.
+You can apply for cover by filling out an application form which you can get from your insurance intermediary, direct from us or through our website. You must answer all questions on the form completely and correctly so that we can check the application. If you need insurance cover for another person, they will also be responsible – together with you – for making sure that the questions are answered completely and correctly. You can send the application to us by post, email or fax.
 
-You can send the application to us by post, email or fax. The application does not bind either you or us to conclude the contract. However, we will notify you, within 30 days of the receipt of the application form, of an insurance offer, the subjection of the insurance to an inquiry or survey, or the refusal to insure. We have the right to request further data should it be necessary for legal reasons.
+The application does not bind either you or us to conclude the contract. However, we will notify you, within 30 days of the receipt of the application form, of an insurance offer, the subjection of the insurance to an inquiry or survey, or the refusal to insure. We have the right to request further data should it be necessary for legal reasons.
 
 We will provide insurance cover in good faith, assuming that you have correctly and completely answered all the relevant questions raised before the start of the insurance policy (this is known as your 'pre-contractual duty to disclose information').
 
-## 1.5 Right of withdrawal
+### 1.5 Right of withdrawal
 
 You may withdraw from this insurance policy in writing within 14 calendar days, without penalty and without giving us any reason. This 14-day period begins on the day on which you receive the insurance policy and the general conditions of insurance. So that you meet this deadline, you can send your notice of withdrawal by post, email or fax before the end of the 14 days.
 
 If you withdraw from your insurance policy within this 14-day period, we will refund any premiums you might have already paid. If you do not withdraw from your insurance policy within the 14 days, your insurance policy will become final.
 
----
+## 2. Your insurance cover
 
-# 2. Your insurance cover
-
-## 2.1 What your cover includes
+### 2.1 What your cover includes
 
 We provide insurance cover for illnesses, accidents and other events shown in the general conditions of insurance (see 4.3 to 4.8). If an insured event happens, we will refund the expenses for medically necessary treatments and other agreed services.
 
 The insurance cover is set out in the insurance policy, future written agreements, the general conditions of insurance and the statutory regulations.
 
-## 2.2 Insured event
+### 2.2 Insured event
 
-An insured event is defined as the medically necessary treatment (see 6.1) you need due to an illness, an accident and other events shown in the general conditions of insurance (see 4.3 to 4.8). The insured event begins with treatment and ends when medical findings show that you no longer need treatment. If you need treatment for an illness, an accident and other events shown in the general conditions of insurance (see 4.3 to 4.8) which was not related to the original event, we will treat this as a new insured event.
+An insured event is defined as the medically necessary treatment (see 6.1) you need due to an illness, an accident and other events shown in the general conditions of insurance (see 4.3 to 4.8).
 
-## 2.3 Medically necessary
+The insured event begins with treatment and ends when medical findings show that you no longer need treatment.
+
+If you need treatment for an illness, an accident and other events shown in the general conditions of insurance (see 4.3 to 4.8) which was not related to the original event, we will treat this as a new insured event.
+
+### 2.3 Medically necessary
 
 Medically necessary are all appropriate medical measures, based on internationally approved medical standards at the respective time and location, which are used to diagnose, treat, heal or relieve the disease condition, illness or injury and are recognized as appropriate by the insurer.
 
 These measures must be:
+
 a) carried out in a health care facility authorized and licensed by the authorities in the country of treatment.
+
 b) the most appropriate considering both patient safety and cost effectiveness.
+
 c) Consistent with the diagnosis, symptoms or treatment of the underlying condition.
+
 d) Clinically appropriate, in terms of type, frequency, extent, site, and duration, and considered effective for the patient's illness, injury, or disease.
+
 e) Not required purely for comfort or convenience of the patient, medical providers, therapists or doctors.
+
 f) Not for clinical trial, experimental, investigational, or cosmetic purposes (see also 5).
+
 g) Not for screening and preventive care purposes.
 
-## 2.4 Start of your insurance cover
+### 2.4 Start of your insurance cover
 
 Insurance cover starts on the date shown in the insurance policy (start date of insurance), but not before you have paid your first premium and not before the end of the waiting periods (see also 1.3 and 2.5). We will not cover insured events which happen before the start date of the insurance. If the insurance policy is amended, this paragraph will apply to the new, extra part of the insurance cover.
 
-## 2.5 Waiting periods
+### 2.5 Waiting periods
 
 Waiting periods only apply for maternity care (including complications), childbirth, psychiatric treatment, psychotherapy, infertility treatment and major dental services.
 
-The waiting period is 10 months from the start date of insurance for psychiatric treatment, psychotherapy and major dental services regardless of the number of insured persons.
-
-For an insurance policy with two or more insured adults on the same insurance policy, a waiting period of 12 months will apply to treatment of pregnancy and childbirth. For an insurance policy with only one insured adult, a waiting period of 24 months will apply to treatment of pregnancy and childbirth.
-
-This does not apply to infertility treatment, where there is a waiting period of 24 months regardless of the number of insured persons. If the insurance policy is amended, the waiting periods will apply to any new, extra part of the insurance cover, depending on the agreed plan level.
+The waiting period is 10 months from the start date of insurance for psychiatric treatment, psychotherapy and major dental services regardless of the number of insured persons. For an insurance policy with two or more insured adults on the same insurance policy, a waiting period of 12 months will apply to treatment of pregnancy and childbirth. For an insurance policy with only one insured adult, a waiting period of 24 months will apply to treatment of pregnancy and childbirth. This does not apply to infertility treatment, where there is a waiting period of 24 months regardless of the number of insured persons. If the insurance policy is amended, the waiting periods will apply to any new, extra part of the insurance cover, depending on the agreed plan level.
 
 Regardless of the number of insured adults or the insured member's start date of insurance, each individual member must pass the minimum waiting period applicable to each benefit.
 
-## 2.6 Policy period
+### 2.6 Policy period
 
-This insurance policy will initially last for one year. The insurance year begins on the date shown in the insurance policy, in other words, the start date of insurance (see also 2.7 and 2.9) and ends 12 months later (end date of insurance). The insurance year for insured persons who later join the insurance policy commences on the date indicated on their insurance certificate (start date of insurance) and runs until the end date of insurance (see also 2.7).
+This insurance policy will initially last for one year. The insurance year begins on the date shown in the insurance policy, in other words, the start date of insurance (see also 2.7 and 2.9) and ends 12 months later (end date of insurance).
 
-## 2.7 Renewal
+The insurance year for insured persons who later join the insurance policy commences on the date indicated on their insurance certificate (start date of insurance) and runs until the end date of insurance (see also 2.7).
 
-We renew the insurance policy for a further period of 12 months at the end of each insurance year. We reserve the right to apply changes to the general conditions of insurance of your insurance policy for the new insurance year which follows after the end date of your insurance policy (see also 8.2). You may give three months written notice if you do not want us to renew the policy at the end of any insurance year. Any changes in insurance cover are only possible from the beginning of the next insurance year and if we agree.
+### 2.7 Renewal
 
-## 2.8 Termination of your insurance policy
+We renew the insurance policy for a further period of 12 months at the end of each insurance year. We reserve the right to apply changes to the general conditions of insurance of your insurance policy for the new insurance year which follows after the end date of your insurance policy (see also 8.2).
+
+You may give three months written notice if you do not want us to renew the policy at the end of any insurance year.
+
+Any changes in insurance cover are only possible from the beginning of the next insurance year and if we agree.
+
+### 2.8 Termination of your insurance policy
 
 As well as other legal reasons for terminating the relationship, or other reasons allowed under the general conditions of insurance, we and you may also terminate the insurance policy in the following cases.
 
 - You may terminate the insurance policy if we make a change to the general conditions of insurance (see 8.2) or if we increase the fees and premiums (see 7). You may give notice of termination within three months of receiving notice of the change. This notice will come into force on the date on which the change comes into force. However, you cannot terminate the insurance policy if we amend the premium as a result of you or an insured person moving up to the next age band. You may give notice of termination within one month of receiving notice of the change. The policy will actually end at midnight on the date on which the next yearly premium is due.
+
 - You may terminate the insurance policy when your home country becomes your country of residence before the anniversary date of the insurance policy (see also 2.6). The insurance policy ends only when we have received a termination notice from you.
+
 - We may terminate the insurance policy if you fail to give us any information we ask for. In this case, we can terminate the insurance policy within one month of becoming aware that you failed to give us this information. Unless we say otherwise, the policy will only end on the date given in the termination letter.
+
 - In order to safeguard compliance with applicable laws, we reserve the right to terminate the insurance policy or to exclude single persons from the insurance cover if the insurance policy is or becomes non-compliant with national laws or regulations applicable in the home country or in the country of residence of the policyholder or of the insured persons.
 
 As well as any other reasons to make the policy void (without legal effect) which are listed in the general conditions of insurance, the policy will become void if you deliberately fail to provide information that would have affected our decision to accept your application for insurance or would have added conditions to our acceptance. In this case, anyone who received a claim payment will have to return any money paid, and we will not refund any premiums paid.
 
 In the event that a sanction, prohibition or restriction under United Nations resolutions, trade or economic sanctions, laws or regulations of the European Union or the United Kingdom, or sanctions of the United States of America are imposed which hinder us, directly or indirectly, from providing insurance under this insurance policy, we shall have an extraordinary right of termination of this insurance policy or may exclude affected persons from the insurance cover.
 
-## 2.9 Ending your insurance cover
+### 2.9 Ending your insurance cover
 
 The policy and any cover for an insured person will end:
+
 a) if an insured person dies (if you die, the other insured persons can continue as new policyholder as long as this is requested within two months of your death);
+
 b) if you object to renewing the insurance policy after the end of the insurance year (see 2.7);
+
 c) if the insurance policy is terminated or declared void (see 2.8).
 
 You need to send us proof that all insured persons have been informed about the termination of the policy.
 
----
+## 3. Area of cover
 
-# 3. Area of cover
-
-## 3.1 Geographical area of cover
+### 3.1 Geographical area of cover
 
 Insurance cover applies in the following geographical areas:
 
-- **Geographical area I**: Worldwide including USA
-- **Geographical area II**: Worldwide excluding USA
+**Geographical area I:** Worldwide including USA
+**Geographical area II:** Worldwide excluding USA
 
-## 3.2 Temporary cover for geographical area
+### 3.2 Temporary cover for geographical area I
 
-If we have agreed on insurance cover for 'Geographical area II Worldwide excluding USA' and you or any insured person are temporarily away from the country of residence, we will grant insurance cover for medical emergencies, as well as for the consequences of an accident or death, also in geographical area I for trips up to six weeks.
+If we have agreed on insurance cover for 'Geographical area II – Worldwide excluding USA' and you or any insured person are temporarily away from the country of residence, we will grant insurance cover for medical emergencies, as well as for the consequences of an accident or death, also in geographical area I for trips up to six weeks.
 
-If an insured event happens within the six weeks and you need emergency treatment in the USA, there is no specific time limit on the treatment itself. However, if an eligible medical emergency occurs, we may transfer you to another country for treatment if medically appropriate and if the situation allows.
+If an insured event happens within the six weeks and you need emergency treatment in the USA, there is no specific time limit on the treatment itself.
 
-We will not cover journeys carried out for the purpose of getting treatment in geographical area I. If any of the insured persons move to a different geographical area for any length of time, you must let us know as soon as possible as the change will affect the premium due.
+However, if an eligible medical emergency occurs, we may transfer you to another country for treatment if medically appropriate and if the situation allows.
 
----
+We will not cover journeys carried out for the purpose of getting treatment in geographical area I.
 
-# 4. Scope of benefits
+If any of the insured persons move to a different geographical area for any length of time, you must let us know as soon as possible as the change will affect the premium due.
 
-The Globality YouGenio World plan has four plan levels - Essential, Classic, Plus and Top. The individual plan levels depend on the type and amount of benefits agreed. Depending on the plan level you have chosen, we will refund up to 100% of the eligible expenses up to the annual overall limit listed in the scope of benefits set out below, unless we say otherwise in the following scope of benefits, our general information, the general conditions of insurance or in the definitions.
+## 4. Scope of benefits
 
-## 4.1 Deductibles
+The Globality YouGenio® World plan has four plan levels – Essential, Classic, Plus and Top. The individual plan levels depend on the type and amount of benefits agreed.
+
+Depending on the plan level you have chosen, we will refund up to 100% of the eligible expenses up to the annual overall limit listed in the scope of benefits set out below, unless we say otherwise in the following scope of benefits, our general information, the general conditions of insurance or in the definitions.
+
+### 4.1 Deductibles
 
 We have agreed the following deductibles for the Globality YouGenio® World plan.
 
-- **Globality YouGenio® World Essential**: does not apply
-- **Globality YouGenio® World Classic**:
-  - 0
-  - € 250, $ 325 or £ 210
-  - € 500, $ 650 or £ 420
-  - € 1,000, $ 1,300 or £ 840
-- **Globality YouGenio® World Plus or Top**:
-  - 0
-  - € 250, $ 325 or £ 210
-  - € 500, $ 650 or £ 420
-  - € 1,000, $ 1,300 or £ 840
-  - € 2,500, $ 3,250 or £ 2,100
+**Globality YouGenio® World Essential:**
 
-Deductibles apply for each insurance year and for each insured person. They apply only for expenses linked to outpatient and dental treatment. Deductibles do not apply for accidental dental treatment. If we have agreed to a deductible, we will refund up to 100% of the eligible expenses up to the annual overall limit/maximum outpatient limit which are more than the deductible. Expenses are attributed to the insurance year in which the doctor or therapist was consulted and in which the drugs, dressings and therapeutic aids and appliances were provided.
+- does not apply
 
-## 4.2 Double benefits for geographical area I
+**Globality YouGenio® World Classic:**
 
-If you are covered under geographical area I (worldwide including USA) we will double the maximum sums and lump sums shown in 4.3, 4.4, 4.5 and 4.6 (whether the treatment takes place in the USA or not). If a benefit is limited to a certain number of days or sessions, this limit will not change. If we have agreed a deductible, it will not change.
+- 0
+- €250, $325 or £210
+- €500, $650 or £420
+- €1,000, $1,300 or £840
 
----
+**Globality YouGenio® World Plus or Top:**
 
-## 4.3 Annual overall limit
+- 0
+- €250, $325 or £210
+- €500, $650 or £420
+- €1,000, $1,300 or £840
+- €2,500, $3,250 or £2,100
 
-#### Annual overall limit
+Deductibles apply for each insurance year and for each insured person. They apply only for expenses linked to outpatient and dental treatment. Deductibles do not apply for accidental dental treatment.
 
-The total annual maximum amount reimbursable per person per insurance year for all benefits under the insurance plan. Under the **Essential** plan, the limit is € 2,000,000 / $2,600,000 / £ 1,680,000. Under the **Classic** plan, the limit is € 3,000,000 /$ 3,900,000 / £ 2,520,000. Under the **Plus** plan, the limit is € 5,000,000 / $6,500,000 / £ 4,200,000. Under the **Top** plan, the limit is € 7,500,000 /$ 9,750,000 / £ 6,300,000.
+If we have agreed to a deductible, we will refund up to 100% of the eligible expenses up to the annual overall limit/maximum outpatient limit which are more than the deductible.
 
-## 4.4 Scope of benefits: Inpatient treatment
+Expenses are attributed to the insurance year in which the doctor or therapist was consulted and in which the drugs, dressings and therapeutic aids and appliances were provided.
 
-#### Accommodation in a private or semi-private room
+### 4.2 Double benefits for geographical area I
 
-The coverage for staying in a private or semi-private room during hospital admission. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+If you are covered under geographical area I (worldwide including USA) we will double the maximum sums and lump sums shown in 4.3, 4.4, 4.5 and 4.6 (whether the treatment takes place in the USA or not).
 
-#### Consultations and diagnostic services
+If a benefit is limited to a certain number of days or sessions, this limit will not change. If we have agreed a deductible, it will not change.
 
-The coverage for consultations and diagnostic services, including pathology, radiology, computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET), and palliative medicine. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+### 4.3 Annual overall limit
 
-#### Hospital charges
+#### Annual Overall Limit
 
-The coverage for hospital charges, including operating theatres, anaesthesia, intensive care wards, and laboratories. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The maximum amount that the insurance will reimburse per person per insurance year across all covered benefits. Under the Essential plan, the annual overall limit is €2,000,000, $2,600,000, or £1,680,000. Under the Classic plan, the annual overall limit is €3,000,000, $3,900,000, or £2,520,000. Under the Plus plan, the annual overall limit is €5,000,000, $6,500,000, or £4,200,000. Under the Top plan, the annual overall limit is €7,500,000, $9,750,000, or £6,300,000.
 
-#### Surgery and anaesthetics
+### 4.4 Scope of benefits: Inpatient treatment
 
-The coverage for surgery and anaesthetic services. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+All amounts apply per person per insurance year unless we say otherwise.
 
-#### Outpatient surgery instead of inpatient treatment
+#### Accommodation in a Private or Semi-Private Room
 
-The coverage for surgical procedures performed on an outpatient basis instead of as an inpatient treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for accommodation in a private or semi-private room during hospital treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Drugs and dressings
+#### Consultations and Diagnostic Services
 
-The coverage for drugs and dressings used during inpatient treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for consultations and diagnostic services during inpatient treatment, including pathology, radiology, computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET) and palliative medicine. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Physiotherapy, including massages
+#### Hospital Charges
 
-The coverage for physiotherapy, including massages, during inpatient treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for hospital charges during inpatient treatment, including operating theatres, anaesthesia, intensive care wards and laboratories. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+#### Surgery and Anaesthetics
+
+The reimbursement for surgery and anaesthetics during inpatient treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+#### Outpatient Surgery Instead of Inpatient Treatment
+
+The reimbursement for outpatient surgery procedures that are performed as an alternative to inpatient treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+#### Drugs and Dressings
+
+The reimbursement for drugs and dressings required during inpatient treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+#### Physiotherapy, Including Massages
+
+The reimbursement for physiotherapy including massages provided during inpatient treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
 #### Therapies
 
-The coverage for therapies such as occupational therapy, light therapy, hydrotherapy, inhalation, packs, medical baths, cryotherapy, thermotherapy, and electrotherapy. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for therapies during inpatient treatment, including ergotherapy. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Therapeutic aids and appliances
+#### Therapeutic Aids and Appliances
 
-The coverage for therapeutic aids and appliances. Under the **Essential** plan, this covers items such as cardiac pacemakers, if needed as a life-saving measure. Under the **Classic** plan, this covers items such as cardiac pacemakers, if needed as a life-saving measure. Under the **Plus** plan, this covers items such as cardiac pacemakers, if needed as a life-saving measure. Under the **Top** plan, this covers therapeutic aids and appliances, such as artificial limbs and prostheses, up to € 2,000 / $ 2,600 / £ 1,680.
+The reimbursement for therapeutic aids and appliances required during inpatient treatment. Under the Essential plan, this is covered as a life-saving measure only. Under the Classic plan, this is covered as a life-saving measure only. Under the Plus plan, this is covered as a life-saving measure, and also covered up to €2,000, $2,600, or £1,680 for therapeutic aids and appliances such as artificial limbs and prostheses. Under the Top plan, this is covered in full.
 
-#### Maternity care and childbirth, services of a midwife or obstetric nurse in the hospital
+#### Maternity Care and Childbirth, Services of a Midwife or Obstetric Nurse in the Hospital
 
-The coverage for maternity care, childbirth, and the services of a midwife or obstetric nurse in the hospital. This benefit is subject to waiting periods: 12 months for two or more insured adults, or 24 months for one insured adult. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 5,000 / $6,500 / £ 4,200. Under the **Top** plan, this is covered up to € 20,000 /$ 26,000 / £ 16,800.
+The reimbursement for maternity care and childbirth services, including services of a midwife or obstetric nurse provided in the hospital. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €5,000, $6,500, or £4,200, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult. Under the Top plan, this is covered up to €20,000, $26,000, or £16,800, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult.
 
-#### Complications of pregnancy and childbirth
+#### Complications of Pregnancy and Childbirth
 
-The coverage for complications arising from pregnancy and childbirth. This benefit is subject to waiting periods: 12 months for two or more insured adults, or 24 months for one insured adult. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for medical treatment of complications of pregnancy and childbirth. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult. Under the Top plan, this is covered in full, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult.
 
-#### Newborn care
+#### Newborn Care
 
-The coverage for newborn care. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to € 150,000 / $195,000 / £ 126,000 per lifetime. Under the **Plus** plan, this is covered up to € 150,000 /$ 195,000 / £ 126,000 per lifetime. Under the **Top** plan, this is covered up to € 150,000 / $ 195,000 / £ 126,000 per lifetime.
+The reimbursement for treatment of routine or acute medical conditions in newborn babies. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Congenital conditions
+#### Congenital Conditions
 
-The coverage for congenital conditions. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to a maximum of € 150,000 / $195,000 / £ 126,000 per lifetime. Under the **Plus** plan, this is covered up to a maximum of € 150,000 /$ 195,000 / £ 126,000 per lifetime. Under the **Top** plan, this is covered up to a maximum of € 150,000 / $ 195,000 / £ 126,000 per lifetime.
+The reimbursement for medical treatment of congenital conditions present at birth. Under the Essential plan, this is covered up to a maximum of €150,000, $195,000, or £126,000 per lifetime. Under the Classic plan, this is covered up to a maximum of €150,000, $195,000, or £126,000 per lifetime. Under the Plus plan, this is covered up to a maximum of €150,000, $195,000, or £126,000 per lifetime. Under the Top plan, this is covered up to a maximum of €150,000, $195,000, or £126,000 per lifetime.
 
-#### Cancer treatment, oncological drugs and treatment
+#### Cancer Treatment
 
-The coverage for cancer treatment, including oncological drugs and reconstructive surgery for breast cancer. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for cancer treatment, including oncological drugs and treatment and reconstructive surgery for breast cancer. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
 #### Dialysis
 
-The coverage for dialysis. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to a maximum of € 2,000,000 / $2,600,000 / £ 1,680,000 per lifetime. Under the **Plus** plan, this is covered up to a maximum of € 2,000,000 /$ 2,600,000 / £ 1,680,000 per lifetime. Under the **Top** plan, this is covered up to a maximum of € 2,000,000 / $ 2,600,000 / £ 1,680,000 per lifetime.
+The reimbursement for dialysis treatment required for kidney-related conditions. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to a maximum of €2,000,000, $2,600,000, or £1,680,000 per lifetime. Under the Plus plan, this is covered up to a maximum of €2,000,000, $2,600,000, or £1,680,000 per lifetime. Under the Top plan, this is covered up to a maximum of €2,000,000, $2,600,000, or £1,680,000 per lifetime.
 
-#### Bone marrow and organ transplants
+#### Bone Marrow and Organ Transplants
 
-The coverage for bone marrow and organ transplants, including costs for the donor and receiver. Under the **Essential** plan, this is covered up to a maximum of € 100,000 / $130,000 / £ 84,000 per lifetime. Under the **Classic** plan, this is covered up to a maximum of € 150,000 /$ 195,000 / £ 126,000 per lifetime. Under the **Plus** plan, this is covered up to a maximum of € 200,000 / $ 260,000 / £ 168,000 per lifetime. Under the **Top** plan, this is covered.
+The reimbursement for bone marrow and organ transplant procedures, covering costs for both donor and receiver. Under the Essential plan, this is covered up to a maximum of €100,000, $130,000, or £84,000 per lifetime. Under the Classic plan, this is covered up to a maximum of €150,000, $195,000, or £126,000 per lifetime. Under the Plus plan, this is covered up to a maximum of €200,000, $260,000, or £168,000 per lifetime. Under the Top plan, this is covered in full.
 
-#### Psychiatric treatment
+#### Psychiatric Treatment
 
-The coverage for inpatient psychiatric treatment. A waiting period of 10 months applies. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to 20 days if pre-approved. Under the **Top** plan, this is covered up to 40 days if pre-approved.
+The reimbursement for inpatient psychiatric treatment for mental health conditions. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to 20 days if pre-approved, with a waiting period of 10 months. Under the Top plan, this is covered up to 40 days if pre-approved, with a waiting period of 10 months.
 
-#### Inpatient psychotherapy
+#### Inpatient Psychotherapy
 
-The coverage for inpatient psychotherapy. A waiting period of 10 months applies. Under the **Essential** plan, this is covered up to 20 sessions if pre-approved. Under the **Classic** plan, this is covered up to 20 sessions if pre-approved. Under the **Plus** plan, this is covered up to 20 sessions if pre-approved. Under the **Top** plan, this is covered up to 40 sessions if pre-approved.
+The reimbursement for psychotherapy sessions provided during inpatient treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to 20 sessions if pre-approved, with a waiting period of 10 months. Under the Top plan, this is covered up to 40 sessions if pre-approved, with a waiting period of 10 months.
 
-#### Parent accommodation during inpatient treatment of a minor child
+#### Parent Accommodation During Inpatient Treatment of a Minor Child
 
-The reimbursement for parent accommodation costs when a minor child is receiving inpatient treatment. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, reimbursement is excluded. Under the **Top** plan, this is covered.
+The reimbursement for accommodation expenses for a parent staying with a minor child during the child's inpatient hospital treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Nursing care at home and domestic help, instead of a hospital stay
+#### Nursing Care at Home and Domestic Help, Instead of a Hospital Stay
 
-The coverage for nursing care at home and domestic help as a substitute for a hospital stay, if pre-approved. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered up to 30 days. Under the **Plus** plan, this is covered up to 60 days. Under the **Top** plan, this is covered up to 90 days.
+The reimbursement for nursing care at home and domestic help provided as an alternative to a hospital stay. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to 30 days if pre-approved. Under the Plus plan, this is covered up to 60 days if pre-approved. Under the Top plan, this is covered up to 90 days if pre-approved.
 
-#### Nursing care at home after childbirth, instead of a hospital stay
+#### Nursing Care at Home After Childbirth
 
-The coverage for nursing care at home after childbirth as a substitute for a hospital stay, if pre-approved. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to 5 days. Under the **Top** plan, this is covered up to 5 days.
+The reimbursement for nursing care at home provided after childbirth as an alternative to a hospital stay. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to 5 days if pre-approved. Under the Top plan, this is covered up to 5 days if pre-approved.
 
-#### Substitute hospital cash plan benefit
+#### Substitute Hospital Cash Plan Benefit
 
-The benefit paid per day as a substitute hospital cash plan. Under the **Essential** plan, the benefit is € 50 / $65 / £ 42 per day. Under the **Classic** plan, the benefit is € 75 /$ 97.50 / £ 63 per day. Under the **Plus** plan, the benefit is € 150 / $195 / £ 126 per day. Under the **Top** plan, the benefit is € 200 /$ 260 / £ 168 per day.
+The daily cash benefit paid when the insured person does not claim benefits for covered inpatient treatment. Under the Essential plan, this is €50, $65, or £42 per day. Under the Classic plan, this is €75, $97.50, or £63 per day. Under the Plus plan, this is €150, $195, or £126 per day. Under the Top plan, this is €200, $260, or £168 per day.
 
-#### Inpatient follow-up rehabilitation
+#### Inpatient Follow-Up Rehabilitation
 
-The coverage for inpatient follow-up rehabilitation if pre-approved. Under the **Essential** plan, this is covered up to 21 days. Under the **Classic** plan, this is covered up to 21 days. Under the **Plus** plan, this is covered up to 28 days. Under the **Top** plan, this is covered up to 28 days.
+The reimbursement for inpatient follow-up rehabilitation to continue medically necessary hospital treatment. Under the Essential plan, this is covered up to 21 days if pre-approved. Under the Classic plan, this is covered up to 21 days if pre-approved. Under the Plus plan, this is covered up to 28 days if pre-approved. Under the Top plan, this is covered up to 28 days if pre-approved.
 
 #### Hospice
 
-The coverage for hospice care. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered up to 7 weeks. Under the **Plus** plan, this is covered up to 7 weeks. Under the **Top** plan, this is covered up to 7 weeks.
+The reimbursement for accommodation, nursing care and support in a hospice facility. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to 7 weeks. Under the Plus plan, this is covered up to 7 weeks. Under the Top plan, this is covered up to 7 weeks.
 
 #### Daycare
 
-The coverage for daycare treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for daycare treatment received in hospital without an overnight stay, with a length of stay between eight and 24 hours. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Transport to the nearest suitable hospital for initial treatment following an accident or an emergency
+#### Transport to the Nearest Suitable Hospital for Initial Treatment Following an Accident or an Emergency
 
-The coverage for transport to the nearest suitable hospital for initial treatment following an accident or an emergency. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for emergency transportation to the nearest suitable hospital for initial treatment following an accident or medical emergency. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Return to country of residence after repatriation
+#### Return to Country of Residence After Repatriation
 
-The coverage for returning to the country of residence after repatriation. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered up to € 1,500 / $1,950 / £ 1,260. Under the **Top** plan, this is covered up to € 1,500 /$ 1,950 / £ 1,260.
+The reimbursement for the cost of returning to the country of residence following a medical repatriation. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €1,500, $1,950, or £1,260. Under the Top plan, this is covered up to €1,500, $1,950, or £1,260.
 
-#### Inpatient dental treatment
+#### Inpatient Dental Treatment
 
-The coverage for inpatient dental treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for complex oral surgical procedures with a greater than average incidence of life-threatening complications. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Emergency dental treatment
+#### Emergency Dental Treatment
 
-The coverage for emergency dental treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for emergency inpatient dental treatment following a serious accident requiring hospitalization, with treatment received within 24 hours of the emergency event. Under the Essential plan, this is not covered. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
----
+### 4.5 Scope of benefits: Outpatient treatment
 
-## 4.5 Scope of benefits: Outpatient treatment
+All amounts apply per person per insurance year unless we say otherwise. Where indicated with an asterisk (\*), the maximum outpatient limit applies.
 
-_All amounts apply per person per insurance year unless we say otherwise._
+#### Maximum Outpatient Limit
 
-#### Maximum outpatient limit
+The maximum amount that the insurance will reimburse per person per insurance year for all outpatient treatment benefits combined. Under the Essential plan, this is not covered. Under the Classic plan, this is €7,500, $9,750, or £6,300. Under the Plus plan, this is €15,000, $19,500, or £12,600. Under the Top plan, this is covered in full.
 
-The total annual limit for all outpatient benefits per person per insurance year. Under the **Essential** plan, this is covered (no specific limit stated, implies full cover or subject to annual overall limit). Under the **Classic** plan, the limit is € 7,500 / $9,750 / £ 6,300. Under the **Plus** plan, the limit is € 15,000 /$ 19,500 / £ 12,600. Under the **Top** plan, no specific limit is listed (Max. outpatient limit applies footnote is not referenced for Top).
+#### Consultations and Diagnostic Services
 
-#### Consultations and diagnostic services
+The reimbursement for outpatient medical consultations and diagnostic services, including pathology, radiology, CT, MRI, PET and palliative medicine. Under the Essential plan, this is not covered. Under the Classic plan, this is covered and the maximum outpatient limit applies. Under the Plus plan, this is covered and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-The coverage for consultations and diagnostic services, including pathology, radiology, computed tomography (CT), magnetic resonance imaging (MRI), positron emission tomography (PET), and palliative medicine. Under the **Essential** plan, this is covered. Under the **Classic** plan, the Max. outpatient limit applies. Under the **Plus** plan, the Max. outpatient limit applies. Under the **Top** plan, this is covered.
+#### Critical Illness, Following Inpatient Treatment
 
-#### Critical illness, following inpatient treatment
+The reimbursement for outpatient treatment of a critical illness following a related inpatient hospital stay. Under the Essential plan, this is covered up to a combined limit of €3,000, $3,900, or £2,520. Under the Classic plan, this is covered and the maximum outpatient limit applies. Under the Plus plan, this is covered and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-The coverage for critical illness following inpatient treatment. Under the **Essential** plan, this is covered up to a combined limit of € 3,000 / $ 3,900 / £ 2,520. Under the **Classic** plan, the Max. outpatient limit applies. Under the **Plus** plan, the Max. outpatient limit applies. Under the **Top** plan, this is covered.
+#### Outpatient Surgery
 
-#### Outpatient surgery
+The reimbursement for outpatient surgery procedures that do not require an overnight hospital stay. Under the Essential plan, this is not covered. Under the Classic plan, this is covered and the maximum outpatient limit applies. Under the Plus plan, this is covered and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-The coverage for outpatient surgery. Under the **Essential** plan, this is covered. Under the **Classic** plan, the Max. outpatient limit applies. Under the **Plus** plan, the Max. outpatient limit applies. Under the **Top** plan, this is covered.
+#### Cancer Treatment
 
-#### Cancer treatment
+The reimbursement for outpatient cancer treatment, including chemotherapy, radiotherapy, and related procedures. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-The coverage for cancer treatment on an outpatient basis. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+#### Health Checks
 
-#### Health checks
+The reimbursement for routine health check-ups and preventive medical examinations. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €250*, $325*, or £210\* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €500, $650, or £420.
 
-The coverage for health checks. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 250 / $325 / £ 210. Under the **Top** plan, this is covered up to € 500 /$ 650 / £ 420. _Note: Max. outpatient limit applies for Plus._
+#### Maternity Care and Childbirth, Services of a Midwife or Obstetric Nurse
 
-#### Maternity care and childbirth, services of a midwife or obstetric nurse
+The reimbursement for maternity care and childbirth services, including services of a midwife or obstetric nurse provided on an outpatient basis. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €3,000*, $3,900*, or £2,520\*, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult, and the maximum outpatient limit applies. Under the Top plan, this is covered up to €5,000, $6,500, or £4,200, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult.
 
-The coverage for maternity care, childbirth, and services of a midwife or obstetric nurse. Waiting period of 12 months (for two or more insured adults) or 24 months (for one insured adult). Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 3,000 / $3,900 / £ 2,520. Under the **Top** plan, this is covered up to € 5,000 /$ 6,500 / £ 4,200.
+#### Complications of Pregnancy and Childbirth
 
-#### Complications of pregnancy and childbirth
+The reimbursement for outpatient medical treatment of complications arising from pregnancy and childbirth. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €3,000*, $3,900*, or £2,520\*, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult, and the maximum outpatient limit applies. Under the Top plan, this is covered in full, with a waiting period of 12 months for two or more insured adults and a waiting period of 24 months for one insured adult.
 
-The coverage for complications of pregnancy and childbirth. Waiting period of 12 months (for two or more insured adults) or 24 months (for one insured adult). Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 3,000 / $ 3,900 / £ 2,520. Under the **Top** plan, this is covered.
+#### Outpatient Childbirth Cash Benefit
 
-#### Outpatient childbirth cash benefit
+A lump sum payment for outpatient childbirth (giving birth at home or leaving hospital within 24 hours of childbirth). Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is a lump sum of €250*, $325*, or £210\* for each new-born baby without proof of costs after presenting the birth certificate. Under the Top plan, this is a lump sum of €500, $650, or £420 for each new-born baby without proof of costs after presenting the birth certificate.
 
-The lump sum cash benefit for each new-born baby without proof of costs after presenting the birth certificate. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, a lump sum of € 250 / $325 / £ 210 is provided. Under the **Top** plan, a lump sum of € 500 /$ 650 / £ 420 is provided. _Note: Max. outpatient limit applies for Plus._
+#### Acupuncture, Homeopathy, Osteopathy, Chiropractic and Traditional Chinese Medicine
 
-#### Acupuncture (needle technique), homeopathy, osteopathy, chiropractic and traditional Chinese medicine
+The reimbursement for alternative and complementary medical treatments including acupuncture (needle technique), homeopathy, osteopathy, chiropractic and traditional Chinese medicine. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to €1,000*, $1,300*, or £840* and the maximum outpatient limit applies. Under the Plus plan, this is covered up to €2,500*, $3,250*, or £2,100* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €5,000, $6,500, or £4,200.
 
-The coverage for acupuncture, homeopathy, osteopathy, chiropractic, and traditional Chinese medicine. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to € 1,000 / $1,300 / £ 840. Under the **Plus** plan, this is covered up to € 2,500 /$ 3,250 / £ 2,100. Under the **Top** plan, this is covered up to € 5,000 / $ 6,500 / £ 4,200.
+#### Speech Therapy
 
-#### Speech therapy
+The reimbursement for medically prescribed speech therapy treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered if pre-approved\* and the maximum outpatient limit applies. Under the Top plan, this is covered if pre-approved.
 
-The coverage for speech therapy. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+#### Psychiatric Treatment
 
-#### Psychiatric treatment
+The reimbursement for outpatient psychiatric treatment for mental health conditions. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to €1,000*, $1,300*, or £840* if pre-approved, with a waiting period of 10 months, and the maximum outpatient limit applies. Under the Plus plan, this is covered up to €5,000*, $6,500*, or £4,200* if pre-approved, with a waiting period of 10 months, and the maximum outpatient limit applies. Under the Top plan, this is covered in full if pre-approved, with a waiting period of 10 months.
 
-The coverage for outpatient psychiatric treatment, if pre-approved. Waiting period of 10 months. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to € 1,000 / $1,300 / £ 840. Under the **Plus** plan, this is covered up to € 5,000 /$ 6,500 / £ 4,200. Under the **Top** plan, this is covered.
+#### Outpatient Psychotherapy
 
-#### Outpatient psychotherapy
+The reimbursement for psychotherapy sessions provided on an outpatient basis. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to 10 sessions\* if pre-approved, with a waiting period of 10 months, and the maximum outpatient limit applies. Under the Top plan, this is covered up to 20 sessions if pre-approved, with a waiting period of 10 months.
 
-The coverage for outpatient psychotherapy, if pre-approved. Waiting period of 10 months. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered up to 10 sessions. Under the **Top** plan, this is covered up to 20 sessions.
+#### Drugs and Dressings
 
-#### Drugs and dressings
+The reimbursement for prescription medications and medical dressings required for outpatient treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is covered and the maximum outpatient limit applies. Under the Plus plan, this is covered and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-The coverage for drugs and dressings. Under the **Essential** plan, this is covered. Under the **Classic** plan, the Max. outpatient limit applies. Under the **Plus** plan, the Max. outpatient limit applies. Under the **Top** plan, this is covered.
+#### Over-the-Counter Drugs (OTC)
 
-#### Over-the-counter drugs (OTC)
+The reimbursement for over-the-counter medications that do not require a prescription. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to €50*, $65*, or £42* and the maximum outpatient limit applies. Under the Plus plan, this is covered up to €75*, $97.50*, or £63* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €100, $130, or £84.
 
-The coverage for over-the-counter drugs. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to € 50 / $65 / £ 42. Under the **Plus** plan, this is covered up to € 75 /$ 97.50 / £ 63. Under the **Top** plan, this is covered up to € 100 / $ 130 / £ 84. _Note: Max. outpatient limit applies for Classic and Plus._
+#### Physiotherapy, Including Massages
 
-#### Physiotherapy, including massages
-
-The coverage for physiotherapy, including massages. Under the **Essential** plan, this is covered up to 15 sessions. Under the **Classic** plan, this is covered up to 20 sessions. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered. _Note: Max. outpatient limit applies for Essential._
+The reimbursement for outpatient physiotherapy treatments, including therapeutic massages. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to 15 sessions* and the maximum outpatient limit applies. Under the Plus plan, this is covered up to 20 sessions* and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
 #### Therapies
 
-The coverage for therapies including occupational therapy, light therapy, hydrotherapy, inhalation, packs, medical baths, cryotherapy, thermotherapy, electrotherapy. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered up to 10 sessions. Under the **Top** plan, this is covered. _Note: Max. outpatient limit applies for Plus._
+The reimbursement for outpatient therapeutic treatments such as ergotherapy (occupational therapy). Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to 10 sessions\* and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-#### Therapeutic aids and appliances
+#### Therapeutic Aids and Appliances
 
-The coverage for therapeutic aids and appliances. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to € 1,000 / $1,300 / £ 840. Under the **Plus** plan, this is covered up to € 2,000 /$ 2,600 / £ 1,680. Under the **Top** plan, this is covered. _Note: Max. outpatient limit applies for Classic and Plus._
+The reimbursement for therapeutic aids and medical appliances required for outpatient treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to €1,000*, $1,300*, or £840* and the maximum outpatient limit applies. Under the Plus plan, this is covered up to €2,000*, $2,600*, or £1,680* and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-#### Wigs and prosthetic bras following cancer treatment
+#### Wigs and Prosthetic Bras Following Cancer Treatment
 
-The coverage for wigs and prosthetic bras following cancer treatment. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, this is covered up to € 300 / $390 / £ 252. Under the **Plus** plan, this is covered up to € 300 /$ 390 / £ 252. Under the **Top** plan, this is covered up to € 300 / $ 390 / £ 252. _Note: Max. outpatient limit applies for Classic and Plus._
+The reimbursement for wigs and prosthetic bras for women following cancer treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is covered up to €300*, $390*, or £252* and the maximum outpatient limit applies. Under the Plus plan, this is covered up to €300*, $390*, or £252* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €300, $390, or £252.
 
-#### Vaccinations and immunization
+#### Vaccinations and Immunization
 
-The coverage for vaccinations and immunization. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 250 / $ 325 / £ 210. Under the **Top** plan, this is covered.
+The reimbursement for vaccinations and immunization treatments. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €250*, $325*, or £210\* and the maximum outpatient limit applies. Under the Top plan, this is covered in full.
 
-#### Nutritional consultations
+#### Nutritional Consultations
 
-The coverage for nutritional consultations. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 125 / $162.50 / £ 105. Under the **Top** plan, this is covered up to € 250 /$ 325 / £ 210. _Note: Max. outpatient limit applies for Plus._
+The reimbursement for outpatient consultations with a nutritionist for diagnosed conditions. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €125*, $162.50*, or £105\* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €250, $325, or £210.
 
 #### Podiatry
 
-The coverage for podiatry. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 100 / $130 / £ 84. Under the **Top** plan, this is covered up to € 200 /$ 260 / £ 168.
+The reimbursement for medically necessary podiatry treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €100*, $130*, or £84\* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €200, $260, or £168.
 
-#### Vision aids, including an eye test
+#### Vision Aids, Including an Eye Test
 
-The coverage for vision aids, including an eye test. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 150 / $195 / £ 126. Under the **Top** plan, this is covered up to € 250 /$ 325 / £ 210.
+The reimbursement for vision aids such as eyeglasses or contact lenses, including the cost of an eye examination. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €150*, $195*, or £126\* and the maximum outpatient limit applies. Under the Top plan, this is covered up to €250, $325, or £210.
 
-#### Transport to the nearest suitable doctor or hospital for initial treatment following an accident or an emergency
+#### Transport to the Nearest Suitable Doctor or Hospital for Initial Treatment Following an Accident or an Emergency
 
-The coverage for transport to the nearest suitable doctor or hospital for initial treatment following an accident or an emergency. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for emergency transportation to the nearest suitable doctor or hospital for initial outpatient treatment following an accident or medical emergency. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Infertility treatment
+#### Infertility Treatment
 
-The coverage for infertility treatment. A waiting period of 24 months applies. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, we cover 50% of the costs up to € 2,000 / $2,600 / £ 1,680 for each insured couple, per lifetime. Under the **Top** plan, we cover 50% of the costs up to € 10,000 /$ 13,000 / £ 8,400 for each insured couple, per lifetime.
+The reimbursement for medical treatment to address infertility issues. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered at 50%\* up to €2,000, $2,600, or £1,680 for each insured couple per lifetime, with a waiting period of 24 months. Under the Top plan, this is covered at 50% up to €10,000, $13,000, or £8,400 for each insured couple per lifetime, with a waiting period of 24 months.
 
----
+### 4.6 Scope of benefits: Dental treatment
 
-## 4.6 Scope of benefits: Dental treatment
+All amounts apply per person per insurance year unless we say otherwise.
 
-#### Basic dental services
+#### Basic Dental Services
 
-The coverage for basic dental services such as screenings, X-rays, scale-and-polish cleaning, treating oral mucosa and paradontium, simple fillings related to cavity, and surgery, extractions, root-canal treatment. Under the **Essential** plan, only pain relief is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+Basic dental services include screenings, x-rays, scale-and-polish cleaning, treatment of oral mucosa and paradontium, simple fillings, surgery, extractions, root-canal treatment, night guard, and accidental dental treatment.
 
-#### Inclusion of an occlusal splint
+#### Screenings for Early Detection of Disorders of the Teeth Mouth and Jaw
 
-The coverage for the inclusion of an occlusal splint. Under the **Essential** plan, only pain relief is covered. Under the **Classic** plan, only pain relief is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for routine dental screenings to detect disorders early. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Accidental dental treatment
+#### X-Rays
 
-The coverage for accidental dental treatment. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for dental x-ray examinations. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Major dental services
+#### Scale-and-Polish Cleaning
 
-The coverage for major dental services, including dentures (e.g., prostheses, bridges and crowns, inlays, onlays) and implantological services. A waiting period of 10 months applies. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, reimbursement is up to € 2,000 / $ 2,600 / £ 1,680 (includes up to four implants per jaw and the dentures to be secured to these implants). Under the **Top** plan, reimbursement is up to € 5,000 / $ 6,500 / £ 4,200 (includes up to four implants per jaw and the dentures to be secured to these implants).
+The reimbursement for scale-and-polish dental cleaning procedures. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Orthodontic treatment
+#### Treating Oral Mucosa and Paradontium
 
-The coverage for orthodontic treatment. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered. _Note: Covered under the Major dental services limit for Plus and Top._
+The reimbursement for treatment of oral mucosa and paradontium. Under the Essential plan, this is not covered. Under the Classic plan, this is covered for pain relief only. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Dental laboratory work and materials
+#### Simple Fillings Related to Cavity
 
-The coverage for dental laboratory work and materials. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered. _Note: Covered under the Major dental services limit for Plus and Top._
+The reimbursement for simple dental fillings to treat cavities. Under the Essential plan, this is not covered. Under the Classic plan, this is covered for pain relief only. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Treatment plan
+#### Surgery, Extractions, Root-Canal Treatment
 
-The requirement or coverage for a treatment plan. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered. _Note: Covered under the Major dental services limit for Plus and Top._
+The reimbursement for dental surgery, tooth extractions, and root-canal treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is covered for pain relief only. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
----
+#### Inclusion of an Occlusal Splint
 
-## 4.7 Scope of benefits: Medical assistance
+The reimbursement for a dental night guard device used to protect teeth from grinding or clenching. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### 24-hour phone and e-mail service
+#### Accidental Dental Treatment
 
-The coverage for a 24-hour phone and e-mail service with experienced counsellors, doctors and specialists. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for dental treatment required as a result of an accident. Under the Essential plan, this is not covered. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Medical evacuation and repatriation
+#### Major Dental Services
 
-The coverage for medical evacuation and repatriation. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+Major dental services include dentures, implants, orthodontic treatment, and dental laboratory work and materials. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, reimbursement for the following benefits is up to €2,000, $2,600, or £1,680, with a waiting period of 10 months. Under the Top plan, reimbursement for the following benefits is up to €5,000, $6,500, or £4,200, with a waiting period of 10 months.
 
-#### Information on medical infrastructure and Support
+#### Dentures
 
-The coverage for information on medical infrastructure (local medical care and names and addresses of doctors who speak several languages), support and information by our medical service (second opinion, monitoring of the course of the illness), and Guarantee of payment (GOP) (preparing for a stay in hospital). Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for dental prostheses, bridges, crowns, inlays, and onlays. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered within the major dental services limit. Under the Top plan, this is covered within the major dental services limit.
 
-#### Return of mortal remains
+#### Implantological Services
 
-The coverage for the return of mortal remains. Under the **Essential** plan, this is covered up to € 2,500 / $3,250 / £ 2,100. Under the **Classic** plan, this is covered up to € 5,000 /$ 6,500 / £ 4,200. Under the **Plus** plan, this is covered up to € 7,500 / $9,750 / £ 6,300. Under the **Top** plan, this is covered up to € 10,000 /$ 13,000 / £ 8,400.
+The reimbursement for dental implants, including up to four implants per jaw and the dentures to be secured to these implants. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered for up to four implants per jaw and the dentures to be secured to these implants, within the major dental services limit. Under the Top plan, this is covered for up to four implants per jaw and the dentures to be secured to these implants, within the major dental services limit.
 
-#### Additional, appropriate medical support
+#### Orthodontic Treatment
 
-The coverage for additional, appropriate medical support (information on the nature, possible causes and possible treatment of an illness). Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for orthodontic treatment including metal braces and retainers. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered within the major dental services limit. Under the Top plan, this is covered within the major dental services limit.
 
-#### Online services
+#### Dental Laboratory Work and Materials
 
-The coverage for online services. Under the **Essential** plan, this is covered. Under the **Classic** plan, this is covered. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The reimbursement for dental laboratory work and materials as part of major dental services. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered within the major dental services limit. Under the Top plan, this is covered within the major dental services limit.
 
----
+#### Treatment Plan
 
-## 4.8 Scope of benefits: Additional assistance
+A plan of treatment and costs compiled by the dentist that must be submitted before commencing treatment for dentures, rehabilitation measures, or orthodontic treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Compassionate family visit
+### 4.7 Scope of benefits: Medical assistance
 
-The coverage for a compassionate family visit. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+All amounts apply per person per insurance year unless we say otherwise.
 
-#### Delayed return trip
+#### 24-Hour Phone and E-Mail Service
 
-The coverage for a delayed return trip. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 1,500 / $1,950 / £ 1,260. Under the **Top** plan, this is covered up to € 3,000 /$ 3,900 / £ 2,520.
+Access to 24-hour phone and e-mail service with experienced counsellors, doctors and specialists. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Getting hold of and shipping vital medication
+#### Medical Evacuation and Repatriation
 
-The coverage for getting hold of and shipping vital medication. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered up to € 2,000 / $2,600 / £ 1,680. Under the **Top** plan, this is covered up to € 2,000 /$ 2,600 / £ 1,680.
+Medical evacuation and repatriation services when medically necessary treatment is not available locally. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Return transport or care for children
+#### Information on Medical Infrastructure
 
-The coverage for return transport or care for children. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+Information on local medical care and names and addresses of doctors who speak several languages. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Help with psychological problems possibly attributable to the stay abroad
+#### Support and Information by Medical Service
 
-The coverage for help with psychological problems possibly attributable to the stay abroad. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this includes psychological and therapeutic help by phone; up to 3 calls. Under the **Top** plan, this includes psychological and therapeutic help by phone; up to 5 calls.
+Support and information by the medical service including second opinion and monitoring of the course of illness. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Document depot (safe custody, help in obtaining replacements)
+#### Guarantee of Payment (GOP)
 
-The coverage for document depot services (safe custody, help in obtaining replacements). Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+Guarantee of payment arrangements for planned or emergency inpatient treatment. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
 
-#### Organizing help if you have legal difficulties
+#### Return of Mortal Remains
 
-The coverage for organizing help if you have legal difficulties. Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+The cost of returning the mortal remains to the country of departure or home country. Under the Essential plan, this is covered up to €2,500, $3,250, or £2,100. Under the Classic plan, this is covered up to €5,000, $6,500, or £4,200. Under the Plus plan, this is covered up to €7,500, $9,750, or £6,300. Under the Top plan, this is covered up to €10,000, $13,000, or £8,400.
 
-#### Arranging intercultural training
+#### Additional, Appropriate Medical Support
 
-The coverage for arranging intercultural training (information about local culture and so on). Under the **Essential** plan, reimbursement is excluded. Under the **Classic** plan, reimbursement is excluded. Under the **Plus** plan, this is covered. Under the **Top** plan, this is covered.
+General information on the nature, possible causes and possible treatment of an illness. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+#### Online Services
+
+Access to online services through the member portal. Under the Essential plan, this is covered in full. Under the Classic plan, this is covered in full. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+### 4.8 Scope of benefits: Additional assistance
+
+All amounts apply per person per insurance year unless we say otherwise.
+
+#### Compassionate Family Visit
+
+Arrangements for a family member to visit when the insured person is hospitalized for more than seven days. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €1,500, $1,950, or £1,260. Under the Top plan, this is covered up to €3,000, $3,900, or £2,520.
+
+#### Delayed Return Trip
+
+The extra costs for altering hotel accommodation and flight reservations when return is delayed due to medical emergency. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered up to €2,000, $2,600, or £1,680. Under the Top plan, this is covered up to €2,000, $2,600, or £1,680.
+
+#### Getting Hold of and Shipping Vital Medication
+
+Assistance in obtaining and shipping vital medications that are not available locally. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered in full. Under the Top plan, this is covered in full.
+
+#### Return Transport or Care for Children
+
+Arrangements for child care or return transport when both parents need inpatient treatment. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is not covered. Under the Top plan, this is covered in full.
+
+#### Help with Psychological Problems
+
+Psychological help by phone and arrangements for local help if the stay abroad causes psychological conflicts. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is covered with psychological and therapeutic help by phone up to 3 calls. Under the Top plan, this is covered with psychological and therapeutic help by phone up to 5 calls.
+
+#### Document Depot
+
+Safe custody of copies of personal documents and help in obtaining replacements if originals are lost. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is not covered. Under the Top plan, this is covered in full.
+
+#### Organizing Help if You Have Legal Difficulties
+
+Referral to lawyers or experts throughout the world and assistance in arranging advances for lawyers' fees, court costs or bail. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is not covered. Under the Top plan, this is covered in full.
+
+#### Arranging Intercultural Training
+
+Referral to special institutions that provide specific training for the country or region, taking into account aspects of living and working abroad. Under the Essential plan, this is not covered. Under the Classic plan, this is not covered. Under the Plus plan, this is not covered. Under the Top plan, this is covered in full.
 
 ## 4.9 Description of benefits
 

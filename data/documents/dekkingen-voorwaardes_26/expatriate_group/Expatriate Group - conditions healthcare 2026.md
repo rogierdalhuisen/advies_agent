@@ -24,197 +24,225 @@ European Union resident policies are sold by Strategic Insurance Brokers (Cyprus
 
 # Benefit Schedule
 
-#### Annual Aggregate Maximum
+## Annual Aggregate Maximum
 
-The maximum overall amount payable per policy year for all benefits combined. Under the Select plan, this is covered up to €/£/$5,000,000. Under the Primary + plan, this is covered up to €/£/$1,500,000. Under the Primary + Lite plan, this is covered up to €/£/$1,000,000. Under the Primary plan, this is covered up to €/£/$1,000,000.
+The annual aggregate maximum coverage limit varies by plan type. Under the Select plan, the annual aggregate maximum is €/£/$5,000,000. Under the Primary+ plan, the annual aggregate maximum is €/£/$1,500,000. Under the Primary+ lite plan, the annual aggregate maximum is €/£/$1,000,000. Under the Primary plan, the annual aggregate maximum is €/£/$1,000,000.
+
+Benefit currency to match premium denomination.
+
+## Income Replacement
 
 #### Accidental Death and Permanent Total Disability
 
-The benefit payable for accidental death or permanent total disability, serving as income replacement. Under the Select plan, this is covered up to €/£/$100,000. Under the Primary + plan, this is covered up to €/£/$100,000. Under the Primary + Lite plan, this is covered up to €/£/$100,000. Under the Primary plan, this is covered up to €/£/$100,000.
+The benefit for accidental death and permanent total disability of an insured person. Under the Select plan, this benefit is €/£/$100,000. This benefit is not available under the Primary+, Primary+ lite, or Primary plans. For Terms and Conditions see separate PAI Policy Wording.
+
+## Hospital Benefits
 
 #### Private Hospital Bed
 
-The coverage for accommodation charges within a hospital. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for a private hospital bed during inpatient treatment. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
 #### Surgeries, Anaesthetists' fees, Operating Theatre, Specialist, Physician and Nursing Fees, Intensive Care
 
-The coverage for fees related to surgical procedures, medical staff, and intensive care units during hospitalization. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for surgical procedures, anaesthetists' fees, operating theatre costs, specialist and physician fees, nursing fees, and intensive care treatment. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
-#### Prescribed Medicine and Drugs (Inpatient)
+#### Prescribed Medicine and Drugs
 
-The coverage for medication administered while in the hospital. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for prescribed medicines and drugs during hospital treatment. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, the Outpatient benefits is capped at $1000. Under the Primary plan, for pre-hospitalisation
+and then for 60 days following a valid hospitilization.
 
-#### Diagnostic Tests and Procedures (Inpatient)
+#### Diagnostic Tests and Procedures (including MRI, CAT, PET)
 
-The coverage for in-patient diagnostic tests, including MRI, CAT, and PET scans. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
-
-#### Oncology/Cancer Treatment (Inpatient)
-
-The coverage for costs associated with cancer treatment while hospitalized. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
-
-#### Psychiatric (Inpatient)
-
-The coverage for in-patient psychiatric treatment, defined by a limit on days. Under the Select plan, this is covered for 30 days. Under the Primary + plan, this is covered for 30 days. Under the Primary + Lite plan, this is covered for 30 days. Under the Primary plan, this is covered for 30 days.
-
-#### Home Nursing (following hospitalisation)
-
-The coverage for nursing care at home following hospitalization, defined by a limit on days. Under the Select plan, this is covered for 30 days. Under the Primary + plan, this is covered for 30 days. Under the Primary + Lite plan, this is covered for 30 days. Under the Primary plan, this is covered for 30 days.
-
-#### Hospital Cash Benefit
-
-The daily cash benefit payable during hospitalization. Under the Select plan, this is covered up to €/£/$150 per night. Under the Primary + plan, this is covered up to €/£/$100 per night. Under the Primary + Lite plan, this is covered up to €/£/$100 per night. Under the Primary plan, this is covered up to €/£/$75 per night.
-
-#### Rehabilitation (following hospitalisation)
-
-The coverage for rehabilitation treatment following hospitalization. Under the Select plan, this is covered up to €/£/$2,000. Under the Primary + plan, this is covered up to €/£/$2,000. Under the Primary + Lite plan, this is covered up to €/£/$2,000. Under the Primary plan, this is covered up to €/£/$2,000.
-
-#### Parent Accommodation
-
-The coverage for a parent staying with a hospitalized child. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is not covered.
-
-#### Second Opinion for Surgery
-
-The coverage for obtaining a second medical opinion regarding surgery. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
-
-#### Organ Transplant
-
-The coverage for costs associated with organ transplants. Under the Select plan, this is covered up to €/£/$300,000. Under the Primary + plan, this is covered up to €/£/$150,000. Under the Primary + Lite plan, this is covered up to €/£/$150,000. Under the Primary plan, this is covered up to €/£/$100,000.
-
-#### Family doctor, GP, Specialist and Physician consultations fees
-
-The coverage for outpatient medical consultations and surgeries. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered (Outpatient benefits capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation).
-
-#### Prescribed Medicine and Drugs (Outpatient)
-
-The coverage for medication prescribed on an outpatient basis. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered (Outpatient benefits capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation).
-
-#### Diagnostic Tests and Procedures (Outpatient)
-
-The coverage for outpatient diagnostic tests, including MRI, CAT, and PET scans. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered (Outpatient benefits capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation).
+The coverage for diagnostic tests and procedures including MRI, CAT, and PET scans. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, the Outpatient benefits is capped at $1000. Under the Primary plan, for pre-hospitalisation
+and then for 60 days following a valid hospitilization.
 
 #### Physiotherapy & Alternative Medicine
 
-The coverage for physiotherapy and alternative medical treatments. Under the Select plan, this is covered. Under the Primary + plan, this is covered for 20 sessions. Under the Primary + Lite plan, this is covered for 10 sessions. Under the Primary plan, this is covered for 10 sessions (Outpatient benefits capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation).
+Physiotherapy & Alternative Medicine is coverd for 20 sessions under select plan, 10 sessions under primary+ and primary+ lite. Under the Primary plan, for pre-hospitalisationand then for 60 days following a valid hospitilization.
 
 #### Management of Chronic Conditions
 
-The coverage for the ongoing management of chronic illnesses. Under the Select plan, this is covered up to €/£/$100,000. Under the Primary + plan, this is covered up to €/£/$20,000. Under the Primary + Lite plan, this is covered up to €/£/$1,000. Under the Primary plan, this is not covered.
+Management of Chronic Conditions is covered for $100,000 for the select plan and 20,000 for the primary+ plan. 10 sessions for primary+ lite. Under the Primary plan, for pre-hospitalisation and then for 60 days following a valid hospitilization.
 
-#### Oncology/Cancer Treatment (Outpatient)
+#### Oncology/Cancer Treatment
 
-The coverage for outpatient cancer treatment. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered (Outpatient benefits capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation).
+The coverage for oncology and cancer treatment as an inpatient or day care patient. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
-#### Psychiatric (Outpatient)
+#### Psychiatric
 
-The coverage for outpatient psychiatric treatment. Under the Select plan, this is covered. Under the Primary + plan, this is covered for 10 sessions / €/£/$3,000. Under the Primary + Lite plan, this is covered for 10 sessions / €/£/$3,000. Under the Primary plan, this is covered for 10 sessions / €/£/$3,000 (Outpatient benefits capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation).
+The coverage for psychiatric treatment as an inpatient or day care patient. Under the Select plan, this is limited to 30 days per insured person per period of cover. Under the Primary+ plan, this is limited to 30 days per insured person per period of cover. Under the Primary+ lite plan, this is limited to 30 days per insured person per period of cover. Under the Primary plan, this is limited to 30 days per insured person per period of cover.
+
+#### Home Nursing (following hospitalisation)
+
+The coverage for home nursing services following a period of hospitalisation. Under the Select plan, this is limited to 30 days per insured person per period of cover. Under the Primary+ plan, this is limited to 30 days per insured person per period of cover. Under the Primary+ lite plan, this is limited to 30 days per insured person per period of cover. Under the Primary plan, this is limited to 30 days per insured person per period of cover.
+
+#### Hospital Cash Benefit
+
+The cash benefit paid for each night spent in hospital when treatment is received completely free of charge. Under the Select plan, the benefit is €/£/$150 per night. Under the Primary+ plan, the benefit is €/£/$100 per night. Under the Primary+ lite plan, the benefit is €/£/$100 per night. Under the Primary plan, the benefit is €/£/$75 per night.
+
+#### Rehabilitation (following hospitalisation)
+
+The coverage for rehabilitation services following hospitalisation. Under the Select plan, this benefit is limited to €/£/$2,000 per insured person per period of cover. Under the Primary+ plan, this benefit is limited to €/£/$2,000 per insured person per period of cover. Under the Primary+ lite plan, this benefit is limited to €/£/$2,000 per insured person per period of cover. Under the Primary plan, this benefit is limited to €/£/$2,000 per insured person per period of cover.
+
+#### Parent Accommodation
+
+The coverage for accommodation costs when a parent stays in hospital with an insured child under the age of 18. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
+
+#### Second Opinion for Surgery
+
+The coverage for obtaining a second medical opinion before undergoing major surgery, and if the second opinion differs from the first, coverage for a third opinion. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
+
+#### Organ Transplant
+
+The coverage for organ transplant surgery and associated costs. Under the Select plan, this benefit is limited to €/£/$300,000 per insured person per lifetime. Under the Primary+ plan, this benefit is limited to €/£/$150,000 per insured person per lifetime. Under the Primary+ lite plan, this benefit is limited to €/£/$150,000 per insured person per lifetime. Under the Primary plan, this benefit is limited to €/£/$100,000 per insured person per lifetime.
+
+## Outpatient & GP Benefits
+
+#### Family doctor, GP, Specialist and Physician consultations fees (including outpatient surgeries)
+
+The coverage for consultations with family doctors, general practitioners, specialists, and physicians, including outpatient surgical procedures. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
+
+#### Prescribed Medicine and Drugs
+
+The coverage for prescribed medicines and drugs as an outpatient. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, outpatient benefits are capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation. Under the Primary plan, this benefit is for pre-hospitalisation and then for 60 days following a valid hospitalisation.
+
+#### Diagnostic Tests and Procedures (including MRI, CAT, PET)
+
+The coverage for diagnostic tests and procedures including MRI, CAT, and PET scans as an outpatient. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, outpatient benefits are capped at €/£/$1,000 for pre-hospitalisation and then for 60 days following a valid hospitalisation. Under the Primary plan, this benefit is for pre-hospitalisation and then for 60 days following a valid hospitalisation.
+
+#### Physiotherapy & Alternative Medicine
+
+The coverage for physiotherapy and alternative medicine treatments as an outpatient. Under the Select plan, this is limited to 20 sessions per insured person per period of cover. Under the Primary+ plan, this is limited to 10 sessions per insured person per period of cover. Under the Primary+ lite plan, this is limited to 10 sessions per insured person per period of cover. This benefit is not available under the Primary plan.
+
+#### Management of Chronic Conditions
+
+The coverage for the routine management of chronic medical conditions. Under the Select plan, this benefit is limited to €/£/$100,000 per insured person per period of cover. Under the Primary+ plan, this benefit is limited to €/£/$20,000 per insured person per period of cover. This benefit is not available under the Primary+ lite or Primary plans.
+
+#### Oncology/Cancer Treatment
+
+The coverage for oncology and cancer treatment as an outpatient. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
+
+#### Psychiatric
+
+The coverage for psychiatric treatment as an outpatient. Under the Select plan, this is limited to 10 sessions and €/£/$3,000 per insured person per period of cover. Under the Primary+ plan, this is limited to 10 sessions and €/£/$3,000 per insured person per period of cover. This benefit is not available under the Primary+ lite or Primary plans.
+
+## Assistance Services & Special Benefits
 
 #### Emergency Medical Transportation
 
-The coverage for emergency transport to a medical facility. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for emergency medical evacuation to the nearest appropriate medical facility. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
 #### Local Ambulance
 
-The coverage for local ambulance services. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for local ambulance transportation to a hospital. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
 #### Expenses for accompanying Dependant: Travel
 
-The coverage for travel expenses for a dependant accompanying the insured. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for travel expenses of an accompanying dependant during an emergency medical evacuation. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
 #### Expenses for accompanying Dependant: Accommodation & Subsistence
 
-The coverage for accommodation and daily living costs for a dependant accompanying the insured. Under the Select plan, this is covered up to €/£/$150 per day. Under the Primary + plan, this is covered up to €/£/$100 per day. Under the Primary + Lite plan, this is covered up to €/£/$100 per day. Under the Primary plan, this is covered up to €/£/$75 per day.
+The coverage for accommodation and subsistence expenses of an accompanying dependant during an emergency medical evacuation. Under the Select plan, this benefit is €/£/$150 per day. Under the Primary+ plan, this benefit is €/£/$100 per day. Under the Primary+ lite plan, this benefit is €/£/$100 per day. Under the Primary plan, this benefit is €/£/$75 per day.
 
 #### Repatriation of Mortal Remains
 
-The coverage for the return of the deceased's remains to their home country. Under the Select plan, this is covered up to €/£/$10,000. Under the Primary + plan, this is covered up to €/£/$5,000. Under the Primary + Lite plan, this is covered up to €/£/$5,000. Under the Primary plan, this is covered up to €/£/$5,000.
+The coverage for the preparation and air transportation of mortal remains to the home country or for local burial. Under the Select plan, this benefit is limited to €/£/$10,000 per event. Under the Primary+ plan, this benefit is limited to €/£/$5,000 per event. Under the Primary+ lite plan, this benefit is limited to €/£/$5,000 per event. Under the Primary plan, this benefit is limited to €/£/$5,000 per event.
 
 #### Compassionate Travel
 
-The coverage for travel costs related to compassionate grounds. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for compassionate travel expenses to return home for the funeral of a close family member. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
 #### Family Compassionate Travel
 
-The coverage for family members' travel costs on compassionate grounds. Under the Select plan, this is covered up to €/£/$250. Under the Primary + plan, this is covered up to €/£/$250. Under the Primary + Lite plan, this is covered up to €/£/$250. Under the Primary plan, this is covered up to €/£/$250.
+The coverage for travel expenses of close relatives residing outside the country of residence to visit an insured person hospitalised for more than three consecutive nights. Under the Select plan, this benefit is limited to €/£/$250 per period of cover. Under the Primary+ plan, this benefit is limited to €/£/$250 per period of cover. Under the Primary+ lite plan, this benefit is limited to €/£/$250 per period of cover. Under the Primary plan, this benefit is limited to €/£/$250 per period of cover.
 
 #### Terminal & Palliative Care
 
-The coverage for end-of-life care and pain management. Under the Select plan, this is covered up to €/£/$30,000. Under the Primary + plan, this is covered up to €/£/$20,000. Under the Primary + Lite plan, this is covered up to €/£/$20,000. Under the Primary plan, this is covered up to €/£/$15,000.
+The coverage for terminal and palliative care treatment for a terminal medical condition. Under the Select plan, this benefit is limited to €/£/$30,000 per insured person per lifetime. Under the Primary+ plan, this benefit is limited to €/£/$20,000 per insured person per lifetime. Under the Primary+ lite plan, this benefit is limited to €/£/$20,000 per insured person per lifetime. Under the Primary plan, this benefit is limited to €/£/$15,000 per insured person per lifetime.
 
 #### HIV, AIDS & ARCS
 
-The coverage for treatment related to HIV, AIDS, and ARCS (lifetime limit). Under the Select plan, this is covered up to €/£/$50,000 (lifetime). Under the Primary + plan, this is covered up to €/£/$50,000 (lifetime). Under the Primary + Lite plan, this is covered up to €/£/$50,000 (lifetime). Under the Primary plan, this is not covered.
+The coverage for treatment related to HIV, AIDS, and AIDS Related Complex. Under the Select plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. Under the Primary+ plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. Under the Primary+ lite plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. This benefit is not available under the Primary plan.
+
+## Maternity
 
 #### Complications of Pregnancy
 
-The coverage for medical treatment due to pregnancy complications. Under the Select plan, this is covered at 100%. Under the Primary + plan, this is covered up to €/£/$5,000. Under the Primary + Lite plan, this is covered up to €/£/$5,000. Under the Primary plan, this is covered up to €/£/$5,000.
+The coverage for medical complications arising during pregnancy. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate, excluding costs incurred in first 12 months. Under the Primary+ plan, this benefit is limited to €/£/$5,000, excluding costs incurred in first 12 months. Under the Primary+ lite plan, this benefit is not available. Under the Primary plan, this benefit is limited to €/£/$5,000, excluding costs incurred in first 12 months.
 
 #### Normal Delivery
 
-The coverage for costs associated with a routine childbirth delivery. Under the Select plan, this is covered up to €/£/$7,500. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for normal childbirth delivery. Under the Select plan, this benefit is limited to €/£/$7,500 per pregnancy, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Elective Caesarean Operation
 
-The coverage for a caesarean section performed by choice. Under the Select plan, this is covered up to €/£/$7,500. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for elective caesarean section delivery. Under the Select plan, this benefit is limited to €/£/$7,500 per pregnancy, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Non-elective Caesarean Operation
 
-The coverage for a caesarean section performed due to medical necessity. Under the Select plan, this is covered up to €/£/$7,500. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for non-elective or emergency caesarean section delivery. Under the Select plan, this benefit is limited to €/£/$7,500 per pregnancy, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Home Delivery
 
-The coverage for costs associated with giving birth at home. Under the Select plan, this is covered up to €/£/$7,500. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for childbirth at home. Under the Select plan, this benefit is limited to €/£/$7,500 per pregnancy, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Home Nursing following Home Delivery
 
-The coverage for nursing care at home immediately following a home birth. Under the Select plan, this is covered for 5 days. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for home nursing services following a home delivery. Under the Select plan, this is limited to 5 days, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Newborn Care
 
-The coverage for medical care for a newborn baby. Under the Select plan, this is covered up to €/£/$25,000. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for medically necessary treatment of a newborn child from birth until 30 days following hospital discharge. Under the Select plan, this benefit is limited to €/£/$25,000, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
+
+## Dental
 
 #### Accidental Emergency Dental Treatment
 
-The coverage for dental treatment required immediately following an accident. Under the Select plan, this is covered. Under the Primary + plan, this is covered. Under the Primary + Lite plan, this is covered. Under the Primary plan, this is covered.
+The coverage for emergency dental treatment required as a result of an accident. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary+ lite plan, this is covered at 100% refund to policy annual maximum aggregate. Under the Primary plan, this is covered at 100% refund to policy annual maximum aggregate.
 
 #### Routine Dental Treatment
 
-The coverage for standard dental care such as check-ups and cleaning. Under the Select plan, this is covered up to €/£/$750. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for routine dental examinations and basic treatment. Under the Select plan, this benefit is limited to €/£/$750 per insured person per period of cover. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Basic Restorative Dental Treatment
 
-The coverage for basic fillings and restorations. Under the Select plan, this is covered up to €/£/$750. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for basic restorative dental procedures. Under the Select plan, this benefit is limited to €/£/$750 per insured person per period of cover. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Major Restorative Dental Treatment
 
-The coverage for major dental procedures such as crowns or bridges. Under the Select plan, this is covered up to €/£/$1,000. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
-
-#### Dental Co-pay Note
+The coverage for major restorative dental procedures. Under the Select plan, this benefit is limited to €/£/$1,000 per insured person per period of cover. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 Dental benefits (except Accidental) are subject to a 20% co-pay.
 
+## Optical
+
 #### Examinations & Lenses (including contact lenses)
 
-The coverage for eye exams, prescription glasses, and contact lenses. Under the Select plan, this is covered up to €/£/$150. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for eye examinations and prescription lenses, including contact lenses. Under the Select plan, this benefit is limited to €/£/$150 per insured person per annum. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
+
+## Preventative
 
 #### Medical Check-up
 
-The coverage for a routine health examination. Under the Select plan, this is covered up to €/£/$300. Under the Primary + plan, this is covered up to €/£/$250. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for an annual medical check-up. Under the Select plan, this benefit is limited to €/£/$300 per insured person per period of cover. Under the Primary+ plan, this benefit is limited to €/£/$250 per insured person per period of cover, excluding costs incurred in first 12 months. This benefit is not available under the Primary+ lite or Primary plans.
 
 #### Travel Vaccinations
 
-The coverage for vaccinations required for travel. Under the Select plan, this is covered. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for mandatory vaccinations required for overseas travel. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Cervical Smears
 
-The coverage for cervical screening tests. Under the Select plan, this is covered. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for cervical smear tests. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Mammograms
 
-The coverage for breast screening exams. Under the Select plan, this is covered. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for mammogram screenings. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
 #### Prostate Cancer Screening
 
-The coverage for screening tests for prostate cancer. Under the Select plan, this is covered. Under the Primary + plan, this is not covered. Under the Primary + Lite plan, this is not covered. Under the Primary plan, this is not covered.
+The coverage for prostate cancer screening tests. Under the Select plan, this is covered at 100% refund to policy annual maximum aggregate. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
+
+For Terms and Conditions see separate PAI Policy Wording. ✓ = 100% refund to policy annual maximum aggregate. \* = Excludes costs incurred in first 12 months.
 
 # Premium Rewards
 
