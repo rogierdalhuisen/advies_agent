@@ -327,7 +327,7 @@ Coverage for return airflight following evacuation. This benefit is not availabl
 
 #### Mortal Remains
 
-Coverage for the repatriation of mortal remains. For the Bronze plan, limited to £5,000 / €5,000 / US5,000. For the Silver plan, limited to £5,000 / €5,000 / US5,000. For the Platinum plan, limited to £5,000 / €5,000 / US$5,000.
+Coverage for the repatriation of mortal remains. For the Bronze plan, limited to £5,000 / €5,000 / US5,000. For the Bronze Plus plan, limited to £5,000 / €5,000 / US5,000. For the Silver plan, limited to £5,000 / €5,000 / US5,000. For the gold plan, , limited to £5,000 / €5,000 / US$5,000. For the Platinum plan, limited to £5,000 / €5,000 / US$5,000.
 
 #### Travel Intelligence (Non-Insurance Benefit)
 
@@ -343,7 +343,7 @@ Coverage for Travel Intelligence. For the Bronze plan, this is covered. For the 
 
 #### Routine pregnancy and childbirth costs
 
-Coverage for routine pregnancy and childbirth costs, subject to optional pregnancy limits for each pregnancy. For the Bronze plan (Optional Benefit), limited to £5,000 / €5,000 / US10,000, or £20,000 / €20,000 / US5,000, £10,000 / €10,000 / US20,000. For the Silver plan (Optional Benefit), limited to £5,000 / €5,000 / US10,000, or £20,000 / €20,000 / US5,000, £10,000 / €10,000 / US20,000. For the Platinum plan (Optional Benefit), limited to £5,000 / €5,000 / US10,000, or £20,000 / €20,000 / US$20,000.
+Coverage for routine pregnancy and childbirth costs, subject to optional pregnancy limits for each pregnancy. For the Bronze and bronze plus plan (Optional Benefit), limited to £5,000 / €5,000 / US10,000, or £20,000 / €20,000 / US5,000, £10,000 / €10,000 / US20,000. For the Silver and gold plan (Optional Benefit), limited to £5,000 / €5,000 / US10,000, or £20,000 / €20,000 / US5,000, £10,000 / €10,000 / US20,000. For the Platinum plan (Optional Benefit), limited to £5,000 / €5,000 / US10,000, or £20,000 / €20,000 / US$20,000.
 
 #### Well Baby Examination
 

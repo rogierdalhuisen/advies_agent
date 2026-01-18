@@ -1,292 +1,428 @@
-# International Expat Insurance - Benefits 2026
+# International Expat Insurance Package
 
-## Algemene Informatie
+## Benefit Overview update January 2025
 
-Dit document geeft een overzicht van de voordelen van het International Expat Insurance Package, bijgewerkt in januari 2025. De verzekering wordt aangeboden door Henner en JoHo Insurances.
+## Main Features
 
-## Hoofdkenmerken
+### Comprehensive Medical Plan
 
-- **Dekking:** Wereldwijde dekking exclusief de VS.
-- **Limiet medische kosten:** Tot €3.000.000 | $3.750.000.
-- **Service:** Meertalig klantenserviceteam 24/7 beschikbaar, online ledenportaal, vrije keuze van zorgverleners, en directe afwikkeling van facturen voor ziekenhuisopnames.
-- **Netwerk:** Wereldwijd netwerk van ziekenhuizen en meer dan 59.000 zorgverleners.
-- **Assistentie:** Medische evacuatie en repatriëring, verzending van medicijnen, bezoek van familieleden bij ziekenhuisopname, en een 24/7 medische hulplijn.
+- Medical expense benefits up to €3,000,000 | $3,750,000
+- Worldwide coverage excluding USA
+- Multilingual Client Service Team available 24/7
+- Online member portal
+- Free choice of medical providers
+- Direct settlement of invoices for inpatient treatment
+- Worldwide network of hospitals and over 59,000 providers
 
-## Structuur van het Plan
+### Assistance and repatriation
 
-1.  **Kies een plan:** Essential, Bronze of Gold.
-2.  **Kies valuta:** € EURO of $ US DOLLAR.
-3.  **Betalingsopties:** Per kwartaal, halfjaarlijks of jaarlijks (via bankoverschrijving of bankkaart).
-4.  **Kies een eigen risico voor poliklinische zorg (niet voor Essential):**
-    - Essential: €0 | $0
-    - Bronze opties: €100 | $125, €300 | $375, €1.000 | $1.250, €2.500 | $2.675.
-    - Gold opties: €300 | $375, €500 | $625, €1.000 | $1.250, €2.500 | $2.675.
-5.  **Kies aanvullende verzekeringen:** Tandzorg, Overlijdensrisico, Ongevallendood en Invaliditeit, Tijdelijke Arbeidsongeschiktheid, Blijvende Invaliditeit.
+- Emergency medical evacuation and repatriation
+- Dispatch of medication
+- Family member visit in the event of hospitalisation
+- Medical assistance telephone hotline available 24/7
 
----
+### Your Henner Services
 
-## Wijzigingen per 1-1-2025
+- Claim reimbursements within 72 hours
+- Emails responded to within 2 business days
+- Telephone calls answered within 3 rings
+- Regular quality surveys show 95% of clients are satisfied or very satisfied
 
-### Wijzigingen Newborn Cover en Inschrijving Baby's
+Over 30 years of international experience with 2 million people covered around the world.
 
-#### Essential Cover
+## Design your own plan
 
-Vanaf 1-1-2025 wordt de dekking voor pasgeborenen van €100.000 verwijderd uit de Essential-dekking. De inschrijving van de baby na de geboorte zal gebaseerd zijn op een medische acceptatieprocedure. Indien geaccepteerd, wordt de baby ingeschreven op basis van de datum van acceptatie door Henner.
+### 1. Choose from 3 progressive plans
 
-#### Bronze en Gold Cover
+Essential | Bronze | Gold
 
-Vanaf 1-1-2025 kunnen pasgeborenen zonder medische acceptatieprocedure worden geaccepteerd als de bevalling volledig is gedekt door Henner onder de Bronze of Gold dekking, én de baby binnen 2 maanden na de geboorte is aangemeld.
+### 2. Choose your currency:
 
-> **Advies:** Indien u van plan bent kinderen te krijgen, wordt sterk geadviseerd te kiezen voor de Bronze of Gold dekking.
+€ EURO | $ US DOLLAR
 
----
+### 3. Select your premium payment options:
 
-## Core Plan Benefits
+Quarterly | Half-yearly | Yearly
 
-_Alle vergoedingen zijn geldig per verzekerde persoon, per kalenderjaar (tenzij specifiek anders vermeld)._
+Bank transfer | Bank card
 
-#### Maximum Annual Reimbursement
+### 4. Select an outpatient deductible (not for Essential cover)
 
-De maximale jaarlijkse vergoeding voor medische kosten per verzekerde. Voor het Essential plan is de limiet €1.000.000 | $1.250.000 (of €500.000 | $625.000 volgens kolomstructuur). Voor het Bronze plan is de limiet €500.000 | $625.000 (of €1.000.000 | $1.250.000 volgens kolomstructuur). Voor het Gold plan is de limiet €3.000.000 | $3.750.000.
+- €0 | $0
+- €100 | $125 (only applicable within Bronze)
+- €300 | $375
+- €500 | $625 (only applicable within Gold)
+- €1,000 | $1,250
+- €2,500 | $2,675
 
-#### Area of Cover
+### 5. Choose your additional insurance
 
-Het geografische dekkingsgebied van de verzekering. Voor alle plannen (Essential, Bronze, Gold) geldt wereldwijde dekking exclusief de VS. In geval van een ongeval en spoedeisende behandeling in de VS, bent u gedekt tot 90 dagen gedurende elk verzekeringsjaar, exclusief zwangerschapsgerelateerde kosten en bevallingen (zie voorwaarden).
+- Dental Care
+- Life Cover
+- Accidental Death and Invalidity
+- Temporary Incapacity
+- Permanent Disability
 
-#### Deductible for Outpatient Treatment
+## Changes on newborn cover and enrollment of babies per 1-1-2025
 
-Het eigen risico voor poliklinische behandelingen per verzekerde per kalenderjaar. Voor het Essential plan is dit €0 | $0. Voor het Bronze plan zijn de opties €100 | $125, €300 | $375, €1.000 | $1.250 of €2.500 | $2.675. Voor het Gold plan zijn de opties €300 | $375, €500 | $625, €1.000 | $1.250 of €2.500 | $2.675.
+### Changes from 1-1-2025 on Healthcare Essential Cover
 
-### Hospitalisation
+1. As of 1-1-2025, the newborn cover of €100.000 will be removed from the Essential cover.
+2. Enrollment of the baby after birth will be based on a medical accpetance procedure. If accepted for the insurance, the baby will be enrolled based on the date of acceptance by Henner.
 
-#### Hospital Room & Board
+### Changes from 1-1-2025 on Healthcare Bronze and Gold Cover
 
-De dekking voor verblijfskosten en maaltijden in het ziekenhuis. Voor het Essential plan is er dekking voor 100% van een semi-privékamer of 80% van een standaard privékamer. Voor het Bronze plan is er dekking voor 100% van een semi-privékamer. Voor het Gold plan is er dekking voor 100% van een standaard privékamer.
+As of 1-1-2025 newborns can be accepted into the insurance without medical accpetance procedure if:
 
-#### Intensive Care
+The childbirth has been fully covered by Henner under Bronze or Gold cover.
 
-De dekking voor opname op de intensive care afdeling. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+and:
 
-#### Doctor's Fees (Surgeon, Anaesthetist)
+The baby has been enrolled in the insurance within 2 months after birth
 
-De honoraria voor chirurgen en anesthesisten tijdens ziekenhuisopname. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+### ADVISE
 
-#### Physician and Therapist Fees
+If you are considering applying for the "International Expat Health Care Insurance" and plan to have children, we strongly advise you to choose Bronze or Gold cover.
 
-De kosten voor artsen en therapeuten tijdens ziekenhuisopname. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+## International Medical and Assistance Insurance
 
-#### Medical Devices and Prostheses
+### CORE PLAN
 
-De vergoeding voor medische hulpmiddelen en protheses tijdens ziekenhuisopname. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+All benefits are valid per insured person, per calendar year (unless specifically stated).
 
-#### Other Medical Expenses
+#### Maximum annual reimbursement per insured
 
-Overige medische kosten zoals medische beeldvorming, medicijnen en verbandmiddelen, en gebruik van de operatiekamer. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+The maximum annual reimbursement per insured person represents the total amount that can be claimed within one calendar year. Under the Essential plan, this is €500,000 | $625,000. Under the Bronze plan, this is €1,000,000 | $1,250,000. Under the Gold plan, this is €3,000,000 | $3,750,000.
 
-#### Hospital Accommodation in ICU
+#### Area of cover
 
-Verblijfskosten specifiek op de intensive care unit. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+The area of cover is worldwide excluding USA. In case of accident and emergency treatment in USA, you are covered up to 90 days during each insurance year excluding pregnancy-related costs (and complications thereof) and childbirth, see conditions for more information. This applies to all plans: Essential, Bronze, and Gold.
 
-#### Organ Transplant
+#### Deductible for outpatient treatment, per insured and per calendar year
 
-De kosten voor orgaantransplantatie (exclusief kosten van de donor). Voor het Essential plan is dit 100% gedekt tot €100.000 | $125.000. Voor het Bronze plan is dit 100% gedekt tot €100.000 | $125.000. Voor het Gold plan is dit 100% gedekt tot €150.000 | $187.500.
+The deductible for outpatient treatment is the amount you must pay out of pocket before insurance coverage begins for outpatient care within each calendar year. Under the Essential plan, there is N/A (no outpatient deductible option). Under the Bronze plan, the available deductible options are €0 | $0, €100 | $125, €300 | $375, €1,000 | $1,250, and €2,500 | $2,675. Under the Gold plan, the available deductible options are €0 | $0, €300 | $375, €500 | $625, €1,000 | $1,250, and €2,500 | $2,675.
 
-#### Kidney Dialysis
+### HOSPITALISATION
 
-De vergoeding voor nierdialyse, exclusief experimentele behandelingen. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+#### Hospital room & board
 
-#### Cancer Treatment
+Hospital room and board covers the cost of accommodation during an inpatient hospital stay, including the room type and associated daily charges. Under the Essential plan, this is covered at 100% of semi private. Under the Bronze plan, this is covered at 100% of semi-private or 80% of standard private room. Under the Gold plan, this is covered at 100% of standard private room.
 
-De behandeling van kanker, inclusief ziekenhuisopname, chemo- of radiotherapie en andere kosten (exclusief experimentele behandelingen). Voor het Essential plan is ziekenhuisopname en chemo-/radiotherapie 100% gedekt, en overige kosten tot €50.000 | $62.500. Voor het Bronze plan zijn alle kosten 100% gedekt. Voor het Gold plan zijn alle kosten 100% gedekt.
+#### Intensive care
 
-#### HIV/AIDS Treatment
+Intensive care provides coverage for treatment in an intensive care unit when medically necessary. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-De behandeling voor HIV/AIDS. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+#### Doctor's fees (surgeon, anaesthetist)
 
-#### Parent Accommodation
+Doctor's fees cover the professional charges for surgeons, anaesthetists, and other physicians providing services during hospitalization. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-De vergoeding voor verblijfskosten van één ouder bij een opgenomen kind jonger dan 16 jaar. Voor het Essential plan is dit 100% gedekt tot €1.500 | $1.875 per verblijf. Voor het Bronze plan is dit 100% gedekt tot €1.500 | $1.875 per verblijf. Voor het Gold plan is dit 100% gedekt tot €1.500 | $1.875 per verblijf.
+#### Physician and therapist fees
 
-#### Out-patient Surgery
+Physician and therapist fees include charges for medical consultations and therapeutic services provided by healthcare professionals during inpatient care. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-De kosten voor dagchirurgie (zonder overnachting). Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+#### Medical devices and prostheses
 
-#### Nursing at Home
+Medical devices and prostheses cover the cost of necessary medical equipment and artificial body parts required during hospitalization. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Verpleging aan huis na een ziekenhuisopname. Voor het Essential plan is dit 80% gedekt tot €160 | $200 per dag (maximaal 60 dagen). Voor het Bronze plan is dit 80% gedekt tot €160 | $200 per dag (maximaal 60 dagen). Voor het Gold plan is dit 100% gedekt tot €200 | $250 per dag (maximaal 100 dagen).
+#### Other medical expenses (medical imaging, drugs and dressings, use of operating room, etc.)
 
-#### Local Ambulance
+Other medical expenses during hospitalization include costs for medical imaging, drugs and dressings, use of operating room, and similar necessary services. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Vervoer per ambulance naar het dichtstbijzijnde ziekenhuis. Voor het Essential plan is dit 100% gedekt tot €1.500 | $1.875. Voor het Bronze plan is dit 100% gedekt tot €1.500 | $1.875. Voor het Gold plan is dit 100% gedekt tot €4.500 | $5.625.
+#### Hospital accommodation in intensive care unit (ICU)
 
-#### Complications of Pregnancy
+Hospital accommodation in intensive care unit covers the specific costs associated with staying in an ICU facility. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-De medische kosten als gevolg van complicaties tijdens de zwangerschap. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+#### Organ transplant (excluding donor costs)
 
-#### Accident Related Dental Treatment
+Organ transplant coverage includes the medical procedures and hospitalization related to receiving an organ transplant, excluding the costs associated with the organ donor. Under the Essential plan, this is covered at 100% up to €100.000 | $125,000. Under the Bronze plan, this is covered at 100% up to €100.000 | $125,000. Under the Gold plan, this is covered at 100% up to €150.000 | $187,500.
 
-Tandheelkundige behandeling die noodzakelijk is na een ongeval, inclusief noodbehandeling en chirurgie. Voor het Essential plan is dit 100% gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+#### Kidney dialysis (excluding experimental treatments)
 
-#### Palliative Care
+Kidney dialysis provides coverage for medically necessary dialysis treatments to support kidney function, excluding any experimental or investigational treatments. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Palliatieve zorg voor terminale patiënten. Voor het Essential plan is dit 80% gedekt tot €40.000 | $50.000. Voor het Bronze plan is dit 80% gedekt tot €40.000 | $50.000. Voor het Gold plan is dit 100% gedekt tot €50.000 | $62.500.
+#### Cancer treatment (excluding experimental treatments): Hospitalisation and chemo- or radiotherapy
 
-#### Chronic and Pre-existing Conditions
+Cancer treatment for hospitalization and chemo- or radiotherapy covers the costs of inpatient cancer care including chemotherapy and radiotherapy, excluding experimental treatments. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Dekking voor chronische en reeds bestaande aandoeningen. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit gedekt (onder voorbehoud van medische acceptatie). Voor het Gold plan is dit gedekt (onder voorbehoud van medische acceptatie).
+#### Cancer treatment (excluding experimental treatments): Other costs
 
-#### Rehabilitation and Convalescence
+Cancer treatment other costs cover additional medical expenses related to cancer care beyond hospitalization and chemo- or radiotherapy, excluding experimental treatments. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Revalidatie en herstelzorg/rust wanneer de opname direct volgt op een ziekenhuisopname. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit niet gedekt. Voor het Gold plan is dit 100% gedekt (maximaal 28 dagen).
+#### HIV/AIDS treatment
 
-#### Psychiatric Care (Inpatient)
+HIV/AIDS treatment provides coverage for medical care and hospitalization related to HIV/AIDS conditions. Under the Essential plan, this is covered at 100% Up to €50.000 | Up to $62,500. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Psychiatrische zorg inclusief opname. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit niet gedekt. Voor het Gold plan is dit 100% gedekt tot €20.000 | $25.000.
+#### Parent accommodation of one parent for child under 16
 
-#### New Born
+Parent accommodation covers the lodging costs for one parent to stay near a hospitalized child under 16 years of age. Under the Essential plan, this is covered at 100% up to €1.500 | $1,875 per stay. Under the Bronze plan, this is covered at 100% up to €1.500 | $1,875 per stay. Under the Gold plan, this is covered at 100% up to €1.500 | $1,875 per stay.
 
-Dekking voor pasgeborenen. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt indien de bevalling onder deze polis valt. Voor het Gold plan is dit 100% gedekt indien de bevalling onder deze polis valt.
+#### Out-patient surgery
 
-### Pregnancy and Childbirth
+Out-patient surgery covers surgical procedures that do not require an overnight hospital stay. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-_(Een wachttijd van 10 maanden is van toepassing)_
+#### Nursing at home
 
-#### Pregnancy (Routine)
+Nursing at home provides coverage for professional nursing care received in the insured person's residence following hospitalization or for ongoing medical needs. Under the Essential plan, this is covered at 80% up to €160 | $200 per day (maximum 60 days). Under the Bronze plan, this is covered at 80% up to €160 | $200 per day (maximum 60 days). Under the Gold plan, this is covered at 100% up to €200 | $250 per day (maximum 100 days).
 
-De vergoeding voor routine zwangerschapskosten. Voor het Essential plan is dit vergoed volgens het type poliklinische behandeling (indien van toepassing). Voor het Bronze plan is dit vergoed volgens het type poliklinische behandeling. Voor het Gold plan is dit vergoed volgens het type poliklinische behandeling.
+#### Local ambulance (to nearest hospital)
 
-#### Infertility Treatment and Sterilisation
+Local ambulance covers the cost of emergency ambulance transportation to the nearest appropriate hospital. Under the Essential plan, this is covered at 100% up to €1,500 | $1,875. Under the Bronze plan, this is covered at 100% up to €1,500 | $1,875. Under the Gold plan, this is covered at 100% up to €4,500 | $5,625.
 
-Behandeling voor onvruchtbaarheid (zoals IVF, ICSI, AI) en sterilisatie. Er geldt een limiet per levensduur. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit niet gedekt. Voor het Gold plan is dit 100% gedekt tot maximaal €16.800 | $21.000 (4 x €4.200 | $5.250).
+#### Complications of pregnancy
 
-#### Childbirth (Without Complications)
+Complications of pregnancy covers medical treatment required for pregnancy-related complications that necessitate hospitalization or medical intervention. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Dekking voor een bevalling zonder complicaties. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 80% gedekt tot €7.500 | $9.375. Voor het Gold plan is dit 100% gedekt tot €10.000 | $12.500.
+#### Accident related dental treatment: Emergency dental treatment and Dental surgery
 
-#### Childbirth (With Complications)
+Accident related dental treatment provides coverage for emergency dental care and dental surgery required as a result of an accident. Under the Essential plan, this is covered at 100%. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-Dekking voor een bevalling met complicaties. Voor het Essential plan valt dit onder de "Complications of Pregnancy" dekking in het Hospitalisation Plan (indien gedekt). Voor het Bronze plan valt dit onder de "Complications of Pregnancy" dekking. Voor het Gold plan valt dit onder de "Complications of Pregnancy" dekking.
+#### Palliative care
 
-#### Kraamzorg
+Palliative care covers specialized medical care focused on providing relief from symptoms and stress of serious illness, aimed at improving quality of life. Under the Essential plan, this is covered at 80% up to €40,000 | $50,000. Under the Bronze plan, this is covered at 80% up to €40,000 | $50,000. Under the Gold plan, this is covered at 100% up to €50,000 | $62,500.
 
-Kraamzorg vanaf de 9e dag na de bevalling (de eerste 8 dagen zijn inbegrepen in de "Childbirth" vergoeding). Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 80% gedekt tot €160/dag (maximaal 60 dagen). Voor het Gold plan is dit 80% gedekt tot €160/dag (maximaal 60 dagen).
+#### Chronic and pre-existing conditions
 
-### Outpatient Treatment
+Chronic and pre-existing conditions cover ongoing medical treatment for health conditions that existed before the insurance policy began or that are long-term in nature. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Covered¹. Under the Gold plan, this is Covered¹.
 
-#### Doctor's Fees (Generalist, Specialist)
+#### Rehabilitation and convalescence rest/care (when the admission immediately follows hospitalisation)
 
-De honoraria voor huisartsen en specialisten. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+Rehabilitation and convalescence rest or care provides coverage for recovery services and rest care that immediately follows a hospitalization. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Not covered. Under the Gold plan, this is covered at 100% (max. 28 days).
 
-#### Diagnostic Tests, Lab Tests, Medical Imaging
+#### Psychiatric care
 
-Diagnostische tests, laboratoriumonderzoek en medische beeldvorming (röntgen, MRI, CT-scans). Voor het Essential plan is dit niet gedekt (impliciet uit context "Inpatient only"). Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+Psychiatric care covers inpatient treatment for mental health conditions requiring hospitalization. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Not covered. Under the Gold plan, this is covered at 100% up to €20,000 | $25,000.
 
-#### Prescribed Drugs
+#### New born²
 
-Vergoeding voor voorgeschreven medicijnen. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+New born coverage provides medical care for newborn children when specific enrollment conditions are met. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100% if the childbirth is covered under this policy. Under the Gold plan, this is covered at 100% if the childbirth is covered under this policy.
+
+### PREGNANCY AND CHILDBIRTH (a waiting period of 10 months is applied)
+
+#### Pregnancy
+
+Pregnancy coverage includes outpatient medical care and monitoring during pregnancy, subject to a 10 month waiting period. Under the Essential plan, this is Not covered. Under the Bronze plan, Reimbursement according to type of outpatient treatment. Under the Gold plan, Reimbursement according to type of outpatient treatment.
+
+#### Infertility treatment and sterilisation (IVF, ICSI, AI and all similar treatments) (limit per lifetime)
+
+Infertility treatment and sterilisation covers assisted reproductive technologies including IVF, ICSI, AI and all similar treatments, with a lifetime maximum limit. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Not covered. Under the Gold plan, this is covered at 100 % up to max. €16,800 | $21,000 (4 x €4,200 | $5,250).
+
+#### Childbirth (without complications)
+
+Childbirth without complications covers the medical costs associated with normal delivery that does not involve complications. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 80% up to €7.500 | $9,375. Under the Gold plan, this is covered at 100% up to €10.000 | $12,500.
+
+#### Childbirth (with complications)
+
+Childbirth with complications covers the medical costs when delivery involves complications requiring additional medical intervention. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Covered under "Complications of Pregnancy" Benefit in the Hospitalisation Plan. Under the Gold plan, this is Covered under "Complications of Pregnancy" Benefit in the Hospitalisation Plan.
+
+#### Kraamzorg, from the 9th day following the childbirth (The first 8 days are included in your "Childbirth" benefit)
+
+Kraamzorg coverage provides postnatal maternity care from the 9th day following childbirth, as the first 8 days are included in the Childbirth benefit. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 80% up to €160 / day (maximum 60 days). Under the Gold plan, this is covered at 80% up to €160 / day (maximum 60 days).
+
+### OUTPATIENT TREATMENT
+
+#### Doctor's fees (generalist, specialist)
+
+Doctor's fees for outpatient treatment cover consultations with general practitioners and specialist physicians conducted outside of hospital admission. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
+
+#### Diagnostic tests, lab tests, medical imaging (x-ray, MRI- & CT- scans)
+
+Diagnostic tests, lab tests, and medical imaging cover outpatient diagnostic procedures including x-rays, MRI scans, CT scans, and laboratory testing. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
+
+#### Prescribed drugs
+
+Prescribed drugs cover the cost of medications prescribed by a physician for outpatient treatment. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
 #### Physiotherapy
 
-Fysiotherapie behandelingen. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt tot €1.000 | $1.250. Voor het Gold plan is dit 100% gedekt tot €3.000 | $3.750.
+Physiotherapy covers outpatient physical therapy treatments prescribed by a physician for rehabilitation or pain management. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100% up to €1,000 | $1,250. Under the Gold plan, this is covered at 100% up to €3,000 | $3,750.
 
-#### Preventive Care & Wellbeing Benefit
+#### Preventive care & well-being benefit: Check-up, Eye test, Mammogram, Pap-smear test, PSA-test
 
-Preventieve zorg inclusief check-up, oogtest, mammogram, uitstrijkje en PSA-test. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt tot €300 | $375. Voor het Gold plan is dit 100% gedekt tot €1.000 | $1.250.
+Preventive care and well-being benefit covers routine health screenings and preventive tests including check-ups, eye tests, mammograms, pap-smear tests, and PSA-tests. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100% up to €300 | $375. Under the Gold plan, this is covered at 100% up to €1,000 | $1,250.
 
 #### Vaccinations
 
-Vergoeding voor vaccinaties. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt tot €200 | $250. Voor het Gold plan is dit 100% gedekt tot €600 | $750.
+Vaccinations cover the cost of immunizations and vaccines administered as preventive care or as medically necessary. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100% up to €200 | $250. Under the Gold plan, this is covered at 100% up to €600 | $750.
 
-#### Alternative Medicines
+#### Alternative medicines such as homeopathy, acupuncture, chiropractic and osteopathy
 
-Alternatieve geneeswijzen zoals homeopathie, acupunctuur, chiropraxie en osteopathie. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt tot €500 | $625. Voor het Gold plan is dit 100% gedekt tot €3.000 | $3.750.
+Alternative medicines coverage includes treatments such as homeopathy, acupuncture, chiropractic and osteopathy when prescribed or recommended by a medical professional. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100 % up to €500 | $625. Under the Gold plan, this is covered at 100% up to €3,000 | $3,750.
 
-#### Therapy (Ergotherapy, Logopaedics, Speech Therapy)
+#### Therapy: Ergotherapy, Logopaedics and/or Speech therapy, Psychiatric outpatient care
 
-Therapieën zoals ergotherapie en logopedie/spraaktherapie. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit niet gedekt. Voor het Gold plan is dit 50% gedekt tot €2.000 | $2.500.
+Therapy coverage includes outpatient therapeutic services such as ergotherapy, logopaedics and/or speech therapy, and psychiatric outpatient care. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Not covered. Under the Gold plan, this is covered at 50% up to €2,000 | $2,500.
 
-#### Psychiatric Outpatient Care
+#### HIV/AIDS treatment
 
-Psychiatrische zorg zonder opname. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt. Voor het Gold plan is dit 100% gedekt.
+HIV/AIDS treatment for outpatient care covers medical services and medications for managing HIV/AIDS on an outpatient basis. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100%. Under the Gold plan, this is covered at 100%.
 
-### Prostheses & Medical Aids
+#### Psychiatric care
 
-#### Medical Aids
+Psychiatric care for outpatient treatment covers mental health services provided outside of hospital admission. Under the Essential plan, this is Not covered. Under the Bronze plan, this is Not covered. Under the Gold plan, see Outpatient Treatment Therapies.
 
-Medische hulpmiddelen zoals gehoorapparaten en orthopedische apparatuur. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt tot €1.500 | $1.875. Voor het Gold plan is dit 100% gedekt tot €3.000 | $3.750.
+### PROSTHESES
 
-### Vision
+#### Medical aids (e.g. hearing aids and orthopaedic appliances)
 
-#### Vision Care
+Medical aids cover the cost of assistive devices such as hearing aids and orthopaedic appliances that are medically necessary. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100% up to €1,500 | $1,875. Under the Gold plan, this is covered at 100% up to €3,000 | $3,750.
 
-Zorg voor het gezichtsvermogen, inclusief brillen, monturen en contactlenzen. Voor het Essential plan is dit niet gedekt. Voor het Bronze plan is dit 100% gedekt tot €100 | $125. Voor het Gold plan is dit 100% gedekt tot €300 | $375.
+### VISION
+
+#### Vision care (glasses, frames, contact lenses)
+
+Vision care covers the cost of corrective eyewear including glasses, frames, and contact lenses. Under the Essential plan, this is Not covered. Under the Bronze plan, this is covered at 100% up to €100 | $125. Under the Gold plan, this is covered at 100% up to €300 | $375.
+
+## EVACUATION IN THE EVENT OF ACCIDENT, ILLNESS AND UNEXPECTED EVENTS
+
+### Evacuation assistance:
+
+#### Organisation and handling/taking care of return of Beneficiary or transportation towards a hospital
+
+Organisation and handling or taking care of return of Beneficiary or transportation towards a hospital covers the actual costs of arranging and executing medical evacuation when medically necessary.
+
+#### Reimbursement of accommodation costs and those incurred by an insured person accompanying the latter
+
+Reimbursement of accommodation costs and those incurred by an insured person accompanying the beneficiary during evacuation is covered in the limit, per day and per insured person, of €104 | $130 for 7 days maximum.
+
+#### Organisation and handling/taking care of return for an insured person accompanying the beneficiary
+
+Organisation and handling or taking care of return for an insured person accompanying the beneficiary covers actual costs, in the limit of a ticket (1st class train ticket and/or economy class air fare).
+
+### HOSPITALISATION IN SITU:
+
+#### Payment of costs allowing/enabling a family member of Beneficiary to visit the latter: Return journey
+
+Payment of costs allowing or enabling a family member of Beneficiary to visit the latter for the return journey covers actual costs, in the limit of a ticket (1st class train ticket and/or economy class plane).
+
+#### Payment of costs allowing/enabling a family member of Beneficiary to visit the latter: Accommodation costs up until repatriation of the beneficiary
+
+Payment of costs for accommodation for a family member visiting a hospitalized beneficiary is covered in the limit, per day, of €104 | $130 for 7 days maximum.
+
+### MEDICATION
+
+#### Dispatch of medication
+
+Dispatch of medication covers the shipping costs for sending necessary medications to the insured person.
+
+### EARLY RETURN
+
+#### Assistance for early return organisation and handling/taking care of transportation costs
+
+Assistance for early return organisation and handling or taking care of transportation costs covers actual costs, in the limit of a ticket (1st class train ticket and/or economy class plane).
+
+### EMERGENCY HOSPITALISATION FEES
+
+#### Emergency hospitalisation fees in case hospitalisation of over 3 days abroad: Advance payment of hospital costs
+
+Emergency hospitalisation fees in case of hospitalisation of over 3 days abroad, including advance payment of hospital costs, are covered in the aforementioned limits, per insured person and per insurance period, in the limits of costs guaranteed by the insurer Allianz, costs which are incurred exclusively under the control of Mondial Assistance.
+
+## ASSISTANCE IN CASE OF DEATH
+
+#### Assistance in case of death of an insured person: Transportation of the deceased and Funeral costs
+
+Assistance in case of death of an insured person covers transportation of the deceased at actual cost and funeral costs in the limit per insured person of €2,390 | $2,987.
+
+### Footnotes:
+
+1. Acceptance of your application is subject to a medical questionnaire and approval by our Medical Advisory Board.
+
+2. Enrollment of newborns:
+   - Essential plan: New-born children can be enrolled subject to the completion of a medical questionnaire and approval by our Medical Advisory Board.
+   - Bronze and Gold Plans: New-borns whose birth is covered under this policy can be enrolled if registered within 2 months of delivery. For all other cases, enrollment is subject to the completion of a medical questionnaire and approval by our Medical Advisory Board.
+
+## Additional Insurance
+
+### DENTAL PLAN
+
+Persons insured under the core plan can also apply for dental care as an additional insurance:
+
+#### Maximum annual reimbursement per insured
+
+The maximum annual reimbursement per insured for dental coverage represents the total amount that can be claimed within one calendar year. Under the Dental 1 plan, this is €3,000 | $3,750. Under the Dental 2 plan, this is €5,000 | $6,250.
+
+#### Basic dental care (check-ups, basic treatments)
+
+Basic dental care covers routine dental check-ups and basic dental treatments. Under the Dental 1 plan, this is covered at 80% up to €1,500 | $1,875. Under the Dental 2 plan, this is covered at 100% up to €2,500 | $3,125.
+
+#### Major dentistry (orthodontic, prostheses, bridges, implants)
+
+Major dentistry covers more extensive dental procedures including orthodontic treatment, prostheses, bridges, and implants. Orthodontic treatment is only covered if started before age 15. A waiting period of 12 months applies to all major dentistry for individuals. Under the Dental 1 plan, this is covered at 60% up to €1,500 | $1,875. Under the Dental 2 plan, this is covered at 80% up to €2,500 | $3,125.
+
+### LIFE COVER
+
+This insurance can be taken out as an additional insurance to the core Medical and Assistance plan and guarantees the payment of a lump sum in case of death due to any cause.
+
+#### Why?
+
+Choose between a minimum sum of €50,000 | $65,000 and a maximum sum of €500,000 | $625,000. In the unfortunate event of the insured's death, this lump sum amount will be paid out to the designated beneficiary, offering protection and financial support to the family.
+
+### ACCIDENTAL DEATH AND INVALIDITY
+
+This insurance can be taken out as an additional insurance to the core Medical and Assistance plan, and guarantees the payment of a lump sum in case of accidental death or in case of permanent invalidity caused by an accident.
+
+#### Why?
+
+In the event of an accident, accidental death and invalidity insurance provides your family financial protection in the form of a lump sum.
+
+The amount of the lump sum is chosen by the insured member and shall be between a minimum of €50,000 | $62,500 and a maximum of €500.000 | $625,000.
+
+In case of death caused by an accident, the beneficiary will be paid a lump sum of the amount insured. In case of permanent invalidity of the insured caused by an accident, the lump sum payable to the insured member will be equal to the amount of the sum insured multiplied by the degree of invalidity.
+
+### TEMPORARY INCAPACITY
+
+This insurance can be taken out as an additional insurance on top of the medical and assistance plan, and guarantees payment of a monthly allowance in case the insured is totally unable to perform his/her professional activities because of illness or accident.
+
+#### Why?
+
+If you cannot work as a result of an illness or injury, Temporary Incapacity insurance provides you with a monthly allowance. This replacement income offers you and your family the financial support needed following such an event.
+
+Paid out in the form of a monthly allowance during a maximum period of 2 years, this cover can be taken out by expatriated employees. A minimum monthly allowance of €1,000 | $1,250 and a maximum monthly allowance of €10,000 / $12,500 can be insured. The amount insured cannot exceed 80% of the insured's gross (monthly) salary, nor can it exceed an amount of €10,000 | $12,500 per month.
+
+### PERMANENT DISABILITY
+
+This insurance can only be taken out as a supplement to the Temporary Incapacity insurance and guarantees the payment of a monthly allowance to the Insured who is affected by a permanent disability caused by illness or accident, prohibiting him/her from fully or partially continuing his/her professional occupation, therefore leading to a total or partial loss of income.
+
+#### Why?
+
+Permanent Disability insurance provides you with a monthly allowance following an accident or illness that leaves you unable to resume work.
+
+You determine the insured amount, which cannot exceed a maxmium of 80% of your gross monthly salary and which should fall between a minimum of €1,000 | $1,250 and a maximum of €10.000 | $12,500. Benefits will be paid no later than the end of the month in which the insured:
+
+- Reaches the age of 65
+- Deceases
+- Resumes work
+
+The amount of the monthly allowance is calculated on the degree or extent to which the insured is disabled and as follows:
+
+- No benefits will be due for disabilities of less than 33.33%
+- If the degree of disability is situated between 33.33% and 66.67%, then the amount of the disability allowance will be proportional to the actual disability.
+- If the degree of disability exceeds 66.67%, the amount of the disability allowance will be equal to the amount of the insured allowance.
+
+#### Additional lump sum benefit if the assistance of a third person is required
+
+If from the beginning of the disability, the degree of Permanent Disability exceeds 66.67% and if the Insured, from the beginning of the disability, requires the assistance of a third person in order to perform the following daily activities:
+
+- Feeding oneself
+- Dressing oneself
+- Washing oneself
+- Using the toilet or bedside commode
+- Moving around (transferring from a bed to a chair or vide-versa, and ability to move on level surfaces)
+
+the insurer will pay a one-off additional benefit of €25.000 | $31,250 to the insured.
+
+## Contact us
+
+If you need additional information, please contact us:
+
+**JoHo Insurances**  
+Stationsweg 2  
+D, 2312 AV Leiden  
+THE NETHERLANDS
+
+Email: contact@johoinsurances.org
 
 ---
 
-## Evacuation & Assistance
+**Henner**
 
-_Geldig voor alle plannen in geval van ongeval, ziekte en onverwachte gebeurtenissen._
-
-#### Evacuation Assistance
-
-De organisatie en afhandeling van de terugkeer van de begunstigde of vervoer naar een ziekenhuis. Inclusief vergoeding van accommodatiekosten en kosten gemaakt door een verzekerde die de begunstigde vergezelt. De dekking betreft de werkelijke kosten ("Actual costs").
-
-#### Hospitalisation In Situ (Family Visit)
-
-Betaling van kosten om een familielid van de begunstigde de laatstgenoemde te laten bezoeken (heen- en terugreis en accommodatiekosten tot aan repatriëring). De reiskosten zijn gedekt op basis van werkelijke kosten (1e klas trein of economy class vliegtuig). De accommodatie is gedekt tot een limiet van €104 | $130 per dag voor maximaal 7 dagen.
-
-#### Dispatch of Medication
-
-Verzendkosten voor medicijnen. Dit wordt vergoed op basis van werkelijke kosten ("Actual costs").
-
-#### Early Return
-
-Assistentie voor de organisatie en afhandeling van transportkosten voor een vervroegde terugkeer. Dit wordt vergoed op basis van werkelijke kosten (1e klas trein of economy class vliegtuig).
-
-#### Emergency Hospitalisation Fees
-
-Spoedeisende ziekenhuisopnamekosten in geval van opname van meer dan 3 dagen in het buitenland, inclusief vooruitbetaling van ziekenhuiskosten. Deze kosten zijn gedekt binnen de limieten van de kosten gegarandeerd door de verzekeraar Allianz en uitsluitend onder controle van Mondial Assistance.
-
-#### Assistance in Case of Death
-
-Assistentie in geval van overlijden van een verzekerde. Transport van de overledene wordt vergoed op basis van werkelijke kosten. Begrafeniskosten zijn gedekt tot een limiet van €2.390 | $2.987 per verzekerde.
-
----
-
-## Additional Insurance Options
-
-_Deze verzekeringen kunnen aanvullend worden afgesloten._
-
-### Dental Plan
-
-#### Maximum Annual Reimbursement (Dental)
-
-De maximale jaarlijkse vergoeding per verzekerde voor tandzorg. Voor Dental 1 is de limiet €3.000 | $3.750. Voor Dental 2 is de limiet €5.000 | $6.250.
-
-#### Basic Dental Care
-
-Dekking voor basis tandzorg, zoals controles en basisbehandelingen. Voor Dental 1 is dit 80% gedekt tot €1.500 | $1.875. Voor Dental 2 is dit 100% gedekt tot €2.500 | $3.125.
-
-#### Major Dentistry
-
-Dekking voor ingrijpende tandheelkunde zoals orthodontie, protheses, bruggen en implantaten. Orthodontie is alleen gedekt indien gestart voor de leeftijd van 15 jaar. Er geldt een wachttijd van 12 maanden voor alle ingrijpende tandheelkunde. Voor Dental 1 is dit 60% gedekt tot €1.500 | $1.875. Voor Dental 2 is dit 80% gedekt tot €2.500 | $3.125.
-
-### Life Cover
-
-Deze verzekering garandeert de uitbetaling van een bedrag ineens in geval van overlijden door welke oorzaak dan ook. U kunt kiezen tussen een minimumbedrag van €50.000 | $65.000 en een maximumbedrag van €500.000 | $625.000.
-
-### Accidental Death and Invalidity
-
-Deze verzekering garandeert de uitbetaling van een bedrag ineens in geval van overlijden door een ongeval of blijvende invaliditeit door een ongeval. Het verzekerde bedrag ligt tussen minimaal €50.000 | $62.500 en maximaal €500.000 | $625.000. Bij overlijden wordt het volledige bedrag uitgekeerd; bij blijvende invaliditeit een bedrag evenredig aan de mate van invaliditeit.
-
-### Temporary Incapacity
-
-Deze verzekering biedt een maandelijkse uitkering indien de verzekerde door ziekte of ongeval volledig niet in staat is zijn/haar beroepswerkzaamheden uit te voeren. De dekking geldt voor maximaal 2 jaar. U kunt een maandelijkse uitkering verzekeren van minimaal €1.000 | $1.250 tot maximaal €10.000 | $12.500. Het bedrag mag niet hoger zijn dan 80% van het bruto maandsalaris.
-
-### Permanent Disability
-
-Deze verzekering kan alleen als aanvulling op de 'Temporary Incapacity' worden afgesloten. Het biedt een maandelijkse uitkering bij blijvende invaliditeit door ziekte of ongeval.
-
-- **Verzekerd bedrag:** Minimaal €1.000 | $1.250 en maximaal €10.000 | $12.500 (max 80% van bruto maandsalaris).
-- **Uitkering:** Geen uitkering bij invaliditeit minder dan 33,33%. Proportionele uitkering bij invaliditeit tussen 33,33% en 66,67%. Volledige uitkering bij invaliditeit boven 66,67%.
-- **Aanvullende uitkering:** Een eenmalige uitkering van €25.000 | $31.250 indien de invaliditeit >66,67% is én hulp van een derde nodig is voor dagelijkse activiteiten (eten, kleden, wassen, toiletgebruik, verplaatsen).
+Henner - Simplified private joint stock company - Registered capital of € 8,212,500 - RCS Nanterre 323 377 739 - VAT No. FR 48323377739 - Headquarters: 14 boulevard du General Leclerc, 92200 Neuilly-sur-Seine, France - www.henner.com - For France and Europe only: Registered in France with ORIAS under No. 07.002.039 and regulated by the ACPR (4 Place de Budapest - CS 92459 - 75436 Paris Cedex 09, www.acpr.banque-france.fr)
