@@ -1,0 +1,66 @@
+[
+  {
+    "Region": "Europa",
+    "Coverage": "Standaard - Extra pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€25,25"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Standaard - All-In pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€46,20"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super - Extra pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€36,50"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super - All-In pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€57,45"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Standaard - Extra pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€38,25"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Standaard - All-In pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€62,70"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super - Extra pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€50,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super - All-In pakket",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€74,45"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "Region": "Europa",
+    "Coverage": "Standaard - Basis",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€25,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Standaard - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€31,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Standaard - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€36,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super - Basis",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€35,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€42,50"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€49,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super+ - Basis",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€42,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super+ - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€50,00"
+  },
+  {
+    "Region": "Europa",
+    "Coverage": "Super+ - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€56,50"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Standaard - Basis",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€30,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Standaard - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€37,50"
+  },
+  {
+    "Region": "Wereld incl VS",
+    "Coverage": "Standaard - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€41,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Standaard - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€44,00"
+  },
+  {
+    "Region": "Wereld incl VS",
+    "Coverage": "Standaard - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€48,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super - Basis",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€40,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€49,50"
+  },
+  {
+    "Region": "Wereld incl VS",
+    "Coverage": "Super - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€54,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€58,00"
+  },
+  {
+    "Region": "Wereld incl VS",
+    "Coverage": "Super - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€64,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super+ - Basis",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€48,00"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super+ - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€58,00"
+  },
+  {
+    "Region": "Wereld incl VS",
+    "Coverage": "Super+ - Extra",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€62,50"
+  },
+  {
+    "Region": "Wereld",
+    "Coverage": "Super+ - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€66,50"
+  },
+  {
+    "Region": "Wereld incl VS",
+    "Coverage": "Super+ - All-in",
+    "Min Age": 0,
+    "Max Age": 100,
+    "Deductible": 100,
+    "Premium": "€72,50"
+  }
+]

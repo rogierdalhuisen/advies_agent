@@ -1,0 +1,114 @@
+[
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "0",
+    "Max Age": "17",
+    "Deductible": 100,
+    "Premium": "€ 45,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "0",
+    "Max Age": "17",
+    "Deductible": 100,
+    "Premium": "€ 60,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "18",
+    "Max Age": "29",
+    "Deductible": 100,
+    "Premium": "€ 50,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "18",
+    "Max Age": "29",
+    "Deductible": 100,
+    "Premium": "€ 60,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "30",
+    "Max Age": "34",
+    "Deductible": 100,
+    "Premium": "€ 55,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "30",
+    "Max Age": "34",
+    "Deductible": 100,
+    "Premium": "€ 70,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "35",
+    "Max Age": "39",
+    "Deductible": 100,
+    "Premium": "€ 60,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "35",
+    "Max Age": "39",
+    "Deductible": 100,
+    "Premium": "€ 80,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "40",
+    "Max Age": "44",
+    "Deductible": 100,
+    "Premium": "€ 70,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "40",
+    "Max Age": "44",
+    "Deductible": 100,
+    "Premium": "€ 100,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "45",
+    "Max Age": "49",
+    "Deductible": 100,
+    "Premium": "€ 85,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "45",
+    "Max Age": "49",
+    "Deductible": 100,
+    "Premium": "Nvt"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld excl VS",
+    "Min Age": "50",
+    "Max Age": "54",
+    "Deductible": 100,
+    "Premium": "€ 100,50"
+  },
+  {
+    "Coverage": "Basis",
+    "Region": "Wereld incl VS",
+    "Min Age": "50",
+    "Max Age": "54",
+    "Deductible": 100,
+    "Premium": "Nvt"
+  }
+]
