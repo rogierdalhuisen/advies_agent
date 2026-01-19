@@ -12,8 +12,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
-    "Premium": 831.3932165271534
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -21,14 +37,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 769.0387252876169
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 769.0387252876169
   },
   {
@@ -52,8 +60,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
-    "Premium": 1068.9341355349115
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -61,14 +85,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 988.7640753697933
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 988.7640753697933
   },
   {
@@ -92,8 +108,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
-    "Premium": 2216.1170443900255
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -101,14 +133,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 2049.9082660607737
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 2049.9082660607737
   },
   {
@@ -132,8 +156,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
-    "Premium": 933.3351640577305
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -141,14 +181,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 863.3350267534009
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 863.3350267534009
   },
   {
@@ -172,8 +204,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
-    "Premium": 1200.0023537885108
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -181,14 +229,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 1110.0021772543728
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 1110.0021772543728
   },
   {
@@ -212,8 +252,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
-    "Premium": 2487.848017135397
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -221,14 +277,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 2301.259415850242
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 2301.259415850242
   },
   {
@@ -252,8 +300,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
-    "Premium": 1021.6848519175644
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -261,14 +325,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 945.0584880237469
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 945.0584880237469
   },
   {
@@ -292,8 +348,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
-    "Premium": 1313.5948096082973
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -301,14 +373,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 1215.0751988876748
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 1215.0751988876748
   },
   {
@@ -332,8 +396,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
-    "Premium": 2723.3481935147174
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -341,14 +421,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 2519.0970790011147
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 2519.0970790011147
   },
   {
@@ -372,8 +444,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
-    "Premium": 1284.468538885275
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -381,14 +469,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 1188.1333984688795
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 1188.1333984688795
   },
   {
@@ -412,8 +492,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
-    "Premium": 1651.459549995354
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -421,14 +517,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 1527.6000837457022
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 1527.6000837457022
   },
   {
@@ -452,8 +540,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
-    "Premium": 3423.8102565916743
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -461,14 +565,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 3167.0244873472993
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 3167.0244873472993
   },
   {
@@ -492,8 +588,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
-    "Premium": 1375.0836033568996
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -501,14 +613,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 1271.952333105132
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 1271.952333105132
   },
   {
@@ -532,8 +636,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
-    "Premium": 1767.9646328874423
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -541,14 +661,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 1635.3672854208844
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 1635.3672854208844
   },
   {
@@ -572,8 +684,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
-    "Premium": 3665.348899032004
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -581,14 +709,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 3390.4477316046036
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 3390.4477316046036
   },
   {
@@ -612,8 +732,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
-    "Premium": 1458.902537993152
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -621,14 +757,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 1349.4848476436657
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 1349.4848476436657
   },
   {
@@ -652,8 +780,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
-    "Premium": 1875.7318345626238
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -661,14 +805,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 1735.0519469704273
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 1735.0519469704273
   },
   {
@@ -692,8 +828,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
-    "Premium": 3888.772143289309
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -701,14 +853,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 3597.1142325426113
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 3597.1142325426113
   },
   {
@@ -732,8 +876,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
-    "Premium": 1751.13612091414
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -741,14 +901,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 1619.80091184558
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 1619.80091184558
   },
   {
@@ -772,8 +924,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
-    "Premium": 2251.460726889609
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -781,14 +949,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 2082.6011723728884
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 2082.6011723728884
   },
   {
@@ -812,8 +972,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
-    "Premium": 4667.734265159372
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -821,14 +997,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 4317.65419527242
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 4317.65419527242
   },
   {
@@ -852,8 +1020,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
-    "Premium": 2451.1374939574384
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -861,14 +1045,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 2267.30218191063
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 2267.30218191063
   },
   {
@@ -892,8 +1068,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
-    "Premium": 3151.462492230992
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -901,14 +1093,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 2915.1028053136683
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 2915.1028053136683
   },
   {
@@ -932,8 +1116,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
-    "Premium": 6533.62027801092
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -941,14 +1141,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 6043.598757160102
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 6043.598757160102
   },
   {
@@ -972,8 +1164,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
-    "Premium": 2800.0054921731926
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -981,14 +1189,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 2590.0050802602027
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 2590.0050802602027
   },
   {
@@ -1012,8 +1212,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
-    "Premium": 3600.0070613655325
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -1021,14 +1237,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 3330.0065317631183
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 3330.0065317631183
   },
   {
@@ -1052,8 +1260,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
-    "Premium": 7463.54405140619
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -1061,14 +1285,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 6903.7782475507265
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 6903.7782475507265
   },
   {
@@ -1092,8 +1308,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
-    "Premium": 3837.547980373291
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -1101,14 +1333,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 3549.7318818452936
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 3549.7318818452936
   },
   {
@@ -1132,8 +1356,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
-    "Premium": 4933.990260479947
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -1141,14 +1381,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 4563.940990943952
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 4563.940990943952
   },
   {
@@ -1172,8 +1404,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
-    "Premium": 10229.161507347966
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -1181,14 +1429,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 9461.974394296869
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 9461.974394296869
   },
   {
@@ -1212,8 +1452,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
-    "Premium": 4859.232832290855
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -1221,14 +1477,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 4494.790369869042
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 4494.790369869042
   },
   {
@@ -1252,8 +1500,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
-    "Premium": 6247.585070088243
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -1261,14 +1525,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 5779.0161898316255
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 5779.0161898316255
   },
   {
@@ -1292,8 +1548,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
-    "Premium": 12952.509700862685
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -1301,14 +1573,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 11981.071473297985
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 11981.071473297985
   },
   {
@@ -1332,8 +1596,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
-    "Premium": 6594.5113169224605
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -1341,14 +1621,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 6099.922968153278
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 6099.922968153278
   },
   {
@@ -1372,8 +1644,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
-    "Premium": 8478.657407471735
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -1381,14 +1669,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 7842.758101911357
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 7842.758101911357
   },
   {
@@ -1412,8 +1692,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
-    "Premium": 17577.974703595
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -1421,14 +1717,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 16259.626600825375
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 16259.626600825375
   },
   {
@@ -1452,8 +1740,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
-    "Premium": 8345.647437836604
+    "Premium": null
   },
   {
     "Region": "Area 1",
@@ -1461,14 +1765,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 7719.723879998859
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 7719.723879998859
   },
   {
@@ -1492,8 +1788,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
-    "Premium": 10730.11813436135
+    "Premium": null
   },
   {
     "Region": "Area 2",
@@ -1501,14 +1813,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 9925.359274284247
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 9925.359274284247
   },
   {
@@ -1532,8 +1836,24 @@
     "Coverage": "Primary Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": null
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
-    "Premium": 22245.708968754374
+    "Premium": null
   },
   {
     "Region": "Area 3",
@@ -1548,16 +1868,1880 @@
     "Coverage": "Primary Plan",
     "Min Age": "76",
     "Max Age": "80",
-    "Deductible": 1000,
-    "Premium": 20577.280796097795
+    "Deductible": 5000,
+    "Premium": 11122.854484377187
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 0,
+    "Premium": 1292.9779787631778
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 1077.4816489693148
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 969.7334840723835
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 250,
+    "Premium": 808.111236726986
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 500,
+    "Premium": 789.5920208853261
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 5000,
+    "Premium": 646.4889893815889
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 0,
+    "Premium": 1655.438236649675
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 1379.5318638747294
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 1241.5786774872565
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 250,
+    "Premium": 1034.648897906047
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 500,
+    "Premium": 1010.9381939957001
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 5000,
+    "Premium": 827.7191183248375
   },
   {
     "Region": "Area 3",
-    "Coverage": "Primary Plan",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 0,
+    "Premium": 3440.9357423056813
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 2867.446451921401
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 2580.701806729262
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 250,
+    "Premium": 2150.5848389410507
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 500,
+    "Premium": 2101.300603048652
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 5000,
+    "Premium": 1720.4678711528406
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 0,
+    "Premium": 1451.3639738060167
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 1209.4699781716806
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 1088.5229803545128
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 250,
+    "Premium": 907.1024836287605
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 500,
+    "Premium": 886.3147183789348
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 5000,
+    "Premium": 725.6819869030084
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 0,
+    "Premium": 1856.4666149732789
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 1547.0555124777322
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 1392.349961229959
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 250,
+    "Premium": 1160.2916343582992
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 500,
+    "Premium": 1133.701617737588
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 5000,
+    "Premium": 928.2333074866394
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 0,
+    "Premium": 3864.6182790452763
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 3220.515232537731
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 2898.463709283958
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 250,
+    "Premium": 2415.386424403298
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 500,
+    "Premium": 2360.033818844055
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 5000,
+    "Premium": 1932.3091395226381
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 0,
+    "Premium": 1586.9058349484467
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 1322.4215291237056
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 1190.1793762113352
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 250,
+    "Premium": 991.8161468427795
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 500,
+    "Premium": 969.0870268109653
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 5000,
+    "Premium": 793.4529174742233
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 0,
+    "Premium": 2031.6049748764185
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 1693.0041457303487
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 1523.7037311573135
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 250,
+    "Premium": 1269.7531092977613
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 500,
+    "Premium": 1240.6546005430212
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 5000,
+    "Premium": 1015.8024874382093
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 0,
+    "Premium": 4224.946417767737
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 3520.7886814731137
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 3168.7098133258023
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 250,
+    "Premium": 2640.591511104835
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 500,
+    "Premium": 2580.0779556420157
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 5000,
+    "Premium": 2112.4732088838687
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 0,
+    "Premium": 1995.054360635763
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 1662.5453005298023
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 1496.2907704768227
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 250,
+    "Premium": 1246.908975397352
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 500,
+    "Premium": 1218.3339780444958
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 5000,
+    "Premium": 997.5271803178815
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 0,
+    "Premium": 2553.974170065782
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 2128.3118083881523
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 1915.480627549337
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 250,
+    "Premium": 1596.2338562911139
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 500,
+    "Premium": 1559.6534970844423
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 5000,
+    "Premium": 1276.987085032891
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 0,
+    "Premium": 5311.87030874922
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 4426.5585906243505
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 3983.9027315619146
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 250,
+    "Premium": 3319.918942968263
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 500,
+    "Premium": 3243.837467191907
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 5000,
+    "Premium": 2655.93515437461
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 0,
+    "Premium": 2109.2750301378105
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 1757.7291917815085
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 1581.956272603358
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 250,
+    "Premium": 1318.2968938361316
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 500,
+    "Premium": 1288.085923352387
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 5000,
+    "Premium": 1054.6375150689053
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 0,
+    "Premium": 2698.653684768376
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 2248.878070640313
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 2023.9902635762814
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 250,
+    "Premium": 1686.6585529802348
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 500,
+    "Premium": 1648.0059611411045
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 5000,
+    "Premium": 1349.326842384188
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 0,
+    "Premium": 5616.763349206685
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 4680.636124338905
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 4212.572511905014
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 250,
+    "Premium": 3510.4770932541783
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 500,
+    "Premium": 3430.0286598671028
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 5000,
+    "Premium": 2808.3816746033426
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 0,
+    "Premium": 2267.661025180649
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 1889.7175209838747
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 1700.7457688854875
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 250,
+    "Premium": 1417.2881407379061
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 500,
+    "Premium": 1384.8086208459958
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 5000,
+    "Premium": 1133.8305125903246
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 0,
+    "Premium": 2902.7279476120334
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 2418.9399563433612
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 2177.0459607090256
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 250,
+    "Premium": 1814.204967257521
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 500,
+    "Premium": 1772.6294367578696
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 5000,
+    "Premium": 1451.3639738060167
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 0,
+    "Premium": 6036.48623607021
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 5030.405196725175
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 4527.3646770526575
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 250,
+    "Premium": 3772.803897543882
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 500,
+    "Premium": 3686.343808225167
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 5000,
+    "Premium": 3018.243118035105
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 0,
+    "Premium": 2721.4978186687863
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 2267.9148488906544
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 2041.123364001589
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 250,
+    "Premium": 1700.9361366679907
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 500,
+    "Premium": 1661.9563502026824
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 5000,
+    "Premium": 1360.7489093343931
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 0,
+    "Premium": 3482.9689486824354
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 2902.4741239020295
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 2612.2267115118266
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 250,
+    "Premium": 2176.8555929265217
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 500,
+    "Premium": 2126.9693189219556
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 5000,
+    "Premium": 1741.4844743412177
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 0,
+    "Premium": 7246.1592732098925
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 6038.466061008246
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 5434.61945490742
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 250,
+    "Premium": 4528.849545756184
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 500,
+    "Premium": 4425.063410332604
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 5000,
+    "Premium": 3623.0796366049462
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 0,
+    "Premium": 3810.4015345883045
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 3175.3346121569207
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 2857.8011509412286
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 250,
+    "Premium": 2381.5009591176904
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 500,
+    "Premium": 2326.9248954712425
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 5000,
+    "Premium": 1905.2007672941522
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 0,
+    "Premium": 4874.938174347388
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 4062.448478622822
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 3656.203630760541
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 250,
+    "Premium": 3046.836358967118
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 500,
+    "Premium": 2977.0130257407873
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 5000,
+    "Premium": 2437.469087173694
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 0,
+    "Premium": 10144.622982493851
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 8453.852485411542
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 7608.4672368703905
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 250,
+    "Premium": 6340.3893640586575
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 500,
+    "Premium": 6195.088774465646
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 5000,
+    "Premium": 5072.3114912469255
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 0,
+    "Premium": 4354.091921418051
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 3628.409934515042
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 3265.5689410635377
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 250,
+    "Premium": 2721.3074508862815
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 500,
+    "Premium": 2658.944155136804
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 5000,
+    "Premium": 2177.0459607090256
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 0,
+    "Premium": 5570.922787179864
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 4642.4356559832195
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 4178.192090384898
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 250,
+    "Premium": 3481.826741987414
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 500,
+    "Premium": 3402.034879150203
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 5000,
+    "Premium": 2785.461393589932
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 0,
+    "Premium": 11593.854837135832
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 9661.545697613192
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 8695.391127851874
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 250,
+    "Premium": 7246.1592732098925
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 500,
+    "Premium": 7080.101456532167
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 5000,
+    "Premium": 5796.927418567916
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 0,
+    "Premium": 5963.841890266906
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 4969.868241889089
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 4472.88141770018
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 250,
+    "Premium": 3727.401181416817
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 500,
+    "Premium": 3641.9815710093476
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 5000,
+    "Premium": 2981.920945133453
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 0,
+    "Premium": 7632.9866072568275
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 6360.822172714023
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 5724.739955442621
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 250,
+    "Premium": 4770.616629535517
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 500,
+    "Premium": 4661.2899984419955
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 5000,
+    "Premium": 3816.4933036284137
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 0,
+    "Premium": 15880.175827982666
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 13233.479856652222
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 11910.131870987001
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 250,
+    "Premium": 9925.109892489167
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 500,
+    "Premium": 9697.659457452955
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 5000,
+    "Premium": 7940.087913991333
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 0,
+    "Premium": 7550.747725215354
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 6292.2897710127945
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 5663.060793911514
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 250,
+    "Premium": 4719.217328259596
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 500,
+    "Premium": 4611.068597820314
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 5000,
+    "Premium": 3775.373862607677
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 0,
+    "Premium": 9664.591582133244
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 8053.826318444372
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 7248.443686599936
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 250,
+    "Premium": 6040.3697388332785
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 500,
+    "Premium": 5901.9445989850165
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 5000,
+    "Premium": 4832.295791066622
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 0,
+    "Premium": 20107.102070688437
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 16755.918392240364
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 15080.32655301633
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 250,
+    "Premium": 12566.938794180274
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 500,
+    "Premium": 12278.946446813641
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 5000,
+    "Premium": 10053.551035344219
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 0,
+    "Premium": 10249.401409983726
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 8541.167841653107
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 7687.051057487796
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 250,
+    "Premium": 6405.875881239832
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 500,
+    "Premium": 6259.074558961418
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 5000,
+    "Premium": 5124.700704991863
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 0,
+    "Premium": 13118.62462787516
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 10932.187189895969
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 9838.968470906371
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 250,
+    "Premium": 8199.140392421978
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 500,
+    "Premium": 8011.24342509564
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 5000,
+    "Premium": 6559.31231393758
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 0,
+    "Premium": 27295.846420695307
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 22746.538683912753
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 20471.884815521473
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 250,
+    "Premium": 17059.904012934563
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 500,
+    "Premium": 16668.947879304815
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 5000,
+    "Premium": 13647.923210347653
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 0,
+    "Premium": 12970.899228652514
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 10809.082690543763
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 9728.174421489386
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 250,
+    "Premium": 8106.812017907821
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 500,
+    "Premium": 7921.030909164101
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS lite Plan",
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 5000,
-    "Premium": 11122.854484377187
+    "Premium": 6485.449614326257
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 0,
+    "Premium": 16601.5935765576
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 13834.661313798
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 12451.1951824182
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 250,
+    "Premium": 10375.9959853485
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 500,
+    "Premium": 10138.212744017594
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 5000,
+    "Premium": 8300.7967882788
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 0,
+    "Premium": 34542.005693905194
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 28785.004744921
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 25906.5042704289
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 250,
+    "Premium": 21588.753558690743
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 500,
+    "Premium": 21094.011289637412
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS lite Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 5000,
+    "Premium": 17271.002846952597
   },
   {
     "Region": "Area 1",
@@ -1566,6 +3750,22 @@
     "Max Age": "18",
     "Deductible": 0,
     "Premium": 1616.2224734539723
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 1346.8520612116436
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 1212.1668550904792
   },
   {
     "Region": "Area 1",
@@ -1581,14 +3781,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 902.3908810118012
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 902.3908810118012
   },
   {
@@ -1612,6 +3804,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 1724.4148298434116
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 1551.9733468590707
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
     "Premium": 1293.3111223825588
   },
@@ -1621,14 +3829,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 1155.3579359950859
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 1155.3579359950859
   },
   {
@@ -1652,6 +3852,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 3584.308064901751
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 3225.8772584115773
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
     "Premium": 2688.2310486763135
   },
@@ -1661,14 +3877,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 2401.486403484174
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 2401.486403484174
   },
   {
@@ -1692,6 +3900,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 1511.8374727146008
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 1360.653725443141
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
     "Premium": 1133.8781045359506
   },
@@ -1701,14 +3925,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 1012.9311067187826
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 1012.9311067187826
   },
   {
@@ -1732,6 +3948,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 1933.8193905971652
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 1740.4374515374486
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
     "Premium": 1450.364542947874
   },
@@ -1741,14 +3973,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 1295.6589917001008
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 1295.6589917001008
   },
   {
@@ -1772,6 +3996,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 4025.644040672164
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 3623.079636604947
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
     "Premium": 3019.2330305041223
   },
@@ -1781,14 +4021,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 2697.181507250349
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 2697.181507250349
   },
   {
@@ -1812,6 +4044,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 1653.0269114046318
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 1487.724220264169
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
     "Premium": 1239.7701835534742
   },
@@ -1821,14 +4069,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 1107.5280306411032
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 1107.5280306411032
   },
   {
@@ -1852,6 +4092,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 2116.255182162936
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 1904.6296639466418
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
     "Premium": 1587.1913866222017
   },
@@ -1861,14 +4117,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 1417.890972049167
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 1417.890972049167
   },
   {
@@ -1892,6 +4140,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 4400.985851841392
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 3960.8872666572524
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
     "Premium": 3300.7393888810434
   },
@@ -1901,14 +4165,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 2948.6605207337325
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 2948.6605207337325
   },
   {
@@ -1932,6 +4188,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 2078.181625662253
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 1870.363463096028
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
     "Premium": 1558.63621924669
   },
@@ -1941,14 +4213,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 1392.3816891937095
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 1392.3816891937095
   },
   {
@@ -1972,6 +4236,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 2660.38976048519
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 2394.3507844366713
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
     "Premium": 1995.292320363892
   },
@@ -1981,14 +4261,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 1782.461139525077
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 1782.461139525077
   },
   {
@@ -2012,6 +4284,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 5533.198238280437
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 4979.878414452393
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
     "Premium": 4149.898678710328
   },
@@ -2021,14 +4309,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 3707.242819647893
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 3707.242819647893
   },
   {
@@ -2052,6 +4332,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 2197.1614897268855
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 1977.4453407541973
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
     "Premium": 1647.8711172951646
   },
@@ -2061,14 +4357,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 1472.0981981170137
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 1472.0981981170137
   },
   {
@@ -2092,6 +4380,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 2811.097588300391
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 2529.9878294703517
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
     "Premium": 2108.323191225293
   },
@@ -2101,14 +4405,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 1883.4353841612624
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 1883.4353841612624
   },
   {
@@ -2132,6 +4428,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 5850.79515542363
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 5265.715639881268
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
     "Premium": 4388.096366567723
   },
@@ -2141,14 +4453,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 3920.0327541338315
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 3920.0327541338315
   },
   {
@@ -2172,6 +4476,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 2362.1469012298435
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 2125.932211106859
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
     "Premium": 1771.6101759223827
   },
@@ -2181,14 +4501,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 1582.6384238239953
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 1582.6384238239953
   },
   {
@@ -2212,6 +4524,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 3023.6749454292017
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 2721.307450886282
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
     "Premium": 2267.756209071901
   },
@@ -2221,14 +4549,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 2025.8622134375653
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 2025.8622134375653
   },
   {
@@ -2252,6 +4572,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 6288.006495906468
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 5659.205846315821
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
     "Premium": 4716.004871929852
   },
@@ -2261,14 +4597,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 4212.964352257333
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 4212.964352257333
   },
   {
@@ -2292,6 +4620,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 2834.893561113318
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 2551.404205001986
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
     "Premium": 2126.1701708349883
   },
@@ -2301,14 +4645,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 1899.3786859459228
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 1899.3786859459228
   },
   {
@@ -2332,6 +4668,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 3628.0926548775365
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 3265.2833893897828
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
     "Premium": 2721.0694911581522
   },
@@ -2341,14 +4693,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 2430.8220787679493
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 2430.8220787679493
   },
   {
@@ -2372,6 +4716,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 7548.082576260305
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 6793.274318634274
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
     "Premium": 5661.06193219523
   },
@@ -2381,14 +4741,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 5057.215326094404
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 5057.215326094404
   },
   {
@@ -2412,6 +4764,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 3969.16826519615
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 3572.2514386765356
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
     "Premium": 2976.8761988971128
   },
@@ -2421,14 +4789,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 2659.34273768142
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 2659.34273768142
   },
   {
@@ -2452,6 +4812,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 5078.060598278528
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 4570.254538450676
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
     "Premium": 3808.545448708897
   },
@@ -2461,14 +4837,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 3402.300600846614
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 3402.300600846614
   },
   {
@@ -2492,6 +4860,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 10567.315606764429
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 9510.584046087988
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
     "Premium": 7925.486705073322
   },
@@ -2501,14 +4885,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 7080.1014565321675
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 7080.1014565321675
   },
   {
@@ -2532,6 +4908,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 4535.512418143802
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 4081.961176329422
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
     "Premium": 3401.6343136078517
   },
@@ -2541,14 +4933,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 3038.793320156348
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 3038.793320156348
   },
   {
@@ -2572,6 +4956,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 5803.044569979024
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 5222.740112981122
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
     "Premium": 4352.283427484268
   },
@@ -2581,14 +4981,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 3888.039861885946
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 3888.039861885946
   },
   {
@@ -2612,6 +5004,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 12076.93212201649
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 10869.238909814841
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
     "Premium": 9057.699091512366
   },
@@ -2621,14 +5029,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 8091.544521751047
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 8091.544521751047
   },
   {
@@ -2652,6 +5052,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 6212.335302361362
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 5591.101772125225
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
     "Premium": 4659.251476771022
   },
@@ -2661,14 +5077,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 4162.264652582112
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 4162.264652582112
   },
   {
@@ -2692,6 +5100,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 7951.027715892528
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 7155.924944303275
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
     "Premium": 5963.2707869193955
   },
@@ -2701,14 +5125,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 5327.188569647995
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 5327.188569647995
   },
   {
@@ -2732,6 +5148,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 16541.849820815274
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 14887.66483873375
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
     "Premium": 12406.387365611457
   },
@@ -2741,14 +5173,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 11083.039379946234
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 11083.039379946234
   },
   {
@@ -2772,6 +5196,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 7865.362213765993
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 7078.825992389392
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
     "Premium": 5899.021660324494
   },
@@ -2781,14 +5221,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 5269.792683223216
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 5269.792683223216
   },
   {
@@ -2812,6 +5244,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 10067.282898055464
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 9060.554608249919
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
     "Premium": 7550.462173541597
   },
@@ -2821,14 +5269,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 6745.079541697162
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 6745.079541697162
   },
   {
@@ -2852,6 +5292,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 20944.897990300455
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 18850.40819127041
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
     "Premium": 15708.673492725344
   },
@@ -2861,14 +5317,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 14033.081653501305
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 14033.081653501305
   },
   {
@@ -2892,6 +5340,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 10676.459802066382
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 9608.813821859745
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
     "Premium": 8007.3448515497885
   },
@@ -2901,14 +5365,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 7153.228067384478
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 7153.228067384478
   },
   {
@@ -2932,6 +5388,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 13665.23398736996
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 12298.710588632963
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
     "Premium": 10248.925490527472
   },
@@ -2941,14 +5413,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 9155.706771537874
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 9155.706771537874
   },
   {
@@ -2972,6 +5436,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 28433.17335489094
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 25589.856019401843
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
     "Premium": 21324.880016168205
   },
@@ -2981,14 +5461,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 19050.22614777693
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 19050.22614777693
   },
   {
@@ -3012,6 +5484,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 13511.353363179702
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 12160.218026861732
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
     "Premium": 10133.515022384776
   },
@@ -3021,14 +5509,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 9052.606753330401
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 9052.606753330401
   },
   {
@@ -3052,6 +5532,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 17293.3266422475
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 15563.993978022747
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
     "Premium": 12969.994981685624
   },
@@ -3061,14 +5557,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 11586.528850305822
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 11586.528850305822
   },
   {
@@ -3092,6 +5580,22 @@
     "Coverage": "Primary PLUS Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 35981.255931151245
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 32383.130338036124
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Primary PLUS Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
     "Premium": 26985.941948363426
   },
@@ -3101,14 +5605,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 24107.44147387133
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Primary PLUS Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 24107.44147387133
   },
   {
@@ -3132,6 +5628,22 @@
     "Coverage": "Select Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 2324.3906243666665
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 2091.95156193
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
     "Premium": 1743.292968275
   },
@@ -3141,14 +5653,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 1557.341718325667
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 1557.341718325667
   },
   {
@@ -3172,6 +5676,22 @@
     "Coverage": "Select Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 2877.5676723578326
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 2589.81090512205
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
     "Premium": 2158.1757542683745
   },
@@ -3181,14 +5701,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 1927.970340479748
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 1927.970340479748
   },
   {
@@ -3212,6 +5724,22 @@
     "Coverage": "Select Plan",
     "Min Age": "0",
     "Max Age": "18",
+    "Deductible": 50,
+    "Premium": 5709.938860352981
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "0",
+    "Max Age": "18",
+    "Deductible": 100,
+    "Premium": 5138.944974317683
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "0",
+    "Max Age": "18",
     "Deductible": 250,
     "Premium": 4282.454145264735
   },
@@ -3221,14 +5749,6 @@
     "Min Age": "0",
     "Max Age": "18",
     "Deductible": 500,
-    "Premium": 3825.6590364364965
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "0",
-    "Max Age": "18",
-    "Deductible": 1000,
     "Premium": 3825.6590364364965
   },
   {
@@ -3252,6 +5772,22 @@
     "Coverage": "Select Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 2566.950907239764
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 2310.2558165157884
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
     "Premium": 1925.2131804298235
   },
@@ -3261,14 +5797,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 1719.857107850642
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 1719.857107850642
   },
   {
@@ -3292,6 +5820,22 @@
     "Coverage": "Select Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 3186.4393994696184
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 2867.7954595226574
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
     "Premium": 2389.8295496022147
   },
@@ -3301,14 +5845,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 2134.9143976446453
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 2134.9143976446453
   },
   {
@@ -3332,6 +5868,22 @@
     "Coverage": "Select Plan",
     "Min Age": "19",
     "Max Age": "25",
+    "Deductible": 50,
+    "Premium": 6358.74399108836
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "19",
+    "Max Age": "25",
+    "Deductible": 100,
+    "Premium": 5722.869591979525
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "19",
+    "Max Age": "25",
     "Deductible": 250,
     "Premium": 4769.05799331627
   },
@@ -3341,14 +5893,6 @@
     "Min Age": "19",
     "Max Age": "25",
     "Deductible": 500,
-    "Premium": 4260.358474029203
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "19",
-    "Max Age": "25",
-    "Deductible": 1000,
     "Premium": 4260.358474029203
   },
   {
@@ -3372,6 +5916,22 @@
     "Coverage": "Select Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 2774.610429987237
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 2497.1493869885135
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
     "Premium": 2080.9578224904276
   },
@@ -3381,14 +5941,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 1858.9889880914488
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 1858.9889880914488
   },
   {
@@ -3412,6 +5964,22 @@
     "Coverage": "Select Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 3453.4302144306557
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 3108.0871929875907
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
     "Premium": 2590.072660822992
   },
@@ -3421,14 +5989,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 2313.7982436685397
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 2313.7982436685397
   },
   {
@@ -3452,6 +6012,22 @@
     "Coverage": "Select Plan",
     "Min Age": "26",
     "Max Age": "30",
+    "Deductible": 50,
+    "Premium": 6907.732947864451
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "26",
+    "Max Age": "30",
+    "Deductible": 100,
+    "Premium": 6216.959653078007
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "26",
+    "Max Age": "30",
     "Deductible": 250,
     "Premium": 5180.799710898338
   },
@@ -3461,14 +6037,6 @@
     "Min Age": "26",
     "Max Age": "30",
     "Deductible": 500,
-    "Premium": 4628.181075069182
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "26",
-    "Max Age": "30",
-    "Deductible": 1000,
     "Premium": 4628.181075069182
   },
   {
@@ -3492,6 +6060,22 @@
     "Coverage": "Select Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 3397.5889982296535
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 3057.8300984066886
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
     "Premium": 2548.1917486722414
   },
@@ -3501,14 +6085,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 2276.3846288138684
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 2276.3846288138684
   },
   {
@@ -3532,6 +6108,22 @@
     "Coverage": "Select Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 4249.167545294919
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 3824.2507907654285
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
     "Premium": 3186.8756589711898
   },
@@ -3541,14 +6133,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 2846.942255347596
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 2846.942255347596
   },
   {
@@ -3572,6 +6156,22 @@
     "Coverage": "Select Plan",
     "Min Age": "31",
     "Max Age": "35",
+    "Deductible": 50,
+    "Premium": 8570.579664049885
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "31",
+    "Max Age": "35",
+    "Deductible": 100,
+    "Premium": 7713.521697644896
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "31",
+    "Max Age": "35",
     "Deductible": 250,
     "Premium": 6427.934748037413
   },
@@ -3581,14 +6181,6 @@
     "Min Age": "31",
     "Max Age": "35",
     "Deductible": 500,
-    "Premium": 5742.288374913424
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "31",
-    "Max Age": "35",
-    "Deductible": 1000,
     "Premium": 5742.288374913424
   },
   {
@@ -3612,6 +6204,22 @@
     "Coverage": "Select Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 3570.3477608515013
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 3213.3129847663513
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
     "Premium": 2677.7608206386262
   },
@@ -3621,14 +6229,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 2392.132999770506
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 2392.132999770506
   },
   {
@@ -3652,6 +6252,22 @@
     "Coverage": "Select Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 4472.532410098925
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 4025.2791690890313
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
     "Premium": 3354.399307574193
   },
@@ -3661,14 +6277,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 2996.59671476628
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 2996.59671476628
   },
   {
@@ -3692,6 +6300,22 @@
     "Coverage": "Select Plan",
     "Min Age": "36",
     "Max Age": "40",
+    "Deductible": 50,
+    "Premium": 9033.363743315682
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "36",
+    "Max Age": "40",
+    "Deductible": 100,
+    "Premium": 8130.027368984112
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "36",
+    "Max Age": "40",
     "Deductible": 250,
     "Premium": 6775.02280748676
   },
@@ -3701,14 +6325,6 @@
     "Min Age": "36",
     "Max Age": "40",
     "Deductible": 500,
-    "Premium": 6052.353708021506
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "36",
-    "Max Age": "40",
-    "Deductible": 1000,
     "Premium": 6052.353708021506
   },
   {
@@ -3732,6 +6348,22 @@
     "Coverage": "Select Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 3812.9080437245993
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 3431.6172393521397
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
     "Premium": 2859.681032793449
   },
@@ -3741,14 +6373,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 2554.6483892954816
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 2554.6483892954816
   },
   {
@@ -3772,6 +6396,22 @@
     "Coverage": "Select Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 4783.149175216992
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 4304.834257695294
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
     "Premium": 3587.3618814127435
   },
@@ -3781,14 +6421,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 3204.709947395385
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 3204.709947395385
   },
   {
@@ -3812,6 +6444,22 @@
     "Coverage": "Select Plan",
     "Min Age": "41",
     "Max Age": "45",
+    "Deductible": 50,
+    "Premium": 9677.631775234728
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "41",
+    "Max Age": "45",
+    "Deductible": 100,
+    "Premium": 8709.868597711256
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "41",
+    "Max Age": "45",
     "Deductible": 250,
     "Premium": 7258.223831426047
   },
@@ -3821,14 +6469,6 @@
     "Min Age": "41",
     "Max Age": "45",
     "Deductible": 500,
-    "Premium": 6484.013289407269
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "41",
-    "Max Age": "45",
-    "Deductible": 1000,
     "Premium": 6484.013289407269
   },
   {
@@ -3852,6 +6492,22 @@
     "Coverage": "Select Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 4505.688132218268
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 4055.119318996441
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
     "Premium": 3379.2660991637017
   },
@@ -3861,14 +6517,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 3018.8110485862394
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 3018.8110485862394
   },
   {
@@ -3892,6 +6540,22 @@
     "Coverage": "Select Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 5669.628482407884
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 5102.665634167094
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
     "Premium": 4252.221361805913
   },
@@ -3901,14 +6565,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 3798.6510832132817
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 3798.6510832132817
   },
   {
@@ -3932,6 +6588,22 @@
     "Coverage": "Select Plan",
     "Min Age": "46",
     "Max Age": "50",
+    "Deductible": 50,
+    "Premium": 11524.23099348158
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "46",
+    "Max Age": "50",
+    "Deductible": 100,
+    "Premium": 10371.807894133424
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "46",
+    "Max Age": "50",
     "Deductible": 250,
     "Premium": 8643.173245111187
   },
@@ -3941,14 +6613,6 @@
     "Min Age": "46",
     "Max Age": "50",
     "Deductible": 500,
-    "Premium": 7721.234765632659
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "46",
-    "Max Age": "50",
-    "Deductible": 1000,
     "Premium": 7721.234765632659
   },
   {
@@ -3972,6 +6636,22 @@
     "Coverage": "Select Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 6168.709352204328
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 5551.838416983896
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
     "Premium": 4626.532014153247
   },
@@ -3981,14 +6661,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 4133.0352659769005
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 4133.0352659769005
   },
   {
@@ -4012,6 +6684,22 @@
     "Coverage": "Select Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 7796.829812064763
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 7017.146830858288
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
     "Premium": 5847.622359048574
   },
@@ -4021,14 +6709,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 5223.875974083392
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 5223.875974083392
   },
   {
@@ -4052,6 +6732,22 @@
     "Coverage": "Select Plan",
     "Min Age": "51",
     "Max Age": "55",
+    "Deductible": 50,
+    "Premium": 15952.43943822096
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "51",
+    "Max Age": "55",
+    "Deductible": 100,
+    "Premium": 14357.195494398868
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "51",
+    "Max Age": "55",
     "Deductible": 250,
     "Premium": 11964.32957866572
   },
@@ -4061,14 +6757,6 @@
     "Min Age": "51",
     "Max Age": "55",
     "Deductible": 500,
-    "Premium": 10688.134423608046
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "51",
-    "Max Age": "55",
-    "Deductible": 1000,
     "Premium": 10688.134423608046
   },
   {
@@ -4092,6 +6780,22 @@
     "Coverage": "Select Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 7001.092481200501
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 6300.983233080451
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
     "Premium": 5250.819360900376
   },
@@ -4101,14 +6805,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 4690.731962404336
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 4690.731962404336
   },
   {
@@ -4132,6 +6828,22 @@
     "Coverage": "Select Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 8861.302995896345
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 7975.172696306711
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
     "Premium": 6645.977246922262
   },
@@ -4141,14 +6853,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 5937.073007250552
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 5937.073007250552
   },
   {
@@ -4172,6 +6876,22 @@
     "Coverage": "Select Plan",
     "Min Age": "56",
     "Max Age": "60",
+    "Deductible": 50,
+    "Premium": 18166.54366059065
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "56",
+    "Max Age": "60",
+    "Deductible": 100,
+    "Premium": 16349.889294531584
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "56",
+    "Max Age": "60",
     "Deductible": 250,
     "Premium": 13624.90774544299
   },
@@ -4181,14 +6901,6 @@
     "Min Age": "56",
     "Max Age": "60",
     "Deductible": 500,
-    "Premium": 12171.584252595738
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "56",
-    "Max Age": "60",
-    "Deductible": 1000,
     "Premium": 12171.584252595738
   },
   {
@@ -4212,6 +6924,22 @@
     "Coverage": "Select Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 9459.851032050825
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 8513.865928845742
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
     "Premium": 7094.888274038121
   },
@@ -4221,14 +6949,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 6338.100191474054
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 6338.100191474054
   },
   {
@@ -4252,6 +6972,22 @@
     "Coverage": "Select Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 12011.096597234056
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 10809.986937510654
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
     "Premium": 9008.322447925544
   },
@@ -4261,14 +6997,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 8047.43472014682
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 8047.43472014682
   },
   {
@@ -4292,6 +7020,22 @@
     "Coverage": "Select Plan",
     "Min Age": "61",
     "Max Age": "65",
+    "Deductible": 50,
+    "Premium": 24715.845801964926
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "61",
+    "Max Age": "65",
+    "Deductible": 100,
+    "Premium": 22244.261221768433
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "61",
+    "Max Age": "65",
     "Deductible": 250,
     "Premium": 18536.8843514737
   },
@@ -4301,14 +7045,6 @@
     "Min Age": "61",
     "Max Age": "65",
     "Deductible": 500,
-    "Premium": 16559.616687316502
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "61",
-    "Max Age": "65",
-    "Deductible": 1000,
     "Premium": 16559.616687316502
   },
   {
@@ -4332,6 +7068,22 @@
     "Coverage": "Select Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 11885.453860781809
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 10696.908474703625
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
     "Premium": 8914.090395586354
   },
@@ -4341,14 +7093,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 7963.254086723812
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 7963.254086723812
   },
   {
@@ -4372,6 +7116,22 @@
     "Coverage": "Select Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 15113.774172402176
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 13602.396755161957
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
     "Premium": 11335.330629301632
   },
@@ -4381,14 +7141,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 10126.22869550946
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 10126.22869550946
   },
   {
@@ -4412,6 +7164,22 @@
     "Coverage": "Select Plan",
     "Min Age": "66",
     "Max Age": "70",
+    "Deductible": 50,
+    "Premium": 31174.405967012583
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "66",
+    "Max Age": "70",
+    "Deductible": 100,
+    "Premium": 28056.965370311318
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "66",
+    "Max Age": "70",
     "Deductible": 250,
     "Premium": 23380.804475259432
   },
@@ -4421,14 +7189,6 @@
     "Min Age": "66",
     "Max Age": "70",
     "Deductible": 500,
-    "Premium": 20886.851997898426
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "66",
-    "Max Age": "70",
-    "Deductible": 1000,
     "Premium": 20886.851997898426
   },
   {
@@ -4452,6 +7212,22 @@
     "Coverage": "Select Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 16008.978669624472
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 14408.080802662023
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
     "Premium": 12006.734002218353
   },
@@ -4461,14 +7237,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 10726.0157086484
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 10726.0157086484
   },
   {
@@ -4492,6 +7260,22 @@
     "Coverage": "Select Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 20390.76910339677
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 18351.692193057093
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
     "Premium": 15293.076827547575
   },
@@ -4501,14 +7285,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 13661.81529927584
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 13661.81529927584
   },
   {
@@ -4532,6 +7308,22 @@
     "Coverage": "Select Plan",
     "Min Age": "71",
     "Max Age": "75",
+    "Deductible": 50,
+    "Premium": 42154.1851025344
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "71",
+    "Max Age": "75",
+    "Deductible": 100,
+    "Premium": 37938.76659228096
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "71",
+    "Max Age": "75",
     "Deductible": 250,
     "Premium": 31615.63882690081
   },
@@ -4541,14 +7333,6 @@
     "Min Age": "71",
     "Max Age": "75",
     "Deductible": 500,
-    "Premium": 28243.30401869805
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "71",
-    "Max Age": "75",
-    "Deductible": 1000,
     "Premium": 28243.30401869805
   },
   {
@@ -4572,6 +7356,22 @@
     "Coverage": "Select Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 20165.659200586484
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 18149.09328052784
+  },
+  {
+    "Region": "Area 1",
+    "Coverage": "Select Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
     "Premium": 15124.244400439866
   },
@@ -4581,14 +7381,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 13510.991664392946
-  },
-  {
-    "Region": "Area 1",
-    "Coverage": "Select Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 13510.991664392946
   },
   {
@@ -4612,6 +7404,22 @@
     "Coverage": "Select Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 25713.135022554678
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 23141.821520299207
+  },
+  {
+    "Region": "Area 2",
+    "Coverage": "Select Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
     "Premium": 19284.85126691601
   },
@@ -4621,14 +7429,6 @@
     "Min Age": "76",
     "Max Age": "80",
     "Deductible": 500,
-    "Premium": 17227.800465111643
-  },
-  {
-    "Region": "Area 2",
-    "Coverage": "Select Plan",
-    "Min Age": "76",
-    "Max Age": "80",
-    "Deductible": 1000,
     "Premium": 17227.800465111643
   },
   {
@@ -4652,6 +7452,22 @@
     "Coverage": "Select Plan",
     "Min Age": "76",
     "Max Age": "80",
+    "Deductible": 50,
+    "Premium": 53224.70621438285
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "76",
+    "Max Age": "80",
+    "Deductible": 100,
+    "Premium": 47902.23559294456
+  },
+  {
+    "Region": "Area 3",
+    "Coverage": "Select Plan",
+    "Min Age": "76",
+    "Max Age": "80",
     "Deductible": 250,
     "Premium": 39918.52966078715
   },
@@ -4668,16 +7484,7 @@
     "Coverage": "Select Plan",
     "Min Age": "76",
     "Max Age": "80",
-    "Deductible": 1000,
-    "Premium": 35660.55316363652
-  },
-  {
-    "Region": "Area 3",
-    "Coverage": "Select Plan",
-    "Min Age": "76",
-    "Max Age": "80",
     "Deductible": 5000,
     "Premium": 31934.823728629708
   }
 ]
-  
