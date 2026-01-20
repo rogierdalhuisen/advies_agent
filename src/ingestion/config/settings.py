@@ -14,12 +14,13 @@ from qdrant_client.models import Distance
 class EmbeddingSettings(BaseModel):
     """Embedding model configuration (non-sensitive)"""
 
-    provider: Literal["openai", "gemini", "openrouter"] = "openai"
-    model_name: str = "text-embedding-3-large"
+    # Use OpenRouter as central hub for all models
+    provider: Literal["openrouter", "openai", "gemini"] = "openai"
+    model_name: str = "openai/text-embedding-3-large"  # Direct OpenAI format (remove "openai/" prefix for direct)
     dimension: int = 3072
     batch_size: int = 100
 
-    # OpenRouter specific
+    # OpenRouter settings
     openrouter_base_url: str = "https://openrouter.ai/api/v1"
 
 
@@ -48,7 +49,7 @@ class ChunkingSettings(BaseModel):
 class CollectionSettings(BaseModel):
     """Qdrant collection configuration"""
 
-    name: str = "insurance_documents"
+    base_name: str = "insurance_docs"  # Base name, model will be auto-appended
     distance_metric: Distance = Distance.COSINE
 
     # Hybrid retrieval (dense + sparse vectors)
@@ -75,6 +76,17 @@ class IngestionSettings(BaseModel):
 
     class Config:
         arbitrary_types_allowed = True
+
+    def get_collection_name(self) -> str:
+        """
+        Get the collection name, auto-generated from model settings.
+
+        Returns:
+            Collection name: {base_name}_{sanitized_model_name}
+        """
+        # Sanitize model name for collection name
+        model = self.embedding.model_name.replace("/", "_").replace(":", "_").replace(".", "_")
+        return f"{self.collection.base_name}_{model}"
 
 
 def load_settings(config_file: Optional[str] = None) -> IngestionSettings:

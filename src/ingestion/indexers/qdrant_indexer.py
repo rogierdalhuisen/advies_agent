@@ -23,6 +23,7 @@ class QdrantIndexer:
         self,
         embeddings: Embeddings,
         collection_settings: CollectionSettings,
+        collection_name: str,
         embedding_dimension: int,
         enable_deduplication: bool = True
     ):
@@ -32,11 +33,13 @@ class QdrantIndexer:
         Args:
             embeddings: Dense embeddings model
             collection_settings: Collection configuration
+            collection_name: Name of the Qdrant collection (can be auto-generated)
             embedding_dimension: Dimension of dense embeddings
             enable_deduplication: Whether to deduplicate before indexing
         """
         self.embeddings = embeddings
         self.collection_settings = collection_settings
+        self.collection_name = collection_name
         self.embedding_dimension = embedding_dimension
         self.enable_deduplication = enable_deduplication
 
@@ -56,7 +59,7 @@ class QdrantIndexer:
 
         Creates collection with dense and optionally sparse vectors.
         """
-        collection_name = self.collection_settings.name
+        collection_name = self.collection_name
 
         # Check if collection exists
         collections = self.client.get_collections().collections
@@ -111,7 +114,7 @@ class QdrantIndexer:
         try:
             # Find all points with this document_id
             scroll_result = self.client.scroll(
-                collection_name=self.collection_settings.name,
+                collection_name=self.collection_name,
                 scroll_filter=Filter(
                     must=[
                         FieldCondition(
@@ -129,7 +132,7 @@ class QdrantIndexer:
 
             if point_ids:
                 self.client.delete(
-                    collection_name=self.collection_settings.name,
+                    collection_name=self.collection_name,
                     points_selector=PointIdsList(points=point_ids)
                 )
                 return len(point_ids)
@@ -208,7 +211,7 @@ class QdrantIndexer:
                 sparse_embedding=self.sparse_embeddings,
                 metadatas=metadatas,
                 url=QDRANT_HOST,
-                collection_name=self.collection_settings.name,
+                collection_name=self.collection_name,
                 retrieval_mode=RetrievalMode.HYBRID,
                 vector_name=self.collection_settings.dense_vector_name,
                 sparse_vector_name=self.collection_settings.sparse_vector_name,
@@ -222,7 +225,7 @@ class QdrantIndexer:
                 embedding=self.embeddings,
                 metadatas=metadatas,
                 url=QDRANT_HOST,
-                collection_name=self.collection_settings.name,
+                collection_name=self.collection_name,
                 force_recreate=False
             )
             print(f"✅ Indexed {len(texts)} chunks with dense vectors")
@@ -237,9 +240,9 @@ class QdrantIndexer:
             Dictionary with collection statistics
         """
         try:
-            info = self.client.get_collection(self.collection_settings.name)
+            info = self.client.get_collection(self.collection_name)
             return {
-                "name": self.collection_settings.name,
+                "name": self.collection_name,
                 "points_count": info.points_count,
                 "vectors_count": info.vectors_count,
                 "indexed_vectors_count": info.indexed_vectors_count,

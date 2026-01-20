@@ -1,183 +1,205 @@
 # Insurance Documents Ingestion Pipeline
 
-A modular, configurable pipeline for ingesting insurance documents into Qdrant vector database with hybrid retrieval (dense + sparse embeddings).
+Simple, modular pipeline for ingesting insurance documents into Qdrant with hybrid retrieval.
+
+## Quick Start
+
+```bash
+# 1. Add to .env
+OPENROUTER_API_KEY=your_key_here
+QDRANT_HOST=http://localhost:6333
+
+# 2. Start Qdrant
+./dev.sh up
+
+# 3. Run ingestion
+uv run python -m src.ingestion run
+```
 
 ## Features
 
-- **Modular Architecture**: Separate components for loading, chunking, embedding, and indexing
-- **Hybrid Chunking**: Hierarchical (header-based) + size-based splitting for optimal chunk sizes
-- **Hybrid Retrieval**: Dense (semantic) + sparse (BM25) embeddings for better search quality
-- **Multiple Embedding Providers**: OpenAI, Google Gemini, OpenRouter support via LangChain
-- **Automatic Deduplication**: Content-hash based change detection
-- **Rich Metadata**: Insurance provider, document type, version dates, header hierarchy
-- **Flexible Configuration**: YAML config + environment variables
-- **CLI Interface**: Easy-to-use command-line tools
-
-## Architecture
-
-```
-Document Loading → Chunking → Embedding → Indexing
-     ↓                ↓           ↓          ↓
-  Markdown      Hierarchical   OpenAI     Qdrant
-   Loader       + Size-based   Embeddings  (Hybrid)
-```
-
-### Components
-
-- **Loaders** (`loaders/`): Load documents with metadata extraction
-- **Chunkers** (`chunkers/`): Split documents into semantic chunks
-- **Embedders** (`embedders/`): Generate embeddings from multiple providers
-- **Indexers** (`indexers/`): Index chunks into Qdrant with deduplication
-- **Pipelines** (`pipelines/`): Orchestrate the complete flow
-- **CLI** (`cli/`): Command-line interface
+- ✅ **OpenRouter Integration** - Access any embedding model through one API
+- ✅ **Auto Collection Naming** - Each model gets its own collection automatically
+- ✅ **Hybrid Chunking** - Header-based + size-based splitting
+- ✅ **Hybrid Retrieval** - Dense + sparse (BM25) embeddings
+- ✅ **Smart Deduplication** - Content-hash based change detection
 
 ## Configuration
 
-### Environment Variables (`.env`)
-
-```bash
-# API Keys (required)
-OPENAI_API_KEY=sk-...
-GEMINI_API_KEY=...
-OPENROUTER_API_KEY=...
-
-# Qdrant (required)
-QDRANT_HOST=http://qdrant:6333
+Default (in `src/ingestion/config/settings.py`):
+```python
+provider: "openrouter"
+model_name: "openai/text-embedding-3-large"
+dimension: 3072
+base_name: "insurance_docs"  # Auto-appends model name
 ```
 
-### Settings File (Optional: `config/ingestion.yaml`)
-
+Override with YAML (`config/ingestion.yaml`):
 ```yaml
 embedding:
-  provider: openai  # Options: openai, gemini, openrouter
-  model_name: text-embedding-3-large
+  provider: openrouter
+  model_name: openai/text-embedding-3-large
   dimension: 3072
-  batch_size: 100
-
-chunking:
-  strategy: hybrid  # Options: hierarchical, hybrid
-  max_chunk_size: 1000
-  chunk_overlap: 100
-  size_threshold: 800
 
 collection:
-  name: insurance_documents
-  use_sparse: true  # Enable hybrid retrieval
-  sparse_model: Qdrant/bm25
+  base_name: insurance_docs
+
+chunking:
+  strategy: hybrid
+  max_chunk_size: 1000
+  chunk_overlap: 100
 
 documents_dir: data/documents
-chunks_output_dir: data/documents/chunks
 enable_deduplication: true
 save_chunks_to_disk: true
 ```
 
-## Usage
-
-### CLI Commands
-
-#### 1. Run Full Ingestion
-
-Index all documents:
+## CLI Commands
 
 ```bash
-# Using defaults
+# Full ingestion
 uv run python -m src.ingestion run
 
-# With custom config
-uv run python -m src.ingestion run --config config/custom.yaml
-```
-
-#### 2. Filter by Insurance Provider
-
-Index documents for a specific insurance:
-
-```bash
+# Filter by insurance
 uv run python -m src.ingestion run --insurance goudse_expat_pakket
-```
 
-#### 3. Filter by Document Pattern
-
-Index only webpage documents (monthly updates):
-
-```bash
+# Filter by pattern (e.g., only webpages)
 uv run python -m src.ingestion run --pattern "webpage_*.md"
-```
 
-#### 4. Inspect Collection
+# With custom config
+uv run python -m src.ingestion run --config config/my_model.yaml
 
-View collection statistics and configuration:
-
-```bash
+# Inspect collection
 uv run python -m src.ingestion inspect
-```
 
-#### 5. Validate Configuration
-
-Check that all settings and dependencies are correctly configured:
-
-```bash
+# Validate setup
 uv run python -m src.ingestion validate
 ```
 
-### Programmatic Usage
+## Testing Different Models
 
-```python
-from src.ingestion.pipelines.ingestion_pipeline import IngestionPipeline
+**Collections are auto-named: `{base_name}_{model_name}`**
 
-# Initialize with defaults
-pipeline = IngestionPipeline()
+This means each model gets its own collection automatically - no conflicts!
 
-# Or with custom config
-pipeline = IngestionPipeline(config_file="config/custom.yaml")
+### Example: Test 3 Models
 
-# Run full ingestion
-result = pipeline.run()
+```bash
+# 1. Test OpenAI Large (default)
+uv run python -m src.ingestion run
+# Creates: insurance_docs_openai_text-embedding-3-large
 
-# Run with filters
-result = pipeline.run(insurance_provider="goudse_expat_pakket")
-result = pipeline.run(document_pattern="webpage_*.md")
+# 2. Test Google
+cat > /tmp/google.yaml << 'EOF'
+embedding:
+  provider: openrouter
+  model_name: google/text-embedding-004
+  dimension: 768
+collection:
+  base_name: insurance_docs
+chunking:
+  strategy: hybrid
+  max_chunk_size: 1000
+documents_dir: data/documents
+enable_deduplication: true
+EOF
 
-# Check results
-print(f"Indexed {result['chunks_created']} chunks")
+uv run python -m src.ingestion run --config /tmp/google.yaml
+# Creates: insurance_docs_google_text-embedding-004
+
+# 3. Test OpenAI Small
+cat > /tmp/small.yaml << 'EOF'
+embedding:
+  provider: openrouter
+  model_name: openai/text-embedding-3-small
+  dimension: 1536
+collection:
+  base_name: insurance_docs
+chunking:
+  strategy: hybrid
+  max_chunk_size: 1000
+documents_dir: data/documents
+enable_deduplication: true
+EOF
+
+uv run python -m src.ingestion run --config /tmp/small.yaml
+# Creates: insurance_docs_openai_text-embedding-3-small
+
+# Now you have 3 collections to compare!
+```
+
+## Available Models (via OpenRouter)
+
+**OpenAI:**
+- `openai/text-embedding-3-large` (3072d) - Best quality
+- `openai/text-embedding-3-small` (1536d) - Good balance, lower cost
+
+**Google:**
+- `google/text-embedding-004` (768d) - Cost effective
+
+**Others:**
+- Check [OpenRouter models](https://openrouter.ai/models) for more options
+
+### Direct Providers (Fallback)
+
+```yaml
+# Direct OpenAI (no OpenRouter)
+embedding:
+  provider: openai
+  model_name: text-embedding-3-large
+  dimension: 3072
+
+# Direct Gemini (no OpenRouter)
+embedding:
+  provider: gemini
+  model_name: models/embedding-001
+  dimension: 768
 ```
 
 ## Update Strategies
 
 ### Monthly Updates (Webpages)
-
-Webpages are updated monthly (`webpage_YYYYMMDD.md`):
-
 ```bash
-# Index only new webpages
 uv run python -m src.ingestion run --pattern "webpage_*.md"
 ```
 
-Deduplication automatically removes old versions of the same document.
-
-### Yearly Updates (Policy Documents)
-
-Policy documents change annually. To update:
-
+### Yearly Updates (Policy Docs)
 ```bash
-# Re-index specific insurance
 uv run python -m src.ingestion run --insurance goudse_expat_pakket
+```
 
-# Or re-index all
+### After Manual Changes
+```bash
 uv run python -m src.ingestion run
 ```
 
-### Manual Changes
+Deduplication automatically removes old chunks and indexes fresh ones.
 
-After editing documents:
+## Comparing Models
 
-```bash
-# Re-index everything (deduplication handles changes)
-uv run python -m src.ingestion run
+After indexing with multiple models, compare their collections:
+
+```python
+from qdrant_client import QdrantClient
+
+client = QdrantClient(url="http://localhost:6333")
+
+# List all collections
+for col in client.get_collections().collections:
+    if col.name.startswith("insurance_docs_"):
+        print(f"{col.name}: {col.points_count} chunks")
+
+# Query specific collection
+results = client.search(
+    collection_name="insurance_docs_openai_text-embedding-3-large",
+    query_vector=your_embedding,
+    limit=5
+)
 ```
 
 ## Metadata Structure
 
-Each chunk includes rich metadata for filtering:
+Each chunk includes rich metadata:
 
 ```json
 {
@@ -187,60 +209,76 @@ Each chunk includes rich metadata for filtering:
   "document_name": "EN 2025 - Conditions.md",
   "version_date": "2026-01-20",
   "is_webpage": false,
-  "filepath": "data/documents/goudse_expat_pakket/conditions.md",
+  "filepath": "data/documents/.../file.md",
   "document_id": "abc123...",
   "content_hash": "def456...",
-  "ingestion_timestamp": "2026-01-20T14:30:00",
   "header_1": "Coverage",
   "header_2": "Medical Expenses",
-  "header_3": "Pregnancy and Childbirth",
-  "chunk_index": 5,
-  "is_sub_chunk": false
+  "chunk_index": 5
 }
 ```
 
 ## Troubleshooting
 
-### API Key Errors
-
-Ensure `.env` file has correct keys:
-
+### API Key Missing
 ```bash
-# Check validation
+# Ensure in .env
+OPENROUTER_API_KEY=your_key_here
+
+# Validate
 uv run python -m src.ingestion validate
 ```
 
-### Qdrant Connection Errors
-
-Ensure Qdrant is running:
-
+### Qdrant Not Running
 ```bash
 ./dev.sh up
 ```
 
+### Collection Name?
+```bash
+# Check actual collection name
+uv run python -m src.ingestion inspect --config your_config.yaml
+```
+
+## Architecture
+
+```
+Documents → Load → Chunk → Embed → Index
+              ↓       ↓       ↓       ↓
+          Markdown  Hybrid  OpenRouter Qdrant
+                           (any model) (hybrid)
+```
+
+**Components:**
+- **Loaders** - Extract text + metadata from markdown
+- **Chunkers** - Split by headers, then by size if needed
+- **Embedders** - Generate embeddings via OpenRouter
+- **Indexers** - Store in Qdrant with deduplication
+
 ## Development
 
-### Testing
-
-Test with a single insurance provider:
-
 ```bash
+# Test with sample data
 uv run python -m src.ingestion run --insurance goudse_expat_pakket
-```
 
-Inspect results:
-
-```bash
+# Inspect results
 uv run python -m src.ingestion inspect
-```
 
-Check saved chunks:
-
-```bash
-ls -la data/documents/chunks/goudse_expat_pakket/
+# Check saved chunks
+ls data/documents/chunks/goudse_expat_pakket/
 cat data/documents/chunks/goudse_expat_pakket/chunk_0001.txt
 ```
 
-## Legacy Script
+## What Changed (Cleanup)
 
-The old `index_dekkingen.py` is still available but deprecated. Please use the new modular pipeline instead.
+**Simplified from previous version:**
+- ✅ Removed complex multi-model scripts
+- ✅ Removed 6 old/redundant files
+- ✅ Centralized on OpenRouter
+- ✅ Auto-naming always enabled
+- ✅ Cleaner, easier to understand
+
+**Benefits:**
+- 50% less code
+- Single clear path
+- Still flexible for testing models

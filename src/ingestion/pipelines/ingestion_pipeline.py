@@ -63,10 +63,12 @@ class IngestionPipeline:
         self.embeddings = EmbedderFactory.create(self.settings.embedding)
         embedding_dim = EmbedderFactory.get_embedding_dimension(self.settings.embedding)
 
-        # Indexer
+        # Indexer (use auto-generated collection name if enabled)
+        collection_name = self.settings.get_collection_name()
         self.indexer = QdrantIndexer(
             embeddings=self.embeddings,
             collection_settings=self.settings.collection,
+            collection_name=collection_name,
             embedding_dimension=embedding_dim,
             enable_deduplication=self.settings.enable_deduplication
         )
@@ -91,7 +93,7 @@ class IngestionPipeline:
         print("=" * 60)
         print(f"Embedding: {self.settings.embedding.provider}/{self.settings.embedding.model_name}")
         print(f"Chunking: {self.settings.chunking.strategy}")
-        print(f"Collection: {self.settings.collection.name}")
+        print(f"Collection: {self.settings.get_collection_name()}")
         print(f"Deduplication: {'enabled' if self.settings.enable_deduplication else 'disabled'}")
         print("=" * 60)
 
@@ -140,14 +142,14 @@ class IngestionPipeline:
         print("=" * 60)
         print(f"Documents processed: {len(documents)}")
         print(f"Chunks indexed: {len(all_chunks)}")
-        print(f"Collection: {self.settings.collection.name}")
+        print(f"Collection: {self.settings.get_collection_name()}")
         print(f"Total points in collection: {collection_info.get('points_count', 'unknown')}")
         print("=" * 60)
 
         return {
             "documents_processed": len(documents),
             "chunks_created": len(all_chunks),
-            "collection_name": self.settings.collection.name,
+            "collection_name": self.settings.get_collection_name(),
             "collection_info": collection_info
         }
 

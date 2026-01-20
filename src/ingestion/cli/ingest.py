@@ -95,10 +95,12 @@ def inspect(config: str):
         # Create indexer
         embeddings = EmbedderFactory.create(settings.embedding)
         embedding_dim = EmbedderFactory.get_embedding_dimension(settings.embedding)
+        collection_name = settings.get_collection_name()
 
         indexer = QdrantIndexer(
             embeddings=embeddings,
             collection_settings=settings.collection,
+            collection_name=collection_name,
             embedding_dimension=embedding_dim,
             enable_deduplication=False
         )

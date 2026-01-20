@@ -1,14 +1,14 @@
 """
 Factory for creating embedding models.
 
-Supports multiple providers: OpenAI, Gemini, OpenRouter.
-Uses LangChain's Embeddings interface for consistency.
+Simplified to use OpenRouter as central hub, with direct OpenAI/Gemini as fallback.
 """
 
 from langchain_core.embeddings import Embeddings
 from langchain_openai import OpenAIEmbeddings
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from pydantic import SecretStr
+import os
 
 from src.ingestion.config.settings import EmbeddingSettings
 from src.config import OPENAI_API_KEY, GEMINI_API_KEY
@@ -18,13 +18,12 @@ class EmbedderFactory:
     """Factory for creating embedding models"""
 
     @staticmethod
-    def create(settings: EmbeddingSettings, api_key: str = None) -> Embeddings:
+    def create(settings: EmbeddingSettings) -> Embeddings:
         """
         Create an embeddings model based on settings.
 
         Args:
             settings: EmbeddingSettings configuration
-            api_key: Optional API key (if not provided, tries to load from config)
 
         Returns:
             LangChain Embeddings instance
@@ -34,55 +33,55 @@ class EmbedderFactory:
         """
         provider = settings.provider
 
-        if provider == "openai":
-            return EmbedderFactory._create_openai(settings, api_key)
+        if provider == "openrouter":
+            return EmbedderFactory._create_openrouter(settings)
+        elif provider == "openai":
+            return EmbedderFactory._create_openai(settings)
         elif provider == "gemini":
-            return EmbedderFactory._create_gemini(settings, api_key)
-        elif provider == "openrouter":
-            return EmbedderFactory._create_openrouter(settings, api_key)
+            return EmbedderFactory._create_gemini(settings)
         else:
             raise ValueError(f"Unknown embedding provider: {provider}")
 
     @staticmethod
-    def _create_openai(settings: EmbeddingSettings, api_key: str = None) -> OpenAIEmbeddings:
-        """Create OpenAI embeddings"""
-        key = api_key or OPENAI_API_KEY
+    def _create_openrouter(settings: EmbeddingSettings) -> OpenAIEmbeddings:
+        """
+        Create OpenRouter embeddings (recommended).
+
+        OpenRouter acts as a universal proxy for all embedding models.
+        Use model names like: openai/text-embedding-3-large, google/text-embedding-004, etc.
+        """
+        key = os.getenv("OPENROUTER_API_KEY")
+        if not key:
+            raise ValueError("OpenRouter API key not found. Set OPENROUTER_API_KEY in .env")
+
+        return OpenAIEmbeddings(
+            model=settings.model_name,
+            openai_api_key=SecretStr(key),
+            openai_api_base=settings.openrouter_base_url
+        )
+
+    @staticmethod
+    def _create_openai(settings: EmbeddingSettings) -> OpenAIEmbeddings:
+        """Create direct OpenAI embeddings (fallback)"""
+        key = OPENAI_API_KEY
         if not key:
             raise ValueError("OpenAI API key not found. Set OPENAI_API_KEY in .env")
 
         return OpenAIEmbeddings(
             model=settings.model_name,
-            api_key=SecretStr(key) if key else None
+            api_key=SecretStr(key)
         )
 
     @staticmethod
-    def _create_gemini(settings: EmbeddingSettings, api_key: str = None) -> GoogleGenerativeAIEmbeddings:
-        """Create Google Gemini embeddings"""
-        key = api_key or GEMINI_API_KEY
+    def _create_gemini(settings: EmbeddingSettings) -> GoogleGenerativeAIEmbeddings:
+        """Create direct Gemini embeddings (fallback)"""
+        key = GEMINI_API_KEY
         if not key:
             raise ValueError("Gemini API key not found. Set GEMINI_API_KEY in .env")
 
         return GoogleGenerativeAIEmbeddings(
             model=settings.model_name,
-            google_api_key=SecretStr(key) if key else None
-        )
-
-    @staticmethod
-    def _create_openrouter(settings: EmbeddingSettings, api_key: str = None) -> OpenAIEmbeddings:
-        """
-        Create OpenRouter embeddings.
-
-        OpenRouter acts as a proxy for various embedding models,
-        using OpenAI-compatible API format.
-        """
-        if not api_key:
-            raise ValueError("OpenRouter API key not found. Provide api_key parameter")
-
-        # OpenRouter uses OpenAI-compatible API
-        return OpenAIEmbeddings(
-            model=settings.model_name,
-            openai_api_key=SecretStr(api_key),
-            openai_api_base=settings.openrouter_base_url
+            google_api_key=SecretStr(key)
         )
 
     @staticmethod

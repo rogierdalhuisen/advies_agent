@@ -2,48 +2,61 @@
 # Copy this to ingestion.yaml and modify as needed
 
 embedding:
-  provider: openai  # Options: openai, gemini, openrouter
-  model_name: text-embedding-3-large
+  provider: openrouter  # Recommended: openrouter (or openai, gemini for direct)
+  model_name: openai/text-embedding-3-large  # OpenRouter format
   dimension: 3072
   batch_size: 100
 
-  # For OpenRouter (if provider: openrouter)
-  # openrouter_base_url: https://openrouter.ai/api/v1
-
 chunking:
   strategy: hybrid  # Options: hierarchical, hybrid
-  max_chunk_size: 1000  # Maximum characters per chunk
-  chunk_overlap: 100    # Overlap between chunks
-  size_threshold: 800   # Split chunks larger than this
-  strip_headers: false  # Keep headers in chunk content
+  max_chunk_size: 1000
+  chunk_overlap: 100
+  size_threshold: 800
+  strip_headers: false
 
 collection:
-  name: insurance_documents
-  use_sparse: true  # Enable hybrid retrieval (dense + sparse)
+  base_name: insurance_docs  # Model name will be auto-appended
+  use_sparse: true
   sparse_model: Qdrant/bm25
   dense_vector_name: dense
   sparse_vector_name: sparse
 
-# Pipeline settings
 documents_dir: data/documents
 chunks_output_dir: data/documents/chunks
 enable_deduplication: true
 save_chunks_to_disk: true
 
-# === Alternative Configurations ===
+# === OpenRouter Models (Recommended) ===
+# Set OPENROUTER_API_KEY in .env
 
-# Smaller/faster embeddings (lower cost):
-# embedding:
-#   provider: openai
-#   model_name: text-embedding-3-small
+# OpenAI models via OpenRouter:
+#   model_name: openai/text-embedding-3-large
+#   dimension: 3072
+
+#   model_name: openai/text-embedding-3-small
 #   dimension: 1536
 
-# Google Gemini embeddings:
-# embedding:
+# Google models via OpenRouter:
+#   model_name: google/text-embedding-004
+#   dimension: 768
+
+# Qwen models via OpenRouter (if available):
+#   model_name: qwen/qwen2-embeddings
+#   dimension: 1024
+
+# === Direct Providers (Fallback) ===
+
+# Direct OpenAI:
+#   provider: openai
+#   model_name: text-embedding-3-large
+#   dimension: 3072
+
+# Direct Gemini:
 #   provider: gemini
 #   model_name: models/embedding-001
 #   dimension: 768
 
-# Pure hierarchical chunking (no size limit):
-# chunking:
-#   strategy: hierarchical
+# === Collection Naming ===
+# Collections are automatically named: {base_name}_{model_name}
+# Example: insurance_docs_openai_text-embedding-3-large
+# This allows testing different models without conflicts!
