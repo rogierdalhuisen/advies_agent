@@ -15,8 +15,8 @@ class EmbeddingSettings(BaseModel):
     """Embedding model configuration (non-sensitive)"""
 
     # Use OpenRouter as central hub for all models
-    provider: Literal["openrouter", "openai", "gemini"] = "openai"
-    model_name: str = "openai/text-embedding-3-large"  # Direct OpenAI format (remove "openai/" prefix for direct)
+    provider: Literal["openrouter", "openai", "gemini"] = "gemini"
+    model_name: str = "text-embedding-3-large"  # Direct OpenAI format (remove "openai/" prefix for direct)
     dimension: int = 3072
     batch_size: int = 100
 
