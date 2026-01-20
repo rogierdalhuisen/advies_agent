@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "click>=8.1.7",
+    "crawl4ai>=0.4.25",
     "dotenv>=0.9.9",
     "fastembed>=0.7.3",
     "ipykernel>=7.0.1",
