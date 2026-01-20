@@ -18,6 +18,7 @@ DOCUMENTS_DIR = DATA_DIR / "documents"
 #Api keys
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 # Hosts
 # In Docker: QDRANT_HOST=qdrant (service name)
