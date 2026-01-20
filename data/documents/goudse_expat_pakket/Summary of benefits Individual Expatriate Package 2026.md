@@ -365,3 +365,149 @@ The insured person that lives in de U.S.A. sometimes gets a partial reimbursemen
 If the insured person does use the GMMI network for the treatment? Or if it is a different treatment? Then he is entitled to the regular fee as mentioned in the article of the specific treatment and in the medical coverage overview. On www.gmmi.com you can find the hospitals and doctors that GMMI cooperates with. You can call GMMI 24 hours a day at number 1-800-694-9832.
 
 In the Terms and Conditions you find which examinations are covered and which age limitations apply. After commencement date a waiting period of 12 months applies.
+
+Hieronder vindt u de gestructureerde weergave van de verstrekte verzekeringsinformatie in Markdown-formaat.
+
+---
+
+## 3 Dental Care
+
+### Availability, Waiting Periods & Coverage
+
+- **Combination Requirement:** Deze aanvullende verzekering vereist de component ziektekostenverzekering¹.
+- **Wachttijd:** Een verplichte wachttijd van 12 maanden is van toepassing op parodontale behandelingen, kronen, bruggen en implantaten; behandelingen tijdens deze periode worden niet vergoed².
+- **Vergoeding:** De polis vergoedt 80% van de tandartskosten tot € 1.500 per verzekerde per jaar³.
+- **Secundaire Dekking:** Indien er een andere ziektekostenverzekering aanwezig is, fungeert deze polis als secundaire dekking⁴.
+- **Uitsluitingen:** Orthodontie en esthetische behandelingen (bijv. bleken) zijn uitgesloten⁵.
+
+### Premium
+
+- **Jaarlijkse Premie:** De premie bedraagt € 465 per verzekerde per jaar⁶.
+
+---
+
+## 4 Work Incapacity
+
+### Target Group & Premium
+
+- **Doelgroep:** Financiële zekerheid voor expats tegen arbeidsongeschiktheid; de polis is zeer flexibel⁷.
+- **Premie:** De premie staat vast op basis van de leeftijd bij aanvang en blijft ongewijzigd, tenzij specifieke indexatie-opties worden gekozen⁸.
+- **Geografische Beperking:** Voor verblijf in bepaalde Afrikaanse landen moet contact worden opgenomen met adviseurs, aangezien risico's daar niet altijd worden geaccepteerd⁹.
+
+### Insured Categories & Sums
+
+- **Constant Sum:** Een vast bedrag van € 100.000, zonder indexatie¹⁰.
+- **Rising Sum:** Start op € 85.000, stijgt jaarlijks met 3% tot een maximum van € 85.000 (basislogica), waarbij uitkeringen jaarlijks met 3% worden geïndexeerd¹¹.
+- **Inkomensgrens:** Het verzekerde bedrag mag niet hoger zijn dan 80% van het inkomen¹².
+
+### Policy Options
+
+- **Drempels:** Uitkeringen kunnen starten vanaf 45%, 55%, 65%, of 80% arbeidsongeschiktheid¹³.
+- **Eigen Risico Termijn:** Wachttijden van 90, 180, 365, of 720 dagen beschikbaar¹⁴.
+- **Eindleeftijd:** Dekking kan eindigen op de leeftijd van 55, 60, 62, 65, of 67 jaar¹⁵.
+- **Premievrijstelling:** Van toepassing na 1 jaar arbeidsongeschiktheid (bij eigen risico van 90-365 dagen) of 2 jaar (bij eigen risico van 720 dagen)¹⁶.
+
+### Acceptance & Assessment
+
+- **Acceptatie:** Mogelijk tot de leeftijd van 55 jaar¹⁷.
+- **Beoordeling:** Gebaseerd op beroepsarbeidsongeschiktheid¹⁸.
+- **Medisch:** Aanvragers dienen een gezondheidsverklaring in; onder de 50 jaar zijn mogelijk rapporten van behandelaars nodig, boven de 50 jaar is een medisch onderzoek op kosten van de verzekeraar mogelijk¹⁹.
+
+---
+
+## 5 Travel luggage and Cancellation costs
+
+### Scope & Limits
+
+- **Dekking:** Dekt schade aan bagage (verlies, diefstal, vermissing) en annuleringskosten tijdens zakelijke en privéreizen²⁰.
+- **Reimbursement:** Maximaal per reis variërend van € 4.000 (Standard) tot € 15.000 (Excellent Plus)²¹.
+- **Eigen Risico:** € 50 per gebeurtenis (Standard/Optimal/Excellent) of € 0 (Excellent Plus)²².
+- **Sub-limieten:** Specifieke maxima voor elektronica, sieraden, sportuitrusting, etc.²³.
+- **Annulering:** Maximale vergoeding van € 3.000 tot € 5.000 per jaar²⁴.
+
+### Premiums
+
+- **Jaarlijkse Premie:** Varieert van € 138,40 (Standard) tot € 846,80 (Excellent Plus)²⁵.
+- **Extra Dekking:** Aanvullende annuleringsdekking van € 5.000 of € 10.000 is optioneel²⁶.
+
+---
+
+## 6 Legal Aid
+
+### Coverage & Limits
+
+- **Dekking:** Juridisch advies en bijstand²⁷.
+- **Eigen Risico:** € 450 per gebeurtenis²⁸.
+- **Externe Vertegenwoordiging:** Maximaal € 25.000²⁹.
+- **Rechtsgebieden:** Inclusief Verhaal, Strafrecht, Contractrecht, Arbeidsrecht en Familierecht (Arbeid/Familie enkel in Excellent-tier)³⁰.
+
+### Premiums
+
+- **Tarieven:** Afhankelijk van familiestatus en niveau (bijv. Alleenstaand/Standard: € 102,85; Gezin/Excellent: € 363)³¹.
+
+---
+
+## 7 Household contents
+
+### Coverage Levels
+
+- **Standard:** Brand, explosie, blikseminslag, vliegtuiginslag³².
+- **Optimal:** Plus diefstal na braak, vandalisme, botsing³³.
+- **Excellent:** Plus storm, water, rook, beroving in de woning, schade aan antennes³⁴.
+- **Accommodatie:** Gedekt tot 10% van het verzekerde bedrag³⁵.
+
+### Conditions & Limits
+
+- **Premier Risk:** Geen onderverzekering van toepassing; claims worden uitbetaald tot het maximum verzekerde bedrag minus eigen risico³⁶.
+- **Sub-limieten (Diefstal):** AV/Computers (€ 3.000), Geld (€ 1.500), Geleende eigendommen (€ 1.000)³⁷.
+- **Eigen Risico:** Keuze uit € 250 of € 500 per jaar³⁸.
+
+### Additional Coverages
+
+- **Kostbaarheden:** Sieraden/kunst vereisen extra verzekering (Premie: 18,15% van de waarde)³⁹.
+- **Huurdersaansprakelijkheid:** Schade aan het gehuurde pand (water/brand) tot 20x de jaarhuur (Premie: 1,7% van de huur)⁴⁰.
+- **Buiten de Woning:** Specifieke items tot € 4.000 onder Excellent-voorwaarden (Premie: € 145,20)⁴¹.
+
+---
+
+## 8 Personal Liability
+
+### Scope
+
+- **Wereldwijd:** Dekt aansprakelijkheid voor letsel of schade aan goederen van derden⁴².
+- **Vastgoed:** Inclusief aansprakelijkheid voor woningen in Nederland of vakantiewoningen in Europa (verhuur <120 dagen)⁴³.
+
+### Limits & Premiums
+
+- **Maximale Dekking:** € 500.000 (Standard), € 1.000.000 (Optimal), € 1.500.000 (Excellent)⁴⁴.
+- **Geleende Zaken:** Maximaal € 10,000⁴⁵.
+- **Premies:** Afhankelijk van familiestatus, regio (Europa/Wereld/Wereld+US) en niveau⁴⁶.
+
+---
+
+## 9 (Family) accidents
+
+### Coverage
+
+- **Ongevallen:** Compensatie bij overlijden of blijvende invaliditeit door ongevallen, inclusief oorlogshandelingen buiten Nederland⁴⁷.
+- **Overlijden:** € 15.000 tot € 50.000⁴⁸.
+- **Invaliditeit:** € 40.000 tot € 125.000⁴⁹.
+- **Motorfietsen:** Verminderde uitkeringen van toepassing, met name bij het niet dragen van een helm⁵⁰.
+
+### Premiums
+
+- **Tarieven:** Gestaffeld naar familiestatus en dekkingsniveau (bijv. Alleenstaand/Standard: € 56; Gezin/Excellent: € 300)⁵¹.
+
+---
+
+## 10 Other
+
+### Tax & Duration
+
+- **Belasting:** Assurantiebelasting is van toepassing op Rechtsbijstand, Inboedel, Aansprakelijkheid, Annulering en SOS-componenten⁵².
+- **Leeftijdsgrenzen:** Algemene verzekeringen lopen tot 72 jaar⁵³. Arbeidsongeschiktheid eindigt op de gekozen eindleeftijd⁵⁴.
+- **Kinderen:** Meeverzekerd tot 21 jaar of huwelijk⁵⁵.
+
+---
+
+Wenst u dat ik een specifiek onderdeel van deze voorwaarden nader toelicht of vergelijk met andere dekkingsniveaus?

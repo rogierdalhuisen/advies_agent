@@ -55,7 +55,6 @@ HEADERS_TO_SPLIT = [
     ("##", "header_2"),
     ("###", "header_3"),
     ("####", "header_4"),
-    ("#####", "header_5"),
 ]
 
 # Directory containing dekkingen markdown files

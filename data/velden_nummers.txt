@@ -1,0 +1,8 @@
+premies: 142, 145, 148, 151, 154
+Hoofdreden verblijf / werk: 240, 245, 413, 414
+duur verzekering: 247, 248, 460, 470
+eigen risico: 440, 450
+medisch: 510, 520, 530, 540
+zwangerschap: 510, 550, 560
+sporten: 580, 590, 600
+
