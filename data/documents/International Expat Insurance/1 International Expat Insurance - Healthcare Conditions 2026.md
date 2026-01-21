@@ -267,49 +267,61 @@ The reimbursement ceilings (i.e. the maximum amount of reimbursement) for certai
 
 Prior approval as stated herein is always required except in case of emergency. Failure to comply with this prior approval requirement will lead to a reduction of the reimbursement with twenty (20)%.
 
-**Hospital room and board**
+#### Hospital room and board
+
 Reimbursement of the Reasonable and Customary charges for room accommodation and meals. The amount of the benefit shall be equal to the actual charges made by the hospital during the Insured's stay but in no event shall the benefit exceed, for any one (1) day, the rate of a Standard Private Room.
 
-**Intensive Care Unit**
+#### Intensive Care Unit
+
 Reimbursement of the Reasonable and Customary charges for actual room and board incurred during the Insured's stay as an inpatient in the Intensive Care Unit of the hospital. This benefit shall be payable equal to the Reasonable and Customary actual charges made by the hospital. No hospital room and board benefits shall be paid for the same hospitalisation period where the daily Intensive Care Unit benefit is payable.
 
-**Doctor's fees / Surgical fees**
+#### Doctor's fees / Surgical fees
+
 Reimbursement of the Reasonable and Customary charges for Surgery by a Specialist within the maximum indicated in the Table of benefits.
 
-**Anaesthetist's fee**
+#### Anaesthetist's fee
+
 Reimbursement of the Reasonable and Customary charges by the anaesthetist for the administration of anaesthesia not exceeding the limits as set forth in the Table of benefits.
 
-**Other medical expenses / Operating theatre**
+#### Other medical expenses / Operating theatre
+
 Reimbursement of the Reasonable and Customary operating and recovery room charges incidental to the surgical procedure.
 
-**Hospital supplies and services**
+#### Hospital supplies and services
+
 Reimbursement of the Reasonable and Customary charges actually incurred for general nursing, prescribed and consumed drugs and medicines, dressings, splints, plaster casts, medical imaging (x-ray, CT, MRI, etc), medical aids, laboratory examinations, electrocardiograms, physiotherapy, logopaedic Treatment, speech therapy, occupational therapy and ergotherapy.
 
-**Parent accommodation**
+#### Parent accommodation
+
 Reimburses up to the limits stated in the Table of benefits the expenses for meals and lodging for accompanying an insured dependent child, aged below sixteen (16) years, in hospital.
 
-**Hospital cash benefit**
+#### Hospital cash benefit
+
 Hospital cash benefit is the daily allowance, only when room and board and Treatment are received free of charge. It amounts to 75 EUR/93.75 USD per night (Essential plan) or 100 EUR/125 USD per night (Silver, Bronze and Gold plans) with a maximum of sixty (60) nights.
 
-**Convalescence and rehabilitation**
+#### Convalescence and rehabilitation
+
 Convalescence and rehabilitation rest/care (in a recognised centre and when the admission is medically motivated) is covered when the admission immediately follows (within five (5) days) a hospitalisation for Illness or Surgery and with a maximum of twenty-eight (28) days.
 
 ### Outpatient Treatment
 
 This benefit provides for the reimbursement of actual expenses incurred for Outpatient Treatment subject to the stated sub-limits set forth in the Table of benefits (if applicable).
 
-**Doctor's fees**
+#### Doctor's fees
+
 Consultation with a legally registered General Practitioner, Family Doctor, Specialist Doctor as a result of Illness and bodily Injuries, when hospitalisation is not required.
 
 ---
 
-**Diagnostic tests**
+#### Diagnostic tests
+
 Reimbursement of the Reasonable and Customary charges for tests (ECG, x-ray, laboratory tests, etc) which are performed for diagnostic purposes on account of an Injury or Illness, within the amount as set forth in the Table of benefits and which are recommended by a qualified medical practitioner.
 
-**Prescription Drugs/Medicines**
+#### Prescription Drugs/Medicines
+
 Only drugs that are prescribed by a Doctor and that are not available without prescription can be reimbursed. OTC ('over-the-counter') medicines do not qualify for reimbursement, nor do lifestyle products, dietary products, vitamins, food supplements etc. For vaccines, the special provisions of the Vaccination benefit apply.
 
-**Preventive care and wellness benefits**
+#### Preventive care and wellness benefits
 
 - one (1) adult physical examination per Insurance Year;
 - one (1) routine eye test per Insurance Year;
@@ -318,15 +330,16 @@ Only drugs that are prescribed by a Doctor and that are not available without pr
 - one (1) PSA test per Insurance Year for insured males as of age fifty (50);
 - well-baby care.
 
-**Vaccinations (adults and children)**
+#### Vaccinations (adults and children)
 
 - travel vaccinations
 - preventive vaccinations and immunisations for young children.
 
-**Physiotherapy**
+#### Physiotherapy
+
 Physiotherapy prescribed by a Doctor, including Mensendieck physiotherapy, is covered on condition that the medical prescription clearly mentions the need for this specific form of physiotherapy and on condition that the care provider is a certified physiotherapist.
 
-**Treatments performed by complementary medical practitioners**
+#### Treatments performed by complementary medical practitioners
 
 - chiropractor;
 - osteopath;
@@ -338,13 +351,16 @@ Physiotherapy prescribed by a Doctor, including Mensendieck physiotherapy, is co
 
 These benefits provide for the reimbursement of actual expenses incurred subject to the overall annual limit per Insured per Insurance Year for:
 
-**Kraamzorg**
+#### Kraamzorg
+
 The first 8 days following the childbirth you can get kraamzorg. You need to arrange the kraamzorg yourself. Costs can be reimbursed, this cover is included in the 'Childbirth' benefit. If there is a medical reason concerning the child why you might need more than 8 days of kraamzorg you can get an extension of kraamzorg cover. See coverage overview. Pre-authorization applies on the extension of kraamzorg cover.
 
-**Pregnancy**
+#### Pregnancy
+
 Costs are reimbursed according to the type of Outpatient Treatment.
 
-**Childbirth**
+#### Childbirth
+
 The covered amount includes reimbursement for Doctor's fees, hospital accommodation and other related medical expenses incurred during the hospital stay. Elective caesarean Surgery is excluded from cover.
 
 ---
@@ -361,12 +377,14 @@ The complications of pregnancy are the following:
 - Post partumhaemorrhage (heavy bleeding in the hours and days immediately after childbirth)
 - Miscarriage requiring immediate surgical treatment
 
-**Infertility Treatment**
+#### Infertility Treatment
 
-**Infertility diagnosis**
+#### Infertility diagnosis
+
 Investigative procedures necessary to establish the cause of infertility.
 
-**Infertility Treatment**
+#### Infertility Treatment
+
 The expenses related to Infertility Treatment are covered as outpatient or inpatient expenses, subject to the following conditions:
 
 - it has to concern a primary infertility;
@@ -377,19 +395,24 @@ The expenses related to Infertility Treatment are covered as outpatient or inpat
 - the expenses related to a surrogate mother are not covered;
 - prior approval of the Insurer's medical consultant is always required.
 
-**Expenses related to sterilisation**
+#### Expenses related to sterilisation
+
 One (1) sterilisation per Insured and per lifetime.
 
-**Ceiling**
+#### Ceiling
+
 For the expenses related to artificial insemination (AI) and other similar Treatments, there is no maximum number of attempts.
 
-**Waiting period**
+#### Waiting period
+
 There is a ten-month (10-month) waiting period for all medical expenses related to Pregnancy, Childbirth and Infertility Treatment meaning that only expenses incurred as from the eleventh (11th) month after acceptance into the insurance can be eligible for reimbursement.
 
-**Cancer Treatment**
+#### Cancer Treatment
+
 If an Insured is diagnosed with cancer as defined below, the Reasonable and Customary charges incurred for the Treatment of cancer performed at a legally registered cancer Treatment centre will be reimbursed subject to the limit specified in the Table of benefits. Such Treatment (e.g. radiotherapy or chemotherapy excluding experimental Treatment, consultation, examination tests) must be received on an inpatient or outpatient basis at a hospital or a registered cancer Treatment centre immediately following diagnosis, or discharge from hospital stay or Surgery. Cancer is defined as uncontrollable growth and spread of malignant cells and the invasion and destruction of normal tissue for which major interventionist Treatment or Surgery (excluding endoscopic procedures alone) is considered necessary. The cancer must be confirmed by histological evidence of malignancy.
 
-**Organ transplant**
+#### Organ transplant
+
 Reimburses Reasonable and Customary charges incurred for transplantation Surgery for the Insured being the recipient of the transplant of an organ. Payment for this benefit is applicable whilst the policy is in force and shall be subject to the limit as set forth in the Table of benefits. The covered amount includes Doctor's fees, hospital accommodation (Standard Private Room) and other related medical expenses during the
 
 ---
@@ -400,30 +423,37 @@ hospital stay. Prior approval of the medical consultant of the Administrator is 
 - costs for acquisition of the organ (in case a price is charged for the organ);
 - costs incurred for removal of organ from the donor.
 
-**Kidney dialysis**
+#### Kidney dialysis
+
 If an Insured is diagnosed with kidney failure as defined below, Reasonable and Customary charges incurred for the Treatment of kidney dialysis performed at a Hospital or at a legally registered dialysis centre will be reimbursed subject to the limits as specified in the Table of benefits. Such Treatment (dialysis excluding consultation, examination tests) must be received on an inpatient or outpatient basis. Kidney failure means end stage chronic renal failure which indicates the irreversible loss of the ability of both kidneys to function as a result of which renal dialysis is initiated. These benefits exclude all experimental Treatments.
 
-**Medical aids**
+#### Medical aids
+
 Reimbursement of expenses for hearing aids, orthopaedic appliances and stockings, artificial limbs, wheelchairs, etc.
 
-**Local ambulance to the nearest hospital**
+#### Local ambulance to the nearest hospital
+
 Reimbursement of the Reasonable and Customary charges incurred for necessary domestic ambulance services (including attendant) to and/or from the hospital. Reimbursement is subject to the maximum limit set forth in the Table of benefits. Payment will not be made if the Insured is not hospitalised.
 
-**Psychiatric care**
+#### Psychiatric care
+
 Outpatient psychiatric care only reimburses care prescribed by and performed by a Doctor. The covered amount includes fees of the Doctor and/or (Treatment fees of) the medical practitioner, but does not include drugs. Drugs are covered according to the provisions for Prescription Drugs. The following expenses will also fall under the same ceiling as outpatient psychiatric care: ergotherapy, logopaedics and/or speech therapy, occupational therapy.
 
-**Dental Treatment following Accident**
+#### Dental Treatment following Accident
+
 Dental Surgery is only covered if required to restore damage to natural teeth as a result of an Accident.
 
-**Palliative care**
+#### Palliative care
+
 Palliative care may be as an inpatient or outpatient at home, or at a centre for controlling pain and other symptoms, and provides psychological and social support (medical and paramedical) for the patient and patient's family during the last stages of life. Palliative care is offered as an alternative to eligible hospital Treatment or nursing at home. Palliative care has to be given by an organisation providing services for patients whose Illness cannot be cured with a life expectancy of less than six (6) months.
 
 The medical costs must have been incurred within the insurance period in one of the countries of the coverage geographical area as defined herein :
-**Worldwide except USA**
+
+### Worldwide except USA
 
 However, during business trips or holidays, not exceeding ninety (90) days (in total) per Insurance Year, medical expenses incurred in the USA as a direct consequence of an Accident or a Medical Emergency are covered up to the limits of the policy. If the medical condition concerned already existed prior to the travel to the USA or was the objective of the travel, the medical expenses are not covered. Expenses related to pregnancy (and complications thereof) and/or childbirth will not be considered to be Accident or emergency expenses, and will therefore not be covered.
 
-## Claims for Medical Expenses
+### Claims for Medical Expenses
 
 A medical expenses claim form is provided by the Insurer and must be submitted with the relevant supporting documents.
 
@@ -713,15 +743,15 @@ A waiting period of twelve (12) months applies for all major dentistry. Orthodon
 
 Apart from the general policy provisions as set out in Chapter I of the General Conditions, the provisions of Art. II-1.h). up to and including II-1.j). also apply to the Dental Care cover.
 
-# EXCLUSIONS
+## EXCLUSIONS
 
-## FORFEITURE OF THE RIGHT TO A BENEFIT
+### FORFEITURE OF THE RIGHT TO A BENEFIT
 
 The Covered Person is deprived of all rights to the benefits of a claim in the event the Covered Person voluntarily makes a false declaration about that claim including the date, nature, causes, circumstances and/or consequences and/or amount of the loss.
 
 The forfeiture of this right also applies in the event the Covered Person knowingly uses inaccurate documents as supporting documents for that claim.
 
-## EXCLUDED RISKS
+### EXCLUDED RISKS
 
 Any costs resulting from the following events are not covered by the Insurer:
 
@@ -729,7 +759,7 @@ Any costs resulting from the following events are not covered by the Insurer:
 
 The Insurer reserves the possibility of modifying the coverage for one or several specific territories, subject to a fifteen days prior notice sent to the Company. This one may refuse this modification and terminate the policy by sending the Insurer a registered letter with acknowledgement of receipt within 30 days from the date of receipt of the endorsement submitted by the Insurer. The termination shall take effect on the first day of the calendar quarter following the refusal notification.
 
-## EXCLUDED BENEFITS
+### EXCLUDED BENEFITS
 
 The following benefits are not covered by the present contract, unless otherwise stipulated or to the exclusion of the benefits specified as being covered in the Table of Benefits hereinabove:
 
@@ -762,9 +792,10 @@ The following benefits are not covered by the present contract, unless otherwise
 - OTC ('over-the-counter) medicines; lifestyle products, dietary products, vitamins, food supplements and food products, baby food, mineral waters, tonics, cosmetic products etc;
 - sunglasses and orthoptic Treatment;
 
-# DEFINITIONS
+## DEFINITIONS
 
-**'Accident'**
+#### 'Accident'
+
 A sudden, unexpected event, the cause of which is situated outside the victim's body, which results in bodily Injury.
 Following events are also considered to be Accidents:
 
@@ -774,13 +805,16 @@ Following events are also considered to be Accidents:
 - freezing;
 - drowning.
 
-**'The International Expat Insurance Life Insurance'**
+#### 'The International Expat Insurance Life Insurance'
+
 The Life/Disability plan proposed by Henner SAS to its members namely individual expatriates. The plan is subject to payment of premiums.
 
-**'Annual Renewal Date'**
+#### 'Annual Renewal Date'
+
 For individual contracts only, 1 January.
 
-**'Chronic Conditions'**
+#### 'Chronic Conditions'
+
 Illness or Injury which has one or more of the following characteristics:
 
 - is recurrent in nature;
@@ -790,61 +824,76 @@ Illness or Injury which has one or more of the following characteristics:
 - requires prolonged supervision or monitoring;
 - leads to permanent Invalidity.
 
-**'Deductible'**
+#### 'Deductible'
 
 ---
 
 The (first) part of the (eligible) medical expenses, not reimbursed by the Insurer and deducted from the amount (of Eligible Medical Expenses) on which the reimbursement is calculated.
 
-**'Dependent'**
+#### 'Dependent'
+
 The legal spouse (or legal partner) and/or unmarried children, until the thirty-first (31st) of December of the year of the twenty-eighth (28th) birthday of the insured child, who are financially dependent on the Insured.
 
-**'Doctor'**
+#### 'Doctor'
+
 A person who graduated from a recognised medical school as listed in the WHO World directory of medical schools and who is licensed to practise medicine in the country where the Treatment is received.
 
-**'Expat (or Expatriated person)'**
+#### 'Expat (or Expatriated person)'
+
 A person living and working abroad (outside his/her Home Country).
 
-**'Family Doctor or GP (General Practitioner)'**
+#### 'Family Doctor or GP (General Practitioner)'
+
 A Doctor providing Medical Treatment not requiring a specialist Doctor's training.
 
-**'GP (General Practitioner)'**
+#### 'GP (General Practitioner)'
+
 See definition of 'Family Doctor'.
 
-**'Home Country'**
+#### 'Home Country'
+
 The country where the Insured normally resides or used to reside and out of which he/she is expatriated to another country (as declared in the Application form). If the Home Country cannot be named according to this definition, it is the country of which the Insured has the nationality and is holding a passport from.
 
-**'Host Country'**
+#### 'Host Country'
+
 The country where the Insured is expatriated to, as declared in the Application form.
 
-**'Illness'**
+#### 'Illness'
+
 A condition marked by a pathological deviation from the normal healthy state confirmed by a Doctor.
 
-**'Injury'**
+#### 'Injury'
+
 Bodily Injury caused solely by Accident.
 
-**'Insurance Year'**
+#### 'Insurance Year'
+
 A twelve (12)-month period, starting on the 1st January and terminating 31st December of each year.
 
-**'Insured'**
+#### 'Insured'
+
 The person(s) covered by the International Expat Insurance Package and whose name(s) is (are) mentioned in the Membership Certificate.
 
-**'Insurer'**
+#### 'Insurer'
+
 The insurance company underwriting the risks set forth in the International Expat Insurance: AWP Health & Life SA
 
-**'Invalidity'**
+#### 'Invalidity'
+
 Incapacity of permanent nature, caused by a chronic Illness or Injury.
 
-**'Local employee'**
+#### 'Local employee'
+
 A person living and working in the Netherlands who is not eligible and not affiliated to Dutch Basic Healthcare.
 
-**'Medical Emergency'**
+#### 'Medical Emergency'
 
 ---
 
 An accidental Injury or a sudden and unexpected onset of a change in a person's physical or mental condition which, if the procedure or Treatment was not performed immediately could reasonably be expected to result in loss of life or limb or significant impairment to bodily function or permanent dysfunction of a body part, as determined by the Doctor in attendance.
 
-**'Medically Necessary'**
+#### 'Medically Necessary'
+
 A medical service which is:
 
 - consistent with the diagnosis and customary Medical Treatment for a covered Illness or Injury;
@@ -853,28 +902,36 @@ A medical service which is:
 - not of an experimental, investigational or research nature, preventive or screening nature;
 - for which the charges are fair and reasonable for the Treatment.
 
-**'Member'**
+#### 'Member'
+
 is the expatriate individual or the company that has been accepted as a member of HENNER SAS.
 
-**'Physician'**
+#### 'Physician'
+
 See definition of 'Doctor'.
 
-**'Policy Renewal Date'**
+#### 'Policy Renewal Date'
+
 1st January of each year
 
-**'Pre-existing Conditions'**
+#### 'Pre-existing Conditions'
+
 Medical conditions or any related conditions, for which symptom(s) has/have been shown at some point during the five (5) years prior to commencement of cover, irrespective of whether any Medical Treatment or advice was sought. Any such condition or related condition, about which the Insured or his/her Dependents know, knew or could reasonably have been assumed to have known, will be deemed to be pre-existing.
 
-**'Self-employed person'**
+#### 'Self-employed person'
+
 A person who owns a company and works for him/herself rather than for an employer.
 
-**'Sickness, disease or illness'**
+#### 'Sickness, disease or illness'
+
 shall mean a condition marked by a pathological deviation from the normal healthy state confirmed by a doctor.
 
-**'Specialist Doctor'**
+#### 'Specialist Doctor'
+
 A Doctor having a specialised qualification in the field of, or expertise in, the Treatment of the Illness or Injury.
 
-**'Starting self-employed person'**
+#### 'Starting self-employed person'
+
 A person who owns a company for less than three years and works for him/herself rather than for an employer.
 
 ## FORMALITIES IN THE EVENT OF A CLAIM
@@ -912,10 +969,12 @@ Any fraud, misstatement or concealment in relation to any matter affecting the i
 
 ## OTHER PROVISIONS
 
-**Scope of coverage**
+### Scope of coverage\*\*
+
 Unless otherwise stipulated in this policy, the coverage may be invoked 24 hours a day, both in professional and private life in the event of illness or accident and in the geographical area as indicated in herein (Article 11.1.4.)
 
-**Claims**
+### Claims\*\*
+
 Any event that may give entitlement to benefits must occur during the effective period of the coverage concerned and be declared within the periods stipulated therein or, if no period is stipulated, within six months following the event.
 
 Except in the event of force majeure, illnesses or accidents not declared within six months following the beginning of the sick leave shall be excluded from the coverage and therefore be not subject to compensation, provided that the absence or delay in declaring the claim has resulted in prejudice to the Insurer.
@@ -924,11 +983,12 @@ The Summary Plan Description given to each Covered Person by the Policyholder li
 
 ---
 
-## LIMITATION ON ACTIONS
+### LIMITATION ON ACTIONS
 
 The provisions relating to the statute of limitations on actions arising from the insurance contract are established by Articles L.114-1-L.114-3 of the French Insurance Code indicated hereafter:
 
-**Article L.114-1 of the French Insurance Code**
+#### Article L.114-1 of the French Insurance Code
+
 All actions arising from an insurance contract are limited to two years after the incident giving rise thereto.
 However, this statute of limitations only applies:
 
@@ -941,13 +1001,16 @@ The limitation is extended to ten years in life insurance contracts when the ben
 
 For life insurance contracts, notwithstanding the provisions of Item 2, the actions of beneficiaries are limited to thirty years after the death of the Insured Party.
 
-**Article L. 114-2 of the Insurance Code**
+#### Article L. 114-2 of the Insurance Code
+
 The running of the statute of limitations is interrupted by one of the ordinary causes of interruption and by the appointment of experts following an incident. The interruption of the statute of limitations of the action can furthermore result from the sending of a registered letter with return receipt requested sent by the Insurer to the Insured Party regarding the action for the payment of the premium and by the Insured Party to the Insurer for the payment of the compensation.
 
-**Article L. 114-3 of the Insurance Code**
+#### Article L. 114-3 of the Insurance Code
+
 As an exception to article 2254 of the French Civil Code, the parties to the insurance contract cannot, even by joint agreement, modify the duration of the statute of limitations, nor add to the causes of its suspension or interruption.
 
-**Additional Information:**
+#### Additional Information:
+
 The ordinary causes of interruption of the statute of limitations are mentioned in Article 2240 and in accordance with the Civil Code; among the latter include notably: the questioning of one of the joint debtors by a judicial action or by an act of compulsory execution or the acknowledgement by the debtor of the right of the person against whom he applied the statute of limitations. For the exhaustive list of the ordinary causes of interruption of the statute of limitations refer to the aforementioned articles of the Civil Code hereinabove.
 
 ## SUBROGATION
@@ -1111,48 +1174,80 @@ Cover is not provided if any element of the cover, benefit, activity, business o
 
 ### DEFINITION OF ASSISTANCE TERMS
 
-**ACCIDENT:** any sudden, unexpected event or event outside the control of the victim or the damaged item or person, constituting the cause of the damage. Food poisoning shall be considered as an accident.
+#### ACCIDENT:
 
-**EMPOWERED MEDICAL AUTHORITY / DOCTOR:** any person holding a qualification which is legally recognised in the country where same person usually practices.
+any sudden, unexpected event or event outside the control of the victim or the damaged item or person, constituting the cause of the damage. Food poisoning shall be considered as an accident.
 
-**RESIDENCE:** primary residence located in the country of expatriation, outside of the country of origin
+#### EMPOWERED MEDICAL AUTHORITY / DOCTOR:
 
-**FOREIGN:** any country with the exception of the country of origin
+any person holding a qualification which is legally recognised in the country where same person usually practices.
 
-**DEDUCTIBLE:** the share of the prejudice left to be paid by the beneficiary in the claim. Deductible amounts relating to each guarantee are indicated in the table of amounts of benefits and deductibles.
+#### RESIDENCE:
 
-**COUNTRY OF ORIGIN:** native country of the beneficiary as indicated in the passport thereof
+primary residence located in the country of expatriation, outside of the country of origin
 
-**PERIOD OF LIMITATION:** the period beyond which no claim shall be admissible, namely following a period of 2 years after the corresponding event.
+#### FOREIGN:
 
-**CLAIM:** all harmful consequences leading to application of one of the subscribed guarantees. All prejudice and damage resulting from a single initial cause shall constitute a single claim.
+any country with the exception of the country of origin
 
-**SUBROGATION:** action via which Mondial Assistance subrogates the rights and actions of Beneficiary against any liability for damages suffered by Beneficiary in order to receive compensation of amounts which Mondial Assistance paid to Beneficiary following the claim.
+#### DEDUCTIBLE:
+
+the share of the prejudice left to be paid by the beneficiary in the claim. Deductible amounts relating to each guarantee are indicated in the table of amounts of benefits and deductibles.
+
+#### COUNTRY OF ORIGIN:
+
+native country of the beneficiary as indicated in the passport thereof
+
+#### PERIOD OF LIMITATION:
+
+the period beyond which no claim shall be admissible, namely following a period of 2 years after the corresponding event.
+
+#### CLAIM:
+
+all harmful consequences leading to application of one of the subscribed guarantees. All prejudice and damage resulting from a single initial cause shall constitute a single claim.
+
+#### SUBROGATION:
+
+action via which Mondial Assistance subrogates the rights and actions of Beneficiary against any liability for damages suffered by Beneficiary in order to receive compensation of amounts which Mondial Assistance paid to Beneficiary following the claim.
 
 With regard to the "Expatriate evacuation" insurance coverage:
 
-**ACCOMMODATION COSTS:** additional hotel and telephone costs for Mondial Assistance, following any covered incident, with the exclusion of all sustenance costs.
+#### ACCOMMODATION COSTS:
 
-**FUNERAL COSTS:** fees for initial conservation, handling, casket costs, special travel provisions, conservation costs incurred by legislative provisions, preparation and simple coffin costs required for transportation and which comply with local legislation in force, with the exclusion of all burial, dressing and ceremony costs.
+additional hotel and telephone costs for Mondial Assistance, following any covered incident, with the exclusion of all sustenance costs.
 
-**MEDICAL COSTS:** pharmaceutical, surgery, consultation and hospital fees medically required, following a diagnosis and treatment of an urgent pathology.
+#### FUNERAL COSTS:
 
-**EMERGENCY HOSPITALISATION:** any stay exceeding 48 consecutive hours in a public or private hospital, for any emergency procedure, namely any procedure which was unplanned and cannot be delayed.
+fees for initial conservation, handling, casket costs, special travel provisions, conservation costs incurred by legislative provisions, preparation and simple coffin costs required for transportation and which comply with local legislation in force, with the exclusion of all burial, dressing and ceremony costs.
 
-**PLANNED HOSPITALISATION:** any stay exceeding 48 consecutive hours in a public or private hospital, for any procedure planned at least fifteen days in advance.
+#### MEDICAL COSTS:
 
-**ILLNESS:** any change in the health condition of the Beneficiary observed by a duly qualified medical authority.
+pharmaceutical, surgery, consultation and hospital fees medically required, following a diagnosis and treatment of an urgent pathology.
 
-**TRIP:** an itinerary travelled up to the place of destination indicated on the ticket or travel registration, whatever the amount of flights used, whether the outward or return journey.
+#### EMERGENCY HOSPITALISATION:
 
-**MEDICAL EMERGENCY:** any unplanned medical incident.
+any stay exceeding 48 consecutive hours in a public or private hospital, for any emergency procedure, namely any procedure which was unplanned and cannot be delayed.
+
+#### PLANNED HOSPITALISATION:
+
+any stay exceeding 48 consecutive hours in a public or private hospital, for any procedure planned at least fifteen days in advance.
+
+#### ILLNESS:
+
+any change in the health condition of the Beneficiary observed by a duly qualified medical authority.
+
+#### TRIP:
+
+an itinerary travelled up to the place of destination indicated on the ticket or travel registration, whatever the amount of flights used, whether the outward or return journey.
+
+#### MEDICAL EMERGENCY:
+
+any unplanned medical incident.
 
 ### JURISDICTION OF AGREEMENT
 
 Coverage provided by the Agreement shall be applicable across the entire world.
 Beneficiary shall be covered for all personal or professional travel.
-
----
 
 ## EXCLUSIONS COMMON TO ALL EVACUATION BENEFITS
 

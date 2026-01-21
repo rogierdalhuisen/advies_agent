@@ -79,6 +79,8 @@ The overall policy limit defines the maximum amount payable for eligible medical
 
 Coverage for eligible medical treatment received in the USA that is outside the PPO Network, subject to the appropriate area of cover. Any eligible medical treatment received in the USA must be within the PPO Network. For all plans (Bronze, Bronze Plus, Silver, Gold, Platinum), there is a 50% co-insurance after your policy excess has been applied for eligible treatment received outside the PPO Network.
 
+### In-patient & day-patient Treatment
+
 #### Accommodation (in hospital)
 
 Coverage for accommodation while in the hospital. This benefit is not available (N/A) for the Bronze plan. For the Bronze Plus, Silver, Gold, and Platinum plans, In-patient & day-patient Treatment is covered.
@@ -183,11 +185,7 @@ Where hospital accommodation and all treatment costs are provided in a State or 
 
 Treatment (through a medical practitioner or specialist commencing within 24 hours of the emergency event), when admitted to a hospital bed as an in-patient or day-patient, required as result of an accident or the sudden beginning or worsening of an eligible medical condition where failure to seek immediate medical attention would result in death or serious damage to bodily functions. For the Bronze plan, Maximum 30 nights each year; Maximum sum insured of £20,000 / €20,000 / US20,000; Limited to trips of under 30 days. For the Silver plan, Maximum 30 nights each year; Maximum sum insured of £30,000 / €30,000 / US40,000; Limited to trips of under 30 days. For the Platinum plan, Maximum 30 nights each year; Maximum sum insured of £50,000 / €50,000 / US$50,000; Limited to trips of under 30 days.
 
----
-
-## PHYSICAL HEALTH
-
-## Summary Schedule of Benefits (Continued)
+### Out-Patient Treatment
 
 #### Overall Out-patient Limit
 
@@ -305,6 +303,8 @@ Out-patient coverage for psychiatric illness. This benefit is not available (N/A
 
 Support Programme. This benefit is not available (N/A) for the Bronze plan. This benefit is not available (N/A) for the Bronze Plus plan. This benefit is not available (N/A) for the Silver plan. For the Gold plan, this is covered. For the Platinum plan, this is covered.
 
+### Evacuation or Repatriation
+
 #### Evacuation
 
 Coverage for evacuation. For the Bronze plan, this is covered. For the Bronze Plus plan, this is covered. For the Silver plan, this is covered. For the Gold plan, this is covered. For the Platinum plan, this is covered.
@@ -329,12 +329,6 @@ Coverage for the repatriation of mortal remains. For the Bronze plan, limited to
 
 Coverage for Travel Intelligence. For the Bronze plan, this is covered. For the Bronze Plus plan, this is covered. For the Silver plan, this is covered. For the Gold plan, this is covered. For the Platinum plan, this is covered.
 
----
-
-## PHYSICAL HEALTH
-
-## Summary Schedule of Benefits (Continued)
-
 ### Optional Benefit - Routine Pregnancy & Childbirth (10 month waiting period applies)
 
 #### Routine pregnancy and childbirth costs
@@ -353,13 +347,7 @@ Coverage for newborn accommodation. For the Bronze plan (Optional Benefit), this
 
 Cash benefit where no claim is submitted for routine pregnancy and childbirth. For the Bronze plan (Optional Benefit), limited to £100 / €100 / US100 each night up to a maximum of 30 nights. For the Silver plan (Optional Benefit), limited to £100 / €100 / US100 each night up to a maximum of 30 nights. For the Platinum plan (Optional Benefit), limited to £100 / €100 / US$100 each night up to a maximum of 30 nights.
 
----
-
-## PHYSICAL HEALTH
-
-## Summary Schedule of Benefits (Continued)
-
-### Benefit - Dental Treatment (6 month waiting period applies)
+### Optional Benefit - Dental Treatment (6 month waiting period applies)
 
 #### Overall Dental Treatment Limit
 
@@ -398,21 +386,19 @@ MyIMG features include:
 - Start a web chat
 - Access the secure premium payment area
 
----
-
-## CRISIS SUPPORT
-
 ## PHYSICAL HEALTH
 
 ### Available with Select Global Prima Medical Insurances Plans
 
-**Telemedicine services (Bronze Plus, Silver, Gold & Platinum)**
+#### Telemedicine services (Bronze Plus, Silver, Gold & Platinum)
+
 Online and telephone access to a network of medical professionals available to discuss new, non-emergency medical issues. The best medicine brought to you and your family 24 hours a day, seven days a week.
 
-**Travel Intelligence (All plan levels)**
+#### Travel Intelligence (All plan levels)
+
 A vital companion that provides access to dynamic alerts and country intelligence to help you prepare for and stay safe while away from home.
 
-**Travel Intelligence Trustworthy and timely intelligence, professional advice and support**
+#### Travel Intelligence Trustworthy and timely intelligence, professional advice and support
 
 - **Safety Alerts** - Alert notifications of high-risk events, including health, terrorism, civil unrest, severe weather risks, in or near your current location
 - **Travel Essentials** - Emergency hotline, access to travel documents, important itinerary information
@@ -424,23 +410,27 @@ Telemedicine services will not support a diagnosis for psychiatric illness. Cove
 
 ## MENTAL WELLNESS
 
-## PHYSICAL HEALTH
+### Support Programme (Gold & Platinum)
 
-**Support Programme (Gold & Platinum)**
 Telemedicine for mental health that supports with financial, physical and emotional wellbeing. Whether you have questions about handling stress at work or home, parenting and childcare, managing money or health issues, you can turn to this valuable and confidential service that you can trust.
 
-**Optional Benefits**
+## OPTIONAL BENEFITS
+
+### Supplemental Benefits
+
 As a compliment to the medical benefits, Global Prima Medical Insurances offers the following optional supplemental benefits for an additional premium:
 
-**Routine Pregnancy (10 month waiting period)**
+#### Routine Pregnancy (10 month waiting period)
+
 Following ten months of continuous cover with Global Prima Medical Insurances routine pregnancy and childbirth costs, including pre and postnatal check-ups (maximum 12 check-ups), scans (maximum of three, one per trimester) and delivery costs for a routine delivery, will be covered as standard if you have this option added to your plan.
 
-**Dental Treatments (6 month waiting period)**
+#### Dental Treatments (6 month waiting period)
+
 Global Prima Medical Insurance policyholders are covered for emergency treatment if you've elected to take out Silver, Gold or Platinum levels of protection, but now, following a waiting period, all customers can have a full range of dental procedures included in their plan. Full details of the range of care and procedures you can add-on are explained in the benefits table shown earlier in this brochure.
 
----
+## POLICY EXCESS
 
-## Policy excess
+### Excess Overview
 
 By opting for an excess on your policy, you can reduce your premiums by between 5% and 51%. The excess is per person per policy period and once the excess amount has been reached, you're covered right up to the policy limits of your plan regardless of the number of medical conditions involved.
 
@@ -460,23 +450,19 @@ The following table shows the discount percentage associated with different exce
 - **£5,000 / €5,000 / $5,000 excess:** 46% discount.
 - **£7,500 / €7,500 / $7,500 excess:** 51% discount.
 
-## Eligibility
+## ELIGIBILITY
 
 Global Prima Medical Insurance is available to all nationalities. Persons of any age may apply for cover subject to a satisfactory application form and any underwriting restrictions. Full details of our underwriting options can be found on our website: [www.imglobal.com/intl](https://www.imglobal.com/intl).
 
-## Top-up Policies
+## TOP-UP POLICIES
 
 If you are using the claims under another insurance policy to cover the excess under your Global Prima Medical Insurance plan, you must provide evidence of the medical condition together with paid invoices. Please note, only medical conditions under our policy Terms and Conditions are eligible. Payment cannot be made for the same invoice under both policies.
 
-## Lifetime Coverage
+## LIFETIME COVERAGE
 
 Once enrolled and coverage has been accepted we will offer renewal forever provided you maintain continuous coverage.
 
----
-
-## So, What Happens Next?
-
-When you choose Global Prima Medical Insurance, you can be sure that when you need our help, we'll be with you 24 hours, day or night.
+## SO, WHAT HAPPENS NEXT?
 
 ### For you and your family
 
@@ -486,10 +472,12 @@ Our range of international medical insurance plans gives you the flexibility to 
 
 Enrolling your employees (and their dependants) onto your group medical plan is simple. Once we receive your Corporate Application Form and basic details of who's to be covered, we'll start processing your scheme.
 
-**When a new employee joins**
+#### When a new employee joins
+
 Complete our simple form with the new employees details and we will prepare their documentation.
 
-**When an employee leaves**
+#### When an employee leaves
+
 Email us their name, customer number and contact details and we'll do the rest. We are able to offer continuation of cover for anyone leaving a Group plan.
 
 As soon as we receive your application form and your first premium, we'll prepare your new membership documents, which can be emailed directly to you.
