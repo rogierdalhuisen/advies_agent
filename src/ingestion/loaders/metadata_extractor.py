@@ -57,7 +57,6 @@ class MetadataExtractor:
 
         # Detect document type from filename
         filename = file_path.name
-        document_type = self._detect_document_type(filename)
 
         # Extract version date from webpage files
         version_date = self._extract_version_date(filename)
@@ -65,10 +64,9 @@ class MetadataExtractor:
         # Generate document ID (stable hash based on filepath)
         document_id = self._generate_document_id(str(file_path))
 
-        return {
+        metadata = {
             "insurance_provider": insurance_provider,
             "company_display_name": company_display,
-            "document_type": document_type,
             "document_name": filename,
             "version_date": version_date,
             "is_webpage": filename.startswith("webpage_"),
@@ -76,35 +74,7 @@ class MetadataExtractor:
             "document_id": document_id,
             "ingestion_timestamp": datetime.now().isoformat(),
         }
-
-    def _detect_document_type(self, filename: str) -> str:
-        """
-        Detect document type from filename.
-
-        Args:
-            filename: Name of the file
-
-        Returns:
-            Document type string
-        """
-        filename_lower = filename.lower()
-
-        if filename.startswith("webpage_"):
-            return "webpage"
-        elif "condition" in filename_lower or "voorwaarden" in filename_lower:
-            return "conditions"
-        elif "premium" in filename_lower or "premie" in filename_lower:
-            return "premiums"
-        elif "summary" in filename_lower or "overzicht" in filename_lower:
-            return "summary"
-        elif "brochure" in filename_lower:
-            return "brochure"
-        elif "benefit" in filename_lower:
-            return "benefits"
-        elif "coverage" in filename_lower or "dekking" in filename_lower:
-            return "coverage"
-        else:
-            return "other"
+        return metadata
 
     def _extract_version_date(self, filename: str) -> str | None:
         """
