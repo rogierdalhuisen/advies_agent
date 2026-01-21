@@ -22,21 +22,21 @@ Non-European Union resident policies are sold by Strategic Insurance Services Li
 
 European Union resident policies are sold by Strategic Insurance Brokers (Cyprus) Ltd (SIBC). Company Number: HE394431. SIBC is authorised and regulated by the Cypriot Insurance Superintendent, per Authorization Number: 7255. Address: Androkleous 19a, 1061 Nicosia, Cyprus.
 
-# Benefit Schedule
+## Benefit Schedule
 
-## Annual Aggregate Maximum
+### Annual Aggregate Maximum
 
 The annual aggregate maximum coverage limit varies by plan type. Under the Select plan, the annual aggregate maximum is €/£/$5,000,000. Under the Primary+ plan, the annual aggregate maximum is €/£/$1,500,000. Under the Primary+ lite plan, the annual aggregate maximum is €/£/$1,000,000. Under the Primary plan, the annual aggregate maximum is €/£/$1,000,000.
 
 Benefit currency to match premium denomination.
 
-## Income Replacement
+### Income Replacement
 
 #### Accidental Death and Permanent Total Disability
 
 The benefit for accidental death and permanent total disability of an insured person. Under the Select plan, this benefit is €/£/$100,000. This benefit is not available under the Primary+, Primary+ lite, or Primary plans. For Terms and Conditions see separate PAI Policy Wording.
 
-## Hospital Benefits
+### Hospital Benefits
 
 #### Private Hospital Bed
 
@@ -96,7 +96,7 @@ The coverage for obtaining a second medical opinion before undergoing major surg
 
 The coverage for organ transplant surgery and associated costs. Under the Select plan, this benefit is limited to €/£/$300,000 per insured person per lifetime. Under the Primary+ plan, this benefit is limited to €/£/$150,000 per insured person per lifetime. Under the Primary+ lite plan, this benefit is limited to €/£/$150,000 per insured person per lifetime. Under the Primary plan, this benefit is limited to €/£/$100,000 per insured person per lifetime.
 
-## Outpatient & GP Benefits
+### Outpatient & GP Benefits
 
 #### Family doctor, GP, Specialist and Physician consultations fees (including outpatient surgeries)
 
@@ -126,7 +126,7 @@ The coverage for oncology and cancer treatment as an outpatient. Under the Selec
 
 The coverage for psychiatric treatment as an outpatient. Under the Select plan, this is limited to 10 sessions and €/£/$3,000 per insured person per period of cover. Under the Primary+ plan, this is limited to 10 sessions and €/£/$3,000 per insured person per period of cover. This benefit is not available under the Primary+ lite or Primary plans.
 
-## Assistance Services & Special Benefits
+### Assistance Services & Special Benefits
 
 #### Emergency Medical Transportation
 
@@ -164,7 +164,7 @@ The coverage for terminal and palliative care treatment for a terminal medical c
 
 The coverage for treatment related to HIV, AIDS, and AIDS Related Complex. Under the Select plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. Under the Primary+ plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. Under the Primary+ lite plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. This benefit is not available under the Primary plan.
 
-## Maternity
+### Maternity
 
 #### Complications of Pregnancy
 
@@ -194,7 +194,7 @@ The coverage for home nursing services following a home delivery. Under the Sele
 
 The coverage for medically necessary treatment of a newborn child from birth until 30 days following hospital discharge. Under the Select plan, this benefit is limited to €/£/$25,000, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
-## Dental
+### Dental
 
 #### Accidental Emergency Dental Treatment
 
@@ -214,13 +214,13 @@ The coverage for major restorative dental procedures. Under the Select plan, thi
 
 Dental benefits (except Accidental) are subject to a 20% co-pay.
 
-## Optical
+### Optical
 
 #### Examinations & Lenses (including contact lenses)
 
 The coverage for eye examinations and prescription lenses, including contact lenses. Under the Select plan, this benefit is limited to €/£/$150 per insured person per annum. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
-## Preventative
+### Preventative
 
 #### Medical Check-up
 
@@ -244,7 +244,7 @@ The coverage for prostate cancer screening tests. Under the Select plan, this is
 
 For Terms and Conditions see separate PAI Policy Wording. ✓ = 100% refund to policy annual maximum aggregate. \* = Excludes costs incurred in first 12 months.
 
-# Premium Rewards
+## Premium Rewards
 
 Premium Rewards are our way of rewarding customers who remain claim free by discounting future premiums by up to 20%. Simply put: if don't make a claim in a policy year you can earn a discount of up to 10% on your subsequent annual premium, up to 15% for two years without a claim and up to 20% for 3 years claims free or greater, as the table below demonstrates.
 
@@ -252,215 +252,379 @@ If you are a Select customer claims under the Maternity, Dental, Optical or Prev
 
 Premium Rewards are also available to new customers who are insured elsewhere. Simply demonstrate the period you have been claim free, purchase a similar level of insurance and you'll enjoy discounted premiums.
 
-#### Premium Rewards Discounts
+### Premium Rewards Discounts
 
 The discount applicable to premiums based on the claim-free period. Under the Select plan, for 1 year claim free the discount is 10%; for 2 years it is 15%; for 3+ years it is 20%. Under the Primary + plan, for 1 year claim free the discount is 10%; for 2 years it is 15%; for 3+ years it is 20%. Under the Primary + Lite plan, for 1 year claim free the discount is 5%; for 2 years it is 7.5%; for 3+ years it is 10%. Under the Primary plan, for 1 year claim free the discount is 5%; for 2 years it is 7.5%; for 3+ years it is 10%.
 
 **Notes:**
 New customers claiming Premium Rewards must provide proof of the period they have been claims free from their current insurer. Cover must be current, continuous and without any break. A comparable level of cover must be purchased from us.
 
-# Section 1 - Definitions
+## Section 1 - Definitions
+
+### introduction
 
 The following words have the same meaning wherever they appear in this Policy Wording. No words in this Policy Wording are gender specific and are applicable to both male and female subjects.
 
-**Accident** - A bodily injury resulting solely from sudden & unexpected external force, and which is independent of all other causes.
+#### Accident
 
-**Advice** - Any information, consultation or Treatment received from a Nurse, Physician or Specialist, including the issuing of any medication or prescription.
+A bodily injury resulting solely from sudden & unexpected external force, and which is independent of all other causes.
 
-**Acute** - An Accident or Illness that is not Chronic and that responds quickly to Treatment, and which leads to Your full recovery.
+#### Advice
 
-**Chronic** - An Illness that fails to respond effectively to Treatment or is ongoing or frequently recurring without likelihood of complete cessation, or requires Palliative Treatment, or requires constant or long periods of supervision.
+Any information, consultation or Treatment received from a Nurse, Physician or Specialist, including the issuing of any medication or prescription.
 
-**Commencement Date** - The date on which the Policy becomes effective as shown on the Policy Schedule.
+#### Acute
 
-**Co-insurance** - The percentage You must pay in respect of any Covered Charges, as detailed in the Policy Wording or as shown in the Benefit Schedule. In all instances any Excess applicable must be satisfied before the Co-insurance becomes effective.
+An Accident or Illness that is not Chronic and that responds quickly to Treatment, and which leads to Your full recovery.
 
-**Company/Our/Us/We** - Expatriate Group acting on behalf of certain Underwriters, including any organisation appointed by Us to act on Our behalf.
+#### Chronic
 
-**Complementary Medicine/Therapies** - Treatment or medicine provided by a registered and properly qualified Osteopath, Chiropractor, Homeopath and Acupuncturist on the written recommendation of Your treating Physician for a Covered Charge.
+An Illness that fails to respond effectively to Treatment or is ongoing or frequently recurring without likelihood of complete cessation, or requires Palliative Treatment, or requires constant or long periods of supervision.
 
-**Cosmetic Surgery** - Surgery performed primarily to change or restore physical appearance.
+#### Commencement Date
 
-**Country of Residence** - The country stated in Your Policy Schedule. This should be different to your stated Home Country.
+The date on which the Policy becomes effective as shown on the Policy Schedule.
 
-**Covered Charges** - A charge incurred for Your Medically Necessary Treatment which is Reasonable and Customary and incurred during the Period of Cover.
+#### Co-insurance
 
-**Day Care Treatment** - Medically Necessary Treatment received in a Hospital that requires the use of an operating theatre, but where You are not admitted to a Hospital bed overnight.
+The percentage You must pay in respect of any Covered Charges, as detailed in the Policy Wording or as shown in the Benefit Schedule. In all instances any Excess applicable must be satisfied before the Co-insurance becomes effective.
 
-**Dependant** - A family member of the Primary Insured who is either:
+#### Company/Our/Us/We
+
+Expatriate Group acting on behalf of certain Underwriters, including any organisation appointed by Us to act on Our behalf.
+
+#### Complementary Medicine/Therapies
+
+Treatment or medicine provided by a registered and properly qualified Osteopath, Chiropractor, Homeopath and Acupuncturist on the written recommendation of Your treating Physician for a Covered Charge.
+
+#### Cosmetic Surgery
+
+Surgery performed primarily to change or restore physical appearance.
+
+#### Country of Residence
+
+The country stated in Your Policy Schedule. This should be different to your stated Home Country.
+
+#### Covered Charges
+
+A charge incurred for Your Medically Necessary Treatment which is Reasonable and Customary and incurred during the Period of Cover.
+
+#### Day Care Treatment
+
+Medically Necessary Treatment received in a Hospital that requires the use of an operating theatre, but where You are not admitted to a Hospital bed overnight.
+
+#### Dependant
+
+A family member of the Primary Insured who is either:
 a) the legally married spouse or partner with whom you permanently reside, provided the spouse/partner is at least 18 years of age and younger than 65 at the time of application for cover under this Policy and permanently resident with You, or
 b) a child, who is unmarried, below 21 years of age, permanently resides with, and is financially dependant on You.
 
-**Effective Date** - The date of first inclusion under this Policy of each Insured Person, as noted on the Policy Schedule.
+#### Effective Date
 
-**Emergency Medical Evacuation** - A medical condition or situation, which in Our opinion, cannot adequately be treated in the location in which it has arisen. In this event the Emergency Assistance provider will arrange for You to be transferred to the nearest location where adequate appropriate Treatment can be provided.
+The date of first inclusion under this Policy of each Insured Person, as noted on the Policy Schedule.
 
-**Excess** - The amount payable by You, as detailed in Your Policy Schedule, in respect of each new medical condition before any claims are payable by Us. The Excess is applicable per person, per policy year and must be satisfied before any Co-insurance becomes effective.
+#### Emergency Medical Evacuation
 
-**Geographical Treatment Area** - The geographical regions in which You can receive Treatment for Covered Charges. The countries in which You can receive covered Treatment is as detailed in Your Policy Schedule, to be read in conjunction with the Geographical Coverage Schedule.
+A medical condition or situation, which in Our opinion, cannot adequately be treated in the location in which it has arisen. In this event the Emergency Assistance provider will arrange for You to be transferred to the nearest location where adequate appropriate Treatment can be provided.
 
-**Hazardous Activity** - Activities that carry an increased potential for injury. These may include, but are not limited to: professional, semi-professional or competitive sporting events of any kind; organised group, club, interscholastic or intercollegiate sports play; use of any type of firearms (any device that discharges a projectile of any type); parachuting, para-gliding, bob-sleighing, gliding/soaring, hang-gliding, micro-light flying, skeleton, luge; American football; bungee jumping; base jumping; trekking above 3,500 meters; mountaineering/rock-climbing; scuba diving in excess of 25 meters or any flights within 24-hours of diving activity; white water canoeing, white water rafting; skiing or snowboarding, except on the normally marked publicly open ski trails at a ski resort; skating, off-road mountain biking, ice hockey; participation in any type of motor-sport, motor-sport race or motor-sport contest. Unless otherwise accepted by Us in writing.
+#### Excess
 
-**Home Country** - A country of origin for which You hold a passport.
+The amount payable by You, as detailed in Your Policy Schedule, in respect of each new medical condition before any claims are payable by Us. The Excess is applicable per person, per policy year and must be satisfied before any Co-insurance becomes effective.
 
-**Hospital** - A facility which operates as a Hospital in accordance with the laws of the respective country, is open at all times, is operated mainly to diagnose and treat Illnesses as an Inpatient, has organised facilities for major Surgery, has a staff of one or more Physicians on call at all times, has 24 hour nursing services by, or under, the supervision of government licensed nurses, is not, other than incidentally, a skilled nursing facility; clinic place for alcoholics or drug addicts, nursing home, rest home, convalescent home; home for the aged; place for the Treatment of mental disorders or a similar establishment, and maintains a daily medical record for each patient, which is accessible by Us.
+#### Geographical Treatment Area
 
-**Illness** - A disease or body impairment, which is not a consequence of an Accident, and which requires Medically Necessary Treatment.
+The geographical regions in which You can receive Treatment for Covered Charges. The countries in which You can receive covered Treatment is as detailed in Your Policy Schedule, to be read in conjunction with the Geographical Coverage Schedule.
 
-**Inpatient Treatment** - Medically Necessary Treatment received where You are admitted to a Hospital bed overnight.
+#### Hazardous Activity
 
-**Insured Person/You/Your** - Any person who is covered under this Policy and is named as such in the Policy Schedule.
+Activities that carry an increased potential for injury. These may include, but are not limited to: professional, semi-professional or competitive sporting events of any kind; organised group, club, interscholastic or intercollegiate sports play; use of any type of firearms (any device that discharges a projectile of any type); parachuting, para-gliding, bob-sleighing, gliding/soaring, hang-gliding, micro-light flying, skeleton, luge; American football; bungee jumping; base jumping; trekking above 3,500 meters; mountaineering/rock-climbing; scuba diving in excess of 25 meters or any flights within 24-hours of diving activity; white water canoeing, white water rafting; skiing or snowboarding, except on the normally marked publicly open ski trails at a ski resort; skating, off-road mountain biking, ice hockey; participation in any type of motor-sport, motor-sport race or motor-sport contest. Unless otherwise accepted by Us in writing.
 
-**Medical Check-up** - A physical examination with a Physician, including the cost of the Physician's fee, blood test (red blood count, white blood count, blood sugar, cholesterol, triglyceride, uric acid) and urine test (sugar, protein).
+#### Home Country
 
-**Medically Necessary Treatment** - A service, supply or Period of Hospitalisation which is ordered by a Physician or a Specialist for the diagnosis and/or Treatment of an Accident or Illness and is:
+A country of origin for which You hold a passport.
+
+#### Hospital
+
+A facility which operates as a Hospital in accordance with the laws of the respective country, is open at all times, is operated mainly to diagnose and treat Illnesses as an Inpatient, has organised facilities for major Surgery, has a staff of one or more Physicians on call at all times, has 24 hour nursing services by, or under, the supervision of government licensed nurses, is not, other than incidentally, a skilled nursing facility; clinic place for alcoholics or drug addicts, nursing home, rest home, convalescent home; home for the aged; place for the Treatment of mental disorders or a similar establishment, and maintains a daily medical record for each patient, which is accessible by Us.
+
+#### Illness
+
+A disease or body impairment, which is not a consequence of an Accident, and which requires Medically Necessary Treatment.
+
+#### Inpatient Treatment
+
+Medically Necessary Treatment received where You are admitted to a Hospital bed overnight.
+
+#### Insured Person/You/Your
+
+Any person who is covered under this Policy and is named as such in the Policy Schedule.
+
+#### Medical Check-up
+
+A physical examination with a Physician, including the cost of the Physician's fee, blood test (red blood count, white blood count, blood sugar, cholesterol, triglyceride, uric acid) and urine test (sugar, protein).
+
+#### Medically Necessary Treatment
+
+A service, supply or Period of Hospitalisation which is ordered by a Physician or a Specialist for the diagnosis and/or Treatment of an Accident or Illness and is:
 a) appropriate and consistent with the symptoms and findings or diagnosis, and
 b) provided in accordance with generally accepted medical practice on a national basis, and
 c) the most appropriate supply or level of service which can be provided on a cost effective basis, and
 d) not of an experimental or research nature and is not of an investigative nature for the purposes of experiments or research, and
 e) is not solely of a preventative nature.
 
-**Needle Stick Injury** - A break in the skin caused by a hypodermic syringe or other type of needle for surgical or medical use, which was caused during, or immediately following, administering surgical or medical Treatment.
+#### Needle Stick Injury
 
-**Nursing at Home** - Services provided in Your home by a qualified nurse, following Inpatient Treatment, which is prescribed by the treating Physician or Specialist.
+A break in the skin caused by a hypodermic syringe or other type of needle for surgical or medical use, which was caused during, or immediately following, administering surgical or medical Treatment.
 
-**Newborn Care** - Treatment received by a newborn child from the date of birth until 30 days following discharge from Hospital, provided that an Application Form has been completed and accepted by Us for the child within fourteen days of birth. No other benefits are available to newborns until 30 days following birth, which shall be the child's Effective Date (or as noted in the Policy Schedule, if later) when the selected Plan Benefits, Exclusions and Rules apply.
+#### Nursing at Home
 
-**Out of Territory** - Any Treatment received outside of Your Geographical Treatment Area.
+Services provided in Your home by a qualified nurse, following Inpatient Treatment, which is prescribed by the treating Physician or Specialist.
 
-**Outpatient Treatment** - Medically Necessary Treatment received when You are not an Inpatient and are not receiving Day Care Treatment.
+#### Newborn Care
 
-**Palliative Treatment** - Any medical procedure, the primary purpose of which is to offer only temporary relief of symptoms, rather than to cure the actual medical condition causing the symptoms.
+Treatment received by a newborn child from the date of birth until 30 days following discharge from Hospital, provided that an Application Form has been completed and accepted by Us for the child within fourteen days of birth. No other benefits are available to newborns until 30 days following birth, which shall be the child's Effective Date (or as noted in the Policy Schedule, if later) when the selected Plan Benefits, Exclusions and Rules apply.
 
-**Period of Cover** - The period, as detailed in Your Policy Schedule, for which this Policy is in force.
+#### Out of Territory
 
-**Period of Hospitalisation** - A continuous period of time during which an Insured Person is confined to a Hospital as an Inpatient for the receipt of Medically Necessary Treatment.
+Any Treatment received outside of Your Geographical Treatment Area.
 
-**Physician** - A medical or dental practitioner who is registered and legally licensed to practice medicine or dentistry in the country where Treatment is provided and who is not a relative of the Insured Person.
+#### Outpatient Treatment
 
-**Policy** - The legally binding document between Us and You providing insurance cover as detailed within. Your Policy Schedule, Benefit Schedule, Geographical Coverage Schedule, Your Application Form together form the Policy and must be read in conjunction with each other.
+Medically Necessary Treatment received when You are not an Inpatient and are not receiving Day Care Treatment.
 
-**Policy Anniversary** - The anniversary of the Policy Commencement Date.
+#### Palliative Treatment
 
-**Pre-authorisation** - The requirement to contact Our helpline to obtain written authorisation, in advance of receiving any Treatment.
+Any medical procedure, the primary purpose of which is to offer only temporary relief of symptoms, rather than to cure the actual medical condition causing the symptoms.
 
-**Pre-existing Condition** - Any condition, disease, Illness, or injury, secondary or associated complaint where You have sought or received advice, Treatment, therapy, been submitted to a special diet or shown symptoms in the two years prior to Your Effective Date (whether or not the condition has been diagnosed).
+#### Period of Cover
 
-**Primary Insured** - The main applicant for cover and the person who is responsible for paying the premium.
+The period, as detailed in Your Policy Schedule, for which this Policy is in force.
 
-**Reasonable and Customary** - The average cost of any Covered Charge within any particular region, area or country as determined by Us.
+#### Period of Hospitalisation
 
-**Room and Board** - The Reasonable and Customary Covered Charges for the cost of a ward, semi-private or private Hospital room and associated costs.
+A continuous period of time during which an Insured Person is confined to a Hospital as an Inpatient for the receipt of Medically Necessary Treatment.
 
-**Sickness** - An illness or disease or body impairment, which is not a consequence of an Accident, and which requires Treatment.
+#### Physician
 
-**Specialist** - A Physician who is classified by the country's health authorities as a Physician with superior or special expertise in specified fields of medicine or dentistry.
+A medical or dental practitioner who is registered and legally licensed to practice medicine or dentistry in the country where Treatment is provided and who is not a relative of the Insured Person.
 
-**Surgery** - Incision, excision and suturing of wounds (excluding removal of suturing), electrocautery, cryocautery, laser and ultrasonic techniques, reduction of a fracture and dislocation by manipulation or endoscopic procedures.
+#### Policy
 
-**Travel Vaccinations** - Mandatory vaccinations and immunizations required for overseas travel, which are not otherwise required or recommended in Your Country of Residence.
+The legally binding document between Us and You providing insurance cover as detailed within. Your Policy Schedule, Benefit Schedule, Geographical Coverage Schedule, Your Application Form together form the Policy and must be read in conjunction with each other.
 
-**Treatment** - The Medically Necessary Treatment, Surgery, Advice, provision of medication, provision of medical procedures under the direction a Physician or Specialist to cure or relieve an Accident or Illness.
+#### Policy Anniversary
 
-**Underwriter(s)** - Guardrisk Insurance Company Mauritius Ltd PCC, authorised and regulated by the FSC in Mauritius (Registration number: C142417/C1/GBL).
+The anniversary of the Policy Commencement Date.
 
-# Section 2 - What we Cover
+#### Pre-authorisation
+
+The requirement to contact Our helpline to obtain written authorisation, in advance of receiving any Treatment.
+
+#### Pre-existing Condition
+
+Any condition, disease, Illness, or injury, secondary or associated complaint where You have sought or received advice, Treatment, therapy, been submitted to a special diet or shown symptoms in the two years prior to Your Effective Date (whether or not the condition has been diagnosed).
+
+#### Primary Insured
+
+The main applicant for cover and the person who is responsible for paying the premium.
+
+#### Reasonable and Customary
+
+The average cost of any Covered Charge within any particular region, area or country as determined by Us.
+
+#### Room and Board
+
+The Reasonable and Customary Covered Charges for the cost of a ward, semi-private or private Hospital room and associated costs.
+
+#### Sickness
+
+An illness or disease or body impairment, which is not a consequence of an Accident, and which requires Treatment.
+
+#### Specialist
+
+A Physician who is classified by the country's health authorities as a Physician with superior or special expertise in specified fields of medicine or dentistry.
+
+#### Surgery
+
+Incision, excision and suturing of wounds (excluding removal of suturing), electrocautery, cryocautery, laser and ultrasonic techniques, reduction of a fracture and dislocation by manipulation or endoscopic procedures.
+
+#### Travel Vaccinations
+
+Mandatory vaccinations and immunizations required for overseas travel, which are not otherwise required or recommended in Your Country of Residence.
+
+#### Treatment
+
+The Medically Necessary Treatment, Surgery, Advice, provision of medication, provision of medical procedures under the direction a Physician or Specialist to cure or relieve an Accident or Illness.
+
+#### Underwriter(s)
+
+Guardrisk Insurance Company Mauritius Ltd PCC, authorised and regulated by the FSC in Mauritius (Registration number: C142417/C1/GBL).
+
+## Section 2 - What we Cover
 
 Benefits in this section are provided for in accordance with the Plan Type (Section 4) You have selected. Except where otherwise limited or amended by Section 4 (Plan Type), We will indemnify You, subject to Reasonable and Customary charges, for the Benefits detailed in this Section (except whereas otherwise limited by Section 4. Plan Type), for the provision of Medically Necessary Treatment and Palliative Treatment of new Accidents or Illnesses incurred by You during Your Period of Cover up to €/£/$5,000,000 (annual aggregate maximum) per Period of Cover, after applying the appropriate Excess and Co-insurance. Benefits are payable, subject to the exclusions, limitations and conditions specified in this Policy and Your Benefit Schedule.
 
 ### Medical Benefits
 
-**Hospital Services** - Benefits are payable for Inpatient Treatment or Day Care Treatment when appropriate diagnostic procedures and/or Treatments are not available as Outpatient Treatment. Hospital Services include Covered Charges for Room and Board, Surgery, intensive care Treatment, Specialist's and Physician's fees, nursing fees, ancillary charges, drugs, dressings, and diagnostic procedures.
+#### Hospital Services
 
-**Outpatient Services and Physician's Fees** - Benefits are limited to Outpatient Treatment services including Covered Charges for services provided by or ordered by a Physician; or by a Specialist to whom the Insured Person has been referred to by a Physician.
+Benefits are payable for Inpatient Treatment or Day Care Treatment when appropriate diagnostic procedures and/or Treatments are not available as Outpatient Treatment. Hospital Services include Covered Charges for Room and Board, Surgery, intensive care Treatment, Specialist's and Physician's fees, nursing fees, ancillary charges, drugs, dressings, and diagnostic procedures.
 
-**Diagnostic Tests** - Benefits are limited to Covered Charges made for laboratory tests, X-rays, MRI, PET, or CT scans which are ordered by a Physician or Specialist.
+#### Outpatient Services and Physician's Fees
 
-**Prescribed Medicine and Drugs** - Benefits are limited to Covered Charges for prescribed medicine and drugs, whose sale and use are legally restricted, by the order of a Physician.
+Benefits are limited to Outpatient Treatment services including Covered Charges for services provided by or ordered by a Physician; or by a Specialist to whom the Insured Person has been referred to by a Physician.
 
-**Specialist Consultation Fees** - Benefits are payable for Covered Charges for a visit to a Specialist's room or a registered clinic, provided such a visit is recommended in writing by a Physician.
+#### Diagnostic Tests
 
-**Physiotherapy** - Benefits are limited to Treatment received from a registered physiotherapist where ordered by a Physician or Specialist. This Benefit is limited to a maximum number of 20 sessions per Insured Person, per Period of Cover.
+Benefits are limited to Covered Charges made for laboratory tests, X-rays, MRI, PET, or CT scans which are ordered by a Physician or Specialist.
 
-**Complementary Medicine and Treatments** - Benefits are limited to Covered Charges for Complementary Medicine and Treatment by registered chiropractors, osteopaths, homeopaths, and acupuncturists when under the direct control of and following referral by a Physician. This Benefit is limited to a maximum number of 10 sessions in aggregate per Insured Person, per Period of Cover.
+#### Prescribed Medicine and Drugs
 
-**Home Nursing following Hospitalisation** - Benefits are limited to Covered Charges for the medical services of an appropriate government licensed nurse for Treatment in Your home, when prescribed by a Physician and where directly related to, and following, a valid claim for Hospital Services (Section 2. What We cover) under this Policy. Benefits will be limited to a maximum of 30 days per annum, per Insured Person.
+Benefits are limited to Covered Charges for prescribed medicine and drugs, whose sale and use are legally restricted, by the order of a Physician.
 
-**Hospital Cash Benefit** - Where You receive all Treatment in respect of an Accident or Illness, which would otherwise be covered under this Policy, completely free of cost or charge to Us. We will pay You a Benefit of €/£/$150 for each complete 24 hour period You are admitted to a Hospital for Hospital Services (Section 2. What We cover).
+#### Specialist Consultation Fees
 
-**Prostheses** - Benefits are limited to the purchase and fitting of artificial body parts where fitting of such artificial body parts is directly related to a valid claim for Hospital Services (Section 2. What We cover) under this Policy. Benefits exclude the manufacture and fitting of artificial teeth unless resulting from an Accident. Benefit in respect of prosthesis that is not intra-operative is limited to a maximum of €/£/$2,000 per period of cover per Insured Person.
+Benefits are payable for Covered Charges for a visit to a Specialist's room or a registered clinic, provided such a visit is recommended in writing by a Physician.
 
-**Psychiatric Treatment (Inpatient and Day Care Treatment)** - Benefits are limited to Inpatient and Day Care Treatment in an appropriate registered psychiatric facility provided to the Insured Person under the order of a registered psychiatric Specialist. Benefit is limited to a maximum of 30 days per Insured Person, per Period of Cover.
+#### Physiotherapy
 
-**Psychiatric Treatment (Outpatient)** - Benefits are limited to Outpatient Treatment in a registered psychiatric facility provided to the Insured Person under the order of a registered psychiatric Specialist. Benefit is limited to a maximum of 10 sessions and €/£/$3,000 per Insured Person, per Period of Cover.
+Benefits are limited to Treatment received from a registered physiotherapist where ordered by a Physician or Specialist. This Benefit is limited to a maximum number of 20 sessions per Insured Person, per Period of Cover.
 
-**Second Opinion for Surgery** - Benefits are payable for a second opinion by a Specialist if the Insured Person is due to undergo a major Surgery. If the second opinion differs from the first opinion, benefits will also be payable for a third opinion by a Specialist.
+#### Complementary Medicine and Treatments
 
-**Chronic Conditions** - Benefits under this section are not subject to the Policy Excess.
+Benefits are limited to Covered Charges for Complementary Medicine and Treatment by registered chiropractors, osteopaths, homeopaths, and acupuncturists when under the direct control of and following referral by a Physician. This Benefit is limited to a maximum number of 10 sessions in aggregate per Insured Person, per Period of Cover.
+
+#### Home Nursing following Hospitalisation
+
+Benefits are limited to Covered Charges for the medical services of an appropriate government licensed nurse for Treatment in Your home, when prescribed by a Physician and where directly related to, and following, a valid claim for Hospital Services (Section 2. What We cover) under this Policy. Benefits will be limited to a maximum of 30 days per annum, per Insured Person.
+
+#### Hospital Cash Benefit
+
+Where You receive all Treatment in respect of an Accident or Illness, which would otherwise be covered under this Policy, completely free of cost or charge to Us. We will pay You a Benefit of €/£/$150 for each complete 24 hour period You are admitted to a Hospital for Hospital Services (Section 2. What We cover).
+
+#### Prostheses
+
+Benefits are limited to the purchase and fitting of artificial body parts where fitting of such artificial body parts is directly related to a valid claim for Hospital Services (Section 2. What We cover) under this Policy. Benefits exclude the manufacture and fitting of artificial teeth unless resulting from an Accident. Benefit in respect of prosthesis that is not intra-operative is limited to a maximum of €/£/$2,000 per period of cover per Insured Person.
+
+#### Psychiatric Treatment (Inpatient and Day Care Treatment)
+
+Benefits are limited to Inpatient and Day Care Treatment in an appropriate registered psychiatric facility provided to the Insured Person under the order of a registered psychiatric Specialist. Benefit is limited to a maximum of 30 days per Insured Person, per Period of Cover.
+
+#### Psychiatric Treatment (Outpatient)
+
+Benefits are limited to Outpatient Treatment in a registered psychiatric facility provided to the Insured Person under the order of a registered psychiatric Specialist. Benefit is limited to a maximum of 10 sessions and €/£/$3,000 per Insured Person, per Period of Cover.
+
+#### Second Opinion for Surgery
+
+Benefits are payable for a second opinion by a Specialist if the Insured Person is due to undergo a major Surgery. If the second opinion differs from the first opinion, benefits will also be payable for a third opinion by a Specialist.
+
+#### Chronic Conditions
+
+Benefits under this section are not subject to the Policy Excess.
 i) Curative: Benefits are limited to Covered Charges and Surgeries associated to costs in relation to Inpatient curative Treatment of a Chronic Condition.
 ii) Stabilisation of an Acute episode: Benefits are limited to Covered Charges and Surgeries associated to costs in relation to Inpatient stabilisation of an acute attack of a Chronic Condition.
 iii) Routine Management: Benefits are limited to Covered Charges and Surgeries related to Chronic conditions, subject to a limit of €/£/$100,000 per Insured Person per Period of Cover.
 
-**Palliative Care** - Benefits for Palliative Treatment are limited to costs incurred in respect of a terminal Medical Condition, including the cost of hospice accommodation, the costs of a Physician or Specialist and prescribed medication. Benefit is limited to a maximum of €/£/$30,000 per Insured Person, per lifetime.
+#### Palliative Care
 
-**HIV, AIDS & ARC** - Benefits are limited to Covered Charges for Treatment related to Human Immunodeficiency Virus, Acquired Immune Deficiency Syndrome or AIDS Related Complex and any related Illness. Benefit is limited to a maximum of €/£/$50,000 per Insured Person, per lifetime.
+Benefits for Palliative Treatment are limited to costs incurred in respect of a terminal Medical Condition, including the cost of hospice accommodation, the costs of a Physician or Specialist and prescribed medication. Benefit is limited to a maximum of €/£/$30,000 per Insured Person, per lifetime.
 
-**Organ Transplantation** - Benefits are payable for Covered Charges for a heart, lung, kidney, pancreas or liver transplant and post-operative drugs prescribed by a Physician or Specialist. Benefit is limited to €/£/$300,000 per Insured Person, per lifetime.
+#### HIV, AIDS & ARC
 
-**Preventative Services** - Benefits in this section are not subject to the Policy Excess. Benefits are payable for Covered Charges for:
+Benefits are limited to Covered Charges for Treatment related to Human Immunodeficiency Virus, Acquired Immune Deficiency Syndrome or AIDS Related Complex and any related Illness. Benefit is limited to a maximum of €/£/$50,000 per Insured Person, per lifetime.
+
+#### Organ Transplantation
+
+Benefits are payable for Covered Charges for a heart, lung, kidney, pancreas or liver transplant and post-operative drugs prescribed by a Physician or Specialist. Benefit is limited to €/£/$300,000 per Insured Person, per lifetime.
+
+#### Preventative Services
+
+Benefits in this section are not subject to the Policy Excess. Benefits are payable for Covered Charges for:
 a) Travel Vaccinations;
 b) Medical Check-ups, limited to one per person per Cover Period, up to a maximum of €/£/$300.00;
 c) Cervical smears, limited to one per person per Cover Period;
 d) Mammograms, limited to one per person per Cover Period;
-e) Prostate cancer screening, limited to one per person per Cover Period (only for men aged 45+).
+d) Prostate cancer screening, limited to one per person per Cover Period (only for men aged 45+).
 
 ### Assistance & Transportation Benefits
 
-**Local Ambulance Service** - Benefits are payable for Covered Charges incurred for transportation to a local Hospital by ambulance.
+#### Local Ambulance Service
 
-**Parent Accommodation** - Benefits are limited to costs incurred in respect of Hospital accommodation of a parent or guardian insured under this plan accompanying an insured dependant, who is under the age of 18, receiving covered Inpatient Treatment.
+Benefits are payable for Covered Charges incurred for transportation to a local Hospital by ambulance.
 
-**Emergency Medical Transportation** - Benefits are payable for Covered Charges for Emergency Medical Evacuation and medical care to move an Insured Person who has a critical medical condition which requires Inpatient Treatment or Day Care Treatment to the nearest Hospital where appropriate care and facilities are available. In the event of such an emergency, Our designated 24-hour Assistance Services Provider must be contacted immediately to approve and arrange any Emergency Medical Evacuation. In emergencies in remote or primitive areas, where the Assistance Services Provider cannot be contacted in advance, the Emergency Medical Evacuation must be reported as soon as possible. The Assistance Services Provider acting on Our behalf retains the right to decide on the place to which the Insured Person shall be transported. In case of an Emergency Medical Evacuation, the cost of a return economy air ticket back to the Insured Person's Country of Residence will be payable for the Insured Person and a round trip economy air fare ticket for one accompanying Dependant (who is insured under the Policy), when this is deemed necessary and certified by the appointed Physician and authorised by Us. Furthermore, the accompanying Dependant will receive a benefit of up to €/£/$150 per day towards the cost of accommodation and reasonable subsistence.
+#### Parent Accommodation
 
-**Repatriation of Mortal Remains or Local Burial** - Benefits are payable for Covered Charges for the preparation and the air transportation of the mortal remains of an Insured Person from the place of death to the Home Country or for the preparation and local burial of the mortal remains of an Insured Person up to a maximum of €/£/$10,000 per event.
+Benefits are limited to costs incurred in respect of Hospital accommodation of a parent or guardian insured under this plan accompanying an insured dependant, who is under the age of 18, receiving covered Inpatient Treatment.
 
-**Travel outside Your Geographical Treatment Area** - Benefits are payable for Covered Charges received outside Your Geographical Treatment Area for new incidents of Accidents and Illnesses, which You would not have reasonably expected prior to travelling. Each period of travel covered by this Benefit is subject to the trip being for no more than 30 days in total duration from the date You leave Your Geographical Treatment Area to the date that You return to Your Geographical Treatment Area. Benefit is limited to a maximum of €/£/$50,000 per Insured Person, per trip.
+#### Emergency Medical Transportation
 
-**Family Compassionate Travel** - Benefit is limited to the cost of economy class transport for up to two close relatives (being Your parent(s), sibling(s) or child(ren)), who reside outside Your Country of Residence, to attend You if You are admitted to a hospital bed in respect of a valid claim for more than three consecutive nights. Limited to a maximum of €/£/$250 per period of cover.
+Benefits are payable for Covered Charges for Emergency Medical Evacuation and medical care to move an Insured Person who has a critical medical condition which requires Inpatient Treatment or Day Care Treatment to the nearest Hospital where appropriate care and facilities are available. In the event of such an emergency, Our designated 24-hour Assistance Services Provider must be contacted immediately to approve and arrange any Emergency Medical Evacuation. In emergencies in remote or primitive areas, where the Assistance Services Provider cannot be contacted in advance, the Emergency Medical Evacuation must be reported as soon as possible. The Assistance Services Provider acting on Our behalf retains the right to decide on the place to which the Insured Person shall be transported. In case of an Emergency Medical Evacuation, the cost of a return economy air ticket back to the Insured Person's Country of Residence will be payable for the Insured Person and a round trip economy air fare ticket for one accompanying Dependant (who is insured under the Policy), when this is deemed necessary and certified by the appointed Physician and authorised by Us. Furthermore, the accompanying Dependant will receive a benefit of up to €/£/$150 per day towards the cost of accommodation and reasonable subsistence.
 
-**Compassionate Home Travel** - Benefit is limited to an economy return airfare, for the Primary Insured (or their spouse/partner, who is insured under this Policy) to return to Your Country of Nationality to attend the funeral of a parent, sibling, or child. This benefit is limited to costs incurred 12 months after Your Effective Date and is limited to one claim every 2 years of cover.
+#### Repatriation of Mortal Remains or Local Burial
+
+Benefits are payable for Covered Charges for the preparation and the air transportation of the mortal remains of an Insured Person from the place of death to the Home Country or for the preparation and local burial of the mortal remains of an Insured Person up to a maximum of €/£/$10,000 per event.
+
+#### Travel outside Your Geographical Treatment Area
+
+Benefits are payable for Covered Charges received outside Your Geographical Treatment Area for new incidents of Accidents and Illnesses, which You would not have reasonably expected prior to travelling. Each period of travel covered by this Benefit is subject to the trip being for no more than 30 days in total duration from the date You leave Your Geographical Treatment Area to the date that You return to Your Geographical Treatment Area. Benefit is limited to a maximum of €/£/$50,000 per Insured Person, per trip.
+
+#### Family Compassionate Travel
+
+Benefit is limited to the cost of economy class transport for up to two close relatives (being Your parent(s), sibling(s) or child(ren)), who reside outside Your Country of Residence, to attend You if You are admitted to a hospital bed in respect of a valid claim for more than three consecutive nights. Limited to a maximum of €/£/$250 per period of cover.
+
+#### Compassionate Home Travel
+
+Benefit is limited to an economy return airfare, for the Primary Insured (or their spouse/partner, who is insured under this Policy) to return to Your Country of Nationality to attend the funeral of a parent, sibling, or child. This benefit is limited to costs incurred 12 months after Your Effective Date and is limited to one claim every 2 years of cover.
 
 ### Maternity & Newborn Benefits
 
 Maternity & Newborn benefits are not subject to the Policy Excess.
 
-**Childbirth (normal childbirth and elective caesarean section)** - Benefits are payable for Covered Charges for Room and Board incurred by You during the Period of Hospitalisation, including the use of the operating theatre and Covered Charges made by a Specialist or Physician, up to €/£/$7,500 per pregnancy. A caesarean section necessitated due to a previous caesarean section is considered to be elective.
+#### Childbirth (normal childbirth and elective caesarean section)
 
-**Childbirth (complications & emergency caesarean section)** - Benefits are payable, subject to the sub-limit noted on the Benefit Schedule, for Covered Charges resulting from an emergency obstetric procedure in the antenatal stages of childbirth or during childbirth, including the use of the operating theatre and Covered Charges made by a Specialist or Physician.
+Benefits are payable for Covered Charges for Room and Board incurred by You during the Period of Hospitalisation, including the use of the operating theatre and Covered Charges made by a Specialist or Physician, up to €/£/$7,500 per pregnancy. A caesarean section necessitated due to a previous caesarean section is considered to be elective.
 
-**Prenatal examinations** - Benefits are payable for Covered Charges for up to 3 prenatal examinations with a Physician or Specialist at a registered clinic or Hospital or the residence of the Insured Person.
+#### Childbirth (complications & emergency caesarean section)
 
-**Home nursing following home delivery** - Benefits are payable for Covered Charges for the medical services of a government licensed nurse related directly to and following a normal delivery, limited to 5 days per home delivery.
+Benefits are payable, subject to the sub-limit noted on the Benefit Schedule, for Covered Charges resulting from an emergency obstetric procedure in the antenatal stages of childbirth or during childbirth, including the use of the operating theatre and Covered Charges made by a Specialist or Physician.
 
-**Newborn Care** - Benefits are payable for Medically Necessary Treatment received by Your newborn child up to 30 days following the date of birth. Benefit is limited to a maximum of €/£/$25,000. The Newborn Care benefit is subject to receipt of an Application Form to include the Dependant under Your Policy and receipt of the full premium within fourteen days of birth. No other benefits are available to newborns until 30 days following discharge from Hospital at which time Policy Benefits, rules and exclusions reapply in respect of the newborn.
+#### Prenatal examinations
+
+Benefits are payable for Covered Charges for up to 3 prenatal examinations with a Physician or Specialist at a registered clinic or Hospital or the residence of the Insured Person.
+
+#### Home nursing following home delivery
+
+Benefits are payable for Covered Charges for the medical services of a government licensed nurse related directly to and following a normal delivery, limited to 5 days per home delivery.
+
+#### Newborn Care
+
+Benefits are payable for Medically Necessary Treatment received by Your newborn child up to 30 days following the date of birth. Benefit is limited to a maximum of €/£/$25,000. The Newborn Care benefit is subject to receipt of an Application Form to include the Dependant under Your Policy and receipt of the full premium within fourteen days of birth. No other benefits are available to newborns until 30 days following discharge from Hospital at which time Policy Benefits, rules and exclusions reapply in respect of the newborn.
 
 ### Dental Benefits
 
 Dental Benefits are payable, subject to the Exclusions, limitations and conditions specified in this Policy. Dental Benefits are not subject to the Policy Excess. In respect of all Dental Benefits, except Emergency Dental Treatment following an Accident (as detailed below), a Co-insurance of 20% is payable by You. You must undertake a routine dental check-up at Your own expense after Your Effective Date and prove that all recommended Treatment has been completed before You are eligible for indemnity under the Dental Benefits section of cover.
 
-**Routine Dental Examination and Treatment** - Benefits are payable for Covered Charges for basic Treatment such as X-rays required prior to Treatment, extractions, root canal fillings, Treatment of abscesses, anterior or amalgam fillings, scaling, polishing, and prophylaxis limited to a maximum of €/£/$750 per Period of Cover per Insured Person.
+#### Routine Dental Examination and Treatment
 
-**Basic Restorative Treatment** - Benefits are payable for Covered Charges for restorative Treatment to natural teeth including capping, crowns and bridges in plastic or porcelain fused to gold, limited to a maximum of €/£/$750 per Period of Cover per Insured Person.
+Benefits are payable for Covered Charges for basic Treatment such as X-rays required prior to Treatment, extractions, root canal fillings, Treatment of abscesses, anterior or amalgam fillings, scaling, polishing, and prophylaxis limited to a maximum of €/£/$750 per Period of Cover per Insured Person.
 
-**Major Restorative Treatment** - Benefits are payable for Covered Charges for complex Treatment including Covered Charges for periodontal Surgery, inlays and implants, dental prosthesis fitting of artificial oral appliances, apicectomy molars and premolars, and the surgical extraction of wisdom teeth, limited to a maximum of €/£/$1,000 per Period of Cover per Insured Person.
+#### Basic Restorative Treatment
 
-**Emergency Dental Treatment following Accident** - Benefits are payable for Covered Charges incurred as a result of an Accident for dental Treatment received within 48 hours of the occurrence of the Accident to restore or replace sound natural teeth lost or damaged.
+Benefits are payable for Covered Charges for restorative Treatment to natural teeth including capping, crowns and bridges in plastic or porcelain fused to gold, limited to a maximum of €/£/$750 per Period of Cover per Insured Person.
+
+#### Major Restorative Treatment
+
+Benefits are payable for Covered Charges for complex Treatment including Covered Charges for periodontal Surgery, inlays and implants, dental prosthesis fitting of artificial oral appliances, apicectomy molars and premolars, and the surgical extraction of wisdom teeth, limited to a maximum of €/£/$1,000 per Period of Cover per Insured Person.
+
+#### Emergency Dental Treatment following Accident
+
+Benefits are payable for Covered Charges incurred as a result of an Accident for dental Treatment received within 48 hours of the occurrence of the Accident to restore or replace sound natural teeth lost or damaged.
 
 ### Optical Benefits
 
 Benefits payable under this section are not subject to the Policy Excess. The cost of an eye test and, where there is a change to Your prescription, We will also cover You for the cost of prescription lenses (including standard contact lenses). Benefit is limited to €/£/$150 per Insured Person per annum.
 
-# Section 3 - What we do not Cover
+## Section 3 - What we do not Cover
 
 The following is not covered by this Policy:
 
@@ -497,7 +661,7 @@ The following is not covered by this Policy:
 31. Dementia or psychogeriatric conditions.
 32. Search and rescue; or the cost of medical evacuation at sea.
 
-# Section 4 - Plan Types
+## Section 4 - Plan Types
 
 Covered Charges and Benefits provided by the Policy are in accordance with the Plan Name as specified in Your Policy Schedule and as outlined in this Section.
 
@@ -593,19 +757,29 @@ In addition to any amendments to Your policy as a result of the Plan Type shown 
 2. This does not affect the 14 day cooling-off period. Section 2 - Preventative Services - is deleted.
 3. Amend point 5. of Section 3 (What We do not cover) to "5. Costs relating to pregnancy or childbirth including any secondary or associated problems."
 
-# Section 5 - General Conditions
+## Section 5 - General Conditions
 
-**Policy Commencement of Cover** - The Policy commences on the date shown in Your Policy Schedule. Each Insured Person covered by this Policy may have a separate Effective Date under the Policy. We will endeavour to commence cover on the date requested in Your application form, subject to receipt of the full premium by the date You request.
+#### Policy Commencement of Cover
 
-**Your Effective Date** - This Policy becomes effective in respect of each Insured Person as of the Effective Date stated in the Policy Schedule.
+The Policy commences on the date shown in Your Policy Schedule. Each Insured Person covered by this Policy may have a separate Effective Date under the Policy. We will endeavour to commence cover on the date requested in Your application form, subject to receipt of the full premium by the date You request.
 
-**Renewal of Policy** - The premium (whether annual or monthly) is a guaranteed amount for a 12-month period from Your Commencement Date. Prior to each anniversary date of Your Policy We will advise You what Your premium(s) will be for the following 12-month period. The Policy may be renewed at each Policy Anniversary provided:
+#### Your Effective Date
+
+This Policy becomes effective in respect of each Insured Person as of the Effective Date stated in the Policy Schedule.
+
+#### Renewal of Policy
+
+The premium (whether annual or monthly) is a guaranteed amount for a 12-month period from Your Commencement Date. Prior to each anniversary date of Your Policy We will advise You what Your premium(s) will be for the following 12-month period. The Policy may be renewed at each Policy Anniversary provided:
 a) the Primary Insured accepts any Policy changes notified by Us and
 b) the renewal premium is paid on or before the date of renewal.
 
-**Policy Duration** - Unless otherwise accepted by Us in writing, all contracts are for a minimum period of 12 month (regardless of whether You elect to pay Your premium in monthly instalments). Cover is renewable for subsequent 12 month periods (see Renewal of Policy) until such a time that Your Policy terminates (see Termination of Policy).
+#### Policy Duration
 
-**Cancellation of Policy** - This is an annual contract of insurance and is not subject to cancellation following the 14 day cooling-off period. However, We may allow early termination of the policy where We feel that there is a valid reason (i.e. You have permanently returned to Your Home Country following the end of a contract of employment) and where You have not claimed against the policy. In such a circumstance any refund of premium will be per the following scale:
+Unless otherwise accepted by Us in writing, all contracts are for a minimum period of 12 month (regardless of whether You elect to pay Your premium in monthly instalments). Cover is renewable for subsequent 12 month periods (see Renewal of Policy) until such a time that Your Policy terminates (see Termination of Policy).
+
+#### Cancellation of Policy
+
+This is an annual contract of insurance and is not subject to cancellation following the 14 day cooling-off period. However, We may allow early termination of the policy where We feel that there is a valid reason (i.e. You have permanently returned to Your Home Country following the end of a contract of employment) and where You have not claimed against the policy. In such a circumstance any refund of premium will be per the following scale:
 
 **Time on Risk / Premium retained by Us**
 
@@ -621,58 +795,92 @@ b) the renewal premium is paid on or before the date of renewal.
 
 We may cancel Your Policy with effect from the next renewal date by giving written notice to the Primary Insured.
 
-**Termination of Policy** - This Policy terminates on the earliest of a) non-payment of premium (this will cancel your current policy from inception), or b) the date at which You permanently return to Your Home Country, or c) the non-renewal of Your Policy.
+#### Termination of Policy
 
-**Eligibility of Cover** - Cover is available where the Primary Insured is between eighteen and sixty five years of age (at the Effective Date), living outside their Home Country, and their Dependant(s), where accepted for cover by Us in writing. The policy may be renewed indefinitely, beyond the age of 65, provided there is no break in cover.
+This Policy terminates on the earliest of a) non-payment of premium (this will cancel your current policy from inception), or b) the date at which You permanently return to Your Home Country, or c) the non-renewal of Your Policy.
 
-**Our Liability** - We will not be liable for Treatment which takes place outside the Cover Period. In the event of cancellation/termination of the Policy, We will only pay for Treatment which takes place before the cancellation or termination of the Policy.
+#### Eligibility of Cover
 
-**Policy Schedule** - Each Member who is covered under this Policy will be noted on the Policy Schedule issued by Us which describes:
+Cover is available where the Primary Insured is between eighteen and sixty five years of age (at the Effective Date), living outside their Home Country, and their Dependant(s), where accepted for cover by Us in writing. The policy may be renewed indefinitely, beyond the age of 65, provided there is no break in cover.
+
+#### Our Liability
+
+We will not be liable for Treatment which takes place outside the Cover Period. In the event of cancellation/termination of the Policy, We will only pay for Treatment which takes place before the cancellation or termination of the Policy.
+
+#### Policy Schedule
+
+Each Member who is covered under this Policy will be noted on the Policy Schedule issued by Us which describes:
 a) the Commencement Date of cover and Effective Date for each Insured Person,
 b) to whom cover is provided,
 c) details of any Dependants covered,
 d) any Excess and Co-insurance payable,
 e) the applicable Geographical Area of Treatment.
 
-**Premium** - Our premiums are fixed for a 12-month period. We will offer you the option to pay a monthly premium or, for a 6% discount (to reflect the reduced account administration), an annual premium. Cover will not be effective until such a time that We have received Your premium. We will only accept monthly instalment via our online premium collection facility.
+#### Premium
 
-**Policy Changes** - We reserve the right to amend the Policy and premiums, with such amendments applying from Your next Policy renewal.
+Our premiums are fixed for a 12-month period. We will offer you the option to pay a monthly premium or, for a 6% discount (to reflect the reduced account administration), an annual premium. Cover will not be effective until such a time that We have received Your premium. We will only accept monthly instalment via our online premium collection facility.
 
-**Entire Contract** - This Policy, the Policy Schedule, Your application form, the Benefit Schedule, the Geographical Coverage Schedule and any endorsements made by Us in writing make up the entire contract.
+#### Policy Changes
 
-**Cover Shall Be Void** - The cover for an Insured Person shall be void from the date the cover for that Insured Person became effective if:
+We reserve the right to amend the Policy and premiums, with such amendments applying from Your next Policy renewal.
+
+#### Entire Contract
+
+This Policy, the Policy Schedule, Your application form, the Benefit Schedule, the Geographical Coverage Schedule and any endorsements made by Us in writing make up the entire contract.
+
+#### Cover Shall Be Void
+
+The cover for an Insured Person shall be void from the date the cover for that Insured Person became effective if:
 a) the application made by the Insured Person or any written statement given by the Insured Person is untrue in any respect or if any material fact affecting the risk is incorrectly stated or represented, or
 b) the Insured Person makes any claim which is fraudulent or exaggerated or makes any false declaration or statement in support of any claim.
 c) non-payment of an instalment premium.
 In such instances there shall be no refund of premium.
 
-**Records** - You must furnish Us with all information that is needed to determine the premiums and to administer this Policy. Such information must include:
+#### Records
+
+You must furnish Us with all information that is needed to determine the premiums and to administer this Policy. Such information must include:
 a) any changes to Your name, address and any other details of You and Your Dependants who are covered under this Policy.
 b) full details of any new Dependant(s) requiring cover under this Policy,
 c) names of the Insured Persons whose cover under this Policy terminates.
 
-**Subrogation** - We have the right to recover Benefits paid under this Policy for any claim made against Us, if the Insured Person has a right to recover such benefits from a third party, such as social security or benefits payable from another insurance provider. We reserve the right to reduce the Benefits payable under this Policy in concurrence with any Benefits payable by third party providers so that the total actual reimbursement will not exceed the Covered Charges incurred. The Insured Person has an obligation to inform Us of any such Benefits due from a third party and must complete and submit any forms or papers as requested by Us and is responsible to do whatever is necessary to protect Our rights.
+#### Subrogation
 
-**Applicable Law** - This Policy, and all rights, obligations and liabilities that arise shall be construed in accordance with the law of England under the exclusive venue and jurisdiction of the courts of England without regard to conflict of law principles which might result in the application of the laws of another jurisdiction.
+We have the right to recover Benefits paid under this Policy for any claim made against Us, if the Insured Person has a right to recover such benefits from a third party, such as social security or benefits payable from another insurance provider. We reserve the right to reduce the Benefits payable under this Policy in concurrence with any Benefits payable by third party providers so that the total actual reimbursement will not exceed the Covered Charges incurred. The Insured Person has an obligation to inform Us of any such Benefits due from a third party and must complete and submit any forms or papers as requested by Us and is responsible to do whatever is necessary to protect Our rights.
 
-**Change of Circumstance** - You must inform Us of any material change to Your circumstances, of that of any Insured Person, whilst cover is in force. Where any material change affects Your risk to Underwriters, We have the right to impose an amendment to cover, premium or withdraw cover altogether.
+#### Applicable Law
 
-**Amendment of cover at renewal** - If You wish to change the level of cover with Us at any renewal, You may do so within the rules of the Plan available to You at that time. However, if such change increases the potential claimable amount by You, such amendment to cover will not be effective for any medical conditions that are Pre-existing at the date of the amendment to cover.
+This Policy, and all rights, obligations and liabilities that arise shall be construed in accordance with the law of England under the exclusive venue and jurisdiction of the courts of England without regard to conflict of law principles which might result in the application of the laws of another jurisdiction.
 
-**Re-assignment** - In the event of the death of the Primary Insured, the oldest Insured Person over the age of 18 shall become the Primary Insured.
+#### Change of Circumstance
 
-**Prevention of Money Laundering & Know Your Customer** - In accordance with regulations, We may check the identity and address of those involved with or who have a beneficial interest in the Policy. Therefore, as well as checking Your details electronically, We may also require You to provide proof of Your identity within 14 days from the start date of Your Policy. This may include, but is not limited to, a copy of Your passport or other appropriate government issued photo identification, such as a driving license. If You are unable to adequately satisfy Us of Your identity, We will cancel Your policy ab initio (from inception) and refund Your premium in full.
+You must inform Us of any material change to Your circumstances, of that of any Insured Person, whilst cover is in force. Where any material change affects Your risk to Underwriters, We have the right to impose an amendment to cover, premium or withdraw cover altogether.
 
-**Currency** - The denomination of the benefits and excesses afforded by this agreement are per the currency in which You pay Your premium.
+#### Amendment of cover at renewal
 
-# Section 6 - How to make a Claim
+If You wish to change the level of cover with Us at any renewal, You may do so within the rules of the Plan available to You at that time. However, if such change increases the potential claimable amount by You, such amendment to cover will not be effective for any medical conditions that are Pre-existing at the date of the amendment to cover.
 
-Important: Failure to follow these instructions may result in non-payment of Your claim. Please note that the onus is on You to evidence any claim. Where insufficient evidence is made available to Us we will not be able to pay a claim.
+#### Re-assignment
 
-**Inpatient/Day Care/Claims over €/£/$1,000**
+In the event of the death of the Primary Insured, the oldest Insured Person over the age of 18 shall become the Primary Insured.
+
+#### Prevention of Money Laundering & Know Your Customer
+
+In accordance with regulations, We may check the identity and address of those involved with or who have a beneficial interest in the Policy. Therefore, as well as checking Your details electronically, We may also require You to provide proof of Your identity within 14 days from the start date of Your Policy. This may include, but is not limited to, a copy of Your passport or other appropriate government issued photo identification, such as a driving license. If You are unable to adequately satisfy Us of Your identity, We will cancel Your policy ab initio (from inception) and refund Your premium in full.
+
+#### Currency
+
+The denomination of the benefits and excesses afforded by this agreement are per the currency in which You pay Your premium.
+
+## Section 6 - How to make a Claim
+
+> **Important:** Failure to follow these instructions may result in non-payment of Your claim. Please note that the onus is on You to evidence any claim. Where insufficient evidence is made available to Us we will not be able to pay a claim.
+
+#### Inpatient/Day Care/Claims over €/£/$1,000
+
 All Inpatient and Day Care claims and claims likely to exceed €/£/$1,000 in total value are required to be pre-approved by Our Claims Administrators at least 7 days prior to admission for Treatment or receipt of medical services, where it is physically possible to do so.
 
-**Claims Administrators**
+#### Claims Administrators Contact Details
+
 Claims Department
 Delmon House, 36-38 Church Road
 Burgess Hill, West Sussex RH15 9AE, United Kingdom
@@ -680,6 +888,8 @@ Tel: +44 (0)20 3285 7246
 Fax: +44 (0)870 112 8455
 Email: claims@expatriategroup.com
 OFFICE HOURS: 24 hours a day
+
+#### Information Required for Claim Approval
 
 When You phone it will assist Us in Our efforts to help You if You can provide the following information:
 • Your Policy number,
@@ -689,6 +899,8 @@ When You phone it will assist Us in Our efforts to help You if You can provide t
 • The name of the Specialist, physiotherapist, or Complementary Medicine practitioner You have arranged to visit,
 • The Hospital to be used (if known or applicable).
 
+#### Claim Confirmation Process
+
 Based on the information that You provide We will confirm the following:
 • The condition (as described) is covered by the Policy,
 • The Hospital to be used is approved by Us and is within the territorial limits which You have selected for Your Policy,
@@ -697,22 +909,27 @@ Based on the information that You provide We will confirm the following:
 
 Please note that any authorisation given at this stage is subject to confirmation upon receipt of a fully completed claim form. If subsequent information contradicts the information upon which Our pre-authorisation has been based, Your claim may be invalidated.
 
-**Outpatient/Claims under €/£/$1,000**
+#### Outpatient/Claims under €/£/$1,000
+
 Please make claims via our online claims portal: www.expatriate.claims and follow the instructions. You will need to register when You make Your first claim.
 
 The onus is on You to satisfy Us that a valid claim has been incurred. Written proof detailing the dates, nature and cost of the Illness and the Treatment prescribed and provided, giving rise to the claim, original copies of receipts and itemised bills together with a fully completed claim form must be furnished to the Claims Administrator as soon as reasonably possible following the date that a Covered Charge is first incurred. Any costs incurred in the provision of such information are not covered by this Policy and must be borne by You.
 
-**Payment of Claim** - Payments of claims are made to the appointed bank account nominated by the Insured Person, unless the Insured Person instructs the Claims Administrator otherwise, or to the healthcare provider if direct payment has been agreed upon.
+#### Payment of Claim
 
-**Emergency Assistance**
+Payments of claims are made to the appointed bank account nominated by the Insured Person, unless the Insured Person instructs the Claims Administrator otherwise, or to the healthcare provider if direct payment has been agreed upon.
+
+#### Emergency Assistance
+
 In the event that You require emergency medical assistance please ensure that Our medical assistance provider is contacted as soon as reasonably possible after any Treatment is rendered.
+
 For emergency assistance contact:
 Tel: +44 (0)20 3285 7248
 Fax: +44 (0)870 112 8960
 Email: assist@expatriategroup.com
 Services are available to You 24 hours a day and 365 days a year.
 
-# Section 7 - Complaints Procedure
+## Section 7 - Complaints Procedure
 
 We aim to give you the highest standards of service and to meet any claims covered by this policy promptly and fairly. However, if you feel that we have not met these standards we would like to hear from you. If you have cause for complaint, we will investigate and review your case immediately and respond to you in writing.
 
@@ -744,23 +961,3 @@ Office of Ombudsperson for Financial Services, 8th Floor, SICOM Tower, Wall Stre
 Call: +230 468 6475
 Fax: +230 468 6473
 Email: ombudspersonfs@myt.mu
-
-# Contact Information
-
-Europe Office:
-Delmon House
-36-38 Church Road, Burgess Hill,
-West Sussex RH15 9AE,
-United Kingdom
-Tel: +44 (0)20 3551 6634
-
-Registered Office:
-35 Ballards Lane, London N3 1XW
-
-Asia Office:
-D4-6-9 Solaris Dutamas,
-Jalan Dutamas 1,
-50480, Kuala Lumpur,
-Malaysia
-Tel: +60(0)3 2708 1320
-Email: hello@expatriategroup.com

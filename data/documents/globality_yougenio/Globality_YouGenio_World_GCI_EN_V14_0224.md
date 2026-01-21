@@ -1506,59 +1506,61 @@ You are not entitled to any benefits if you claim them incorrectly, fraudulently
 You will lose all rights to benefits under this insurance policy in these cases.
 You must refund any payments we may have made before finding out about your fraudulent actions.
 
-## 7. Payment and charging premiums
+## Section 7 - Payment and charging premiums
 
-Paying premiums
-You must pay the premium shown in the insurance policy in advance.
-We will show any additional premium charged for insurance medical reasons separately.
-The first premium or premium instalment is due as soon as we have accepted your application for insurance by sending out the insurance policy.
-If the insurance does not start on the first day of the calendar month or if it ends before the last day of the calendar month, you will only have to pay a prorated monthly premium for the first or last insurance month.
+#### Paying premiums
 
-Paying other charges and insurance premium tax (IPT)
-If your country of residence is within the EU/EEA, we must invoice you for the statutory charges, dues or taxes associated with your insurance policy.
-Any local tax rates that apply will be shown in your insurance policy.
-We will collect the insurance premium tax and dues or charges together with the insurance premium.
+You must pay the premium shown in the insurance policy in advance. We will show any additional premium charged for insurance medical reasons separately.
+
+The first premium or premium instalment is due as soon as we have accepted your application for insurance by sending out the insurance policy. If the insurance does not start on the first day of the calendar month or if it ends before the last day of the calendar month, you will only have to pay a prorated monthly premium for the first or last insurance month.
+
+#### Paying taxes and statutory charges (EU/EEA vs Non-EU)
+
+If your country of residence is within the EU/EEA, we must invoice you for the statutory charges, dues or taxes associated with your insurance policy. Any local tax rates that apply will be shown in your insurance policy. We will collect the insurance premium tax and dues or charges together with the insurance premium.
+
 If your country of residence is outside the EU/EEA, the policyholder is responsible for the registration and payment of local taxes and other charges that may occur for the insurance.
 
-Charging premiums
-The insurance premium depends on the state of health of the insured person (at the time an application is being accepted by us), the individual premium according to the current table of premiums and the age of an insured person on the first day of the insurance year.
-The age bands are set out as follows: 0 to 19, 20 to 24, 25 to 29, 30 to 34, 35 to 39, 40 to 44, 45 to 49, 50 to 54, 55 to 59, 60 to 64, 65 to 69, 70 to 74, 75 to 79. The premium tables can be found on our website http://www.globality-health.com
+#### Premium Calculation and Age Bands
 
-Adjustment of costs/premiums
+The insurance premium depends on the state of health of the insured person (at the time an application is being accepted by us), the individual premium according to the current table of premiums and the age of an insured person on the first day of the insurance year.
+
+**The age bands are set out as follows:**
+0 to 19, 20 to 24, 25 to 29, 30 to 34, 35 to 39, 40 to 44, 45 to 49, 50 to 54, 55 to 59, 60 to 64, 65 to 69, 70 to 74, 75 to 79.
+The premium tables can be found on our website http://www.globality-health.com
+
+#### Adjustment of Costs and Premiums
+
 The agreed insurance premium is subject to change depending on:
 
-- the actual claims costs no longer correspond to the technical calculation basis on the insurance plan or if the observed cost trend in the health care system gives serious reason to assume that the actual costs will become disproportionate to the calculated costs in the following insurance year.
-- The actual claims costs mean the global/overall actual claims cost of the last years of Globality's individual business.
-- the change of age band. If the beginning of a new insurance year involves the change of age band here above mentioned and specified in the table of premiums, we will also adjust the premium according to the new age band;
-- changes to applicable legislation.
+- Actual claims costs vs technical calculation basis.
+- Observed cost trends in the health care system.
+- Changes in the age band of the insured person.
+- Changes to applicable legislation.
 
-We are furthermore entitled to pass on to you all increases in statutory charges, dues or taxes or similar payments.
-Once per year, these changes will be assessed and consequently, premiums may be adjusted should this become necessary.
-We will inform you in writing about any premium change at least three months before the beginning of the next insurance year.
-The change will then apply from the beginning of the next insurance year.
-If you do not agree with the premium change, you may terminate the insurance policy within three months of receiving our notice.
-The policy will end on the date on which the change would otherwise become effective.
-It should be noted that according to clause 2.8., a change of age band does however not provide the right to terminate the insurance policy.
+We are furthermore entitled to pass on to you all increases in statutory charges, dues or taxes. We will inform you in writing about any premium change at least three months before the beginning of the next insurance year.
 
-If you are late in paying premiums
-If you do not pay the agreed premium within 10 days of the due date, we may demand payment from you at the end of this time limit.
-We will send you this demand for payment by registered mail addressed to your current place of residence.
-We will assume the notice has been delivered even if you refuse to accept the letter.
-If you still have not paid the premium within 30 days of receiving the demand for payment, we will not have any responsibility for providing cover under the policy after the end of the 30 days.
-You will still have to pay premiums in the future even though we do not have to provide cover.
-If you have still not paid the premium 10 days after the end of the extra 30 days, we will be entitled to terminate the insurance policy immediately.
-If the insurance policy is not terminated, our obligation to indemnify will be reinstated for all new insured events occurring if you have paid the sums and proven default costs due up to this point in time.
-Insurance cover will then resume at midnight of the day after which we or our duly authorised person has received all amounts you owe.
-We are under no obligation to pay benefits if the insured event has ceased to be uncertain before you have paid the full outstanding amount.
-The insurance policy is deemed to have been terminated if premiums are not paid for a period of more than two years.
+#### Right to Terminate due to Premium Changes
 
-Contractual currency
-The euro (€) is the basic currency for all our plans.
-However, you can choose US dollars ($) or pounds sterling (£) as the contractual currency.
-We review the exchange rates for these currencies twice a year and change them when necessary.
-This may result in higher or lower premiums if we have to bring the contractual currency into line with the rate of exchange of the euro.
+If you do not agree with the premium change, you may terminate the insurance policy within three months of receiving our notice. The policy will end on the date on which the change would otherwise become effective.
+_Note: A change of age band does not provide the right to terminate the insurance policy._
+
+#### Consequences of Late Premium Payment (Late Payment Timeline)
+
+If you do not pay the agreed premium within 10 days of the due date, we may demand payment. If you still have not paid within 30 days of receiving the demand, we will not have any responsibility for providing cover under the policy.
+
+- **After 10 days:** Demand for payment sent via registered mail.
+- **After 30 days:** Insurance cover is suspended (no responsibility for claims).
+- **10 days after the end of the 30-day limit:** Entitlement to terminate the policy immediately.
+- **Resumption of cover:** Only at midnight of the day after all outstanding amounts are received.
+- **Long-term default:** Policy is deemed terminated if premiums are not paid for more than two years.
+
+#### Contractual Currency and Exchange Rates
+
+The euro (€) is the basic currency for all our plans. However, you can choose US dollars ($) or pounds sterling (£) as the contractual currency. We review the exchange rates for these currencies twice a year. This may result in higher or lower premiums if we have to bring the contractual currency into line with the rate of exchange of the euro.
 
 ## 8. General information
+
+### Changes to Personal Status and Contract Conditions
 
 #### 8.1.a Change of country of residence and nationality or citizenship
 
@@ -1625,6 +1627,8 @@ The English version will prevail over any other language or translation.
 You can find the policy in your personal 'My Globality' world at www.globality-health.com.
 
 ## 9. Definitions
+
+### Introduction
 
 Explanation of terms used in conjunction with the Globality YouGenio® World plan
 

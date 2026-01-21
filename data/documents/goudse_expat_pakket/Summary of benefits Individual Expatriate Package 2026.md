@@ -1,33 +1,45 @@
 # Summary of Benefits and Premiums 2026
 
+## Information for the customer
+
+This chapter provides essential background information about the insurance provider, including the company's historical origins, their entrepreneurial focus, and their collaboration with independent brokers.
+
 EN770567(DEC2025)A
 Expatriate Package Individual
-
-## Information for the customer
 
 This summary is a translation, this translation has been done with care. However, if there are differences, the Dutch summary (7705670kt2025) is leading.
 
 ### Who we are...
 
+This topic outlines the history and identity of the company, detailing its growth from a small 1924 startup into a large independent family business.
+
 Geert Bouwmeester was only 22 years old when in 1924 he started his own company. A small space was converted into an office. The first policies were distributed by bike, traditional Dutch mode of transport. Since then our company has gone through exponential growth and therefore a lot has changed. Despite our present size we are still an independent family business that has kept its entrepreneurial spirit.
 
 ### Insurances for entrepreneurs
+
+This topic describes the insurer's specialized focus on providing practical insurance solutions for entrepreneurs and hard-working professionals.
 
 Our focus is on supplying insurance solutions for entrepreneurs. Men and women who work hard at achieving success for their companies, who seek security and convenience. And who are looking for good and practical insurance solutions for each phase of their entrepreneurship.
 
 ### Independent advisors
 
+This topic explains the importance of working with third-party independent brokers to provide customized solutions for complex insurance needs.
+
 Our society is becoming more and more complex. Both individuals and entrepreneurs have the need for advice given by third parties who know their specific requirements and can advise them accordingly. Therefore, we work closely with independent brokers, who like no other are capable of providing the right customized solution.
 
 ---
 
-# 1 SOS-assistance
+## 1 SOS-assistance
 
-## 1.1 Expatriate Package Individual Summary of Benefits and Premiums 2026
+This chapter details the 24/7 emergency support services, contact information for the Alarmcentrale, and the specific benefits included in the SOS emergency package.
+
+### 1.1 Expatriate Package Individual Summary of Benefits and Premiums 2026
+
+This topic summarizes the operational procedures for contacting the emergency center and lists the core components covered under the SOS assistance insurance.
 
 If the SOS-assistance insurance has been taken out, the insured person can always call our emergency center, De Goudse Alarmcentrale. Together with doctors and support staff the employees of this center are available 24 hours a day, seven days a week to lend a helping hand in case of illness, accident or death. De Goudse Alarmcentrale can be reached on +31 182 544 557 and when you are in the U.S. resides on +1 800 694 9832.
 
-### SOS emergency package contents
+#### SOS emergency package contents
 
 The SOS assistance package includes the following components (insured amounts are per insured per year):
 
@@ -39,7 +51,7 @@ The SOS assistance package includes the following components (insured amounts ar
 - Search and rescue.
 - Telecommunication costs.
 
-### 1.1.1 Extra travel and accommodation costs
+#### 1.1.1 Extra travel and accommodation costs
 
 The maximum reimbursement is € 7.500,- for all insured persons together per insurance year. We reimburse:
 
@@ -48,18 +60,18 @@ The maximum reimbursement is € 7.500,- for all insured persons together per in
 - extra flight costs in the event of an unexpected longer stay outside the country of residence, up to a maximum of € 1.500,- for all insured persons together. We therefore reimburse additional accommodation costs. The maximum reimbursement is € 100,- per person per day and € 175,- for all insured persons together.
 - unforeseen extra costs up to a maximum of € 100,- for all insured persons combined.
 
-### 1.1.2 Death
+#### 1.1.2 Death
 
 We reimburse:
 
 - the cost of all on-site formalities and transportation of the mortal remains to the Netherlands or;
 - the funeral/cremation costs on site and costs of the outward and return journey of a maximum of two persons up to a maximum of the amount for the transport of the mortal surplus would have cost, however up to a maximum of € 10.000,-.
 
-### 1.1.3 Search, rescue and recovery costs
+#### 1.1.3 Search, rescue and recovery costs
 
 De Goudse reimburses the costs necessary to trace the insured person(s), to rescue or to salvage if the insured(s) are missing or have been involved in an accident. The maximum compensation is € 20.000,- per event.
 
-### 1.1.4 Medical evacuation (only if you also have health insurance)
+#### 1.1.4 Medical evacuation (only if you also have health insurance)
 
 We reimburse cost price, except if you are in a high-risk area for which the central government has set a code red has been issued. Then we reimburse a maximum of € 75.000,-. We reimburse:
 
@@ -67,15 +79,15 @@ We reimburse cost price, except if you are in a high-risk area for which the cen
 - medical evacuation is also reimbursed if the necessary medical treatment is a as a result of a molestation situation. In the General Terms and Conditions, the coverage is during molestation further explained;
 - the outward and return journey of an accompanying insured person.
 
-### 1.1.5 Referral service to a competent medical specialist
+#### 1.1.5 Referral service to a competent medical specialist
 
 The emergency centers have a lot of experience with hospitals and medical specialists in the field abroad. They are happy to advise you if you need medical care.
 
-### 1.1.6 Checking and monitoring medical progress (only if you also have the health insurance)
+#### 1.1.6 Checking and monitoring medical progress (only if you also have the health insurance)
 
 When you end up in the hospital, the emergency center will keep in touch with your hospital. They check whether the proposed treatments are the right ones for your situation and they are always informed about your medical status.
 
-### 1.1.7 Telecommunications Charges
+#### 1.1.7 Telecommunications Charges
 
 Reimbursement of € 125,- per event of the necessary telecommunication costs for all insured parties together, which arise from an event covered by the SOS assistance.
 
@@ -89,9 +101,13 @@ The annual premium for SOS-assistance coverage Worldwide (including insurance ta
 
 ---
 
-# 2 Medical expenses
+## 2 Medical expenses
 
-## 2.1 Coverage
+This chapter defines the parameters of medical coverage, including maximum insured amounts based on age and region, and the specific benefits provided across different plans.
+
+### 2.1 Coverage
+
+This topic outlines the financial limits and specific reimbursements for a wide array of medical services, ranging from hospital stays and specialist treatments to alternative therapies.
 
 There is a maximum reimbursement. For insured persons aged up to 66 years a maximum insured amount applies of € 2.000.000,- per event (illness). In the regions C and D (the regions are described under 2.2 Annual premiums) a lower maximum insured amount applies for congenital defects of € 1.000.000,- per event (illness). This only applies to children who were born after the inception date of the insurance.
 
@@ -355,7 +371,7 @@ The reimbursement for lip, jaw, and palate cleft conditions. Under the Standard 
 
 The reimbursement for orthodontics for persons up to 20 years old. Under the Standard plan, this is Not covered. Under the Optimal plan, this is Not covered. Under the Excellent plan, this is covered 100% up to €1.000,- per lifetime.
 
-### Important Notes on USA Coverage and Conditions
+#### Important Notes on USA Coverage and Conditions
 
 The insured person that lives in de U.S.A. sometimes gets a partial reimbursement for a treatment in the U.S.A. An insured person who lives in the U.S.A. gets 80% of the regular reimbursement if:
 
@@ -372,142 +388,188 @@ Hieronder vindt u de gestructureerde weergave van de verstrekte verzekeringsinfo
 
 ## 3 Dental Care
 
+This chapter explains the requirements, waiting periods, and coverage percentages for additional dental insurance.
+
 ### Availability, Waiting Periods & Coverage
 
-- **Combination Requirement:** Deze aanvullende verzekering vereist de component ziektekostenverzekering¹.
-- **Wachttijd:** Een verplichte wachttijd van 12 maanden is van toepassing op parodontale behandelingen, kronen, bruggen en implantaten; behandelingen tijdens deze periode worden niet vergoed².
-- **Vergoeding:** De polis vergoedt 80% van de tandartskosten tot € 1.500 per verzekerde per jaar³.
-- **Secundaire Dekking:** Indien er een andere ziektekostenverzekering aanwezig is, fungeert deze polis als secundaire dekking⁴.
-- **Uitsluitingen:** Orthodontie en esthetische behandelingen (bijv. bleken) zijn uitgesloten⁵.
+This topic outlines the prerequisite for health insurance, the 12-year exclusion period for specific treatments, and the exclusions for orthodontics.
+
+- **Combination Requirement:** This supplementary insurance requires the health insurance component¹.
+- **Waiting Period:** A mandatory waiting period of 12 months applies to periodontal treatments, crowns, bridges, and implants; treatments during this period are not reimbursed².
+- **Reimbursement:** The policy reimburses 80% of dental costs up to € 1,500 per insured person per year³.
+- **Secondary Coverage:** If another health insurance policy is present, this policy acts as secondary coverage⁴.
+- **Exclusions:** Orthodontics and aesthetic treatments (e.g., whitening) are excluded⁵.
 
 ### Premium
 
-- **Jaarlijkse Premie:** De premie bedraagt € 465 per verzekerde per jaar⁶.
+This topic specifies the fixed annual cost for the dental insurance component.
+
+- **Annual Premium:** The premium amounts to € 465 per insured person per year⁶.
 
 ---
 
 ## 4 Work Incapacity
 
+This chapter discusses financial security for expats in the event of disability, covering target groups, premium structures, and policy options.
+
 ### Target Group & Premium
 
-- **Doelgroep:** Financiële zekerheid voor expats tegen arbeidsongeschiktheid; de polis is zeer flexibel⁷.
-- **Premie:** De premie staat vast op basis van de leeftijd bij aanvang en blijft ongewijzigd, tenzij specifieke indexatie-opties worden gekozen⁸.
-- **Geografische Beperking:** Voor verblijf in bepaalde Afrikaanse landen moet contact worden opgenomen met adviseurs, aangezien risico's daar niet altijd worden geaccepteerd⁹.
+This topic defines the intended audience and explains how age and indexation choices influence the premium calculation.
+
+- **Target Group:** Financial security for expats against work incapacity; the policy is very flexible⁷.
+- **Premium:** The premium is fixed based on the age at commencement and remains unchanged, unless specific indexation options are selected⁸.
+- **Geographical Restriction:** For residence in certain African countries, advisors must be contacted, as risks are not always accepted there⁹.
 
 ### Insured Categories & Sums
 
-- **Constant Sum:** Een vast bedrag van € 100.000, zonder indexatie¹⁰.
-- **Rising Sum:** Start op € 85.000, stijgt jaarlijks met 3% tot een maximum van € 85.000 (basislogica), waarbij uitkeringen jaarlijks met 3% worden geïndexeerd¹¹.
-- **Inkomensgrens:** Het verzekerde bedrag mag niet hoger zijn dan 80% van het inkomen¹².
+This topic outlines the differences between constant and rising insured sums and the maximum income percentage allowed.
+
+- **Constant Sum:** A fixed amount of € 100,000, without indexation¹⁰.
+- **Rising Sum:** Starts at € 85,000, increases annually by 3% to a maximum of € 85,000 (basic logic), where payouts are indexed annually by 3%¹¹.
+- **Income Limit:** The insured amount may not exceed 80% of the income¹².
 
 ### Policy Options
 
-- **Drempels:** Uitkeringen kunnen starten vanaf 45%, 55%, 65%, of 80% arbeidsongeschiktheid¹³.
-- **Eigen Risico Termijn:** Wachttijden van 90, 180, 365, of 720 dagen beschikbaar¹⁴.
-- **Eindleeftijd:** Dekking kan eindigen op de leeftijd van 55, 60, 62, 65, of 67 jaar¹⁵.
-- **Premievrijstelling:** Van toepassing na 1 jaar arbeidsongeschiktheid (bij eigen risico van 90-365 dagen) of 2 jaar (bij eigen risico van 720 dagen)¹⁶.
+This topic lists the available disability thresholds, waiting periods, and age limits for coverage.
+
+- **Thresholds:** Payouts can start from 45%, 55%, 65%, or 80% work incapacity¹³.
+- **Deductible Period:** Waiting periods of 90, 180, 365, or 720 days available¹⁴.
+- **End Age:** Coverage can end at the age of 55, 60, 62, 65, or 67 years¹⁵.
+- **Premium Waiver:** Applicable after 1 year of work incapacity (with a deductible of 90-365 days) or 2 years (with a deductible of 720 days)¹⁶.
 
 ### Acceptance & Assessment
 
-- **Acceptatie:** Mogelijk tot de leeftijd van 55 jaar¹⁷.
-- **Beoordeling:** Gebaseerd op beroepsarbeidsongeschiktheid¹⁸.
-- **Medisch:** Aanvragers dienen een gezondheidsverklaring in; onder de 50 jaar zijn mogelijk rapporten van behandelaars nodig, boven de 50 jaar is een medisch onderzoek op kosten van de verzekeraar mogelijk¹⁹.
+This topic details the age limits for acceptance and the medical assessment process required for applicants.
+
+- **Acceptance:** Possible up to the age of 55 years¹⁷.
+- **Assessment:** Based on occupational disability¹⁸.
+- **Medical:** Applicants must submit a health declaration; under 50 years reports from practitioners may be needed, over 50 years a medical examination at the insurer's expense is possible¹⁹.
 
 ---
 
 ## 5 Travel luggage and Cancellation costs
 
+This chapter covers damages and losses during travel, defining the scope of coverage and the premium levels for luggage and cancellation.
+
 ### Scope & Limits
 
-- **Dekking:** Dekt schade aan bagage (verlies, diefstal, vermissing) en annuleringskosten tijdens zakelijke en privéreizen²⁰.
-- **Reimbursement:** Maximaal per reis variërend van € 4.000 (Standard) tot € 15.000 (Excellent Plus)²¹.
-- **Eigen Risico:** € 50 per gebeurtenis (Standard/Optimal/Excellent) of € 0 (Excellent Plus)²².
-- **Sub-limieten:** Specifieke maxima voor elektronica, sieraden, sportuitrusting, etc.²³.
-- **Annulering:** Maximale vergoeding van € 3.000 tot € 5.000 per jaar²⁴.
+This topic explains the types of damage covered and the varying reimbursement limits based on the selected plan.
+
+- **Coverage:** Covers damage to luggage (loss, theft, missing items) and cancellation costs during business and private trips²⁰.
+- **Reimbursement:** Maximum per trip varying from € 4,000 (Standard) to € 15,000 (Excellent Plus)²¹.
+- **Deductible:** € 50 per event (Standard/Optimal/Excellent) or € 0 (Excellent Plus)²².
+- **Sub-limits:** Specific maximums for electronics, jewelry, sports equipment, etc.²³.
+- **Cancellation:** Maximum reimbursement of € 3,000 to € 5,000 per year²⁴.
 
 ### Premiums
 
-- **Jaarlijkse Premie:** Varieert van € 138,40 (Standard) tot € 846,80 (Excellent Plus)²⁵.
-- **Extra Dekking:** Aanvullende annuleringsdekking van € 5.000 of € 10.000 is optioneel²⁶.
+This topic details the annual premium costs and optional add-ons for cancellation coverage.
+
+- **Annual Premium:** Varies from € 138.40 (Standard) to € 846.80 (Excellent Plus)²⁵.
+- **Extra Coverage:** Additional cancellation coverage of € 5,000 or € 10,000 is optional²⁶.
 
 ---
 
 ## 6 Legal Aid
 
+This chapter details legal advice and assistance services, including deductibles and the areas of law covered.
+
 ### Coverage & Limits
 
-- **Dekking:** Juridisch advies en bijstand²⁷.
-- **Eigen Risico:** € 450 per gebeurtenis²⁸.
-- **Externe Vertegenwoordiging:** Maximaal € 25.000²⁹.
-- **Rechtsgebieden:** Inclusief Verhaal, Strafrecht, Contractrecht, Arbeidsrecht en Familierecht (Arbeid/Familie enkel in Excellent-tier)³⁰.
+This topic defines the scope of legal representation and the maximum reimbursements for external legal costs.
+
+- **Coverage:** Legal advice and assistance²⁷.
+- **Deductible:** € 450 per event²⁸.
+- **External Representation:** Maximum € 25,000²⁹.
+- **Areas of Law:** Including Recourse, Criminal Law, Contract Law, Labor Law, and Family Law (Labor/Family only in Excellent tier)³⁰.
 
 ### Premiums
 
-- **Tarieven:** Afhankelijk van familiestatus en niveau (bijv. Alleenstaand/Standard: € 102,85; Gezin/Excellent: € 363)³¹.
+This topic provides the cost breakdown for legal aid based on family status and selected plan level.
+
+- **Rates:** Dependent on family status and level (e.g., Single/Standard: € 102.85; Family/Excellent: € 363)³¹.
 
 ---
 
 ## 7 Household contents
 
+This chapter explains coverage for personal belongings, distinguishing between different tiers of protection against fire, theft, and natural disasters.
+
 ### Coverage Levels
 
-- **Standard:** Brand, explosie, blikseminslag, vliegtuiginslag³².
-- **Optimal:** Plus diefstal na braak, vandalisme, botsing³³.
-- **Excellent:** Plus storm, water, rook, beroving in de woning, schade aan antennes³⁴.
-- **Accommodatie:** Gedekt tot 10% van het verzekerde bedrag³⁵.
+This topic contrasts the levels of protection offered by the Standard, Optimal, and Excellent plans for household items.
+
+- **Standard:** Fire, explosion, lightning strike, aircraft impact³².
+- **Optimal:** Plus theft after burglary, vandalism, collision³³.
+- **Excellent:** Plus storm, water, smoke, robbery within the home, damage to antennas³⁴.
+- **Accommodation:** Covered up to 10% of the insured amount³⁵.
 
 ### Conditions & Limits
 
-- **Premier Risk:** Geen onderverzekering van toepassing; claims worden uitbetaald tot het maximum verzekerde bedrag minus eigen risico³⁶.
-- **Sub-limieten (Diefstal):** AV/Computers (€ 3.000), Geld (€ 1.500), Geleende eigendommen (€ 1.000)³⁷.
-- **Eigen Risico:** Keuze uit € 250 of € 500 per jaar³⁸.
+This topic outlines the "Premier Risk" principle and sub-limits for specific categories of items like cash and computers.
+
+- **Premier Risk:** No underinsurance applicable; claims are paid up to the maximum insured amount minus deductible³⁶.
+- **Sub-limits (Theft):** AV/Computers (€ 3,000), Money (€ 1,500), Borrowed property (€ 1,000)³⁷.
+- **Deductible:** Choice of € 250 or € 500 per year³⁸.
 
 ### Additional Coverages
 
-- **Kostbaarheden:** Sieraden/kunst vereisen extra verzekering (Premie: 18,15% van de waarde)³⁹.
-- **Huurdersaansprakelijkheid:** Schade aan het gehuurde pand (water/brand) tot 20x de jaarhuur (Premie: 1,7% van de huur)⁴⁰.
-- **Buiten de Woning:** Specifieke items tot € 4.000 onder Excellent-voorwaarden (Premie: € 145,20)⁴¹.
+This topic details optional coverage for valuables, tenant liability, and items taken outside the home.
+
+- **Valuables:** Jewelry/art require extra insurance (Premium: 18.15% of the value)³⁹.
+- **Tenant Liability:** Damage to the rented property (water/fire) up to 20x the annual rent (Premium: 1.7% of the rent)⁴⁰.
+- **Outside the Home:** Specific items up to € 4,000 under Excellent conditions (Premium: € 145.20)⁴¹.
 
 ---
 
 ## 8 Personal Liability
 
+This chapter outlines worldwide liability coverage for personal injury or property damage caused to third parties.
+
 ### Scope
 
-- **Wereldwijd:** Dekt aansprakelijkheid voor letsel of schade aan goederen van derden⁴².
-- **Vastgoed:** Inclusief aansprakelijkheid voor woningen in Nederland of vakantiewoningen in Europa (verhuur <120 dagen)⁴³.
+This topic defines the geographical and real estate boundaries of the liability insurance, including holiday homes.
+
+- **Worldwide:** Covers liability for injury or damage to property of third parties⁴².
+- **Real Estate:** Includes liability for homes in the Netherlands or holiday homes in Europe (rental <120 days)⁴³.
 
 ### Limits & Premiums
 
-- **Maximale Dekking:** € 500.000 (Standard), € 1.000.000 (Optimal), € 1.500.000 (Excellent)⁴⁴.
-- **Geleende Zaken:** Maximaal € 10,000⁴⁵.
-- **Premies:** Afhankelijk van familiestatus, regio (Europa/Wereld/Wereld+US) en niveau⁴⁶.
+This topic specifies the maximum insured sums and the factors influencing the premium cost for liability.
+
+- **Maximum Coverage:** € 500,000 (Standard), € 1,000,000 (Optimal), € 1,500,000 (Excellent)⁴⁴.
+- **Borrowed Items:** Maximum € 10,000⁴⁵.
+- **Premiums:** Dependent on family status, region (Europe/Worldwide/Worldwide+US) and level⁴⁶.
 
 ---
 
 ## 9 (Family) accidents
 
+This chapter details compensation for death or permanent disability resulting from accidents, including wartime situations.
+
 ### Coverage
 
-- **Ongevallen:** Compensatie bij overlijden of blijvende invaliditeit door ongevallen, inclusief oorlogshandelingen buiten Nederland⁴⁷.
-- **Overlijden:** € 15.000 tot € 50.000⁴⁸.
-- **Invaliditeit:** € 40.000 tot € 125.000⁴⁹.
-- **Motorfietsen:** Verminderde uitkeringen van toepassing, met name bij het niet dragen van een helm⁵⁰.
+This topic outlines the insured sums for various accident outcomes and specific rules for motorcycle-related incidents.
+
+- **Accidents:** Compensation in case of death or permanent disability due to accidents, including acts of war outside the Netherlands⁴⁷.
+- **Death:** € 15,000 to € 50,000⁴⁸.
+- **Disability:** € 40,000 to € 125,000⁴⁹.
+- **Motorcycles:** Reduced payouts applicable, particularly when not wearing a helmet⁵⁰.
 
 ### Premiums
 
-- **Tarieven:** Gestaffeld naar familiestatus en dekkingsniveau (bijv. Alleenstaand/Standard: € 56; Gezin/Excellent: € 300)⁵¹.
+This topic provides the cost breakdown for accident insurance based on family status and coverage tier.
 
----
+- **Rates:** Tiered by family status and coverage level (e.g., Single/Standard: € 56; Family/Excellent: € 300)⁵¹.
 
 ## 10 Other
 
+This chapter covers miscellaneous terms including insurance tax, age limits, and rules for insured children.
+
 ### Tax & Duration
 
-- **Belasting:** Assurantiebelasting is van toepassing op Rechtsbijstand, Inboedel, Aansprakelijkheid, Annulering en SOS-componenten⁵².
-- **Leeftijdsgrenzen:** Algemene verzekeringen lopen tot 72 jaar⁵³. Arbeidsongeschiktheid eindigt op de gekozen eindleeftijd⁵⁴.
-- **Kinderen:** Meeverzekerd tot 21 jaar of huwelijk⁵⁵.
+This topic defines the application of insurance tax and the standard termination ages for various policies.
 
----
-
-Wenst u dat ik een specifiek onderdeel van deze voorwaarden nader toelicht of vergelijk met andere dekkingsniveaus?
+- **Tax:** Insurance tax applies to Legal Aid, Household Contents, Liability, Cancellation, and SOS components⁵².
+- **Age Limits:** General insurances run up to 72 years⁵³. Work incapacity ends at the selected end age⁵⁴.
+- **Children:** Co-insured up to 21 years or marriage⁵⁵.

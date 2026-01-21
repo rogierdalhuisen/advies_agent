@@ -1,1307 +1,620 @@
-# Cigna Global Health Options Customer Guide
+# Cigna Global Health Options Policy Rules 2026
 
-## Everything you need to know about your plan
+## Section 1: General terms and conditions
 
----
+### 1. Scope of cover and policy eligibility
 
-## Want To Get In Touch?
+#### 1.1
 
-If you have any questions about your policy, need to get approval for treatment, or for any other reason, please contact our Customer Care team 24 hours a day, 7 days a week, 365 days a year.\*
+This policy is only offered to beneficiaries who are expatriates. Therefore, this policy will only cover the costs of treatment in a beneficiary's country of nationality in circumstances where the beneficiary is temporarily resident in their country of nationality. Such circumstances may not exceed one hundred and eighty (180) days in aggregate per period of cover, and the country of nationality must be within the selected area of coverage (see clause 11 for full details).
 
-### Call Us
+#### 1.2
 
-- International: +44 (0) 1475 788 182
-- USA: 800 835 7677 (toll free)
-- Hong Kong: 2297 5210 (toll free)
-- Singapore: 800 186 5047 (toll free)
+Subject to the terms, conditions, limits, exclusions (and special exclusions as detailed in your Certificate of Insurance, if applicable) of this policy, Cigna Healthcare will cover you for medical and related expenses relating to medically necessary treatment which is recommended by a medical practitioner, and provided within the selected area of coverage for injury and sickness. The treatment must occur during the period of cover and deductibles, cost shares and limits of cover may apply. In some circumstances we may, at our absolute discretion, agree to remove an exclusion if you pay an additional premium. This will be agreed at the time you purchase your policy.
 
-Alternatively, you can email us at: cignaglobal_customer.care@cigna.com
+#### 1.3
 
-### Use your Customer Area
+You must be eighteen (18) years old or over at the time of purchase in order to purchase this policy.
 
-- Live chat with us
-- Message us
-- Arrange a call back
+#### 1.4
 
-\*For certain queries, our Customer Service team may direct you to our in-house team of specialists who are available during the working hours of Monday to Friday from 8am to 8pm CET.
+If there are any changes that occur between your application and the initial start date of your policy and any information that you provided to us in your application changes during this period, you must let us know. We reserve the right to cancel the policy or apply any additional premiums or exclusions as a result of any change to your state of health which you have notified us of before the initial start date of the policy. If you fail to inform us of any change to your state of health during this period, we may treat this as misrepresentation, which could affect coverage under your policy or payment of claims.
 
----
+#### 1.5
 
-## Contents
+This policy will not cover any costs relating to treatment received before the cover starts, or after the cover ends (even if that treatment was approved by us before the cover ends).
 
-- Page 4: Understanding Your Health Insurance
-- Page 5: Welcome to Cigna Healthcare
-- Page 6: Our Clinical Support
-- Page 7: Managing Your Policy
-- Page 8: Accessing Care
-- Page 9: Arranging Treatment
-- Page 11: Accessing Treatment Examples
-- Page 13: How to Submit Claims
-- Page 14: Cigna Wellbeing® App
-- Page 15: Managing Your Health
-- Page 16: Table of Benefits
-  - Page 16: International Medical Insurance
-  - Page 26: International Outpatient
-  - Page 32: International Health and Wellbeing
-  - Page 37: International Evacuation & Crisis Assistance Plus®
-  - Page 41: International Vision and Dental
-- Page 43: How Deductible and Cost Share work
-- Page 45: Did You Know & FAQ's
-- Page 47: Definitions
-- Page 49: Important Information
+### 2. When does cover begin and end
 
----
+#### 2.1
 
-## Understanding Your Health Insurance
+This policy is an annual renewable contract with a minimum period of cover of three (3) months and a maximum period of cover of twelve (12) months. This means that, unless it is terminated before the end date or automatically renewed, the period of cover will end one (1) year after the start date. Please see Clause 13 for more information on the policy renewal process at the end of your period of cover.
 
-You have chosen a plan to meet your unique needs, so as you look through your Customer Guide and discover the full extent of the cover we provide, please remember to take a look at your Certificate of Insurance to remind yourself exactly what optional benefits you may have chosen to add to your core cover – International Medical Insurance.
+#### 2.2
 
-Throughout this document, we've highlighted some key terms in bold. You can find further explanation of these key terms in the Definitions section.
+Subject to clause 4, if this policy ends within the first three (3) months of the initial start date, any premium which has been paid for the first three (3) months of cover will not be refunded regardless if you have claimed or not during that period of cover. In addition, you will be liable to pay any remaining premium for that initial three (3) months period which hasn't been paid yet.
 
-Please read this Customer Guide, along with your Policy Rules and your Certificate of Insurance as they all form part of your contract between you and us for this period of cover. Please note, this policy has a minimum period of cover of three months. More information can be found in your Policy Rules document which can be found in your online Customer Area.
+If this policy ends after the first three (3) months of the initial start date and before the end date, any premium which has been paid in relation to the period after cover has ended will be refunded on a pro rata basis, so long as no claims have been made or yet to be submitted and no guarantees of payment have been put in place during the period of cover.
 
-When we use the term 'you', we refer to yourself, the policyholder, as well as any other beneficiaries named on your Certificate of Insurance as being covered under this policy, including newborn children.
+If this policy ends after the first three (3) months of the initial start date and before the end date and you have made claims under it or you have received treatment not reimbursed yet, you will be liable for the remainder of any premium in respect of the policy which are unpaid.
 
-When we use the terms 'we,' 'us' and 'our', we refer to Cigna Healthcare, the insurer of this policy. Please refer to page 3 of the Policy Rules document for details of the Cigna Healthcare legal entity providing your policy.
+#### 2.3
 
----
+If you die, cover will end for all beneficiaries unless a beneficiary contacts us within thirty (30) days of the date of death as shown in the Death Certificate. If any of the beneficiaries would like to continue coverage by becoming the policyholder, and subject to our policy terms, they must inform us within thirty (30) days and must provide us with a copy of the Death Certificate. If a beneficiary does not wish to continue coverage as the policyholder, all cover will end, and we will not make any payments in relation to treatment or services which are received on or after the date on which the cover ends.
 
-## Welcome To Cigna Healthcare
+### 3. The information you give us
 
-Thank you for choosing a Cigna Global Health Options plan to protect you and your family. Our mission is to improve the health and vitality of our customers, and we specialise in supporting you and your family on your global journey.
+In deciding whether to accept this policy and in setting the terms and premium, we have relied on the information that you have given to us. You must take care when answering any questions that we ask by ensuring that all information is accurate and complete.
 
-### We put people first
+If we determine on reasonable grounds that you deliberately or recklessly provided us with false or misleading information, it could adversely affect this policy and any claim. For example, we may:
 
-That means you can always expect the highest level of service and care:
+- treat this policy as if it had never existed, refuse to pay all claims and return the premium paid. We will only do this if we provide you with insurance cover which we would not otherwise have offered;
+- amend the terms of your insurance. We may apply these amended terms as if they were already in place if a claim has been adversely impacted by your carelessness; or
+- terminate in accordance with 6.2.
 
-- Our multi-language Customer Care team is available 24 hours a day
-- We always aim to process your guarantee of payment within one hour
-- We'll aim to process any claims you submit within five working days after we receive the necessary documentation
+We will notify you in writing if any of the above circumstances occur.
 
-### We are your whole health partner
+If you become aware that information you have given us is inaccurate, you must inform us as soon as possible using one of the options in the 'How to contact us' section on page 3 of these Policy Rules.
 
-We are here to support you through your wellness journey by:
+### 4. Free look period
 
-- Connecting you to our Clinical Team's medical expertise via our Clinical Case Management Programme
-- Helping you access services like Global Telehealth through our Cigna Wellbeing App
-- Focussing on your preventative checks and mental health wellbeing as part of our optional Health and Wellbeing offering
+You have a statutory right to cancel your policy within fourteen (14) days from the start date of your policy. If you wish to cancel this policy within this fourteen (14) day free look period and we have not paid a claim or issued a guarantee of payment, you will receive a full refund of your premium. Alternatively, if we have paid a claim, or issued a guarantee of payment, we will not refund any premium which has been paid. To cancel this policy, please contact us using one of the options in the 'How to contact us' section on page 3 of these Policy Rules.
 
-### We have global expertise
+If you do not exercise your right to cancel this policy during the free look period, it will continue in force for a minimum period of three (3) months, inclusive of the free look period, from the initial start date and you will be required to make any premium payments that are due to us.
 
-We offer access to a global network of trusted hospitals, clinics, and doctors, including:
+For your termination rights outside of the fourteen (14) day statutory cooling off period, please refer to clause 6 of this policy.
 
-- 300,000 healthcare providers
-- 67,000 contracted pharmacies
-- Over 150 in-house doctors and nurses
+### 5. Premium and other charges
 
-We put you at the centre of everything we do. We are your WHOLE HEALTH partner. We put PEOPLE FIRST. We have GLOBAL EXPERTISE.
+#### 5.1
 
----
+Your Certificate of Insurance sets out the premium and any other charges (such as taxes) which are payable, and states when and how they must be paid. As specified in Clause 2, you will be liable to pay the premium for a minimum period of cover of three (3) months regardless of the payment frequency selected. Payments must be made in the currency and in the manner detailed in your Certificate of Insurance.
 
-## Our Clinical Support
+#### 5.2
 
-We are dedicated to helping you and your family live happier, healthier lives thanks to our clinical expertise. Please see below how our dedicated team of doctors and nurses can support you.
+If you, or any beneficiaries, do not seek prior approval for the required inpatient and daypatient treatment, we will reduce the amount which we will pay towards that treatment by twenty (20) percent.
 
-### Feel supported on your medical journey
+For medical expenses specifically in the USA, if you, or any beneficiaries, decide to receive treatment at a hospital, clinic, medical practitioner or pharmacy which is not part of the Cigna Healthcare network in the USA, we will reduce the amount which we will pay towards that medical expenses by twenty (20) percent. A list of hospitals, clinics and medical practitioners within the Cigna Healthcare network is available in your secure online Customer Area.
 
-#### Case Management
+Please note, we may, at our sole discretion and without notification, make changes to the Cigna Healthcare network from time to time by adding and / or removing hospitals, clinics, medical practitioners and pharmacies.
 
-- An assigned nurse will be your single point of contact
-- You will receive ongoing personalised advice and support
-- We will create tailored treatment plans to deal with any complex conditions.
+#### 5.3
 
-#### Chronic Condition Management
+In most cases we will pay directly the hospital, clinic or medical practitioner for your medical expenses. In the instance where you, or any beneficiaries, have to pay the hospital, clinic or medical practitioner, you should submit your invoice and claims form to us as soon as possible after any treatment. If the claim and invoice is not submitted to us within twelve (12) months of the date of treatment, the claim will not qualify for payment or reimbursement by us.
 
-A specialised nurse will support you if you are suffering from a chronic condition, such as:
+Any claim is subject to the applicable deductible, cost shares and limits of cover set out in these Policy Rules, the Customer Guide and your Certificate of Insurance.
 
-- Pre-diabetes and diabetes
-- High blood pressure
-- Musculoskeletal (joint, muscle or nerve) pains
-- Arthritis
+#### 5.3.1
 
-Support includes:
+Claims are reimbursed in the currency in which the claim was incurred or, upon request, the currency of the premiums paid on this policy and calculated using the applicable exchange rate. You, or any beneficiaries, may submit a request to reimburse the claim in an alternative currency. Should we agree to provide a reimbursement consistent with an alternative currency request, we will apply a standard convenience charge of 3% over and above the applicable exchange rate. The convenience charge will be added to the exchange rate of the requested currency and will impact the final amount reimbursed. This means that if an alternative currency request is made, subject to exchange rate fluctuations, the amount reimbursed may be less than the original amount claimed.
 
-- Creating a specific treatment plan with achievable goals
-- Monitoring your condition with regular calls and assessments
-- Reviewing the next course of action if medically necessary\*
+#### 5.4
 
-### Feel reassured thanks to second medical opinions
+In the event a particular alternative currency request cannot be met, we will contact you to obtain your preference as to another alternative currency request or standard reimbursement. You, or any beneficiaries, can contact us for the applicable exchange rate applied to any particular claim using one of the options in the 'How to contact us' section on page 3 of these Policy Rules. We reserve the right to withdraw or vary the convenience charge at any time on a sixty (60) days' prior notice.
 
-#### Decision Support programme
+If you do not pay premium and/or any other charges when they are due, we will notify you by email immediately and suspend your policy i.e. cover for all beneficiaries will be suspended. If payment is made, the policy will be reinstated. We will not approve treatment while the policy is suspended. We will not settle any claim while any payment to us is outstanding until the outstanding amount is paid.
 
-This service provides advice and recommendations on your individual diagnosis, and includes:
+If after thirty (30) days the amount is still outstanding, we will write to you informing you that the policy is cancelled. The cancellation date shall take effect on the date when the first outstanding payment was due.
 
-- Access to leading medical experts for second medical opinions
-- Initial contact within 48 hours of receiving your medical history
-- A medical report containing the medical expert's opinion on your treatment plan
-- Additional answers and explanations to questions you may have
+If you settle the outstanding amount within thirty (30) days of when the first outstanding payment was due, we will reinstate your cover back to that date.
 
-\*This programme is available regardless of a medical exclusion being applied to your policy related to a chronic condition. However a physical treatment may not be covered for that condition if it is part of the medical exclusion.
+#### 5.5
 
-**Did you know?** You can access Clinical Support by contacting our Customer Service Team using the contact details on page 2.
+Subject to clause 13, we will inform you of the premium and any other charges which will apply during the next period of cover. The premium and/or other charges will change each period of cover.
 
----
+### 6. Termination
 
-## Managing Your Policy
+#### 6.1
 
-As a Cigna Global Health Options customer, you have access to a wealth of information wherever you are in the world through your secure online Customer Area.
+Subject to any conflicting legal or regulatory requirements we will terminate this policy for all beneficiaries immediately if:
 
-### To access your secure online Customer Area, click here.
+**6.1.1** any premium or other charge (including any relevant tax) is not paid in full within thirty (30) days of the date on which it is due. We will give you written notice if we are going to terminate the policy for this reason;
 
-Select 'Global Individual Policy' from the list and click 'Login' button.
+**6.1.2** it becomes unlawful for us to provide any of the cover available under this policy or we are required to terminate the policy in any particular jurisdiction or territory at the direction of a regulator or authority with competent jurisdiction; or
 
-Enter the email address that you provided us with and then your password.
+**6.1.3** any beneficiary is identified on any list imposing financial sanctions on targeted individuals or entities maintained by the United Nations Security Council, the European Union, the United States Office of Foreign Assets Control or any other applicable jurisdiction. Furthermore, we will not pay claims for services received in sanctioned countries if doing so would violate the requirements of the United Nations Security Council, the European Union or the United States Department of Treasury's Office of Foreign Assets Control.
 
-If you have any problems accessing the Customer Area, please contact our Customer Care team. Contact details are provided on page 2.
+#### 6.2
 
-### Your secure online Customer Area is the easiest way for you to manage your policy and access all information relating to your plan. Here you can:
+Subject to clause 3, we will terminate this policy with immediate effect if, we, at our sole discretion determine, on reasonable grounds, that you have, in the course of applying for the policy or when making any claim under it, withheld information or knowingly or recklessly provided information which you know or believe to be untrue or inaccurate or failed to provide information which we have asked for, including medical information.
 
-- View your policy documents, including your Certificate of Insurance and Cigna Healthcare ID cards for all beneficiaries;
-- View any special exclusions that are applied to your policy;
-- View the benefits your plan includes;
-- View a summary of your premium payments;
-- View all correspondence with us;
-- Easily submit and track the status of your claims;
-- Update your details if required.
+#### 6.3
 
-**Did you know?** You can access your online Customer Area via www.cignaglobal.com and clicking the 'Member Login' button at the top right of the page.
+Subject to clause 11, we may terminate this policy if any beneficiary ceases to be an expatriate whether as a result of a change to a beneficiary's country of nationality or country of habitual residence.
 
----
+#### 6.4
 
-## Accessing Care
+If we are no longer in the market to sell the policy or suitable alternative in your geographical area, we will notify you at least one (1) month before the end date to advise you that the policy will be terminated (and therefore unable to be renewed) with effect from the end date.
 
-Our search tool provides you with an easy way to find medical providers in your location. You can refine your search by medical speciality, type of facility, or healthcare professional.
+#### 6.5
 
-You will be given a clear list of providers with direct billing and a clear map showing where you are in relation to the providers.
+If you want to terminate this policy and end cover for all beneficiaries, you may only do so after the minimum period of cover of three (3) months from the initial start date by giving us at least fourteen (14) days' notice in writing. Termination of your policy will take effect fourteen (14) days after you, the policyholder, notifies us of the request by using one of the options in the 'How to contact us' section on page 3 of these Policy Rules.
 
-### Contact us
+#### 6.6
 
-Your secure online Customer Area also provides you with convenient methods to contact us that include live chat, sending us a direct message, or by letting us know a convenient time for you in which we will call you back.
+**6.5.1** If the policy is terminated in accordance with clause 6.5, before the end date, and we have paid a claim, covered a treatment or issued a guarantee of payment during the period of cover, you will be liable for the remainder of any premiums in respect of the policy which are unpaid. If your annual premium is collected at intervals throughout the policy year, you will be responsible for making these payments for the remainder of the period of cover or alternatively, settle the outstanding premium amount.
 
-- Live chat
-- Message us
-- Request a call back
+In relation to the period after your cover has ended outside the minimum period of cover of three (3) months, unless your policy is terminated in accordance with clause 6.2 and/or clause 7, then any premium which has been paid in relation to the period after cover has ended will be refunded to the extent that it does not relate to a period of time in which we have provided cover, so long as we have not paid any claim, or issued any guarantee of payment during the period of cover.
 
-International: +44 (0) 1475 788 182
-USA: 800 835 7677 (toll free)
-Hong Kong: 2297 5210 (toll free)
-Singapore: 800 186 5047 (toll free)
+#### 6.7
 
----
+If treatment has been authorised, we will not be held responsible for any treatment costs if the policy ends or a beneficiary leaves the policy before treatment has taken place.
 
-## Arranging Treatment
+### 7. Fraud
 
-### What type of treatment or consultation do you need?
+#### 7.1
 
-#### Inpatient or Daypatient treatment
+If a beneficiary makes a fraudulent claim under this policy, we:
 
-- Long stay hospitalisation
-- Hospital admission before and after surgery
-- Same-day routine operation
-- Scheduled ongoing treatment
-- Admission to a specialist department
-- Maternity care during childbirth
+- i. are not liable to pay the claim;
+- ii. may recover from the beneficiary any sums paid by us in respect of the claim; and
+- iii. may give notice to the beneficiary and treat the contract as having been terminated with effect from the time of the fraudulent act.
 
-For example, if you require surgery following a heart attack. Any diagnostic tests, surgery and hospital charges are covered within inpatient and daypatient treatment. See page 11.
+#### 7.2
 
-**Prior authorisation is required before receiving these treatments.**
+If we exercise our right under clause 7.1 (iii) above:
 
-Please contact the Customer Service team as soon as possible to ensure your treatment is covered.
+- i. we shall not be liable to the beneficiary in respect of a relevant event occurring after the time of the fraudulent act. A relevant event is whatever gives rise to our liability under this policy (such as the occurrence of a loss, the submission of a claim, or the notification of a potential claim); and
+- ii. we do not need to return any of the premium paid.
 
-##### Provider Search
+#### 7.3
 
-For inpatient or daypatient treatment, the Customer Service team can help you locate your nearest Cigna Healthcare network provider while you are requesting your prior authorisation.
+If this policy provides cover for any beneficiary other than you, and a fraudulent claim is made under this policy on behalf of a beneficiary other than you, we may exercise the right set out in clause 7.1 above as if there were an individual insurance contract between us and that beneficiary. However, the exercise of any of those rights shall not affect the cover provided under the contract for any other beneficiary. Nothing in this clause 7 is intended to vary the position under the Insurance Act 2015.
 
-Or you can use the Provider search in your online Customer Area.
+### 8. Coverage options
 
-#### Outpatient treatment
+#### 8.1
 
-- Doctor consultations
-- Blood and other diagnostic tests
-- X-rays and scans
-- Physio appointment
-- Acupuncture visit
-- Minor procedure (for example stitches)
-- Prescribed medication
+If a beneficiary does not have cover under the International Outpatient, International Evacuation & Crisis Assistance Plus®, International Health and Wellbeing or International Vision and Dental options, we will not pay for any of the treatments which are available under those options.
 
-For example, a diagnostic test, a flu vaccination or a mole removal. See page 12.
+#### 8.2
 
-**In most cases, prior authorisation is not required.**
+The following changes to your policy cannot be requested during the period of cover and can only be made upon renewal:
 
-There are a limited number of outpatient treatments which require prior authorisation and can be found on page 26.
+- to modify your level of cover (for example moving up from the Silver level to the Gold level or moving down from the Platinum level to the Gold level for the International Medical Insurance cover),
+- to modify your deductible, cost share or out-of-pocket maximum.
 
-##### Provider Choice
+In order to proceed with such request, you should let us know in writing at least seven (7) days before your annual renewal date. Before making any of these changes, we may ask you to complete a new medical history questionnaire as some changes may be subject to medical underwriting. If the request is accepted by us, we may apply new special restrictions or exclusions on your updated policy for the new period of cover. Once you accept our offered terms, these changes will become effective from your annual renewal date.
 
-**Outside the USA:** As you don't require prior authorisation for most outpatient treatments, you can select a provider of your choice.
+The following changes to your policy can be requested during the period of cover and will be reviewed by us:
 
-**Inside the USA:** For any outpatient treatment, it is recommended to stay within the Cigna Healthcare network.
+- to add one or more of the optional modules at the same level of cover as your International Medical Insurance core cover: International Outpatient, International Evacuation & Crisis Assistance Plus®, International Health and Wellbeing or International Vision and Dental options,
+- to modify your area of cover by including USA cover (i.e. changing from Worldwide excluding the USA to Worldwide including the USA).
 
-### Do you need to contact Cigna Healthcare first?
+Before making any of such changes to your policy during the current period of cover, we may ask you to complete a new medical history questionnaire. If the request is accepted by us, we may apply new special restrictions or exclusions on your updated policy. These changes to your policy will begin no sooner than the date you accept our offered terms and will remain in place until at least your annual renewal date.
 
-### Where can you receive treatment? Can you choose your preferred provider?
+Any other changes to your policy in relation to coverage options will be reviewed by us and will be subject to medical underwriting.
 
-**Note: In case of emergency:**
+Important to note that there is no cover for maternity benefits (parent and baby care section in the Customer Guide) on the Silver plan, and therefore in the case of an upgrade from the Silver level to the Gold level or the Silver level to the Platinum level, any beneficiary on the Silver plan will not have access to maternity benefits until they have satisfied the 12 month waiting period for the maternity benefits on the Gold or Platinum plan. Once any beneficiary has been covered under the Gold or Platinum plan for 12 months or more, then they will have access to the maternity benefits.
 
-- Seek treatment first, not required to obtain prior authorisation before
-- You or a family member to call us within 48hr of the initial treatment
-- We confirm the treatment and arrange settlement with the provider
-- If the provider is outside of Cigna Healthcare network, we may decide, with your consent, to continue treatment with a chosen provider.
+For maternity benefits in the case of an upgrade from the Gold level to the Platinum level upon your renewal, any beneficiary will only have access to the benefit limits of the Gold plan for maternity benefits until they have satisfied the 12 month waiting period on the Platinum plan. Once any beneficiary has been covered under the Platinum plan for 12 months or more, then they will have access to the Platinum limits for the maternity benefits.
 
-**If no prior authorisation obtained:**
+### 9. Deductible and Cost Share
 
-- Delay in processing claims
-- Payment reduction by 20%
+#### 9.1
 
----
+If you have selected a deductible on the International Medical Insurance plan and/or International Outpatient option (if applicable), you will be responsible for paying the deductible amount directly to the hospital, clinic, medical practitioner or pharmacy. We will let you know what this amount is. Your chosen deductible applies as per the treatment date and any deductible amount paid will be considered as a claim towards your policy regardless if the deductible amount paid has covered fully or partially the cost of your claim.
 
-## Treatment in the USA
+We will reduce the amount which we will pay towards the cost of treatment in respect of each claim which is made under the International Medical Insurance or International Outpatient option (if applicable) by the amount of any deductible until the deductible for the period of cover is reached.
 
-If you choose an out-of-network provider, we will reduce the amount we pay by 20%. This payment reduction will not apply in the following instances:
+#### 9.2
 
-- No Cigna Healthcare network provider within 30 miles/50 kilometres
-- Treatment not available elsewhere
-- Emergency treatment.
+If you have selected a cost share on the International Medical Insurance plan and/or International Outpatient option (if applicable), we will reduce the amount we pay towards the cost of treatment by that cost share percentage. You will be responsible for paying the cost share directly to the hospital, clinic, medical practitioner or pharmacy. The amounts you pay are subject to the capping effect of the applicable out of pocket maximum.
 
-### Guarantee of Payment
+Your chosen cost share applies as per the treatment date and any cost share amount paid will be considered as a claim towards your policy regardless if the cost share amount paid has covered fully or partially the cost of your claim.
 
-As part of the prior authorisation process, we will issue in most instance a Guarantee of Payment to you and/or the chosen provider. This means that we agree in advance to pay some or all the costs of a particular treatment with that provider based on the estimated fees.
+#### 9.3
 
-Once we have given a guarantee of payment, we will pay the agreed amount to the provider on receipt of an appropriate request and a copy of the relevant invoice, once the treatment has been completed. Where there is a shortfall between the agreed Guarantee of Payment and the provider fees, we will review the difference as per our claim adjudication process.
+Only amounts you pay related to the cost share on the International Medical Insurance and/or International Outpatient option are subject to the capping effect of the out of pocket maximum.
 
----
+The following are not subject to the out of pocket maximum:
 
-## Getting Treatment
+- Any amounts you pay due to a deductible;
+- Due to exceeding limits of cover;
+- For treatment not covered by the International Medical Insurance plan or International Outpatient option; or
+- Due to penalties for not obtaining prior approval or using out of network providers in the USA.
 
-### Do you need to pay for your treatment out of your pocket?
+Any amounts you pay to the deductible, cost share and out of pocket maximum where applicable, apply separately to each beneficiary, each coverage option and each period of cover.
 
-#### For inpatient and daypatient treatment
+#### 9.4
 
-After receiving the required prior authorisation and a guarantee of payment for the estimated cost of your treatment with the chosen provider – you can plan your hospital stay or book your treatment.
+No deductible applies to 'Inpatient cash benefit,' 'Newborn Care' benefit, 'Accident and Emergency Room Treatment,' or 'Global Telehealth with Teladoc' within the International Medical Insurance plan.
 
-#### For outpatient and preventative treatments
+No deductible applies to benefits within the following optional modules: International Health and Wellbeing, International Evacuation and Crisis Assistance Plus®, or International Vision and Dental.
 
-As you don't require a prior authorisation for your day to day medical needs, we won't issue a guarantee of payment in these instances and you can directly visit your doctor or specialist.
+#### 9.5
 
-Similarly, you can book an annual health check or a cancer screening without the need to contact our Customer care team first.
+For the following outpatient treatments, which are covered under the International Medical Insurance plan, the chosen inpatient deductible applies:
 
-### How do you settle the medical bill(s) after your treatment?
+- Any outpatient treatment under the 'Kidney Dialysis' benefit.
+- Any Advanced Medical Imaging (MRI, CT and PET scans) benefit on an outpatient basis.
+- Any outpatient treatment under the 'Mental and Behavioural Health Care' benefit, including counselling.
+- Any outpatient treatment under the 'Cancer Care' benefit.
+- Any outpatient treatment covered under the 'Complications from maternity' benefit.
 
-#### For large bills, in most cases we will pay the provider directly
+### 10. Adding beneficiaries
 
-For most of the inpatient/daypatient treatments, we will pay your hospital, clinic or medical practitioner directly:
+#### 10.1
 
-- through a direct billing agreement
-- through the provision of a Guarantee of Payment
+If you would like to add a new beneficiary during the policy year, you must send us a completed application for that person. Acceptance of any new beneficiary is at our sole discretion. We will advise you of any special conditions or exclusions and any additional premium that will apply to the offer of cover. Cover for any new beneficiary will begin from the date on which you confirm your acceptance. We will send you an updated Certificate of Insurance confirming that the new beneficiary has been added.
 
-**Notes:**
+#### 10.2
 
-- We will only pay the parts of the treatment costs incurred which are covered.
-- You are responsible for paying any deductible or cost share directly to the hospital, clinic, medical practitioner or pharmacy at the time of treatment.
+If a beneficiary gives birth, you may apply to add the newborn as a beneficiary to your existing plan.
 
-#### If you have paid the provider
+**10.2.1** If at least one (1) parent has been covered by the policy for a continuous period of twelve (12) months or more prior to the newborns birth, we will not require information about the newborn's health or a medical examination if an application is received by us to add the newborn to the policy within thirty (30) days of the newborn's date of birth. However, if an application is received by us more than thirty (30) days after the newborn's date of birth, the newborn will be subject to medical underwriting.
 
-Submit your invoice and claims to us within 12 months from the date of treatment. You can submit claims online via your secure online Customer Area, or via email, fax, or post.
+**10.2.2** If neither parent has been covered by the policy for a period of twelve (12) consecutive months or more prior to the newborn's birth, the newborn will be subject to medical underwriting, and you can submit an application to add the newborn.
 
-You can find details on how to submit a claim on page 13.
+**10.2.3** If a beneficiary has a child via a surrogate or an adoption, the newborn can be added as a beneficiary to your existing plan by submitting an application. The newborn will be subject to medical underwriting whereby we may apply special restrictions or exclusions.
 
-**Notes:**
+#### 10.3
 
-- We will reimburse you (less your applicable deductible and/or cost share option).
-- We aim to process your claim within 5 working days after receiving all necessary documentation.
+If medical underwriting is required for the newborn, we will then tell you whether we will offer cover to the newborn and, if so, any special conditions and exclusions which would apply. Cover will begin no sooner than the date you accept our offered terms. We will send you an updated Certificate of Insurance confirming that the new beneficiary has been added. Please refer to the 'Newborn Care' benefit in your Customer Guide for further details.
 
-You can download your claims forms from your secure online Customer Area or at www.cignaglobal.com/help/claims
+### 11. Changes to country of habitual residence, address and/or nationality
 
-### Receiving treatment – Remember to take a copy of your Cigna Healthcare ID with you. This is available to download in your online Customer Area.
+#### 11.1
 
-**Important:**
+If any beneficiary changes their country of habitual residence you must inform us as soon as practicable and in any event within thirty (30) days. We reserve the right to ask you for further information about a change in your or any other beneficiary's country of habitual residence from time to time. Note that any change to your or any other beneficiary's country of habitual residence may result in an increase to your premium or additional tax becoming payable, meaning you may have to make an additional payment of premium or your monthly or quarterly payments may increase. If the premium increases, we will give you the right to cancel the policy in accordance with clause 6.5, in which case clauses 6.5.1, 6.6 and 6.7 will apply. Please note that the insurance may be provided by another Cigna group company.
 
-- There may be certain countries where we are unable to pay a provider directly. In this instance, you will be responsible for paying any treatment costs to your provider and Cigna Healthcare will reimburse you.
-- We may, at our sole discretion and without notification, make changes to the Cigna Healthcare network from time to time by adding and/or removing hospitals, clinics, medical practitioners and pharmacies.
+#### 11.2
 
----
+If a beneficiary returns to their country of nationality then the treatment which they can obtain will be limited to one hundred and eighty days (180) days in aggregate during the policy year.
 
-## Example 1: Hospitalisation
+#### 11.3
 
-**Profile:** Linda **Age:** 55 **Plan:** CGHO Silver
+**11.2.1** We reserve the right to review all claims submitted by beneficiaries in their country of nationality and in circumstances where we know or reasonably believe the beneficiary is or intends to be resident in their country of nationality in excess of one hundred and eighty (180) days in aggregate per period of cover. In such circumstances we may no longer consider that beneficiary to be an expatriate as they have returned to their country of nationality for a sustained period and we may refuse payment of any claim or issuance of a guarantee of payment.
 
-Linda is rushed to hospital following a suspected heart attack at home.
+We reserve the right to terminate this policy in accordance with 6.3.
 
-- **Benefit utilised:** Local ambulance services
-- **Prior authorisation:** As this is an emergency, Linda is not required to call our Customer Service first.
+#### 11.4
 
-Linda arrives at the hospital.
+If any beneficiary ceases to be an expatriate whether as a result of a change to a beneficiary's country of nationality or country of habitual residence, then you can either:
 
-- **Treatment:** Linda is informed she requires surgery
-- **Benefit utilised:** Hospital Charges
-- **Prior Authorisation:** Required\*
-- **Guarantee Of Payment:** Provided as part of prior authorisation process
+**11.4.1** leave the policy in force for the remainder of the period of cover. You must inform us upon renewal if you cease to be an expatriate and we will determine if we can offer you an alternative health plan provided by another Cigna group company; or
 
-Following a successful operation, Linda requires rehabilitation treatment within hospital.
+**11.4.2** terminate the policy by giving written notice with the effect that cover will end for all beneficiaries. Any premium which has been paid in relation to the period after termination will be refunded to the extent that it does not relate to a period of time in which we have provided cover, so long as we have not paid claims or issued any guarantees of payment during the period of cover.
 
-- **Benefit used:** Rehabilitation
-- **Prior Authorisation:** Required
-- **Guarantee of Payment:** Provided as part of prior authorisation process
+### 12. How we will communicate with you
 
-Following a successful operation and follow-up rehabilitation treatment, Linda is sent home to fully recover.
+We will send any communication and notices in relation to this policy electronically to the email address you have provided, and we will place your policy documents in your secure online Customer Area.
 
-- **Settlement:** As Linda has obtained the required prior authorisations, all her medical bills are taken care directly by Cigna Healthcare with the hospital.
+### 13. Policy renewal
 
-\*As Linda was unable to call customer services herself, her daughter, registered as a third party on Linda's policy was able to speak to a customer service representative to receive prior authorisation and guarantee of payment prior to any treatment being received.
+#### 13.1
 
-**Did you know?** Inpatient means a patient who is admitted to hospital and who occupies a bed overnight or longer, for medical reasons. An example of inpatient treatment is undergoing surgery following a heart attack where they will recover in hospital overnight
+If we determine to renew, we will write to you at least one (1) calendar month before the end date to invite you to automatically renew on the terms we offer you. We will inform you of any changes to the policy and premium for the forthcoming period of cover. If local law and/or regulation dictates, we may be required to offer you an alternative health plan. The minimum period of cover of three (3) month doesn't apply to renewed policies. This requirement applies only to the first year of your policy. Subject to clause 7, any decision by Cigna Healthcare not to renew shall not be based on your claims history or any illness, injury or condition suffered by any beneficiaries.
 
-### Wondering how your policy will work for you?
+#### 13.2
 
-The journey below shows an example of a customer who requires to be admitted to hospital for inpatient care and how Cigna Healthcare can assist them through this journey.
+If you accept the invitation to renew, please ensure you have read and understood the policy documents for the forthcoming period of cover. Your cover will be renewed for another twelve (12) months.
 
----
+#### 13.3
 
-## Example 2: Out Of Hospital Care
+If you do not want to renew your cover, you must let us know in writing at least fourteen (14) days before your policy end date.
 
-**Profile:** William **Age:** 65 **Plan:** CGHO Platinum **Additional cover selected:** International Outpatient module
+**13.3.1** If you do not renew your cover, any beneficiaries who have been covered under the policy can apply for their own cover. We will consider their applications individually and inform them whether, and on what terms, we are willing to offer them such cover.
 
-William feels unwell and visits his doctor to talk through his symptoms.
+#### 13.4
 
-- **Benefit used:** Consultations and outpatient procedures with medical practitioners
-- **Prior Authorisation:** Not required
-- **Claim Reimbursement:** Not required\*
+Subject to clause 8.2, if you would like to make changes to your policy upon renewal, you must let us know in writing at least seven (7) days before your annual renewal date. We may apply new special restrictions, exclusions and/or adjust premium. If we do so we will send you an updated Certificate of Insurance.
 
-The doctor reviews William's symptoms and prescribes antibiotics.
+#### 13.5
 
-- **Benefit:** Prescribed drugs and dressings
-- **Prior Authorisation:** Not required
-- **Claim Reimbursement:** Required\*\*
+If any special exclusion(s) have been applied to any beneficiary there may be occasions when we can review them at a future annual renewal date, to consider whether we are willing to remove the exclusion. If this is the case, we will show the exclusions review date in the Certificate of Insurance. At such date, we will also review the additional premium (if any) which we may have applied to cover a condition.
 
-William also mentions a mole that he would like the doctor to investigate. A follow-up appointment is scheduled.
+You should contact us upon receipt of the renewal notification, and at least fourteen (14) days before the annual renewal date if there is an exclusion which is due for review at that date. We will then advise you of changes (if any) we have made and, where appropriate, issue an amended Certificate of Insurance. Amendments will be effective from the relevant annual renewal date. We do not guarantee that any special exclusion(s) or additional premium will be removed on renewal.
 
-- **Prior Authorisation:** Not required
+### 14. Data protection
 
-Two weeks after his initial consultation, William has the mole successfully removed at his doctor's surgery.
+#### 14.1
 
-- **Benefit:** Consultations with medical practitioners
-- **Prior Authorisation:** Not required
-- **Claim Reimbursement:** Not required\*
+In assessing your application, and administering the policy and the insurance provided to you, we will collect, process and share certain personal information about you. We take your privacy very seriously and we will always process your information in accordance with applicable data protection legislation, including the General Data Protection Regulation (EU 2016/679) and any other applicable legislation and any guidance or codes of practice issued in respect of protection of personal data from time to time. For more information please see our Data Protection Notice, which we may update from time to time.
 
-One week later, William returns to have his stitches removed, and no additional follow-up consultations are required.
+#### 14.2
 
-- **Benefit:** Consultations with medical practitioners
-- **Prior Authorisation:** Not required
-- **Claim Reimbursement:** Not required\*
+Cigna Healthcare will for the purposes of administering any claim, ask a beneficiary to provide special category data relating to his or her medical condition, previous conditions, state of health and treatments.
 
-\*William uses the Provider search in his online Customer Area to locate his nearest doctor's clinic within Cigna Healthcare's network. As with most outpatient coverage, William does not need to obtain prior authorisation before seeking any treatment. As the doctor is within the Cigna provider network, Cigna Healthcare are billed directly in this instance, meaning William does not need to claim reimbursement for these in-network doctor visits.
+### 15. Who can enforce this policy
 
-\*\*If the pharmacy to collect the prescription is not part of the Cigna Healthcare's network, William will have to pay upfront the cost of the medication and submit a claim for reimbursement. Currently, only in the USA, Cigna Healthcare customers will be able to access Cigna healthcare pharmacy network where verification and fulfilment are done automatically without the need to pay the medication out of their pocket.
+Only we and you have legal rights in connection with this policy. A person who is not a party to this policy has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this contract but this does not affect any right or remedy of a third party which exists or is available apart from that Act.
 
-**Did you know?** Outpatient means a patient who attends a hospital outpatient department, consulting room, or outpatient clinic for treatment but is not admitted as a daypatient or an inpatient and does not occupy a bed.
+### 16. Our right to recovery from third parties
 
-### Wondering how your policy will work for you?
+If a beneficiary requires treatment as a result of an accident or deliberate act for which a third party is at fault, we (or any person or company we nominate) will take on that beneficiary's right to recover the cost of that treatment from the third party at fault (or their insurance company). If we ask a beneficiary to do so, he or she must take all steps to include the amount of benefit claimed from us under this policy in any claim against the person at fault (or their insurance company). The beneficiary will need to sign and deliver all documents or papers and take any other steps we require to secure our rights. The beneficiary must not take any action which could damage or affect these rights. We can take over and defend or settle any claim, or prosecute any claim, in a beneficiary's name for our own benefit. We will decide how to carry out any proceedings and settlement.
 
-The journey below shows an example of a customer who requires outpatient care and how Cigna Healthcare can assist them through this journey.
+### 17. Other Insurance
 
----
+If another insurer also provides cover, we will negotiate with them as regards to who pays what proportion of any claim. If a beneficiary is covered by other insurance, we may only pay part of the cost of treatment. If another person, organisation or public programme is responsible for paying the costs of treatment, we may claim back any of the costs we have paid.
 
-## How To Submit Claims
+### 18. Changes to this policy
 
-If you have paid for your treatment yourself, you can send your invoice and claim form to us. The easiest way to do this is via your secure online Customer Area.
+#### 18.1
 
-### You will need:
+No person other than an executive officer of Cigna Healthcare has authority to change this policy or to waive any of its provisions on our behalf, for example, sales representatives, brokers and other intermediaries cannot vary or extend the terms of the policy.
 
-- The Invoice from your medical provider
-- A completed Claims Form
-- The Receipt from your payment
+#### 18.2
 
-**Please clearly state your policy number on any documentation you submit to us.**
+We reserve the right to make any changes to this policy that are necessary to comply with any changes to relevant laws and regulations. If this happens, we will write to you and tell you of the change.
 
-You can download your claims forms from your secure online Customer Area or at www.cignaglobal.com/help/claim.
+### 19. Sanctions
 
-### You can submit your claims through:
+It is Cigna Healthcare's global corporate policy to comply with the economic sanctions rules related to individuals, entities, and countries applicable to its global business operations, including but not limited to those imposed by the United Nations, the European Commission, the United States, and Canada. Therefore, Cigna Healthcare will not offer coverage or pay benefits to or on behalf of, any beneficiaries if doing so would violate these sanctions rules. In the event that Cigna Healthcare learns that a sanctioned individual or entity is enrolled under the policy, or that a beneficiary becomes sanctioned, Cigna Healthcare will take all appropriate action, which could include blocking, reporting, and terminating coverage. Cigna Healthcare is under no obligation to notify the beneficiary in advance of taking these actions, or to obtain licenses from any government to enable the extension of coverage in compliance with sanctions laws.
 
-- Your secure online Customer Area (see page 7)
-- Email: cghoclaims@cigna.com
-- Post: **For Treatment Incurred:**
+In addition, restrictions will apply to claims incurred in sanctioned countries where there is no relevant, approved license from the U.S. Office of Foreign Assets Control. Among the restrictions, Cigna Healthcare will not cover: (1) elective or pre-scheduled treatment in sanctioned countries; or (2) beneficiaries considered "ordinarily resident" in a sanctioned country. Beneficiaries are considered ordinarily resident if they visit a sanctioned country for a period of longer than six (6) weeks over the course of any twelve (12) month period.
 
-**Outside of the USA, Hong Kong, or Singapore**
-Cigna Global Health Options, Customer Service, 1 Knowe Road, Greenock Scotland PA15 4RJ
+### 20. Pandemics, Epidemics and Infectious Illnesses
 
-**In the USA**
-Cigna International, PO Box 15964, Wilmington, Delaware 19850, USA
+#### 20.1
 
-**In Hong Kong**
-Cigna Worldwide General Insurance Company Ltd, Cigna Global Health Options, Customer Service, 16/F, International Trade Tower, 348 Kwun Tong Road, Kwun Tong, Kowloon, Hong Kong SAR
+We will cover medically necessary treatment for disease or illness resulting from a pandemic, epidemic or outbreak of infectious illness, as defined by the World Health Organisation (WHO). The medically necessary treatment and related medical conditions will be covered on an inpatient, daypatient and outpatient (if the International Outpatient option has been selected) basis as per the benefits of the plan selected and according to the terms of the policy. Where prescribed drugs cannot be accessed in the beneficiary's current location as a result of a pandemic, epidemic or outbreak of infectious illness, we will cover the shipment cost in addition to the cost of the prescribed drugs under the terms of the prescribed drugs and dressings outpatient benefit.
 
-**In Singapore**
-Business Services Team, Cigna Europe Insurance Company S.A.-N.V. - Singapore Branch, Cigna Global, Health Singapore, 152 Beach Road, #33-05/06, The Gateway East, Singapore 189721
+#### 20.2
 
-- Fax: +44 (0) 1475 492 113 (Outside the USA); 855 358 6457 (Inside the USA)
+We will cover medically necessary testing for pandemic, epidemic or outbreak of infectious illness, on an outpatient basis, in line with policy coverage for diagnostics for other illnesses, and according to the World Health Organisation (WHO) guidelines.
 
-### Important information
+#### 20.3
 
-- You and all beneficiaries must comply with the claims procedures set out in this Customer Guide.
-- We can reimburse you using bank wire transfer or cheque.
-- We may need to ask for extra information to help us process a claim, for example: medical reports or other information about the beneficiary's condition or the results of any independent medical examination that we may ask and pay for.
-- Beneficiaries should submit claims forms and invoices as soon as possible after any treatment. If the claim and invoice is not submitted to us within 12 months of the date of treatment, the claim will not qualify for payment or reimbursement by us.
+When an approved vaccine becomes available in a location through the local social security programmes or governmental agency, we recommend that local government advice is followed and the local health system or government programme is accessed where available. If the vaccine needs to be delivered in an authorised private setting, and your selected plan includes coverage for clinically appropriate vaccines, then the vaccine will be covered on an outpatient basis according to the terms of the policy, and subject to the appropriate local regulatory authorities deeming the vaccine to be safe and efficient in the country where it will be administered. We cannot guarantee the availability of a vaccine in any location and Cigna Healthcare cannot control how or when any vaccine is distributed.
 
-### Subject to the terms of this policy, we will pay for the following costs related to your claim:
+## Section 2: General exclusions
 
-- Costs as described in the list of benefits section of this Customer Guide as applicable on the date(s) of the beneficiary's treatment.
-- Costs for treatment which have taken place, however, we will not cover future treatment costs that require payment deposits or payment in advance.
-- Treatment which is medically necessary and clinically appropriate for the beneficiary.
-- Reasonable and customary costs for treatment, and services related to treatments which are shown in the list of benefits. We will pay for such treatment costs in line with the appropriate fees in the location of treatment and according to established clinical and medical practice.
-- If you exceed any individual benefit sub limit, or the overall annual benefit maximum, we will seek reimbursement from you to cover the costs where you have exceeded your limit.
+We will not offer cover or pay claims when it is illegal for us to do so under applicable laws. Examples include but are not limited to, exchange controls, local licensing regulations or trade embargo. In accordance with clause 19, we will not cover any beneficiaries or pay claims in jurisdictions when doing so would violate applicable trade restrictions, including but not limited to: restrictions imposed by the United States Department of Treasury's Office of Foreign Assets Control; the European Union Commission, or; the United Nations Security Council Sanctions Committees.
 
----
+We cannot be held responsible for any loss, damage, illness and/or injury that may occur as a result of receiving medical treatment at a hospital or from a medical practitioner, even when we have approved the treatment as being covered.
 
-## Cigna Wellbeing® App
+The following exclusions apply to the International Medical Insurance plan and to all of the extra coverage options. Please also refer to the list of benefits detailed in the Customer Guide, including the notes section for any further restrictions and exclusions that apply, in addition to the General Exclusions. Please also refer to your Certificate of Insurance for any special exclusions that may apply.
 
-Our Cigna Wellbeing® App provides you with a host of tools and features to help you manage your health and wellbeing.
+### 1. Treatment which is provided by:
 
-### Access care, anytime, anywhere
+a) a medical practitioner who is not recognised by the relevant authorities in the country where the treatment is received as having specialist knowledge of, or expertise in, the treatment of the disease, illness or injury being treated;
+b) a medical practitioner, therapist, hospital, clinic, or facility to whom we have given written notice that we no longer recognise them as a treatment provider. Details of individuals, institutions and organisations to whom we have given such notice may be obtained by calling our Customer Care Team; or
+c) a medical practitioner, therapist, hospital, clinic, or facility which, in our reasonable opinion, is either not properly qualified or authorised to provide treatment, or is not competent to provide treatment.
 
-The Cigna Wellbeing® App is the easiest way to access Global Telehealth. Use the same email address and password as your online Customer Area to access the Cigna Wellbeing App services.
+### 2. Treatment for:
 
-#### REQUEST AN APPOINTMENT
+a) a pre-existing condition; or
+b) any condition or symptoms which result from, or are related to, a pre-existing condition.
+We will not pay for treatment for a pre-existing condition of which the policyholder was (or should reasonably have been) aware at the date cover commenced, and in respect of which we have not expressly agreed to provide cover.
 
-Use the Cigna Wellbeing® App to make an appointment with a doctor anytime, anywhere.
+### 3. Preventative treatment
 
-#### SPEAK WITH A DOCTOR
+Preventative treatment, including but not limited to health screening, routine health checks and vaccinations (unless that treatment is available under the International Medical Insurance plan or one of the options for which a beneficiary has cover). Under the International Medical Insurance plan, the limits of cover for preventative surgery in respect of congenital conditions will apply, other than for cancer.
 
-The initial consultation will be with a General Practitioner by phone or video.
+### 4. Treatment by family
 
-#### FEEL BETTER
+Treatment which is provided by anyone who lives at the same address as the beneficiary, or who is a member of the beneficiary's family.
 
-Get the right advice for you. Includes prescription services and referrals for treatment if you require further care.
+### 5. Conflict or disaster
 
-### Why use Global Telehealth?
+Treatment which is necessary as a result of conflict or disaster including but not limited to:
+a) nuclear or chemical contamination;
+b) war, invasion, acts of terrorism, rebellion (whether or not war is declared), civil war, commotion, military coup or other usurpation of power, martial law, riot, or the act of any unlawfully constituted authority;
+c) any other conflict or disaster events;
+where the beneficiary has:
+i) put him or herself in danger by entering or remaining within a known area of conflict (as identified by a Government in your country of nationality, for example the British Foreign and Commonwealth Office);
+ii) actively participated in the conflict; or
+iii) displayed a blatant disregard for their own safety.
 
-#### It's convenient.
+### 6. Out of area treatment
 
-There's no need to leave the house or workplace.
+Any treatment outside your selected area of coverage, unless the treatment can be covered under the 'Out of Area Emergency Hospitalisation Cover' conditions.
 
-#### It's available 24/7.
+### 7. Travel costs
 
-That's around the clock access to doctors, usually within 24 hours (depending on language preference).
+Travel costs for treatment including any fares such as taxis or buses, unless otherwise specified, and expenses such as petrol or parking fees.
 
-#### It's affordable.
+### 8. Ship to shore evacuations
 
-It's an alternative to doctor office or clinic visits - with no deductibles or cost share payments and no limits to the number of consultations arranged.
+Any expenses for ship to shore evacuations.
 
-**Did you know?** You can speak to a doctor at any time by scheduling a virtual appointment via Global Telehealth on the Cigna Wellbeing App.
+### 9. Nature cure clinics and spas
 
-Download the app for free to your mobile device today and let's get you started.
+Treatment in nature cure clinics, health spas, nursing homes, or other facilities which are not hospitals or recognised medical treatment providers. Specifically, we would not cover the costs of nursing care (such as accommodations, meals and living expenses) or of any other form of treatment in a residential or elderly care facility even if the treatment is medically necessary and/or provided by a recognized medical practitioner.
 
----
+### 10. Residential stays
 
-## Manage Your Health
+Charges for residential stays in hospital which are arranged wholly or partly for domestic reasons or where treatment is not required or where the hospital has effectively become the place of domicile or permanent abode.
 
-### Health Assessments
+### 11. Deluxe accommodation
 
-The confidential online Health Risk Assessment allows you to create your own unique report. The 360° view of your health will provide you with:
+Costs of hospital accommodation for a deluxe, executive or VIP suite.
 
-- Your health score
-- Your positive habits
-- The areas for improvement
-- Any risk areas
+### 12. Prosthetic devices
 
-The targeted assessments go deeper to assess if you're eating right, getting enough exercise, sleeping well and coping with stress.
+Any prosthetic device or appliance, including but not limited to spectacles (unless the International Vision & Dental module is selected) which is not medically necessary and/or does not fall within our definition of prosthetic device(s).
 
-### Chronic Condition Management
+### 13. Incidental costs
 
-This programme, led by our highly experienced nurses, will help you take control of your chronic condition, including but not limited to:
+Incidental costs including newspapers, telephone calls, guests' meals and hotel accommodation.
 
-- Diabetes
-- High blood pressure
-- Heart problems
+### 14. Administration charges
 
-Please complete the Wellbeing Assessment and let us know if you would like to be contacted by us.
+Costs or fees for filling in a claim form or other administration charges.
 
----
+### 15. Non-medical admissions
 
-## Change Behaviours
+Non-medical admissions or stays in hospital which include:
+a) treatment that could take place on a daypatient or outpatient basis;
+b) convalescence;
+c) admissions and stays for social or domestic reasons e.g. washing, dressing and bathing.
 
-### Track Biometrics
+### 16. Life support treatment
 
-The Cigna Wellbeing® App allows you to continuously track:
+Life support treatment (such as mechanical ventilation) unless such treatment has a reasonable prospect of resulting in the beneficiary's recovery, or restoring the beneficiary to his or her previous state of health.
 
-- Sleep
-- Height/Weight
-- Blood sugar
-- Blood pressure
+### 17. Foetal surgery
 
-**Did you know?** You can access health assessments and track your health biometrics on the Cigna Wellbeing App.
+Foetal surgery, i.e. treatment or surgery undertaken in the womb before birth, unless this is resulting from complications arising through maternity and shall be subject to the limits detailed in the Complications from Maternity benefit under the International Medical Insurance plan.
 
-### Health Content & Coaching Programmes
+### 18. Smoking cessation
 
-Discover articles, online coaching programmes, and videos designed to help you make better decisions relating to sleep, stress, nutrition and exercise.
+Treatment for, or in connection with, smoking cessation.
 
-- Lifestyle
-- General health
-- Nutrition / weight
-- Healthy recipes
-- Physical activity
-- Stress
+### 19. Self-inflicted injury or attempted suicide
 
----
+Treatment that arises from, or is in any way connected with attempted suicide, or any injury or illness that the beneficiary inflicts upon him or herself. We will cover medically necessary mental health care and behavioural health services, including but not limited to counselling and therapy with specialists.
 
-## Table of Benefits
+### 20. Developmental problems and personality disorders
 
-## International Medical Insurance
+Developmental problems, treatment for personality and/or character disorders, including but not limited to:
+a) learning difficulties such as dyslexia;
+b) physical development problems such as short height;
+c) affective personality disorder;
+d) schizoid personality disorder; or
+e) histronic personality disorder.
 
-Our plans comprise of 3 distinct levels of cover: Silver, Gold and Platinum.
+### 21. TMJ
 
-International Medical Insurance is your essential cover for inpatient, daypatient and accommodation costs, as well as cover for cancer, mental health care and much more.
+Disorders of the temporomandibular joint (TMJ).
 
-As per our definitions in your Policy Rules document:
+### 22. Addictive conditions
 
-- **Inpatient** means a patient who is admitted to hospital and who occupies a bed overnight or longer, for medical reasons. An example of inpatient treatment is undergoing surgery following a heart attack where they will recover in hospital overnight.
-- **Daypatient** means a patient who is admitted to a hospital or daypatient unit or other medical facility for treatment or because they need a period of medically supervised recovery, but who does not occupy a bed overnight. An example of daypatient treatment would be attending hospital for chemotherapy as part of cancer treatment or receiving an endoscopy as part of diagnostic testing.
-- **Outpatient** means a patient who attends a hospital outpatient department, consulting room, or outpatient clinic for treatment but is not admitted as a daypatient or an inpatient and does not occupy a bed. An example of outpatient treatment would be visiting an outpatient clinic to undergo a mole removal where you are not required to be admitted to hospital and do not require general anaesthetic for the procedure.
+Treatment for a related condition resulting from addictive conditions and disorders.
 
-Some benefits (Cancer care, Advanced Medical Imaging and Mental health care) are included under the International Medical Insurance provide cover for treatment on inpatient, daypatient and outpatient basis. For all other benefits, you will need to add the optional International Outpatient module to be covered for outpatient treatment, as indicated in the benefit descriptions.
+### 23. Substance or alcohol misuse
 
-Important to note, Prior authorisation is required for all Inpatient and Daypatient treatments. Please refer to Page 9 for more information regarding Prior Authorisation and Page 2 for contact details. For all general exclusions please refer to your Policy Rules document found in your Customer Area.
+Treatment for a related condition resulting from any kind of substance or alcohol use or misuse.
 
-#### Annual overall benefit maximum - per beneficiary per period of cover
+### 24. Birth control
 
-This includes claims paid across all sections of International Medical Insurance. Under the Silver plan, the annual overall benefit maximum is $1,000,000 or €800,000 or £650,000 per beneficiary per period of cover. Under the Gold plan, the annual overall benefit maximum is $2,000,000 or €1,600,000 or £1,300,000 per beneficiary per period of cover. Under the Platinum plan, the annual overall benefit maximum is Paid in full per beneficiary per period of cover.
+Treatment needed because of, or relating to, male or female birth control, including but not limited to:
+a) surgical contraception, namely:
 
-#### Hospital charges
+- vasectomy, sterilisation or implants;
+  b) non-surgical contraception, namely:
+- pills or condoms;
+  c) family planning, namely:
+- meeting a doctor to discuss becoming pregnant or contraception.
 
-This benefit covers nursing and accommodation for inpatient and daypatient treatment and recovery room, operating theatre, prescribed medicines, drugs and dressings for inpatient or daypatient treatment only, pathology, radiology and diagnostic tests (excluding Advanced Medical Imaging. Advanced Medical Imaging are covered under a specific benefit), intensive care: intensive therapy, coronary care and high dependency unit, surgeons' and anaesthetists' fees, inpatient and daypatient specialists' consultation fees, and emergency inpatient dental treatment. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is Paid in full in a Private room. Under the Gold plan, this is Paid in full in a Private room. Under the Platinum plan, this is Paid in full in a Private room.
+### 25. Termination of pregnancy
 
-We will partner with you and your medical practitioner to ensure you receive the appropriate care and treatment in the right medical facility.
+Treatment by way of the intentional termination of pregnancy, unless the pregnancy endangers a beneficiary's life or mental stability.
 
-Important note: We will pay outpatient treatments relating to: cancer, mental health and MRI scans. Any other outpatient treatments will only be covered if the beneficiary has purchased the optional International Outpatient module.
+### 26. Sexual dysfunction
 
-#### Hospital accommodation for a parent or guardian
+Treatment for sexual dysfunction disorders (such as impotence) or other sexual problems regardless of the underlying cause.
 
-This benefit covers hospital accommodation for a parent or legal guardian if a beneficiary who is under the age of 18 years old needs and requires inpatient treatment and has to stay in hospital overnight. We will also pay for hospital accommodation for a parent or legal guardian, if accommodation is available in the same hospital and the cost is reasonable. We will only pay for hospital accommodation for a parent or legal guardian if the treatment which the beneficiary is receiving during their stay in hospital is covered under this policy. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Gold plan, this is covered up to $2,000 or €1,480 or £1,330 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
+### 27. Eye correction
 
-#### Pandemics, epidemics and outbreaks of infectious illnesses
+Treatment which is intended to change the refraction of one or both eyes, including but not limited to laser treatment, refractive keratotomy and photorefractive keratectomy. Note that we will pay for treatment to correct or restore eyesight if it is needed as a result of a disease, illness or injury (such as cataracts or a detached retina).
 
-This benefit covers medically necessary treatment for disease or illness resulting from a pandemic, epidemic or outbreak of infectious illness, as defined by the World Health Organisation (WHO). The medically necessary treatment and related medical conditions will be covered on an inpatient and daypatient basis. We will pay for outpatient treatments only if the beneficiary has purchased the optional cover under the International Outpatient module. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
+### 28. Gender reassignment
 
-Important note: The medically necessary testing done on an outpatient basis (such as at home or in a diagnostic center) for pandemic, epidemic or outbreak of infectious illness will only be covered under the pathology, radiology and diagnostic tests benefit included in the International Outpatient module. These outpatient diagnostic tests, recommended according to the World Health Organisation (WHO) guidelines, will be covered in the same way as the diagnostics for other illnesses.
+Gender reassignment surgery, including elective procedures and any medical or psychological counselling in preparation for, or subsequent to, any such surgery, unless state or federal law requires such coverage. We will cover medically necessary behavioural health services, including but not limited to, counselling for gender dysphoria and related psychiatric conditions (such as anxiety and depression) and medically necessary hormonal therapy.
 
-#### Inpatient cash benefit
+### 29. Hazardous sports and activities
 
-We will make a cash payment directly to a beneficiary when they: receive treatment in hospital which is covered under this plan; stay in a hospital overnight; and the hospital does not charge any fees for the room, board and treatment costs to either the beneficiary, any Insurance company and/or any applicable local state or governmental authority. Per night up to 30 days per beneficiary per period of cover. Under the Silver plan, this is $100 or €75 or £65 per night. Under the Gold plan, this is $150 or €120 or £95 per night. Under the Platinum plan, this is $200 or €150 or £130 per night.
+Treatment which is necessary because of, or is any way connected with, any injury or sickness suffered by a beneficiary as a result of:
+a) taking part in a sporting activity at a professional level;
+b) taking part in a hazardous sporting activity or hobby, including but not limited to off-piste winter sports (including skiing, ski-touring, snowboarding, heli-skiing or heliboarding), base or bungee jumping, sky diving, tombstoning or cliff jumping, mountaineering or rock climbing, free climbing (without harness or rope), potholing, fell or trail running, motorsports, equestrian sports (for instance horse racing, show jumping, or polo), hunting, bull riding or bull running, parkour, powerlifting, surfing or kitesurfing, white water rafting;
+c) solo scuba-diving; or
+d) scuba-diving at a depth of more than thirty (30) metres unless the beneficiary is appropriately qualified (namely PADI or equivalent) to scuba-dive at that depth.
 
-#### Transplant services
+Note: Winter sports performed on marked trails (on-piste) are not considered as hazardous sporting activities. Medically necessary treatment would not be excluded as a result of an incurred injury as long as on-piste winter sport activities are not performed at a competition or professional level.
 
-This benefit covers inpatient and daypatient treatment directly associated with an organ transplant for a beneficiary if a transplant is medically necessary, and the organ to be transplanted has been donated by a verified and legitimate source. We will also pay for any anti-rejection medicines following a transplant. If a beneficiary requires an organ transplant (regardless of whether or not the donor is covered for this policy) we will pay for: the harvesting of the organ or bone marrow; any medically necessary tissue matching tests or procedures; the donor's hospital costs; and any costs which are incurred if the donor experiences complications, for a period of 30 days after their procedure. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
+Hill-walking, hiking and trekking performed on defined on-piste trails is not considered as hazardous sporting activity as long as specialty equipment is not required (such as use of ropes, harness, karabiner, crampons and protective climbing equipment). Medically necessary treatments following any injury sustained during these non-hazardous activities will be covered under the appropriate inpatient, daypatient or outpatient benefit.
 
-#### Advanced Medical Imaging (MRI, CT and PET scans)
+### 30. Experimental treatment
 
-This benefit covers advanced medical imaging if it is recommended by a medical practitioner as a part of a beneficiary's inpatient, daypatient or outpatient treatment. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation for any inpatient, daypatient and outpatient treatments. Under the Silver plan, this is covered up to $10,000 or €7,400 or £6,650 per beneficiary per period of cover. Under the Gold plan, this is covered up to $15,000 or €12,000 or £9,650 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
+Treatment which (in our reasonable opinion) is experimental, or has not been proven to be effective. This includes but is not limited to:
+a) treatment which is provided as part of a clinical trial;
+b) treatment which has not been approved by the relevant public health authority in the country in which it is received; or
+c) any drug or medicine which is prescribed for a purpose for which it has not been licensed or approved in the country in which it is prescribed.
 
-Important note: This benefit is subject to any deductible or cost share that you may have selected on the International Medical Insurance core cover for any advanced medical imaging treatment, including MRI, CT and PET scans performed on an outpatient basis.
+### 31. Illegal acts
 
-#### Accident and Emergency Room treatment
+Treatment that is in any way caused by, or necessary because of, a beneficiary carrying out an illegal act.
 
-This benefit covers necessary emergency treatment that is required on an outpatient basis only at an Accident and Emergency department in a hospital following an accident, sudden illness, and/or life threatening situations, and where the beneficiary does not occupy a bed overnight for medical reasons. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $500 or €370 or £335 per beneficiary per period of cover. Under the Gold plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $2,000 or €1,600 or £1,300 per beneficiary per period of cover.
+### 32. Weight loss and supplements
 
-Important notes: If you have selected the International Outpatient option; this benefit and the limits are satisfied first and then the applicable International Outpatient benefits can be used thereafter. No deductible or cost share that you may have selected on the International Medical Insurance core cover and\or on the International Outpatient option will apply to this benefit for any of the three plans.
+Any expenses for:
+a) weight loss drugs and slimming aids. These drugs are not covered even if they are prescribed for weight management by a medical practitioner or acknowledged as having therapeutic effects.
+b) supplements (such as infant formula and cosmetic products) or substances that are available naturally, such as vitamins, minerals and organic substances, collected over-the-counter (OTC) or through a prescription.
 
-#### Kidney Dialysis
+We will cover, however, some supplements and vitamins in case of medical necessity to treat diagnosed vitamin deficiency syndromes, such as iron deficiency, anaemia, or folic acid during pregnancy.
 
-Treatment for kidney dialysis will be covered if such treatment is available in the beneficiary's country of residence. We will pay for this on an inpatient, daypatient, or outpatient basis. We will pay for kidney dialysis treatment outside the beneficiary's country of habitual residence if the country where that treatment is provided is within the beneficiary's selected area of coverage. We will pay for this on a daypatient basis. Travel and accommodation expenses incurred in connection with such treatment will not be covered. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
+## Section 3: Definitions
 
-#### Rehabilitation
+#### Annual renewal date
 
-This benefit covers rehabilitation treatments including physical physiotherapy, occupational, cardiac, pulmonary, cognitive and speech therapies. We will only pay for rehabilitation treatment immediately after surgery and/or a traumatic event. If the rehabilitation treatment is required in a residential rehabilitation centre, we will pay for accommodation and board. In determining when the per day limit has been reached, we count each overnight stay during which a beneficiary receives inpatient and/or daypatient treatment as one day. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $5,000 or €3,700 or £3,325 and Up to 30 days per beneficiary per period of cover. Under the Gold plan, this is covered up to $10,000 or €7,400 or £6,650 and Up to 60 days per beneficiary per period of cover. Under the Platinum plan, this is Paid in full and Up to 90 days per beneficiary per period of cover.
+The anniversary of the start date.
 
-Important note: We will only approve rehabilitation treatment if the treating specialist provides us with a report, explaining how long the beneficiary will need to stay in hospital, the diagnosis and the treatment which the beneficiary has received, or needs to receive. Rehabilitation is physical, speech and occupational therapy for the purpose of treatment aimed at restoring the beneficiary to their previous state of health after an event.
+#### Appropriate age intervals
 
-#### Home nursing
+Child and adolescence age schedule up to age seventeen years old as set out by the American Academy of Pediatrics (AAP).
 
-This benefit covers home nursing if it is provided in the beneficiary's home by a qualified nurse and it comprises medically necessary care that would normally be provided in a hospital. We will not pay for home nursing which only provides non-medical care or personal assistance. We will pay for a beneficiary to have home nursing if: it is recommended by a specialist following inpatient or daypatient treatment which is covered by this policy; it starts immediately after the beneficiary leaves hospital; and it reduces the length of time for which the beneficiary needs to stay in hospital. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $2,500 or €1,850 or £1,650 and Up to 30 days per beneficiary per period of cover. Under the Gold plan, this is covered up to $5,000 or €3,700 or £3,325 and Up to 60 days per beneficiary per period of cover. Under the Platinum plan, this is Paid in full and Up to 120 days per beneficiary per period of cover.
+#### Beneficiaries, beneficiary
 
-#### Acupuncture and Chinese medicine
+Anybody named in your Certificate of Insurance as being covered under this policy, including newborn children.
 
-This benefit covers acupuncture and Chinese medicine, but only if it is not the primary treatment which the beneficiary is in hospital to receive. The acupuncturist and the practitioner of Chinese medicine must be a properly qualified practitioner who holds the appropriate licence in the country where the treatment is received. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $1,500 or €1,100 or £1,000 per beneficiary per period of cover. Under the Gold plan, this is covered up to $2,500 or €1,850 or £1,650 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
+#### Congenital condition(s)
 
-#### Palliative care
+Any abnormality, deformity, disease, illness or injury present at birth, whether diagnosed or not.
 
-This benefit covers palliative care if a beneficiary is given a terminal diagnosis and their life expectancy is less than six months, and there is no available treatment which will be effective in aiding recovery. We will pay for: Home care; Inpatient and daypatient hospital or hospice care and accommodation; Prescribed medicines; and Physical and psychological care. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $35,000 or €25,900 or £23,275 per beneficiary per period of cover. Under the Gold plan, this is covered up to $60,000 or €44,400 or £38,400 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
+#### Cosmetic
 
-#### Prosthetic devices
+Services, procedures or items that are supplied primarily for aesthetic purposes and which are not medically necessary in order to maintain an acceptable standard of health.
 
-This benefit covers internal and external prosthetic devices which are necessary as part of a beneficiary's treatment, subject to the limitations explained below. We will pay for: a prosthetic device which is a necessary part of the treatment immediately following surgery for as long as is required by medical necessity and/or is part of the recuperation process on a short-term basis; an initial external prosthetic device (but not any replacement devices) for beneficiaries aged 18 years old and over per period of cover. We will pay for an initial external prosthetic device and up to two replacements for beneficiaries aged 17 years old or younger per period of cover. If a beneficiary requires a replacement prosthetic device during the period of cover, we will require an appropriate medical report. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
+#### Country of habitual residence
 
-Important note: A prosthetic device is an artificial limb or tool which is required for the purpose of, or in connection with surgery; or is a necessary part of the treatment immediately following surgery for as long as required by medical necessity; or which is medically necessary and is part of the recuperation process on a short-term basis.
+The country where a beneficiary habitually resides, as stated in your application.
 
-#### Local ambulance & air ambulance services
+#### Country of nationality
 
-Where it is medically necessary and related to a covered condition, we will pay for a local or air ambulance to transport a beneficiary: from the scene of an accident or injury to a hospital; from one hospital to another; or from their home to a hospital. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
+Any country of which a beneficiary is a citizen, national or subject, as stated in your application.
 
-Important notes: We will only pay for a local air ambulance when appropriate, such as a helicopter, to transport a beneficiary to the nearest centre of medical excellence (accessed by road/ambulance within same country) when medically appropriate. This policy does not provide cover for mountain rescue services. Road or air ambulance is only for travel within the same country, For cross-border medical transportation, this would be covered under Medical Evacuation. Cover for medical evacuation or repatriation is only available if you have cover under the International Evacuation & Crisis Assistance Plus® option. Please refer to page 40 of this Customer Guide for details of that option.
+#### Daypatient
 
-#### Mental and Behavioural Health Care
+A patient who is admitted to a hospital or daypatient unit or other medical facility for treatment or because they need a period of medically supervised recovery, but who does not occupy a bed overnight. An example of daypatient treatment would be attending hospital for chemotherapy as part of cancer treatment or receiving an endoscopy as part of diagnostic testing.
 
-This benefit covers evidence-based and medically necessary treatment which is recommended by a medical practitioner; inpatient, daypatient or outpatient treatment carried out by a psychologist and/or psychiatrist who is licensed as such under the laws of that country. This includes outpatient mental health services for gender dysphoria; and the diagnosis of addictions (including alcoholism). For Addiction treatment, we will pay for one course or programme of addiction treatment at a specialist centre providing evidence-based treatment, if that treatment is medically necessary and recommended by a medical practitioner, up to the benefit limit. We pay for up to three attempts at detoxification, following which we will only pay for further detoxification treatment if the beneficiary completes a formal outpatient course or programme of addiction treatment. We will not pay for any other treatment related to alcoholism or addiction; or treatment of any related condition (such as depression, dementia or liver failure); where we reasonably believe that the condition which requires treatment was the direct result of alcoholism or addiction. For Autism and Attention Deficit Hyperactivity Disorder (ADHD), we will pay for: medical costs, including doctor and paediatrician visits related to Autism and Attention Deficit Hyperactivity Disorder (ADHD) on an outpatient basis only which are evidence-based treatment and medically necessary; assessment and diagnostic testing for Autism and Attention Deficit Hyperactivity Disorder (ADHD) when symptoms are present; and behavioural therapy when medically necessary according to evidence-based treatment. We will not pay for: educational intervention, speech therapy and any devices to aid speech; or prescription drugs or medication prescribed on an outpatient basis for any of these conditions, unless you have purchased the International Outpatient option. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation for inpatient and daypatient treatments. Prior authorisation is not required for any outpatient treatment under this benefit. Under the Silver plan, this is covered up to $5,000 or €3,700 or £3,325 and Up to 30 days* (Inpatient and Daypatient treatment) per beneficiary per period of cover. Under the Gold plan, this is covered up to $10,000 or €7,400 or £6,650 and Up to 60 days* (Inpatient and Daypatient treatment) per beneficiary per period of cover. Under the Platinum plan, this is Paid in full and Up to 90 days\* (Inpatient and Daypatient treatment) per beneficiary per period of cover.
+#### Emergency treatment
 
-\*The day limit only applies to inpatient and daypatient treatments.
+Treatment which is medically necessary to prevent the immediate and significant effects of illnesses, injuries or conditions which, if left untreated, could result in a significant deterioration in health. Only medical treatment through a physician, medical practitioner and hospitalisation that commences within twenty four (24) hours of the emergency event will be covered.
 
-Important note: This benefit is subject to any deductible or cost share that you may have selected on the International Medical Insurance core cover for any mental and behavioral health care, including any mental health treatment taking place on an outpatient basis.
+#### End date
 
-#### Treatment for Obesity
+The date on which cover under this policy ends, as shown in the Certificate of Insurance.
 
-This benefit covers obesity surgery for beneficiaries over the age of 18 years in circumstances where there is documented evidence that all other methods of weight loss, including but not limited to slimming classes, nutrition programmes, aids and drugs have been tried over the past 24 months. Please note, we will not cover any cost related to slimming classes, nutrition programmes, aids and drugs prior or post the surgery. Up to the total limit shown for your selected plan per beneficiary per period of cover. Available after the beneficiary has been covered for 24 months or more. This benefit requires prior authorisation. Under the Silver plan, there is No coverage. Under the Gold plan, there is a 70% refund up to: $20,000 or €14,800 or £13,300 per beneficiary per period of cover. Under the Platinum plan, there is an 80% refund up to: $25,000 or €18,500 or £16,500 per beneficiary per period of cover.
+#### Evidence-based treatment
 
-Important notes: The beneficiary must have a body mass index (BMI) of 40 or over and have been diagnosed as being morbidly obese and; The beneficiary can provide documented evidence of other methods of weight loss which have been tried over the past 24 months and; The beneficiary has been through a psychological assessment which has confirmed that it is appropriate for them to undergo the procedure.
-
-#### Cancer preventative surgery
-
-This benefit covers preventative surgery when a beneficiary has a significant family history of a disease which is part of a hereditary cancer syndrome (such as ovarian cancer), and has undergone genetic testing which has established the presence of a hereditary cancer syndrome. We will only pay for the genetic test if the beneficiary has cover under the Gold or Platinum International Outpatient option. Up to the total limit shown for your selected plan per beneficiary per period up to the total limit shown for your selected plan per beneficiary per period of cover. Available once the beneficiary has been covered by the policy for 12 months or more. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $10,000 or €7,400 or £6,650 per beneficiary per period of cover. Under the Gold plan, this is covered up to $18,000 or €13,300 or £12,000 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $20,000 or €14,800 or £13,300 per beneficiary per period of cover.
-
-#### Cancer care
-
-Following a diagnosis of cancer, this benefit covers costs for the treatment of cancer if the treatment is considered by us to be active treatment and evidence-based treatment. This includes chemotherapy, radiotherapy, oncology, diagnostic tests and drugs, whether the beneficiary is staying in a hospital overnight or receiving treatment as a daypatient or outpatient. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation for any inpatient, daypatient and outpatient treatments. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important notes: We will only pay for the genetic test if the beneficiary has cover under the Gold or Platinum International Outpatient option. Any outpatient treatments, including prescribed drugs, related to cancer care will be covered under this benefit included in your International Medical Insurance core cover, instead of any outpatient benefit included under the optional International Outpatient module.
-
-#### Cancer related appliances
-
-If a beneficiary receives a cancer diagnosis, this benefit covers the purchase of: Wigs / headbands for cancer patients and Mastectomy bras for cancer patients. Up to the total limit shown per beneficiary per cancer related appliance. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $125 or €100 or £85 per beneficiary per cancer related appliance. Under the Gold plan, this is covered up to $250 or €185 or £165 per beneficiary per cancer related appliance. Under the Platinum plan, this is covered up to $500 or €370 or £335 per beneficiary per cancer related appliance.
-
-#### Congenital conditions
-
-This benefit covers treatment of congenital conditions on an inpatient or daypatient basis that have manifested prior to a beneficiary's 18th birthday, regardless of the beneficiary's age at the time of the treatment. Up to the total limit shown for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $5,000 or €3,700 or £3,325 per beneficiary per period of cover. Under the Gold plan, this is covered up to $20,000 or €14,800 or £13,300 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $50,000 or €40,000 or £33,000 per beneficiary per period of cover.
-
-Important notes: We cover the treatment of congenital conditions only under this specific benefit, and not under any other benefits listed, unless it is diagnosed within the first 90 days of a newborn care (see newborn care inpatient benefit) or after the 18th birthday. If a congenital condition is diagnosed after the beneficiary's 18th birthday, the treatment will be covered under the applicable inpatient and daypatient benefits, instead of this specific benefit.
-
-#### Out of Area Emergency Hospitalisation Cover
-
-This benefit covers emergency treatment for inpatient and daypatient treatment during temporary short term business or leisure trips outside your area of coverage. For beneficiaries who do not have Worldwide including USA coverage. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $100,000 or €75,000 or £65,000 (Inpatient and Daypatient treatment) per beneficiary per period of cover. Under the Gold plan, this is covered up to $250,000 or €200,000 or £162,500 (Inpatient and Daypatient treatment) per beneficiary per period of cover. Under the Platinum plan, this is Paid in full (Inpatient and Daypatient treatment) per beneficiary per period of cover.
-
-Important notes: The beneficiary must have been treatment free, symptom and advice free of the medical condition requiring emergency treatment, prior to initiating the travel. Coverage is limited to: a duration not exceeding 21 treatment days per trip; and a maximum of 60 treatment days in aggregate per period of cover for all trips combined. Only if the International Outpatient option has been purchased under your policy, will beneficiaries also be covered for emergency out of area Outpatient treatment. Cover will be subject to the overall outpatient annual maximum and the International Outpatient individual benefit limits. Please note this cover will be in addition to the Out of Area Emergency Hospitalisation Cover (for inpatient and daypatient treatment), described in this benefit. Charges relating to maternity, pregnancy, childbirth or any complications of pregnancy or childbirth are excluded from this Out of Area Emergency Hospitalisation Cover. This benefit is not applicable if you have selected the Worldwide including USA coverage option. We will require evidence of your entry and exit to the USA. This option is not available if your country of habitual residence is the USA. Receiving medical treatment must not have been one of the objectives of the trip. Emergency treatment is only applicable if you are not able to benefit from free state-provided healthcare in that country.
-
-Emergency treatment refers to treatment which is medically necessary to prevent the immediate and significant effects of illnesses, injuries or conditions which, if left untreated, could result in a significant deterioration in health. Only medical treatment through a physician, medical practitioner and hospitalisation that commences within twenty four (24) hours of the emergency event will be covered.
-
-### Global Telehealth
-
-#### Global Telehealth with Teladoc
-
-You have access to unlimited video and phone doctor consultations via the Cigna Wellbeing® App, or via a referral from our Customer Care team for non-emergency health issues. This includes but is not limited to: A diagnosis for non-emergency health issues ranging from acute conditions to complex chronic conditions; Treating medical conditions like fever, rash, and pain; Non-emergency paediatric care; Making preparations for an upcoming consultation; Discussing a medication plan and potential side effects; and Prescriptions for common health concerns, when medically necessary and permitted. Up to the total limit shown per beneficiary per period of cover. Under the Silver plan, this is Unlimited consultations. Under the Gold plan, this is Unlimited consultations. Under the Platinum plan, this is Unlimited consultations.
-
-Important notes: You can access Global Telehealth via the Cigna Wellbeing® App. Please see page 14 for details on how to download the app and register. On the app home screen, click on the 'Get Care' icon and select 'Global Telehealth'. Once you have accepted the Terms and Conditions and Privacy Policy, select 'Schedule Consultation' and proceed to book your consultation by selecting either 'phone consultation' or 'video consultation' and then follow the steps. Where you 'Request a call for later' a doctor will typically phone you back on the same day, dependent on language availability. Where you request a video consultation, you can select the day and time to suit you. We recommend having the application open 10 minutes before the scheduled time. Prescribing medication is permissible only when the doctor is licensed to prescribe medication in the state or country of where the policy is underwritten. You must have purchased the optional International Outpatient module to receive coverage under the outpatient prescribed drugs and dressing benefit. If you have selected a deductible or cost share for outpatient treatment, you will be required to pay this if you are prescribed medication.
-
-### Parent and Baby Care
-
-#### Routine maternity care (Gold and Platinum plans only)
-
-This benefit covers the following treatment, on an inpatient or daypatient basis as appropriate, if the mother has been a beneficiary under this policy for a continuous period of at least 12 months or more*: hospital, obstetricians' and midwives' fees for routine childbirth; and any fees as a result of post-natal care required by the mother immediately following routine childbirth. We will not pay for surrogacy or any related treatment. We will not pay for maternity care or treatment for a beneficiary acting as a surrogate, or anyone acting as a surrogate for a beneficiary. Up to the total limit shown for your selected plan per beneficiary per period of cover. Available once the mother has been covered by the policy for 12 months or more.* This benefit requires prior authorisation. Under the Silver plan, there is No coverage. Under the Gold plan, this is covered up to $7,000 or €5,500 or £4,500 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $14,000 or €11,000 or £9,000 per beneficiary per period of cover.
-
-Important note: \*For treatment incurred in either Hong Kong or Singapore, this benefit is only available once the mother has been a beneficiary under this policy for a continuous period of at least 24 months or more.
-
-#### Complications from maternity (Gold and Platinum plans only)
-
-This benefit covers inpatient or outpatient treatment relating to complications resulting from pregnancy or childbirth if the mother has been a beneficiary under this policy for a continuous period of at least 12 months or more._ This is limited to conditions which can only arise as a direct result of pregnancy or childbirth, including miscarriage and ectopic pregnancy. This part of the policy does not provide cover for home births. We will only pay for a Caesarean section, where it is medically necessary. If we cannot confirm that it was medically necessary, we will only pay up to the limit of the mother's routine maternity benefit care cover. We will not pay for surrogacy or any related treatment. We will not pay for maternity benefit care or treatment for a beneficiary acting as a surrogate or anyone acting as a surrogate for a beneficiary. Up to the total limit shown for your selected plan per beneficiary per period of cover. Available once the mother has been covered by the policy for 12 months or more._ This benefit requires prior authorisation for both inpatient, daypatient and outpatient treatments. Under the Silver plan, there is No coverage. Under the Gold plan, this is covered up to $14,000 or €11,000 or £9,000 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $28,000 or €22,000 or £18,000 per beneficiary per period of cover.
-
-Important note: \*For treatment incurred in either Hong Kong or Singapore, this benefit is only available once the mother has been a beneficiary under this policy for a continuous period of at least 24 months or more.
-
-#### Homebirths (Gold and Platinum plans only)
-
-This benefit covers midwives' and specialists' fees relating to routine home births if the mother has been a beneficiary under this policy for a continuous period of 12 months or more._ Please note that the Complications from maternity cover explained above does not include cover for home childbirth. This means that any costs relating to complications which arise in relation to home childbirth will only be paid in accordance with the home childbirth limits, as explained in the list of benefits. Up to the total limit shown for your selected plan per beneficiary per period of cover. Available once the mother has been covered by the policy for 12 months or more._ This benefit requires prior authorisation. Under the Silver plan, there is No coverage. Under the Gold plan, this is covered up to $500 or €370 or £335 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $1,100 or €850 or £700 per beneficiary per period of cover.
-
-Important note: \*For treatment incurred in either Hong Kong or Singapore, this benefit is only available once the mother has been a beneficiary under this policy for a continuous period of at least 24 months or more.
-
-#### Newborn Care
-
-In order for any care or treatment to be provided to a newborn, the newborn must first be added to the policy, which will incur an additional premium, alongside the policyholder. Once the newborn has been added to the policy, we will pay for: up to 10 days routine care for the baby following birth; and all inpatient and daypatient treatment required for the baby during the first 90 days after birth instead of any other inpatient or daypatient benefit. Up to the total limit shown for your selected plan per period of cover within the first 90 days following birth. Available once either parent has been covered by the policy for 12 months or more.\* This benefit requires prior authorisation. Under the Silver plan, this is covered up to $25,000 or €18,500 or £16,500 per period of cover. Under the Gold plan, this is covered up to $75,000 or €55,500 or £48,000 per period of cover. Under the Platinum plan, this is covered up to $156,000 or €122,000 or £100,000 per period of cover.
-
-Important notes:
-
-Adding the newborn to the policy: If at least one (1) parent has been covered by the policy for a continuous period of twelve (12) months or more* prior to the newborns birth, we will not require information about the newborn's health or a medical examination if an application is received by us to add the newborn to the policy within thirty (30) days of the newborn's date of birth. However, if an application is received by us more than thirty (30) days after the newborn's date of birth, the newborn will be subject to medical underwriting. If neither parent has been covered by the policy for a period of twelve (12) consecutive months or more* prior to the newborn's birth, the newborn will be subject to medical underwriting, and you can submit an application to add the newborn. If medical underwriting is required for the newborn, we will then tell you whether we will offer cover to the newborn and, if so, any special conditions and exclusions which would apply. Cover will begin no sooner than the date you accept our offered terms. Children who are born to a surrogate or have been adopted can be covered under this benefit but will be subject to medical underwriting, regardless of the length of cover under this policy by either of the parents. On completion of a medical health questionnaire, we will tell you whether we will offer cover to the newborn and, if so, any special conditions and exclusions which would apply. Cover will begin no sooner than the date you accept our offered terms.
-
-Any treatment required for congenital conditions for a newborn will be covered under this benefit for the first 90 days following birth as per the terms of this benefit. If the congenital conditions is diagnosed after the first 90 days of the newborn, any treatment related to the congenital conditions will be covered under the 'Congenital conditions' benefit, as described on page 22, and is subject to the terms of adding the newborn to the policy as detailed above.
-
-\*For treatment incurred in either Hong Kong or Singapore, this benefit is only available once either parent has been a beneficiary under this policy for a continuous period of at least 24 months or more.
-
-### Your deductible and cost share options
-
-#### Deductible
-
-A deductible is the amount which you must pay before any claims are covered by your plan.
-
-$0, $375, $750, $1,500, $3,000, $7,500, $10,000
-€0, €275, €550, €1,100, €2,200, €5,500, €7,400
-£0, £250, £500, £1,000, £2,000, £5,000, £6,650
-
-#### Cost share after deductible
-
-Cost share is the percentage of each claim not covered by your plan.
-
-First choose your cost share percentage: 0% / 10% / 20% / 30%
-
-#### Out of Pocket Maximum
-
-The out of pocket maximum is the maximum amount of cost share you would have to pay in a period of cover. The cost share amount is calculated after the deductible is taken into account. Only amounts you pay related to cost share contribute to the out of pocket maximum.
-
-Next, choose your out of pocket maximum:
-$2,000 or €1,480 or £1,330
-or
-$5,000 or €3,700 or £3,325
-
----
-
-## International Outpatient Optional Module
-
-The International Outpatient optional module provides more comprehensive outpatient care where a hospital admission as a daypatient or inpatient is not required, including consultations with specialists, prescribed outpatient drugs and dressings, rehabilitation, genetic cancer testing and much more.
-
-As per our definition, Outpatient means a patient who attends a hospital outpatient department, consulting room, or outpatient clinic for treatment but is not admitted as a daypatient or an inpatient and does not occupy a bed.
-
-You do not require prior authorisation for most of the International Outpatient benefits. However, prior authorisation is required for the following outpatient benefits:
-
-- Genetic Testing
-- Infertility investigations and treatment
-- Physiotherapy, chiropractic and osteopathy treatments when you have exceeded 10 sessions (Note: a prior authorisation is not required for the first 10 sessions referred by a medical practionner).
-- Prescribed drugs and dressings for more than 3 months
-
-For any other treatment under the International Outpatient module, you do not need to contact us for prior authorisation.
-
-If you do not obtain a required prior authorisation from us, there may be delays in processing claims and we will reduce the amount which we will pay for that treatment by 20%.
-
-The following pages detail the optional benefits you may have chosen to add to your core cover - International Medical Insurance. Take a look at your certificate of insurance to remind yourself exactly what cover you have.
-
-#### Annual overall benefit maximum - per beneficiary per period of cover
-
-This includes claims paid across all sections of International Outpatient. Under the Silver plan, the annual overall benefit maximum is $15,000 or €12,000 or £9,650 per beneficiary per period of cover. Under the Gold plan, the annual overall benefit maximum is $35,000 or €25,900 or £23,275 per beneficiary per period of cover. Under the Platinum plan, the annual overall benefit maximum is Paid in full per beneficiary per period of cover.
-
-#### Consultations and outpatient procedures with medical practitioners and specialists
-
-This benefit covers consultations, meetings and virtual consultations via telephone or video, with a medical practitioner which are necessary to diagnose an illness, or to arrange or receive treatment. We will pay for non-surgical treatment on an outpatient basis, which is recommended by a specialist as being medically necessary. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $2,500 or €1,850 or £1,650 per beneficiary per period of cover. Under the Gold plan, this is covered up to $7,500 or €6,000 or £4,825 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-Important notes: Virtual consultation expenses should not exceed the cost of an equivalent face-to-face consultation. Expenses deemed to be excessive, unreasonable or unusual will not be covered or the amount of the benefit paid will be reduced. Virtual consultations can only be accessed where available and medically appropriate.
-
-#### Prescribed drugs and dressings
-
-This benefit covers prescribed drugs and dressings which are prescribed by a medical practitioner on an outpatient basis. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $1,500 or €1,100 or £1,000 per beneficiary per period of cover. Under the Gold plan, this is covered up to $4,500 or €3,300 or £3.000 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-Important note: Medication prescribed by a medical practitioner in the USA and/or delivered by a pharmacy in the USA are subject to our formulary drugs list.
-
-#### Pathology, Radiology and diagnostic tests (excluding Advanced Medical Imaging)
-
-This benefit covers the following tests where they are medically necessary and are recommended by a specialist as part of a beneficiary's outpatient treatment: Blood and urine tests; X-rays; Ultrasound scans; Electrocardiograms (ECG); and Other diagnostic tests (excluding advanced medical imaging). Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $2,500 or €1,850 or £1,650 per beneficiary per period of cover. Under the Gold plan, this is covered up to $5,000 or €3,700 or £3,325 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-Important note: We will pay under this benefit for medically necessary testing done on an outpatient basis for pandemic, epidemic or outbreak of infectious illnesses in line with the World Health Organisation (WHO) guidelines. These outpatient diagnostic tests will not be covered under the inpatient pandemics, epidemics and outbreak of infectious illnesses benefit.
-
-#### Outpatient Rehabilitation
-
-This benefit covers: Outpatient Physiotherapy; Outpatient Occupational therapy; Osteopathy and Chiropractic treatment; Speech therapy; and Cardiac and pulmonary rehabilitation. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. This benefit requires prior authorisation\*. Under the Silver plan, this is covered up to $5,000 or €3,700 or £3,325 per beneficiary per period of cover. Under the Gold plan, this is covered up to $15,000 or €12,000 or £9,650 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-Important notes:
-
-Outpatient Physiotherapy, Osteopathy and Chiropractic treatment: We will pay for this treatment if it is medically necessary and restorative in nature to help you to carry out your normal activities of daily living. The treatment must be carried out by a properly qualified practitioner who holds the appropriate license to practice in the country where the treatment is received. This excludes any sports medicine treatment. \*Prior-authorisation will be required from us after the initial 10 sessions to continue these outpatient treatments and will be reviewed by our clinical team based on medical necessity.
-
-Speech therapy treatment: We will pay for restorative speech therapy if it is required immediately following treatment which is covered under this policy (for example, as part of a beneficiary's follow-up care after they have suffered a stroke) and it is confirmed by a specialist to be medically necessary on a short-term basis.
-
-Rehabilitation is physical, speech and occupational therapy for the purpose of treatment aimed at restoring the beneficiary to their previous state of health after an event.
-
-#### Pre-natal and post-natal care (Gold and Platinum plans only)
-
-This benefit covers medically necessary pre-natal and post-natal care on an outpatient basis if the mother has been a beneficiary under the International Outpatient option for a continuous period of 12 months or more._ Examples of pre-natal treatment and tests include: Routine obstetricians' and midwives' fees; All scheduled ultrasounds and examinations; Prescribed medicines, drugs and dressings; Routine pre-natal blood tests, if required; Amniocentesis procedure (also referred to as amniotic fluid test or AFT) or chorionic villous sampling (also referred to as CVS); and Non-invasive pre-natal testing (NIPT) for high risk individuals. For Post-natal care: Any fees, including prescribed drugs and dressings, as a result of post-natal care required by the mother immediately following routine childbirth. Up to the total limit shown for your selected plan per beneficiary per period of cover. Available once the mother has been covered by the policy for 12 months or more._ Under the Silver plan, there is No coverage. Under the Gold plan, this is covered up to $3,500 or €2,750 or £2,250 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $7,000 or €5,500 or £4,500 per beneficiary per period of cover.
-
-Important note: \*For beneficiaries whose country of habitual residence is either Hong Kong or Singapore, this benefit is only available once the mother has been a beneficiary under this policy for a continuous period of at least 24 months or more.
-
-#### Hormone Therapy
-
-This benefit covers Hormone Therapy when it is medically necessary to treat the symptoms of menopause, low testosterone and gender dysphoria. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $500 or €370 or £335 per beneficiary per period of cover. Under the Gold plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $1,500 or €1,100 or £1,000 per beneficiary per period of cover.
-
-#### Infertility Investigations and treatment
-
-This benefit covers investigations into the cause of infertility if a specialist rules out any medical cause and the beneficiary was unaware of the existence of any infertility problem, and had not suffered any symptoms, when their cover under this policy commenced. If necessary, we will pay a maximum of 4 attempts for Infertility treatment up to the total limit shown in aggregate, per lifetime of the policy. This benefit is available for beneficiaries up to 41 years old. Up to the total limit shown for your selected plan per beneficiary per lifetime. Available once the beneficiary has been covered by this option for 24 months or more. This benefit requires prior authorisation. Under the Silver plan, there is No coverage. Under the Gold plan, there is No coverage. Under the Platinum plan, this is covered up to $10,000 or €7,400 or £6,650 per beneficiary per lifetime.
-
-Important Notes: Prior authorisation is required for all infertility investigations and treatment. If you do not obtain a required prior authorisation from us, there may be delays in processing claims and we will reduce the amount which we will pay for that treatment by 20%. We will not pay for infertility investigations or treatment for anyone acting as a surrogate for a beneficiary.
-
-#### Sleep Apnoea
-
-Following a referral from your medical practitioner, this benefit covers one sleep study or home sleep test to diagnose if you have sleep apnoea. If it has been determined a beneficiary has sleep apnoea we will pay for the hire of a Continuous Positive Airway Pressure (CPAP) machine, or other appropriate oral appliances. Once the beneficiary has been covered by this option for a continuous period of 12 months or more and if the hire of a CPAP machine is not available to the beneficiary, we will pay, when medically necessary, for the purchase of a CPAP machine up to the total limit of this benefit for your selected plan. If it is medically appropriate, we will pay for surgery. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Gold plan, this is covered up to $1,500 or €1,100 or £1,000 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $2,000 or €1,480 or £1,330 per beneficiary per period of cover.
-
-#### Genetic Testing
-
-This benefit covers one genetic test for beneficiaries with an increased risk of conditions such as cancer, cystic fibrosis, gaucher disease and Rett syndrome, when medically necessary and in accordance with medical evidence. Up to the total limit shown for your selected plan per beneficiary per lifetime. Available once the beneficiary has been covered by this option for 12 months or more. This benefit requires prior authorisation. Under the Silver plan, this is covered up to $1,000 or €740 or £665 per beneficiary per lifetime. Under the Gold plan, this is covered up to $2,000 or €1,480 or £1,330 per beneficiary per lifetime. Under the Platinum plan, this is covered up to $4,000 or €2,950 or £2,650 per beneficiary per lifetime.
-
-Important Note: Prior authorisation is required for all genetic tests. If you do not obtain a required prior authorisation from us, there may be delays in processing claims and we will reduce the amount which we will pay for that treatment by 20%. The list of conditions above is for example purposes only. Genetic testing will be limited to testing for hereditary and multi-factorial conditions, where medically necessary and within Cigna Healthcare clinical guidance.
-
-#### Acupuncture and Chinese medicine
-
-Up to the total limit shown for your selected plan per
-beneficiary per period of cover or, where “paid in full” is
-shown, this is up to the annual overall benefit maximum for
-your selected plan per beneficiary per period of cover.
-We will pay for a combined maximum total of 15 consultations with an acupuncturist and practitioner of Chinese medicine,
-if those treatments are recommended by a medical practitioner. The treatment must be carried out by a properly qualified
-practitioner who holds the appropriate licence to practice in the country where the treatment is received. Silver covers €1850, the gold plan covers €3700 and for platinum its paid in full.
-
-#### Durable medical equipment
-
-This benefit covers the use of durable medical equipment if the use of that equipment is recommended by a specialist in order to support the beneficiary's treatment which is covered under this policy. We will only pay for one type of medical equipment per period of cover which: is not disposable, and is capable of being used more than once; serves a medical purpose; is fit for use in the home; and is of a type only normally used by a person who is suffering from the effect of a disease, illness or injury. Up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-#### Hearing Aids
-
-This benefit covers one hearing aid appliance per period of cover which is medically necessary and is prescribed to support everyday living. This includes the purchase of one original pair of hearing aids only and does not include a replacement pair within the same period of cover if the original pair is damaged or lost. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $500 or €370 or £335 per beneficiary per period of cover. Under the Gold plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $2,000 or €1,480 or £1,330 per beneficiary per period of cover.
-
-#### Adult vaccinations
-
-This benefit covers certain vaccinations and immunisations that are clinically appropriate. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $250 or €185 or £165 per beneficiary per period of cover. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-#### Dental accidents
-
-If a beneficiary needs dental treatment as a result of injuries which they have suffered in an accident, we will pay for outpatient dental treatment for any sound natural tooth/teeth damaged or affected by the accident, provided the treatment commences immediately after the accident and is completed within 30 days of the date of the accident. In order to approve this treatment, we will require confirmation from the beneficiary's treating dentist of: the date of the accident; and the fact that the tooth/teeth which are the subject of the proposed treatment are sound natural tooth/teeth. We will pay for this treatment instead of any other dental treatment the beneficiary may be entitled to under this policy, when they need treatment following accidental damage to a tooth or teeth. We will not pay for the repair or provision of dental implants, crowns or dentures under this part of this policy. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-#### Acupuncture and Chinese medicine
-
-This benefit covers a combined maximum total of 15 consultations with an acupuncturist and practitioner of Chinese medicine, if those treatments are recommended by a medical practitioner. The treatment must be carried out by a properly qualified practitioner who holds the appropriate licence to practice in the country where the treatment is received. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $2,500 or €1,850 or £1,650 per beneficiary per period of cover. Under the Gold plan, this is covered up to $5,000 or €3,700 or £3,325 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### 60+ Care
-
-If a beneficiary is aged 60 years old and above, or turning 60 years old within the period of cover, and has one of the following conditions as declared on their medical questionnaire (and is a special exclusion as detailed on your Certificate of Insurance), we will pay for the medically necessary outpatient treatment costs associated with the maintenance of this condition: Hypertension, Type 2 Diabetes, Glaucoma, Arthritis, joint or back pain, Osteoporosis/Osteopenia. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $500 or €370 or £335 per beneficiary per period of cover. Under the Gold plan, this is covered up to $1,000 or €740 or £665 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $2,000 or €1,480 or £1,330 per beneficiary per period of cover.
-
-Important notes: If, during the application stage you have selected the option to have one of the above conditions covered at an additional premium, whereby the condition is covered comprehensively on an inpatient and outpatient basis (if the International Outpatient option has been selected); this benefit will not be applicable. Examples of medically necessary treatment and tests include but are not limited to: consultations with medical practitioners, prescribed drugs and dressings, pathology and radiology, outpatient rehabilitation and acupuncture and Chinese medicine. Please note, this benefit excludes Advanced Medical Imaging. You are eligible to have the condition(s) covered (but not conditions, symptoms or complications arising from those conditions) on an outpatient basis, up to the total limits shown per period of cover. The benefit is subject to any cost shares or deductibles elected on your policy.
-
-#### Child and Adolescence Wellbeing Health
-
-This benefit covers child and adolescence wellbeing health at appropriate age intervals, carried out by a medical practitioner for the following preventative care services: evaluating medical history; physical examinations; development assessment; anticipatory guidance; and appropriate immunisations, vaccinations and laboratory tests. In addition, we will pay for: One school entry health check, to assess growth, hearing and vision, for each child at the first school entry date; and Diabetic retinopathy screening for children who have diabetes. Up to the annual overall benefit maximum for your selected plan beneficiary per period of cover. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important notes: Mental health consultations with a psychiatrist or psychologist are covered under the Mental Health and Behavioural Care benefit under International Medical Insurance.
-
-### Your deductible and cost share options
-
-#### Deductible
-
-A deductible is the amount which you must pay before any claims are covered by your plan.
-
-$0, $150, $500, $1,000, $1,500
-€0, €110, €370, €700, €1,100
-£0, £100, £335, £600, £1,000
-
-#### Cost share after deductible
-
-Cost share is the percentage of each claim not covered by your plan.
-
-First choose your cost share percentage: 0% / 10% / 20% / 30%
-
-#### Out of Pocket Maximum
-
-The out of pocket maximum is the maximum amount of cost share you would have to pay in a period of cover. The cost share amount is calculated after the deductible is taken into account. Only amounts you pay related to cost share contribute to the out of pocket maximum.
-
-Next, choose your out of pocket maximum:
-$3,000 or €2,200 or £2,000
-
----
-
-## International Health & Wellbeing Optional Module
-
-We understand the importance of your overall wellbeing and living a balanced life. The benefits listed below are available only to beneficiaries aged 18 year old and over. In addition, specific age eligibility will apply to the different cancer screenings.
-
-#### Routine adult physical examinations
-
-This benefit covers routine adult physical examinations for persons aged 18 years or older. The health assessment may include but is not limited to: Height and weight measurements; Waist circumference; Body mass index (BMI); Body fat percentage; Blood pressure; Urine analysis; Cholesterol test; Full blood count; Physiology and balance assessment; and Resilience to stressors measurement. In addition, for eligible beneficiaries of a Platinum policy, we will cover additional assessments, including but not limited to: Full biochemistry profile including liver and kidney function; Lung function test; Spinal assessment; Chest X-ray (if clinically indicated); Advanced cardiovascular test (ECG or Aerobic fitness test); Body metabolism test (Resting Metabolic Rate (RMR) and VO2 test); and Neurological examinations. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $2000 or €1600 or £1300 per beneficiary per period of cover.
-
-#### Footcare by a Chiropodist or Podiatrist
-
-This benefit covers the treatment of bunions, calluses, corns and fungal infection if it is medically necessary and restorative in nature to help you to carry out your normal activities of daily living. The treatment must be carried out by a properly qualified podiatrist or chiropodist who holds the appropriate license to practice in the country where the treatment is received. This excludes any massage or sports medicine treatment. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 and up to 5 sessions per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 and up to 10 sessions per beneficiary per period of cover. Under the Platinum plan, this is covered up to $900 or €660 or £600 and up to 15 sessions per beneficiary per period of cover.
-
-#### Cervical cancer screening
-
-For female beneficiaries from the age of 25 year old, we will provide cover every 3 year for: 1 Papanicolaou test (pap smear) and 1 HPV DNA test. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Prostate cancer screening
-
-For male beneficiaries from the age of 50 year old, we will provide cover every year for: One prostate examination and PSA testing. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-Important Note: Any follow-up test or additional screening required on an outpatient basis following an abnormal result will be covered under the pathology, radiology and diagnostics tests benefit included in the International Outpatient option. You must have purchased the International Outpatient option in order to have these additional diagnostic tests covered.
-
-#### Breast cancer screening
-
-For female beneficiaries from the age of 40 year old, we will provide cover for: 1 breast awareness consultation and Clinical Breast Exam (CBE) every year; and 1 screening mammogram every 2 year. For female beneficiaries between the age of 25 and 39 year old if they have a prior history or an increased risk of breast cancer, we will provide cover for: 1 screening mammogram every year, when medically necessary. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Bowel cancer screening
-
-For female and male beneficiaries from the age of 45 year old, we will provide cover for: 1 Fecal occult blood test (FOB) or 1 Fecal Immunochemical Test (FIT) every year and 1 Colonoscopy every 7 years. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Diabetes screening
-
-For female and male beneficiaries from the age of 18 year old, we will provide cover for: 1 A1C test or Fasting Blood Sugar test every year. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Skin cancer screening
-
-For female and male beneficiaries from the age of 18 year old, we will provide cover for: 1 skin cancer examination every year. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Lung cancer screening
-
-For female and male beneficiaries from the age of 45 year old who are current or past smokers, we will provide cover for: 1 lung cancer examination every year. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Bone densitometry
-
-We will pay for: 1 scan for women aged 65 years old or older; 1 scan for post-menopausal women younger than 65 years old when medically necessary; and 1 scan for men aged 50 years or older when medically necessary. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Dietetic consultations
-
-We provide coverage for an initial consultation with a dietitian without the need of a referral for any beneficiary seeking to enhance and improve their overall well-being, encompassing dietary modifications and preventative measures. We provide additional coverage, when medically necessary, for up to 4 consultations in total per period of cover for beneficiaries in need of dietary advices related to a diagnosed conditions such as diabetes, pre-diabetes or eating disorders. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $325 or €250 or £220 per beneficiary per period of cover. Under the Gold plan, this is covered up to $650 or €500 or £440 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Additional information
-
-In addition to health screenings, tests and examinations; this module also empowers you and your family with the services and support to manage your own individual day-to-day health and wellbeing.
-
-Your Wellness services, comprising of the Life Management Assistance, the Wellness Coaching and the Mental Health Support programmes, is available to help you and your eligible dependents stay healthy and well, both physically and mentally.
-
-These services are available across all plan levels, providing you have purchased the optional International Health and Wellbeing module.
-
-To access any of the Wellness services, please contact us through one of the following options:
-
-Call us: +1 984 810 5338 (Line exclusively for Cigna Global Health Options customers). You can dial this number directly from the 'Mental Health Support' section of the Cigna Wellbeing® App.)
-
-Live Chat: accessible through the website. To login, please enter 'assist' as the 'company code'. To access the Live Chat, click on 'LIVECONNECT' at the top of the home page.
-
-Request a callback via the Cigna Wellbeing® App.
-
-This service is provided by our chosen counselling provider
-
-#### Life Management Assistance Programme
-
-At Cigna we see Body and Mind as equal parts in forming one's whole health. While most health solutions today only cover for physical health, our Life Management Assistance programme is a personal and confidential service offered to you and your family to help identify and solve problems they face in their everyday working and family lives. All calls into our Life Management Assistance Programme are answered 24 hours a day, 7 days a week, 365 days a year. You will have access to the following services and tools: Short-term counselling: Up to 6 counselling sessions via telephone, video, or face-to-face, per issue per period of cover. Common use cases include: managing anxiety and depression, couples' and family relationship support, bereavement, and more. Behavioural health: Up to 6 sessions with a mindfulness coach via telephone per period of cover. Beneficial for individuals experiencing stress, and challenges with focus and concentration. An online self-help Cognitive Behavioural Therapy (CBT) programme to address mild to moderate anxiety, stress, and depression, with unlimited access to the programme for 6 months. Career and workplace support: Life coaching telephonic sessions to assist with personal growth and career development at work. Telephonic sessions with a counsellor for managers to develop their people management skills. Practical needs: Unlimited in the moment telephonic support for live assistance. Pre-qualified referrals and information to assist with your day to day demands, such as relocation logistics, child or eldercare, legal or financial services. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important Notes: This service is not suitable if: You are reporting imminent risk of harm to self or others; You have an addiction, such as substance or impulse control for example gambling; You have symptoms or a diagnosis or mental health issues other than anxiety or depression, for example Borderline Personality.
-
-#### Wellness Coaching
-
-With so much time spent juggling work and home commitments, looking after yourself can sometimes take last priority. You may know what you want to change but don't quite know where to start. Our Wellness Coaching empowers you to create healthy behaviours for lasting lifestyle changes. We will match you with your own personal qualified wellness coach who is specifically trained in health behaviour change. Your coach will partner with you to identify a specific wellness goal that is important to you, such as: Weight management; Healthy eating; Physical activity; Sleep; Stress management; and Tobacco cessation. You will have access to 6 confidential coaching sessions per focus area per period of cover. Your coach will provide personalised, goal-oriented guidance, wellness education, strategy development and encouragement. Coaching sessions can be scheduled according to time zone and language preferences, and the sessions can be delivered by telephone or video to suit. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-#### Mental Health Support Programme
-
-Being diagnosed with anxiety or depression can be overwhelming, and it can be difficult to know what steps to take next. At Cigna, we realize that anxiety and depression require more targeted support than milder mental health issues traditionally supported by the short-term counselling services offered through our Life Management Assistance Programme. Our Mental Health Support Programme provides long-term psychological support in the areas of anxiety and depression, with up to 20 face to face counselling sessions per condition per period of cover. This confidential counselling is provided in a one to one offline setting (the most traditional way of counselling), or video or phone sessions can also be considered as an alternative depending on your location. The process to access this Mental Health Support Programme is as follows: Reach out to the Life Management Assistance Programme (see above), by phone via our Customer Care Team or from the Cigna Wellbeing App. Speak with a clinician who will carry out an initial telephone-based assessment. If you have been diagnosed with moderate to severe depression or anxiety, the clinician will recommend referral to a CBT psychologist. Receive initial counselling sessions where a CBT psychologist will assess you over a maximum of 2 face to face sessions. Where in-person meetings are not possible, telephone or video meeting options can be made available. Receive counselling support over a maximum of 20 sessions. Psychometric testing is carried out at this stage and after every 6 sessions. Start to feel the benefits by achieving a happier, healthier state of wellbeing. Monitor you progress. A case manager will check in with you to ensure you're on track. This programme offers you fast and easy access to CBT psychologist as our counsellors are often available in areas of the world where mental health services might be harder to access. Up to 20 face to face counselling sessions per condition per period of cover. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important Notes: This service is not suitable if: You are reporting imminent risk of harm to self or others; You have an addiction, such as substance or impulse control for example gambling; You have symptoms or a diagnosis or mental health issues other than anxiety or depression, for example Borderline Personality Disorder, Schizophrenia, Bi-Polar or OCD; or You are under 18 years old.
-
----
-
-## International Evacuation & Crisis Assistance Plus® Optional Module
-
-International Medical Evacuation provides coverage for reasonable transportation costs to the nearest centre of medical excellence in the event that the treatment is not available locally in an emergency. This option also includes medical repatriation coverage as a result of a serious illness or after a traumatic event or surgery, and compassionate visits for a parent, spouse, partner, sibling or child to visit a beneficiary after an accident or sudden illness and the beneficiary has not been evacuated or repatriated.
-
-Peace of mind for you and your family, particularly while travelling globally, is very important to us. As well as providing coverage for medical evacuation events, this option also includes the Crisis Assistance Plus® programme providing 24/7 time-sensitive advice and coordinated in-country crisis response services in the event of a travel or security risk that may occur while you and your family are travelling globally.
-
-### International Medical Evacuation
-
-#### International Medical Evacuation Annual overall benefit maximum - per beneficiary per period of cover
-
-Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-#### Medical Evacuation
-
-If a beneficiary requires emergency treatment, we will pay for medical evacuation for them: to be taken to the nearest hospital where the necessary treatment is available (even if this is in another part of the country, or in another country); and to return to the place they were taken from, provided the return journey takes place not more than 14 days after the treatment is completed. As regards to the return journey, we will pay: the price of an economy class air ticket; or the reasonable cost of travel by land or sea; whichever is lesser. We will only pay for taxi fares if: It is medically preferable for the beneficiary to travel to the airport by taxi, rather than by ambulance; and Approval is obtained in advance from the medical assistance service. We will pay for evacuation (but not repatriation) if the beneficiary needs diagnostic tests or cancer treatment (such as chemotherapy) if, in the opinion of our medical assistance service, evacuation is appropriate and medically necessary in the circumstances. We will not pay any other costs related to an evacuation (such as accommodation costs). Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important notes: If you require to return to the hospital where you were evacuated for follow up treatment, we will not pay for travel costs or living allowance costs. In the event that evacuation services are not organised by us, we reserve the right to decline the costs.
-
-#### Medical Repatriation
-
-If a beneficiary requires a medical repatriation as a result of a serious illness or after a traumatic event or surgery, we will pay: for them to be returned to their country of habitual residence or country of nationality; and to return them to the place they were taken from, provided the return journey takes place not more than 14 days after the treatment is completed. The above journey must be approved in advance by our medical assistance service and to avoid doubt all transportation costs are required to be reasonable and customary. As regards to the return journey, we will pay: the price of an economy class air ticket; or the reasonable cost of travel by land or sea; whichever is lesser. We will only pay for taxi fares if: it is medically preferable for the beneficiary to travel to the airport by taxi, rather than by ambulance; and approval is obtained in advance from the medical assistance service. We will not pay any other costs related to a repatriation (such as accommodation costs). Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important notes: If you require to return to the hospital where you were repatriated for follow up treatment, we will not pay for travel costs or living allowance costs. If a beneficiary contacts the medical assistance service to ask for prior approval for repatriation, but the medical assistance service does not consider repatriation to be medically appropriate, we may instead arrange for the beneficiary to be evacuated to the nearest hospital where the necessary treatment is available. We will then repatriate the beneficiary to his or her specified country of nationality or country of habitual residence when his or her condition is stable, and it is medically appropriate to do so. In the event that repatriation services are not organised by us, we reserve the right to decline the costs.
-
-#### Repatriation of mortal remains
-
-If a beneficiary dies outside their country of habitual residence during the period of cover, the medical assistance service will arrange for their mortal remains to be returned to their country of habitual residence or country of nationality as soon as reasonably practicable, subject to airlines requirements and restrictions. We will not pay any costs associated with burial or cremation or the transport costs for someone to collect or accompany the beneficiary's mortal remains. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important note: In the event that repatriation services are not organised by us, we reserve the right to decline the costs.
-
-#### Travel cost for an accompanying person
-
-If a beneficiary needs a parent, sibling, child, spouse or partner, to travel with them on their journey in conjunction with a medical evacuation or repatriation, because they: need help getting on or off an aeroplane or other vehicle; are travelling 1000 miles (or 1600km) or further; are severely anxious or distressed, and are not being accompanied by a nurse, paramedic or other medical escort; or are very seriously ill or injured; we will pay for a relative or partner to accompany them. The journeys (for the avoidance of doubt shall mean one outbound and one return) must be approved in advance by the medical assistance service and the return journey must take place not more than 14 days after the treatment is completed. We will pay: the price of an economy class air ticket; or the reasonable cost of travel by land or sea; whichever is the lesser. If it is appropriate, considering the beneficiary's medical requirements, the family member or partner who is accompanying them may travel in a different class. If it is medically necessary for a beneficiary to be evacuated or repatriated, and they are going to be accompanied by their spouse or partner, we will also pay the reasonable travel costs of any children aged 17 or under, if those children would otherwise be left without a parent or guardian. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-Important notes: We will not pay for a third party to accompany a beneficiary if the original purpose of the evacuation was to enable the beneficiary to receive outpatient treatment. We will not pay for any other costs relating to third party travel costs, such as accommodation or local transportation.
-
-#### Compassionate visit - travel costs
-
-If you have purchased this option, we will also make available the provision below for compassionate visits to you by immediate family members. We will pay the cost of economy class return travel for a parent, spouse, partner, sibling or child to visit a beneficiary after an accident or sudden illness, if the beneficiary is in a different country and is anticipated to be hospitalised for 5 days or more, or has been given a short-term terminal prognosis. Up to a maximum of 5 trips per lifetime up to the total limit shown for your selected plan per beneficiary. Under the Silver plan, this is covered up to $1,200 or €1,000 or £800 per beneficiary per lifetime. Under the Gold plan, this is covered up to $1,200 or €1,000 or £800 per beneficiary per lifetime. Under the Platinum plan, this is covered up to $1,200 or €1,000 or £800 per beneficiary per lifetime.
-
-#### Compassionate visit - living allowance costs
-
-For each beneficiary we will pay for up to 5 compassionate visits over the lifetime of the cover. Compassionate visits must be approved in advance by our medical assistance service. We will also pay for living expenses incurred by a family member during a compassionate visit, for up to 10 days per visit while they are away from their country of habitual residence up to the limits shown in the list of benefits (subject to being provided with receipts in respect of the costs incurred). Up to the total limit shown per day for each visit with a maximum of 10 days per visit. Under the Silver plan, this is covered up to $155 or €125 or £100 per day for each visit with a maximum of 10 days per visit. Under the Gold plan, this is covered up to $155 or €125 or £100 per day for each visit with a maximum of 10 days per visit. Under the Platinum plan, this is covered up to $155 or €125 or £100 per day for each visit with a maximum of 10 days per visit.
-
-Important note: We will not pay for a compassionate visit when the beneficiary has been evacuated or repatriated. If an evacuation or repatriation takes place during a compassionate visit, we will not pay any further third party transportation costs.
-
-### CRISIS ASSISTANCE PLUS® Programme
-
-This programme is provided by global crisis response experts, FocusPoint International®, who support global travellers with 24/7 multilingual response centres and resources in over 100 countries. Crisis Assistance Plus® (CAP) provides time-sensitive advice and coordinated in-country crisis assistance for ten different risks that have the potential to impact beneficiaries when traveling: Terrorism; Pandemic threat; Political violence threats (for example: strikes, riots and civil commotion); Natural disasters (threat or occurence); Blackmail or extortion response; Violent crimes; Disappearances of persons; Hijacks response; Kidnaps for ransom response; and Wrongful detentions response.
-
-The programme provides beneficiaries with 24/7 on-demand access to FocusPoint International's global assistance centres for advice and coordinated in-country crisis response services, when necessary. Depending on the situation, the programme offers: Rapid-response teams and dedicated CAP managers deployed globally virtually or telephonically; Experienced security personnel for field rescue, shelter in place and ground evacuations; Nationally recognized crisis communications teams; Highly experienced kidnap-for-ransom and extortion-response specialists; Emergency-message relay to family members or employers; Point-in-time geographic threat information; and Access to private aviation fleet, with aircraft launched in as little as 60 minutes (as merited, reasonable and necessary).
-
-FocusPoint International® will pay for crisis consulting expenses and other additional expenses per covered response (up to a maximum of two physical incidents per beneficiary per period of cover) and included but not limited to: Emergency political or natural disaster evacuation costs; Legal referrals and fees up to a maximum of 10 days from the date of the crisis event; Fees and expenses of an independent interpreter; Costs of relocations, travel and accommodations; and Fees and expenses of security personnel temporarily deployed solely and directly for the purposes of protecting a beneficiary and located in a country where a crisis event has occurred for up to a maximum of 45 days from the date of the crisis event.
-
-Important notes: FocusPoint International® will provide crisis response services for a maximum of two physical incidents per beneficiary per period of cover. The programme provides access to unlimited crisis consultations during the period of cover. The eligible physical incident response is limited to forty five (45) calendar days of assistance. The Crisis Assistance Plus® Programme is not an insurance policy. Focuspoint does not and will not reimburse or indemnify beneficiaries for any expenses incurred directly by a beneficiary and/or on behalf of a beneficiary. All additional expenses are incurred and paid directly by and at the sole discretion of Focuspoint.
-
-We have no involvement in, nor are we liable for, any decisions and/or outcomes that are made or determined by FocusPoint International®. FocusPoint International® will not provide crisis response services: With respect to kidnapping or violent crime by a relative; To any person who has had kidnap insurance cancelled or declined; To any person who has been kidnapped in the past; To any kidnapping of a protected person within their country of residence; Where such service would be prohibited under United Nations' resolutions or any laws of the European Union, United Kingdom or the United States; For the payment of any ransom; If the beneficiary elects to travel to location(s) with an issued and active advisory against all travel to said location(s); For a business dispute; For extra expenses caused by a non-covered travel delay; For suicide or attempted suicide; For war, whether declared or not, between China, France, the United Kingdom, the Russian Federation and the United States, or war in Europe other than civil war; For any enforcement action by or on behalf of the United Nations in which countries stated above or any armed forces are engaged; and For threat of or loss or destruction to any property arising from any consequential loss or any legal liability caused from radioactivity; Travel for any reason to the eleven (11) countries of Afghanistan, Iran, Libya, North Korea, Russia, Somalia, Sudan, Syria, Ukraine, Venezuela, and Yemen; and Search and rescue at sea.
-
-In the event of one of the crisis situations as detailed above, please contact our Customer Care Team. We will transfer you to a FocusPoint crisis consultant who can provide advice and coordinate immediate worldwide assistance. In order to use this service we are required to pass your name and contact information to FocusPoint International®.
-
----
-
-## International Vision & Dental Optional Module
-
-International Vision and Dental pays for the beneficiary's routine eye examination and pays costs for spectacles and lenses. It also covers a wide range of preventative, routine and major dental treatments.
-
-### Vision Care
-
-#### Eye Test
-
-We will pay for one routine eye examination per period of cover, to be carried out by either an ophthalmologist or optometrist. We will not pay for more than one eye examination in any one period of cover. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $100 or €75 or £65 per beneficiary per period of cover. Under the Gold plan, this is covered up to $200 or €150 or £130 per beneficiary per period of cover. Under the Platinum plan, this is Paid in full per beneficiary per period of cover.
-
-#### Expenses for spectacle lenses, contact lenses, spectacle frames, and prescription sunglasses
-
-when all are prescribed by an optometrist or ophthalmologist. We will not pay for: sunglasses, unless medically prescribed, by an ophthalmologist or optometrist; glasses or lenses which are not medically necessary or not prescribed by an ophthalmologist or optometrist; or treatment or surgery, including treatment or surgery which aims to correct eyesight, such as laser eye surgery, refractive keratotomy (RK) or photorefractive keratectomy (PRK). A copy of a prescription or invoice for corrective lenses will need to be provided to us in support of any claim for frames. Up to the total limit shown for your selected plan per beneficiary per period of cover. Under the Silver plan, this is covered up to $155 or €125 or £100 per beneficiary per period of cover. Under the Gold plan, this is covered up to $155 or €125 or £100 per beneficiary per period of cover. Under the Platinum plan, this is covered up to $310 or €245 or £200 per beneficiary per period of cover.
-
-### Dental Treatment
-
-#### Overall annual Dental treatment benefit maximum
-
-Annual overall benefit maximum - per beneficiary per period of cover. Under the Silver plan, this is $1,250 or €930 or £830 per beneficiary per period of cover. Under the Gold plan, this is $2,500 or €1,850 or £1,650 per beneficiary per period of cover. Under the Platinum plan, this is $5,500 or €4,300 or £3,500 per beneficiary per period of cover.
-
-#### Preventative
-
-We will pay for the following preventative dental treatment recommended by a dentist after a beneficiary has had International Vision and Dental cover for at least 3 months: 2 dental check-ups per period of cover; X-rays, including bitewing, single view, and orthopantomogram (OPG); scaling and polishing including topical fluoride application when necessary (two per period of cover); 1 mouth guard per period of cover; 1 night guard per period of cover; and Fissure sealant. Up to the overall annual Dental treatment benefit maximum for your selected plan beneficiary per period of cover. Available once the beneficiary has been covered by this option for 3 months. Under the Silver plan, this is Paid in full. Under the Gold plan, this is Paid in full. Under the Platinum plan, this is Paid in full.
-
-#### Routine
-
-We will pay treatment costs for the following routine dental treatment after the beneficiary has had International Vision and Dental cover for at least 3 months (if that treatment is necessary for continued oral health and is recommended by a dentist): root canal treatment; extractions; surgical procedures; occasional treatment; anaesthetics; and periodontal treatment. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Available once the beneficiary has been covered by this option for 3 months. Under the Silver plan, there is an 80% refund. Under the Gold plan, there is a 90% refund. Under the Platinum plan, this is Paid in full.
-
-#### Orthodontic treatment
-
-We will pay for orthodontic treatment for beneficiaries only under the age of 19 years old, if they have had International Vision and Dental cover for at least 18 months. We will only pay for orthodontic treatment if: the dentist or orthodontist who is going to provide the treatment provides us, in advance, with a detailed description of the proposed treatment (including X-rays and models), and an estimate of the cost of treatment; and we have approved the treatment in advance. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Available for beneficiaries aged 18 or younger, once they have been covered by this option for 18 months. Under the Silver plan, there is a 40% refund. Under the Gold plan, there is a 50% refund. Under the Platinum plan, there is a 50% refund.
-
-#### Major restorative
-
-We will pay treatment costs for the following major restorative dental treatments after the beneficiary has had International Vision and Dental cover for at least 12 months: dentures (acrylic/synthetic, metal and metal/acrylic); crowns; inlays; and placement of dental implants. If a beneficiary needs major restorative dental treatment before they have had International Vision and Dental cover for 12 months, we will pay 50% of the treatment costs. Up to the total limit shown for your selected plan per beneficiary per period of cover or, where "paid in full" is shown, this is up to the annual overall benefit maximum for your selected plan per beneficiary per period of cover. Available once the beneficiary has been covered by this option for 12 months. Under the Silver plan, there is a 70% refund. Under the Gold plan, there is an 80% refund. Under the Platinum plan, this is Paid in full.
-
----
-
-## How Deductible And Cost Share Work
-
-Our wide range of deductible and cost share options allow you to tailor your plan to suit your budget. You can choose to have a deductible and/or cost share on the International Medical Insurance and/or on the International Outpatient optional module.
-
-If you have selected a deductible and/or cost share on your policy, this deductible and/or cost share will be required to be satisfied in full before you are able to claim for treatment or reimbursement for treatment costs. Please note, the deductible and/or cost share selected is not subtracted from the individual benefits limits available on your plan.
-
-- **Deductible** - this is the amount you must pay towards your cost of treatment until the deductible for the period of cover is reached.
-- **Cost Share** - this is the cost share percentage you must pay towards your cost of treatment. This applies once the deductible amount (if selected) has been calculated.
-- **Out-of-Pocket Maximum** - this is the maximum amount of cost share you have to pay per period of cover. Only the amounts you pay related to the cost share are subject to the capping effect of the out of pocket maximum.
-
-### Example 1: How the deductible works
-
-Claim value: $1,200
-Deductible: $375
-
-You pay the $375 deductible
-We pay $825
-
-Once the deductible amount has been reached, we pay for all subsequent treatment costs for that period of cover. In this example, the deductible amount has now been reached for this period of cover.
-
-### Example 2: How the cost share works
-
-Claim value: $5,000
-Deductible: $0
-Cost share: 20% = $1,000
-Out of Pocket Maximum: $2,000
-
-20% of $5,000 is $1,000
-
-You pay the $1,000 cost share
-We pay $4,000
-
-The amount of cost share is subject to the capping effect of the out of pocket maximum. In this example, $1,000 has been paid towards the $2,000 out of pocket maximum for this period of cover.
-
-### Example 3: How the cost share and out of pocket maximum works
-
-Claim value: $20,000
-Deductible: $0
-Cost Share: 20% = $4,000
-Out of Pocket Maximum: $2,000
-
-20% of $20,000 is $4,000, however the out of pocket maximum limits your costs to $2,000
-
-You pay the $2,000 cost share
-We pay $18,000
-
-The out of pocket maximum protects you from large cost share amounts. In this example, you have satisfied your out of pocket maximum and we will cover the rest for this period of cover.
-
-### Example 4: How the deductible and cost share work if you have selected both
-
-Claim value: $20,000
-Deductible: $375
-Cost Share: 20% = $3,925
-Out of Pocket Maximum: $5,000
-
-20% of $19,625 is $3,925
-
-You pay the $375 deductible and $3,925 cost share
-We pay $15,700
-
-The deductible is due before the cost share is calculated. In this example, your deductible of $375 is taken off the cost of treatment first and then the 20% cost share is calculated. $3,925 has been paid towards the $5,000 out of pocket maximum for this period of cover.
-
-### Important information
-
-- You will be responsible for paying the amount of any deductible and cost share directly to the hospital, clinic, medical practitioner or pharmacy.
-- The deductible, cost share, and out of pocket maximum is determined separately for each beneficiary and each period of cover.
-- If you select both a deductible and a cost share, the amount you will need to pay due to the deductible is calculated before the amount you will need to pay due to the cost share.
-- You can request a change to the deductible and/or cost share and out of pocket maximum with effect from your annual renewal date each year. If you wish to remove or reduce your deductible, cost share or reduce your out of pocket maximum on your coverage, we may require you to provide us with more detailed medical information (including medical information of any beneficiaries if relevant) and we may apply new special restrictions or exclusions based on the information you provide us with.
-- You can remind yourself of any deductible or cost shares you may have selected by checking your Certificate of Insurance which is available in your secure online Customer Area.
-
----
-
-## Did You Know?
-
-### Additional cover not included as standard
-
-Cigna Global Health Options plans have four additional optional modules to enhance your health plan:
-
-- International Outpatient
-- International Health and Wellbeing
-- International Evacuation & Crisis Assistance Plus®
-- International Dental and Vision
-
-You can add any of these modules during the enrolment, at renewal or during your period of cover. Your selection will be on your Certificate of Insurance. You can find this important document under 'Documents' in your online Customer Area.
-
-### Benefits with age restrictions:
-
-Policyholders and any beneficiaries must be 18 years old or older to access any care and treatment within the International Health and Wellbeing optional module.
-
-### Core benefits included in every policy:
-
-There are some outpatient treatments that are covered under every standard International Health Insurance plan:
-
-- Mental and Behavioural Health Care
-- Advanced Medical Imaging
-- Accident and Emergency Room Treatment
-- Kidney Dialysis
-- Cancer Care
-- Complications from maternity (only on Gold and Platinum plans)
-
-Any deductible you may have chosen as part of your standard International Health Insurance plan will also apply to the outpatient treatments above, with the exception of the Accident and Emergency Room Treatment benefit, where no deductible is applied.
-
-### Additional benefits where deductible is not applied:
-
-Deductibles are not applied to the following benefits as per your policy rules:
-
-- Inpatient Cash Benefit
-- Accident and Emergency Room Treatment
-- Newborn Care
-- Global Telehealth
-
-Deductibles are not applied to the following optional modules and their benefits:
-
-- International Health and Wellbeing
-- International Evacuation & Crisis Assistance Plus®
-- International Dental and Vision
-
----
-
-## Frequently Asked Questions
-
-### How to speak to a doctor:
-
-#### Global Telehealth
-
-You have access to unlimited video and phone consultations with one of our chosen doctor through the Global Telehealth service. This service is available for non-emergency health issues via the Cigna Wellbeing® App, or via a referral from our Customer Service team.
-
-Any treatment or prescriptions drugs following a Global Telehealth consultation will only be covered if you have purchased the optional International Outpatient Module as part of your plan.
-
-### How to speak to someone about your policy:
-
-See page 2 for contact details for our Customer Service Team.
-
-### How to get access to treatment:
-
-See page 8 to understand how to access treatment. If you have further questions, reach out to the Customer Service team.
-
-### How to pay for treatment:
-
-See page 10 to understand if Cigna Healthcare will take care of the medical bill or if you need to seek reimbursement. If you need to submit a claim, please see further information on page 13.
-
-### How much do I pay towards the cost of my treatment claim?
-
-You can check what deductible or cost share you've applied to your policy on your Certificate of Insurance. Any deductible and/or cost-share chosen as part of your plan is applicable per person per policy year. Remember: it is important to submit a claim even if you have paid for the treatment out of your pocket, as this amount will be included towards any deductible you may have applied to your policy.
-
-See page 43 for how deductible and cost share works.
-
-### What happens at the end of my policy year?
-
-You will receive an email 45 days in advance of your renewal date, including a renewal invite and a statement letter. These can also be found in your online Customer Portal.
-
-If you wish to make any changes to your policy at that time, you can speak with a dedicated member of our customer loyalty team via the contact details in your renewal email.
-
-You are not re-underwritten at renewal if you are not making material changes to your policy. We don't ask new or further medical questions if it's not required. We do not base your renewal premium on any claims you may or may not have made during your policy year.
-
----
-
-## Definitions
-
-### Annual Renewal Date
-
-the anniversary of the start date.
-
-### Appropriate age intervals
-
-child and adolescence age schedule up to age seventeen years old as set out by the American Academy of Pediatrics (AAP).
-
-### Benficiaries, beneficiary
-
-anybody named in your Certificate of Insurance as being covered under this policy, including newborn children.
-
-### Congenital Condition(s)
-
-any abnormality, deformity, disease, illness or injury present at birth, whether diagnosed or not.
-
-### Country of habitual residence
-
-the country where a beneficiary habitually resides, as stated in your application.
-
-### Country of nationality
-
-any country of which a beneficiary is a citizen, national or subject, as state in your application.
-
-### Daypatient
-
-a patient who is admitted to a hospital or daypatient unit or other medical facility for treatment or because they need a period of medically supervised recovery, but who does not occupy a bed overnight.
-
-An example of daypatient treatment would be attending hospital for chemotherapy as part of cancer treatment or receiving an endoscopy as part of diagnostic testing.
-
-### Dental Accident
-
-treatment which is medically necessary as part of a beneficiary's recovery following a severe injury or accident which is aimed at restoring the beneficiary to their previous state of health after such an event.
-
-### Emergency treatment
-
-treatment which is medically necessary to prevent the immediate and significant effects of illnesses, injuries or conditions which, if left untreated, could result in a significant deterioration in health. Only medical treatment through a physician, medical practitioner and hospitalisation that commences within twenty four (24) hours of the emergency event will be covered.
-
-### Evidence-based treatment
-
-treatment which has been researched, reviewed and recognised by:
+Treatment which has been researched, reviewed and recognised by:
 
 - the National Institute for Health and Clinical Excellence; or
 - International Clinical Guidelines.
 
-### Formularly drugs list
+#### Expatriate
+
+Means a beneficiary residing outside of their country of nationality.
+
+#### Formulary drugs list
 
 A prescription drugs list applicable to all pharmacy claims in the USA. This list is developed by Cigna Healthcare with assistance from our Pharmacy and Therapeutics Committee and is updated twice a year. All the medications included in our formulary drugs list are approved by the U.S. Food and Drug Administration (FDA). Over-the-counter (OTC) medicines (those that do not require a prescription), except insulin, are excluded from our formulary drugs list, unless state or federal law requires coverage of such medicines. We will notify you of any change that affects the coverage of a medication that you are taking at the time of any update.
 
-### Guarantee of payment
+#### Guarantee of payment
 
-a binding guarantee made by us to pay a provider the agreed costs associated with a particular treatment which we may give to a beneficiary or a medical facility or medical practitioner.
+A binding guarantee made by us to pay a provider the agreed costs associated with a particular treatment which we may give to a beneficiary or a medical facility or medical practitioner.
 
-### Inpatient
+#### Initial start date
 
-Inpatient means a patient who is admitted to a medical facility and who occupies a bed overnight or longer, for medical reasons.
+The first day the beneficiary's cover commenced on the International Medical Insurance plan.
 
-An example of inpatient treatment is undergoing surgery following a heart attack where they will recover in hospital overnight.
+#### Inpatient
 
-### Medical Assistance Service
+A patient who is admitted to a medical facility and who occupies a bed overnight or longer, for medical reasons. An example of inpatient treatment is undergoing surgery following a heart attack where they will recover in hospital overnight.
 
-a service which provides medical advice, evacuation, assistance and repatriation in accordance with International Clinical Guidelines. This service can be multilingual and assistance is available twenty four (24) hours per day.
+#### Medical assistance service
 
-### Medically necessary/medical necessity
+A service which provides medical advice, evacuation, assistance and repatriation in accordance with International Clinical Guidelines. This service can be multi-lingual and assistance is available twenty four (24) hours per day.
 
-medically necessary covered services and supplies are those determined in accordance with International Clinical Guidelines by the medical team to be:
+#### Medical facilities
+
+This includes any organisation or institution which is registered or licensed as a medical or surgical clinic and/or hospital in the country in which it is located where the beneficiary is under the daily care or supervision of a medical practitioner or qualified nurse.
+
+#### Medically necessary/medical necessity
+
+Medically necessary covered services and supplies are those determined in accordance with International Clinical Guidelines by the medical team to be:
 
 - required to diagnose or treat an illness, injury, disease or its symptoms;
 - orthodox, and in accordance with generally accepted standards of medical practice;
@@ -1311,161 +624,62 @@ medically necessary covered services and supplies are those determined in accord
 
 Where applicable, the medical team may compare the cost effectiveness of alternative services, settings or supplies when determining what the least intensive setting is.
 
-### Medical Facilties
+#### Medical practitioner
 
-this includes any organisation or institution which is registered or licensed as a medical or surgical clinic and/or hospital in the country in which it is located where the beneficiary is under the daily care or supervision of a medical practitioner or qualified nurse.
+A doctor, specialist, qualified nurse or therapist (including speech therapies, dietician or orthoptist), dental surgeon or dental practitioner who is registered, suitably qualified or licensed to practice medicine or provide treatment under the laws of the country, state or other regulated area in which the treatment is provided, and who is not covered under this policy, or a family member of someone covered under this policy.
 
-### Medical Practitioners
+#### Outpatient
 
-a doctor, specialist, qualified nurse or therapist (including speech therapies, dietician or orthoptist), dental surgeon or dental pracittioner who is registered, suitably qualified or licensed to practice medicine or provide treatment under the laws of the country, state or other regulated area in which the treatment is provided, and who is not covered under this policy, or a family member of someone covered under this policy.
+A patient who attends a hospital outpatient department, consulting room, outpatient clinic or other outpatient medical facility for treatment but is not admitted as a daypatient or an inpatient and does not occupy a bed. An example of outpatient treatment would be visiting an outpatient clinic to undergo a mole removal where you are not required to be admitted to hospital and do not require general anaesthetic for the procedure.
 
-### Outpatient
+#### Period of cover
 
-Outpatient means a patient who attends a hospital outpatient department, consulting room, outpatient clinic or other outpatient medical facility for treatment but is not admitted as a daypatient or an inpatient and does not occupy a bed.
+This policy has a minimum period of cover of three (3) months and a maximum period of cover of twelve (12) months renewable. The period of cover is from the start date to the end date as noted in the Certificate of Insurance or earlier if terminated in accordance with the Policy Rules.
 
-An example of outpatient treatment would be visiting an outpatient clinic to undergo a mole removal where you are not required to be admitted to hospital and do not require general anaesthetic for the procedure.
+#### Personal Data
 
-### Period of cover
+Any information relating to an identified or identifiable natural person.
 
-this policy has a minimum period of cover of three (3) and a maximum period of cover of twelve (12) months renewable. The period of cover is from the start date to the end date as noted in the Certificate of Insurance or earlier if terminated in accordance with the Policy Rules
+#### Policy
 
-### Policy
-
-the Policy comprising of:
+The policy comprising of:
 
 - the policyholder's Application and any declarations that they made during their enrolment for them and any beneficiaries in the application;
-- the Policy Rules;
-- this Customer Guide (which contains the list of benefits and claiming information);
-- your Certificate of Insurance (shows the policy number, the annual premium, the start date, the deductible and/or cost share amount if selected, details of who is covered, any special exclusions that have been removed at an aditional premium and the heatlth plan and selected options where applicable), and;
+- these Policy Rules;
+- the Customer Guide (which contains the list of benefits and claiming information);
+- your Certificate of Insurance (which displays the policy number, the annual premium, the start date, the deductible and/or cost share amount if selected, details of who is covered, any special exclusions or exclusions that have been removed at an aditional premium and the health plan and selected options where applicable), and;
 - your Cigna Healthcare ID Card.
 
-### Prior authorisation/prior approval
+#### Policyholder
 
-refers to the formal process of contacting us to obtain confirmation that the medical treatment will be covered and that the medical facility considered is a Cigna Healthcare approved medical provider that meets the Cigna Healthcare quality standards. The approval by us will be based on our medical necessity review process performed by our medical team and we may issue a guarantee of payment, if required, as part of that review. The medical treatment that requires prior authorisation are clearly indicated in the list of benefits in your customer guide. Failure to obtain the required prior authorisation from us will result in reducing the amount which we will pay towards that treatment.
+Person who is aged 18 years or older who has made an application to us which has been accepted in writing by us, and who pays the premium under the policy.
 
-### Selected area of coverage
+#### Pre-existing condition
 
-means either:
+Any disease, illness or injury, or symptoms present before the initial start date of your policy for which:
+
+- medical advice or treatment has been sought or received; or
+- the beneficiary knew about and did not seek medical advice or treatment.
+
+#### Prior authorisation/Prior approval
+
+Refers to the formal process of contacting us to obtain confirmation that the medical treatment will be covered and that the medical facility considered is a Cigna Healthcare approved medical provider that meets the Cigna Healthcare quality standards. The approval by us will be based on our medical necessity review process performed by our medical team and we may issue a guarantee of payment, if required, as part of that review. The medical treatment that requires prior authorisation are clearly indicated in the list of benefits in your customer guide. Failure to obtain the required prior authorisation from us will result in reducing the amount which we will pay towards that treatment.
+
+#### Selected area of coverage
+
+Means either:
 
 - Worldwide, including USA (every country throughout the world, excluding any country with whom, at the date of commencement of treatment, the Federal Government of the USA has prohibited trade to the extent that payments are illegal under applicable law.); or
-- Worldwide, excluding USA (worldwide, with the exception of the USA) .
+- Worldwide, excluding USA (worldwide, with the exception of the USA).
 
-### Treatment
+#### Special category data
 
-any surgery or medical treatment controlled by a medical practitioner and takes place in a medical facility that is medically necessary to diagnose, cure or substantially relieve disease, illness or injury.
+Personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health and data concerning a person's sex life or sexual orientation.
 
----
+#### Start date
 
-## Important Information
+The date on which coverage under this policy starts, as shown in the Certificate of Insurance.
 
-### Dental exclusions
+#### Treatment
 
-The following exclusions apply to dental treatment, in addition to those set out elsewhere in this policy and in your Certificate of Insurance.
-
-We will not pay for:
-
-- Purely cosmetic treatments, or other treatments which are not necessary for continued or improved oral health.
-- The replacement of any dental appliance which is lost or stolen, or associated treatment.
-- The replacement of a bridge, crown or denture which (in the reasonable opinion of a dentist of ordinary competence and skill in the beneficiary's country of habitual residence) is capable of being repaired and made usable.
-- The replacement of a bridge, crown or denture within five years of its original fitting unless:
-  - it has been damaged beyond repair, whilst in use, as a result of a dental injury suffered by the beneficiary whilst they are covered under this policy; or
-  - the replacement is necessary because the beneficiary requires the extraction of a sound natural tooth/teeth; or
-  - the replacement is necessary because of the placement of an original opposing full denture.
-- Acrylic or porcelain veneers.
-- Crowns or pontics on, or replacing, the upper and lower first, second and third molars unless:
-  - they are constructed of either porcelain; bonded-to-metal or metal alone (for example, a gold alloy crown); or
-  - a temporary crown or pontic is necessary as part of routine or emergency dental treatment.
-- Treatments, procedures and materials which are experimental or do not meet generally accepted dental standards.
-- Treatment for dental implants directly or indirectly related to:
-  - failure of the implant to integrate;
-  - breakdown of osseointegration;
-  - peri-implantitis;
-  - replacement of crowns, bridges or dentures; or
-  - any accident or emergency treatment including for any prosthetic device.
-- Advice relating to plaque control, oral hygiene and diet.
-- Services and supplies, including but not limited to mouthwash, toothbrush and toothpaste.
-- Medical treatment carried out in hospital by an oral specialist may be covered under International Medical Insurance plan and/or International Outpatient, if this option has been bought, except when dental treatment is the reason for you being in hospital.
-- Bite registration, precision or semi-precision attachments.
-- Any treatment, procedure, appliance or restoration (except full dentures) if its main purpose is to:
-  - change vertical dimensions; or
-  - diagnose or treat conditions or dysfunction of the temporomandibular joint; or
-  - stabilise periodontally involved teeth; or
-  - restore occlusion.
-
-### Medical Evacuation & Repatriation
-
-The following important notes and general conditions apply to all of the cover which is provided under the International Medical Evacuation option.
-
-#### Important notes
-
-The services described in this section are provided or arranged by the medical assistance service under this policy.
-
-The following conditions apply to both emergency medical evacuations and repatriations:
-
-- all evacuations and repatriations must be approved in advance by the medical assistance service, which is contactable through the Customer Care Team;
-- the treatment for which, or following which, the evacuation or repatriation is required must be recommended by a qualified nurse or medical practitioner;
-- evacuation and repatriation services are only available under this policy if the beneficiary is being treated (or needs to be treated) on an inpatient or daypatient basis;
-- the treatment because of which the evacuation or repatriation service is required must:
-  - be treatment for which the beneficiary is covered under this policy; and
-  - not be available in the location from which the beneficiary is to be evacuated or repatriated;
-- the beneficiary must already have cover under the International Medical Evacuation option, before they need the evacuation or repatriation service;
-- the beneficiary must have cover in the selected area of coverage which includes the country where the treatment will be provided after the evacuation or repatriation (treatment in the USA is excluded unless the beneficiary has purchased Worldwide including USA cover).
-- We will only pay for evacuation or repatriation services if all arrangements are approved in advance by our medical assistance service. Before that approval will be given, we must be provided with any information or proof that we may reasonably request;
-- We will not approve or pay for an evacuation or repatriation if, in our reasonable opinion, it is not appropriate, or if it is against medical advice. In coming to a decision as to whether an evacuation or repatriation is appropriate, we will refer to established clinical and medical practice;
-- From time to time we may carry out a review of this cover and reserve the right to contact you to obtain further information when it is reasonable for us to do so.
-
-#### General conditions
-
-- Where local conditions make it impossible, impractical, or unreasonably dangerous to enter an area, for example because of political instability or war, we may not be able to arrange evacuation or repatriation services. This policy does not guarantee that evacuation or repatriation services will always be available when requested, even if they are medically appropriate.
-- We will only pay for hospital accommodation for as long as the beneficiary is being treated. We will not pay for hospital accommodation if a beneficiary is no longer being treated but is waiting for a return flight.
-- Any medical treatment which a beneficiary receives before or after an evacuation or repatriation will be paid from the International Medical Insurance plan (or under another coverage option if appropriate) provided that the treatment is covered under this policy and you have purchased the relevant cover.
-- We cannot be held liable for any delays or lack of availability of evacuation or repatriation services which result from adverse weather conditions, technical or mechanical problems, conditions or restrictions imposed by public authorities, or any other factor which is beyond our reasonable control.
-- We will only pay for evacuation, repatriation and third party transportation if the treatment for which, or because of which, the evacuation or repatriation is necessary is covered under this policy.
-- All decisions as to:
-  - the medical necessity of evacuation or repatriation;
-  - the means and timing of any evacuation or repatriation;
-  - the medical equipment and medical personnel to be used; and
-  - the destination to which the beneficiary should be transported;
-
-will be made by our medical team, after consultation with the medical practitioners who are treating the beneficiary, taking into account all of the relevant medical factors and considerations.
-
----
-
-## Improving the health and vitality of those we serve.
-
----
-
-## Want To Get In Touch?
-
-If you have any questions about your policy, need to get approval for treatment, or for any other reason, please contact our Customer Care team 24 hours a day, 7 days a week, 365 days a year.\*
-
-### Call Us
-
-- International: +44 (0) 1475 788 182
-- USA: 800 835 7677 (toll free)
-- Hong Kong: 2297 5210 (toll free)
-- Singapore: 800 186 5047 (toll free)
-
-Alternatively, you can email us at: cignaglobal_customer.care@cigna.com
-
-### Use your Customer Area
-
-- Live chat with us
-- Message us
-- Arrange a call back
-
-\*For certain queries, our Customer Service team may direct you to our in-house team of specialists who are available during working hours (Monday to Friday from 8am to 8pm CET).
-
-Details of the Cigna Healthcare company who provides the cover under your policy can be found in your Policy Rules and on your Certificate of Insurance.
-
-If your policy is insured by Cigna Europe Insurance Company S.A.-N.V. Singapore Branch, the following statement applies:
-
-Cigna Europe Insurance Company S.A.-N.V. Singapore Branch (Registration Number: T10FC0145E), is a foreign branch of Cigna Europe Insurance Company S.A.-N.V., registered in Belgium with limited liability, with its registered office at 152 Beach Road, #33-05/06 The Gateway East, Singapore 189721.
-
-This policy is protected under the Policy Owners' Protection Scheme which is administered by the Singapore Deposit Insurance Corporation (SDIC). Coverage for your policy is automatic and no further action is required from you. For more information on the types of benefits that are covered under the scheme as well as the limits of coverage, where applicable, please contact us or visit the General Insurance Association (GIA) or SDIC websites (www.gia.org.sg or www.sdic.org.sg).
-
-For policies arranged through our Dubai International Finance Centre office, under insurance license Cigna Global Insurance Company Limited, the underwriting agent is Cigna Insurance Management Services (DIFC) Limited which is regulated by the Dubai Financial Services Authority.
-
-"Cigna Healthcare" is a registered service mark of Cigna Intellectual Property, Inc., licensed for use by The Cigna Group and its operating subsidiaries. All products and services are provided by or through such operating subsidiaries, and not by The Cigna Group. Such operating subsidiaries include Cigna Global Insurance Company Limited, Cigna Life Insurance Company of Europe S.A.–N.V., Cigna Europe Insurance Company S.A.-N.V. and Cigna Worldwide General Insurance Company Limited. © 2024 Cigna Healthcare
-
-591048 CGHO Customer Guide EN 02/2025
+Any surgical or medical treatment controlled by a medical practitioner and takes place in a medical facility that is medically necessary to diagnose, cure or substantially relieve disease, illness or injury.

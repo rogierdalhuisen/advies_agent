@@ -342,7 +342,7 @@ Discover articles, online coaching programmes, and videos designed to help you m
 
 ---
 
-# International Medical Insurance
+## International Medical Insurance
 
 Our plans comprise of 3 distinct levels of cover: Silver, Gold and Platinum. International Medical Insurance is your essential cover for inpatient, daypatient and accommodation costs, as well as cover for cancer, mental health care and much more.
 
@@ -440,6 +440,8 @@ Emergency treatment for inpatient and daypatient treatment during temporary shor
 
 Access to unlimited video and phone doctor consultations via the Cigna Wellbeing App for non-emergency health issues. Under the Silver plan, this is Unlimited consultations. Under the Gold plan, this is Unlimited consultations. Under the Platinum plan, this is Unlimited consultations.
 
+### Parent and Baby Care
+
 #### Routine maternity care
 
 Coverage for hospital, obstetricians', midwives' fees for routine childbirth and post-natal care. Available once the mother has been covered for 12 months (24 months in Hong Kong/Singapore). This benefit requires prior authorisation. Under the Silver plan, this is No coverage. Under the Gold plan, this is covered up to $7,000 / €5,500 / £4,500. Under the Platinum plan, this is covered up to $14,000 / €11,000 / £9,000.
@@ -458,9 +460,9 @@ Coverage for up to 10 days routine care following birth and all inpatient/daypat
 
 ---
 
-# International Outpatient
+## International Outpatient
 
-**Optional Module**
+### **Optional Module**
 
 #### Annual overall benefit maximum (International Outpatient)
 
@@ -532,9 +534,9 @@ Coverage for medically necessary outpatient treatment for Hypertension, Type 2 D
 
 ---
 
-# International Health & Wellbeing
+## International Health & Wellbeing
 
-**Optional Module**
+### **Optional Module**
 
 #### Routine adult physical examinations
 
@@ -594,9 +596,9 @@ Long-term psychological support for anxiety and depression with up to 20 face-to
 
 ---
 
-# International Evacuation & Crisis Assistance Plus®
+## International Evacuation & Crisis Assistance Plus®
 
-**Optional Module**
+### **Optional Module**
 
 #### International Medical Evacuation
 
@@ -626,11 +628,60 @@ Coverage for economy class return travel for a family member to visit a benefici
 
 Coverage for living expenses during a compassionate visit (max 10 days per visit). Under the Silver plan, this is covered up to $155 / €125 / £100 per day. Under the Gold plan, this is covered up to $155 / €125 / £100 per day. Under the Platinum plan, this is covered up to $155 / €125 / £100 per day.
 
----
+### CRISIS ASSISTANCE PLUS® Programme
 
-# International Vision & Dental
+#### Crisis Response Procedure
 
-**Optional Module**
+In the event of one of the crisis situations as detailed above, please contact our Customer Care Team. We will transfer you to a FocusPoint crisis consultant who can provide advice and coordinate immediate worldwide assistance. In order to use this service, we are required to pass your name and contact information to FocusPoint International®.
+
+#### Covered Expenses
+
+FocusPoint International® will pay for crisis consulting expenses and other additional expenses per covered response (up to a maximum of two physical incidents per beneficiary per period of cover). These expenses include, but are not limited to:
+
+- **Evacuation Costs:** Emergency political or natural disaster evacuation costs.
+- **Legal Support:** Legal referrals and fees for up to a maximum of 10 days from the date of the crisis event.
+- **Interpretation:** Fees and expenses of an independent interpreter.
+- **Logistics:** Costs of relocations, travel, and accommodations.
+- **Security Personnel:** Fees and expenses of security personnel temporarily deployed solely and directly for the purposes of protecting a beneficiary. This is limited to the country where the crisis event occurred and for a maximum of 45 days from the date of the event.
+
+#### Program Risks and Coverage
+
+The Crisis Assistance Plus® (CAP) programme provides 24/7 on-demand access to FocusPoint International’s global assistance centres for the following ten risks:
+
+- Terrorism
+- Pandemic threat
+- Political violence threats (e.g., strikes, riots, and civil commotion)
+- Natural disasters (threat or occurrence)
+- Violent crimes
+- Disappearances of persons
+- Hijacks response
+- Kidnaps for ransom response
+- Wrongful detentions response
+- Blackmail or extortion response
+
+#### Service Capabilities
+
+Depending on the situation, the programme offers:
+
+- Rapid-response teams and dedicated CAP managers (virtual or telephonic).
+- Experienced security personnel for field rescue, shelter-in-place, and ground evacuations.
+- Nationally recognized crisis communications teams.
+- Specialists for kidnap-for-ransom and extortion response.
+- Emergency-message relay to family members or employers.
+- Point-in-time geographic threat information.
+- Access to a private aviation fleet, launched in as little as 60 minutes (as merited, reasonable, and necessary).
+
+#### Important Limitations and Exclusions
+
+- **Two Incident Limit:** Maximum of two physical incidents per beneficiary per period of cover.
+- **Duration:** Physical incident response is limited to 45 calendar days.
+- **Non-Insurance Status:** This is not an insurance policy. FocusPoint will not reimburse beneficiaries for expenses incurred directly by them; all covered expenses are paid directly by FocusPoint.
+- **Excluded Regions:** No coverage for travel to Afghanistan, Iran, Libya, North Korea, Russia, Somalia, Sudan, Syria, Ukraine, Venezuela, and Yemen.
+- **General Exclusions:** No coverage for search and rescue at sea, ransom payments, business disputes, suicide, or war between major powers (China, France, UK, Russia, USA).
+
+## International Vision & Dental
+
+### **Optional Module**
 
 #### Eye Test
 
@@ -660,7 +711,7 @@ Coverage for dentures, crowns, inlays, dental implants. Available after 12 month
 
 Coverage for orthodontic treatment for beneficiaries aged 18 or younger. Available after 18 months. Under the Silver plan, this is 40% refund. Under the Gold plan, this is 50% refund. Under the Platinum plan, this is 50% refund.
 
-# How Deductible And Cost Share Work
+## How Deductible And Cost Share Work
 
 Our wide range of deductible and cost share options allow you to tailor your plan to suit your budget. You can choose to have a deductible and/or cost share on the International Medical Insurance and/or on the International Outpatient optional module.
 
@@ -720,7 +771,7 @@ The deductible is due before the cost share is calculated. In this example, your
 - **You pay the $375 deductible and $3,925 cost share** (20% of $19,625 is $3,925)
 - **We pay $15,700**
 
-## Important information
+### Important information
 
 You will be responsible for paying the amount of any deductible and cost share directly to the hospital, clinic, medical practitioner or pharmacy.
 
@@ -734,9 +785,9 @@ You can remind yourself of any deductible or cost shares you may have selected b
 
 ---
 
-# Did You Know?
+## Did You Know?
 
-## Additional cover not included as standard
+### Additional cover not included as standard
 
 Cigna Global Health Options plans have four additional optional modules to enhance your health plan:
 
@@ -747,11 +798,11 @@ Cigna Global Health Options plans have four additional optional modules to enhan
 
 You can add any of these modules during the enrolment, at renewal or during your period of cover. Your selection will be on your Certificate of Insurance. You can find this important document under 'Documents' in your online Customer Area.
 
-## Benefits with age restrictions:
+### Benefits with age restrictions:
 
 Policyholders and any beneficiaries must be 18 years old or older to access any care and treatment within the International Health and Wellbeing optional module.
 
-## Core benefits included in every policy:
+### Core benefits included in every policy:
 
 There are some outpatient treatments that are covered under every standard International Health Insurance plan:
 
@@ -764,7 +815,7 @@ There are some outpatient treatments that are covered under every standard Inter
 
 Any deductible you may have chosen as part of your standard International Health Insurance plan will also apply to the outpatient treatments above, with the exception of the Accident and Emergency Room Treatment benefit, where no deductible is applied.
 
-## Additional benefits where deductible is not applied:
+### Additional benefits where deductible is not applied:
 
 Deductibles are not applied to the following benefits as per your policy rules:
 
@@ -781,7 +832,7 @@ Deductibles are not applied to the following optional modules and their benefits
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 ### How to speak to a doctor:
 
@@ -818,102 +869,123 @@ You are not re-underwritten at renewal if you are not making material changes to
 
 ---
 
-# Definitions
+### Definitions
 
-**Annual Renewal Date**
-the anniversary of the start date.
+#### Annual Renewal Date
 
-**Appropriate age intervals**
-child and adolescence age schedule up to age seventeen years old as set out by the American Academy of Pediatrics (AAP).
+The anniversary of the start date.
 
-**Benficiaries, beneficiary**
-anybody named in your Certificate of Insurance as being covered under this policy, including newborn children.
+#### Appropriate age intervals
 
-**Congenital Condition(s)**
-any abnormality, deformity, disease, illness or injury present at birth, whether diagnosed or not.
+Child and adolescence age schedule up to age seventeen years old as set out by the American Academy of Pediatrics (AAP).
 
-**Country of habitual residence**
-the country where a beneficiary habitually resides, as stated in your application.
+#### Beneficiaries, beneficiary
 
-**Country of nationality**
-any country of which a beneficiary is a citizen, national or subject, as state in your application.
+Anybody named in your Certificate of Insurance as being covered under this policy, including newborn children.
 
-**Daypatient**
-a patient who is admitted to a hospital or daypatient unit or other medical facility for treatment or because they need a period of medically supervised recovery, but who does not occupy a bed overnight. An example of daypatient treatment would be attending hospital for chemotherapy as part of cancer treatment or receiving an endoscopy as part of diagnostic testing.
+#### Congenital Condition(s)
 
-**Dental Accident**
-treatment which is medically necessary as part of a beneficiary's recovery following a severe injury or accident which is aimed at restoring the beneficiary to their previous state of health after such an event.
+Any abnormality, deformity, disease, illness or injury present at birth, whether diagnosed or not.
 
-**Emergency treatment**
-treatment which is medically necessary to prevent the immediate and significant effects of illnesses, injuries or conditions which, if left untreated, could result in a significant deterioration in health. Only medical treatment through a physician, medical practitioner and hospitalisation that commences within twenty four (24) hours of the emergency event will be covered.
+#### Country of habitual residence
 
-**Evidence-based treatment**
-treatment which has been researched, reviewed and recognised by:
+The country where a beneficiary habitually resides, as stated in your application.
 
-- the National Institute for Health and Clinical Excellence; or
+#### Country of nationality
+
+Any country of which a beneficiary is a citizen, national or subject, as stated in your application.
+
+#### Daypatient
+
+A patient who is admitted to a hospital or daypatient unit or other medical facility for treatment or because they need a period of medically supervised recovery, but who does not occupy a bed overnight. An example of daypatient treatment would be attending hospital for chemotherapy as part of cancer treatment or receiving an endoscopy as part of diagnostic testing.
+
+#### Dental Accident
+
+Treatment which is medically necessary as part of a beneficiary's recovery following a severe injury or accident which is aimed at restoring the beneficiary to their previous state of health after such an event.
+
+#### Emergency treatment
+
+Treatment which is medically necessary to prevent the immediate and significant effects of illnesses, injuries or conditions which, if left untreated, could result in a significant deterioration in health. Only medical treatment through a physician, medical practitioner and hospitalisation that commences within twenty four (24) hours of the emergency event will be covered.
+
+#### Evidence-based treatment
+
+Treatment which has been researched, reviewed and recognised by:
+
+- The National Institute for Health and Clinical Excellence; or
 - International Clinical Guidelines.
 
-**Formularly drugs list**
+#### Formularly drugs list
+
 A prescription drugs list applicable to all pharmacy claims in the USA. This list is developed by Cigna Healthcare with assistance from our Pharmacy and Therapeutics Committee and is updated twice a year. All the medications included in our formulary drugs list are approved by the U.S. Food and Drug Administration (FDA). Over-the-counter (OTC) medicines (those that do not require a prescription), except insulin, are excluded from our formulary drugs list, unless state or federal law requires coverage of such medicines. We will notify you of any change that affects the coverage of a medication that you are taking at the time of any update.
 
-**Guarantee of payment**
-a binding guarantee made by us to pay a provider the agreed costs associated with a particular treatment which we may give to a beneficiary or a medical facility or medical practitioner.
+#### Guarantee of payment
 
-**Inpatient**
+A binding guarantee made by us to pay a provider the agreed costs associated with a particular treatment which we may give to a beneficiary or a medical facility or medical practitioner.
+
+#### Inpatient
+
 Inpatient means a patient who is admitted to a medical facility and who occupies a bed overnight or longer, for medical reasons. An example of inpatient treatment is undergoing surgery following a heart attack where they will recover in hospital overnight.
 
-**Medical Assistance Service**
-a service which provides medical advice, evacuation, assistance and repatriation in accordance with International Clinical Guidelines. This service can be multilingual and assistance is available twenty four (24) hours per day.
+#### Medical Assistance Service
 
-**Medically necessary/medical necessity**
-medically necessary covered services and supplies are those determined in accordance with International Clinical Guidelines by the medical team to be:
+A service which provides medical advice, evacuation, assistance and repatriation in accordance with International Clinical Guidelines. This service can be multilingual and assistance is available twenty four (24) hours per day.
 
-- required to diagnose or treat an illness, injury, disease or its symptoms;
-- orthodox, and in accordance with generally accepted standards of medical practice;
-- clinically appropriate in terms of type, frequency, extent, site and duration;
-- not primarily for the convenience of the beneficiary, medical practitioner or medical facility; and
-- rendered in the least intensive setting that is appropriate for the delivery of the services and supplies.
+#### Medically necessary/medical necessity
+
+Medically necessary covered services and supplies are those determined in accordance with International Clinical Guidelines by the medical team to be:
+
+- Required to diagnose or treat an illness, injury, disease or its symptoms;
+- Orthodox, and in accordance with generally accepted standards of medical practice;
+- Clinically appropriate in terms of type, frequency, extent, site and duration;
+- Not primarily for the convenience of the beneficiary, medical practitioner or medical facility; and
+- Rendered in the least intensive setting that is appropriate for the delivery of the services and supplies.
 
 Where applicable, the medical team may compare the cost effectiveness of alternative services, settings or supplies when determining what the least intensive setting is.
 
-**Medical Facilties**
-this includes any organisation or institution which is registered or licensed as a medical or surgical clinic and/or hospital in the country in which it is located where the beneficiary is under the daily care or supervision of a medical practitioner or qualified nurse.
+#### Medical Facilities
 
-**Medical Practitioners**
-a doctor, specialist, qualified nurse or therapist (including speech therapies, dietician or orthoptist), dental surgeon or dental pracittioner who is registered, suitably qualified or licensed to practice medicine or provide treatment under the laws of the country, state or other regulated area in which the treatment is provided, and who is not covered under this policy, or a family member of someone covered under this policy.
+This includes any organisation or institution which is registered or licensed as a medical or surgical clinic and/or hospital in the country in which it is located where the beneficiary is under the daily care or supervision of a medical practitioner or qualified nurse.
 
-**Outpatient**
+#### Medical Practitioners
+
+A doctor, specialist, qualified nurse or therapist (including speech therapies, dietician or orthoptist), dental surgeon or dental practitioner who is registered, suitably qualified or licensed to practice medicine or provide treatment under the laws of the country, state or other regulated area in which the treatment is provided, and who is not covered under this policy, or a family member of someone covered under this policy.
+
+#### Outpatient
+
 Outpatient means a patient who attends a hospital outpatient department, consulting room, outpatient clinic or other outpatient medical facility for treatment but is not admitted as a daypatient or an inpatient and does not occupy a bed. An example of outpatient treatment would be visiting an outpatient clinic to undergo a mole removal where you are not required to be admitted to hospital and do not require general anaesthetic for the procedure.
 
-**Period of cover**
-this policy has a minimum period of cover of three (3) and a maximum period of cover of twelve (12) months renewable. The period of cover is from the start date to the end date as noted in the Certificate of Insurance or earlier if terminated in accordance with the Policy Rules.
+#### Period of cover
 
-**Policy**
-the Policy comprising of:
+This policy has a minimum period of cover of three (3) and a maximum period of cover of twelve (12) months renewable. The period of cover is from the start date to the end date as noted in the Certificate of Insurance or earlier if terminated in accordance with the Policy Rules.
 
-- the policyholder's Application and any declarations that they made during their enrolment for them and any beneficiaries in the application;
-- the Policy Rules;
-- this Customer Guide (which contains the list of benefits and claiming information);
-- your Certificate of Insurance (shows the policy number, the annual premium, the start date, the deductible and/or cost share amount if selected, details of who is covered, any special exclusions that have been removed at an aditional premium and the heatlth plan and selected options where applicable), and;
-- your Cigna Healthcare ID Card.
+#### Policy
 
-**Prior authorisation/prior approval**
-refers to the formal process of contacting us to obtain confirmation that the medical treatment will be covered and that the medical facility considered is a Cigna Healthcare approved medical provider that meets the Cigna Healthcare quality standards. The approval by us will be based on our medical necessity review process performed by our medical team and we may issue a guarantee of payment, if required, as part of that review. The medical treatment that requires prior authorisation are clearly indicated in the list of benefits in your customer guide. Failure to obtain the required prior authorisation from us will result in reducing the amount which we will pay towards that treatment.
+The Policy comprising of:
 
-**Selected area of coverage**
-means either:
+- The policyholder's Application and any declarations that they made during their enrolment for them and any beneficiaries in the application;
+- The Policy Rules;
+- This Customer Guide (which contains the list of benefits and claiming information);
+- Your Certificate of Insurance (shows the policy number, the annual premium, the start date, the deductible and/or cost share amount if selected, details of who is covered, any special exclusions that have been removed at an additional premium and the health plan and selected options where applicable), and;
+- Your Cigna Healthcare ID Card.
+
+#### Prior authorisation/prior approval
+
+Refers to the formal process of contacting us to obtain confirmation that the medical treatment will be covered and that the medical facility considered is a Cigna Healthcare approved medical provider that meets the Cigna Healthcare quality standards. The approval by us will be based on our medical necessity review process performed by our medical team and we may issue a guarantee of payment, if required, as part of that review. The medical treatment that requires prior authorisation are clearly indicated in the list of benefits in your customer guide. Failure to obtain the required prior authorisation from us will result in reducing the amount which we will pay towards that treatment.
+
+#### Selected area of coverage
+
+Means either:
 
 - Worldwide, including USA (every country throughout the world, excluding any country with whom, at the date of commencement of treatment, the Federal Government of the USA has prohibited trade to the extent that payments are illegal under applicable law.); or
 - Worldwide, excluding USA (worldwide, with the exception of the USA).
 
-**Treatment**
-any surgery or medical treatment controlled by a medical practitioner and takes place in a medical facility that is medically necessary to diagnose, cure or substantially relieve disease, illness or injury.
+#### Treatment
 
----
+Any surgery or medical treatment controlled by a medical practitioner and takes place in a medical facility that is medically necessary to diagnose, cure or substantially relieve disease, illness or injury.
 
-# Important Information
+## Important Information
 
-## Dental exclusions
+### Dental exclusions
 
 The following exclusions apply to dental treatment, in addition to those set out elsewhere in this policy and in your Certificate of Insurance.
 
@@ -949,11 +1021,11 @@ We will not pay for:
 
 ---
 
-# Medical Evacuation & Repatriation
+## Medical Evacuation & Repatriation
 
 The following important notes and general conditions apply to all of the cover which is provided under the International Medical Evacuation option.
 
-## Important notes
+### Important notes
 
 The services described in this section are provided or arranged by the medical assistance service under this policy. The following conditions apply to both emergency medical evacuations and repatriations:
 
@@ -969,7 +1041,7 @@ The services described in this section are provided or arranged by the medical a
 - We will not approve or pay for an evacuation or repatriation if, in our reasonable opinion, it is not appropriate, or if it is against medical advice. In coming to a decision as to whether an evacuation or repatriation is appropriate, we will refer to established clinical and medical practice;
 - From time to time we may carry out a review of this cover and reserve the right to contact you to obtain further information when it is reasonable for us to do so.
 
-## General conditions
+### General conditions
 
 - Where local conditions make it impossible, impractical, or unreasonably dangerous to enter an area, for example because of political instability or war, we may not be able to arrange evacuation or repatriation services. This policy does not guarantee that evacuation or repatriation services will always be available when requested, even if they are medically appropriate.
 - We will only pay for hospital accommodation for as long as the beneficiary is being treated. We will not pay for hospital accommodation if a beneficiary is no longer being treated but is waiting for a return flight.
@@ -982,42 +1054,3 @@ The services described in this section are provided or arranged by the medical a
   - the medical equipment and medical personnel to be used; and
   - the destination to which the beneficiary should be transported;
   - will be made by our medical team, after consultation with the medical practitioners who are treating the beneficiary, taking into account all of the relevant medical factors and considerations.
-
----
-
-# Improving the health and vitality of those we serve.
-
----
-
-# Want To Get In Touch?
-
-If you have any questions about your policy, need to get approval for treatment, or for any other reason, please contact our Customer Care team 24 hours a day, 7 days a week, 365 days a year.
-
-**Use your Customer Area**
-
-- Live chat with us
-- Message us
-- Arrange a call back
-
-**Alternatively, you can email us at:**
-cignaglobal_customer.care@cigna.com
-
-**Call Us**
-
-- **International:** +44 (0) 1475 788 182
-- **USA:** 800 835 7677 (toll free)
-- **Hong Kong:** 2297 5210 (toll free)
-- **Singapore:** 800 186 5047 (toll free)
-
-Details of the Cigna Healthcare company who provides the cover under your policy can be found in your Policy Rules and on your Certificate of Insurance.
-
-If your policy is insured by Cigna Europe Insurance Company S.A.-N.V. Singapore Branch, the following statement applies: Cigna Europe Insurance Company S.A.-N.V. Singapore Branch (Registration Number: T10FC0145E), is a foreign branch of Cigna Europe Insurance Company S.A.-N.V., registered in Belgium with limited liability, with its registered office at 152 Beach Road, #33-05/06 The Gateway East, Singapore 189721. This policy is protected under the Policy Owners' Protection Scheme which is administered by the Singapore Deposit Insurance Corporation (SDIC). Coverage for your policy is automatic and no further action is required from you. For more information on the types of benefits that are covered under the scheme as well as the limits of coverage, where applicable, please contact us or visit the General Insurance Association (GIA) or SDIC websites (www.gia.org.sg or www.sdic.org.sg).
-
-\*For certain queries, our Customer Service team may direct you to our in-house team of specialists who are available during working hours (Monday to Friday from 8am to 8pm CET).
-
-For policies arranged through our Dubai International Finance Centre office, under insurance license Cigna Global Insurance Company Limited, the underwriting agent is Cigna Insurance Management Services (DIFC) Limited which is regulated by the Dubai Financial Services Authority.
-
-"Cigna Healthcare" is a registered service mark of Cigna Intellectual Property, Inc.. licensed for use by The Cigna Group and its operating subsidiaries. All products and services are provided by or through such operating subsidiaries, and not by The Cigna Group. Such operating subsidiaries include Cigna Global Insurance Company Limited, Cigna Life Insurance Company of Europe S.A.-N.V., Cigna Europe Insurance Company S.A.-N.V. and Cigna Worldwide General Insurance Company Limited. 2024 Cigna Healthcare
-
-591048 CGHO Customer Guide EN 02/2025
-cigna healthcare

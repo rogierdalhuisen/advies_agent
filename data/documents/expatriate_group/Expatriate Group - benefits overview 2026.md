@@ -1,10 +1,10 @@
 # International Private Medical Insurance - Benefit Schedule (Page 2)
 
-## Annual Aggregate Maximum
+### Annual Aggregate Maximum
 
 The annual aggregate maximum coverage limit varies by plan type. Under the Select plan, the annual aggregate maximum is €/£/$5,000,000. Under the Primary+ plan, the annual aggregate maximum is €/£/$1,500,000. Under the Primary+ lite plan, the annual aggregate maximum is €/£/$1,000,000. Under the Primary plan, the annual aggregate maximum is €/£/$1,000,000.
 
-## Assistance Services and Special Benefits
+### Assistance Services and Special Benefits
 
 #### Emergency Medical Transportation
 
@@ -46,7 +46,7 @@ The coverage for terminal and palliative care treatment for an insured person di
 
 The coverage for treatment related to Human Immunodeficiency Virus, Acquired Immune Deficiency Syndrome, or AIDS Related Complex and any related illnesses. Under the Select plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. Under the Primary+ plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. Under the Primary+ lite plan, this benefit is limited to €/£/$50,000 per insured person per lifetime. This benefit is not available under the Primary plan.
 
-## Maternity
+### Maternity
 
 #### Complications of Pregnancy
 
@@ -76,7 +76,7 @@ The coverage for home nursing services provided by a qualified government licens
 
 The coverage for medically necessary treatment received by a newborn child from the date of birth until 30 days following hospital discharge, subject to the newborn being added to the policy within fourteen days of birth. Under the Select plan, this benefit is limited to €/£/$25,000 per newborn, excluding costs incurred in first 12 months. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
-## Dental
+### Dental
 
 #### Accidental Emergency Dental Treatment
 
@@ -96,13 +96,13 @@ The coverage for complex and major restorative dental procedures including perio
 
 Dental benefits (except Accidental) are subject to a 20% co-pay.
 
-## Optical
+### Optical
 
 #### Examinations & Lenses (including contact lenses)
 
 The coverage for eye examinations and, where there is a change to the prescription, the cost of prescription lenses including standard contact lenses. Under the Select plan, this benefit is limited to €/£/$150 per insured person per annum. This benefit is not available under the Primary+, Primary+ lite, or Primary plans.
 
-## Preventative
+### Preventative
 
 #### Medical Check-up
 

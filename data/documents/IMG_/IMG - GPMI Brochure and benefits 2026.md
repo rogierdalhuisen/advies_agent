@@ -67,10 +67,6 @@ Our international and U.S. provider networks include more than one million physi
 
 You can feel confident with IMG knowing our industry expertise has led us to serve millions of customers worldwide since 1990. Owned by SiriusPoint, a multi-billion-dollar insurance industry leader and rated "A-" by A.M. Best, an independent analyst of the insurance industry, IMG has a strong financial backing and vision to become the preeminent provider of travel and health safety solutions. With loyal customers ranging from Fortune 500 companies, universities, to individuals and other insurance companies, our personalized offerings allow us to meet the needs of nearly anyone traveling internationally.
 
----
-
-## PHYSICAL HEALTH
-
 ## PLAN DETAILS: Summary Schedule of Benefits
 
 All benefits, including full refunds, are conditional upon charges being reasonable and customary.

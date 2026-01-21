@@ -1100,9 +1100,10 @@ We can view your data (and that of the insured persons) at the Foundation Centra
 
 ---
 
-# Glossary
+## Glossary
 
-**Alternative healer or therapist**
+#### Alternative healer or therapist
+
 One of these alternative healers or therapists:
 
 - doctor-acupuncturist, acupuncturist, or physiotherapist-acupuncturist;
@@ -1115,22 +1116,28 @@ One of these alternative healers or therapists:
 - osteopath;
 - chiropractor.
 
-**Important documents**
+#### Important documents
+
 Passports, driver's licenses, vehicle registration certificates, insurance certificates, tourist cards, laissez-passers, visas, identity cards, transport tickets, and travel documents for your trip.
 
-**Salvage costs**
+#### Salvage costs
+
 Costs of exceptional measures that must be made to prevent or reduce immediately threatening damage.
 
-**Break-in**
+#### Break-in
+
 There is break-in if someone enters without permission or unlawfully by breaking locks. There must be visible traces of damage on the outside of the locks.
 
-**Current value**
+#### Current value
+
 The value of the item immediately before the event. For determining the current value, the original purchase value or appraisal value is taken into account minus a reasonable amount due to depreciation from age or wear.
 
-**Emigrant**
+#### Emigrant
+
 Someone who settles abroad without the intention to settle in the Netherlands again at some point. This is in any case so if someone (also) adopts the nationality of another country or marries someone with the nationality of the country of residence.
 
-**Family member in the first or second degree**
+#### Family member in the first or second degree
+
 By this we mean the following persons:
 
 - partner;
@@ -1142,13 +1149,16 @@ By this we mean the following persons:
 - grandparents;
 - grandchildren.
 
-**Event**
+#### Event
+
 An uncertain occurrence or a series of uncertain occurrences. In case of a series, the uncertain occurrences must be related to each other. In case of a series, the cause of the damage must also be the same. For an uncertain occurrence, we use the definition of uncertainty as stated in the Civil Code (article 7:925). This means among other things that at the time you take out the package it must be uncertain whether damage will occur. We can also use a different definition. Then we must expressly agree on this with you.
 
-**Money**
+#### Money
+
 Cash, credit cards and debit cards, chip cards, banknotes, checks, travelers checks, postal or money orders, fuel cards, food, holiday and credit vouchers, and airport tax vouchers.
 
-**Dangerous sports**
+#### Dangerous sports
+
 Sports and activities that carry a more than normal risk. By this we mean in any case:
 
 - base jumping, bobsledding, bouldering, cave diving, cliff diving, cliff jumping, diving to wrecks or at depths of more than 40 meters, ice climbing, ice hockey, formation skydiving, free climbing, free diving, gliding, gorge swinging, heli-skiing, ice caving, ice diving, hunting, luge, mountain biking with a high difficulty level (red or black trails) or off trails in risky terrain, equestrian sports (jumping), paraskiing, tobogganing, rodeo, off-piste skiing without guide or instructor, off-piste skiing if there is an avalanche risk of 2 or higher, ski jumping, ski flying, ski stunts, ski-alpinism, solo ocean sailing, skeleton, speed skiing, stunt flying, tobogganing, combat and self-defense sports, ocean sailing outside territorial waters, and zorbing.
@@ -1163,13 +1173,16 @@ The following sports are also considered dangerous if practiced without professi
 
 Do you doubt whether your sport or activity is a dangerous sport? Then contact your ISIS insurance advisor in advance. Do you practice a risky but not dangerous sport? Then always take appropriate measures, such as wearing a helmet.
 
-**You/your**
+#### You/your
+
 In these conditions we mean by 'you': the person who takes out the insurance with us as the main insured. You are on the policy as the policyholder. You have taken out the insurance for yourself and possibly your family. The persons for whom the insurance has been taken out are the insured persons. The policy states who are insured. In these conditions we address you. The conditions of course also apply to the (co-)insured persons. So if it says that 'you' are insured in a certain situation, this also applies to the (co-)insured persons. And do we ask you to do or not do something? Then this also applies to your (co-)insured persons.
 
-**Nuclear installation**
+#### Nuclear installation
+
 By 'nuclear installation' is meant a nuclear installation within the meaning of the Nuclear Damage Liability Act (Staatsblad 1979-225), as well as a nuclear installation on board a ship.
 
-**Civil commotion**
+#### Civil commotion
+
 Civil commotion includes:
 
 - Armed conflict: any case in which states or other organized parties fight each other, or one the other, using military means. Armed conflict also includes the armed action of a United Nations peacekeeping force.
@@ -1179,7 +1192,8 @@ Civil commotion includes:
 - Riot: a local, large-scale and violent action of a group of people, directed against the public authority of a state.
 - Mutiny: a more or less organized large-scale movement of members of an armed force, directed against the authority under which they are placed. By authority is meant not only Dutch authority but also authority from the European Union, NATO, or the United Nations.
 
-**Accident**
+#### Accident
+
 Sudden and unexpected violence acting on your body from the outside. This violence must have caused you to suffer bodily injury directly and in one instant. This injury must be medically determinable. The following is also understood to be an accident.
 
 - Acute poisoning. You are acutely poisoned if you suddenly and unintentionally: took in gases; vapors; liquid or solid substances. Are you poisoned by the use of medicines or because you took in substances that caused an allergic reaction? Then we do not provide a benefit.
@@ -1190,13 +1204,15 @@ Sudden and unexpected violence acting on your body from the outside. This violen
 - Wound infection or blood poisoning. This must have arisen because pathogens entered an injury. This only applies if this injury is the result of a covered accident.
 - Worsening or complications of injury. This injury must be the result of a covered accident. And the worsening or complications must be a direct result of first aid. Or of the medical treatment.
 
-**Unlawful act**
+#### Unlawful act
+
 An unlawful act is:
 
 - an infringement of a right; or
 - an act or omission contrary to a legal duty or to what is proper according to unwritten law in social interaction.
 
-**Intent**
+#### Intent
+
 There is intent if you do or fail to do something whereby you:
 
 - have the intention to cause damage and/or the accident (intent as purpose);
@@ -1204,19 +1220,24 @@ There is intent if you do or fail to do something whereby you:
 - do not have the intention to cause damage and/or the accident, but you accept the considerable chance that damage will occur. And yet you act (do not act) so (conditional intent).
   Intent is objectively derived from the facts, circumstances, and/or your behaviors. It doesn't matter whether damage occurred to the property of this insured person or to the property of other insured persons.
 
-**Personal injury**
+#### Personal injury
+
 This is injury to a person. There must be injury or impairment of health. The person can also die. Personal injury also includes all damage resulting from this.
 
-**Damage expert**
+#### Damage expert
+
 Someone who assesses information based on which we determine the right to a payout.
 
-**Insured person(s)**
+#### Insured person(s)
+
 Those stated on the policy schedule. In these conditions, the insured person is also referred to as 'you'.
 
-**USA**
+#### USA
+
 United States of America.
 
-**Valuables**
+#### Valuables
+
 By valuables is meant:
 
 - photo, film, video, image, audio equipment including accessories;
@@ -1228,11 +1249,14 @@ By valuables is meant:
 - (sun)glasses, optical instruments, binoculars, telescopes;
 - other items with a replacement value of more than € 250,-.
 
-**We/us/our**
+#### We/us/our
+
 ISIS (International Student Insurance Services). ISIS has been a trade name of Goudse Schadeverzekeringen N.V. since 1952. Goudse Schadeverzekeringen N.V. is registered as a non-life insurer with the Dutch Authority for the Financial Markets (AFM). De Goudse is a provider of insurance and other financial products. De Goudse is located in Gouda at Bouwmeesterplein 1 (postal address: P.O. Box 9, 2800 MA Gouda).
 
-**Property damage**
+#### Property damage
+
 Damage to items, buildings, or animals. There must be damage, destruction, or loss of property. Property damage also includes all damage resulting from this. It must concern property that is not owned by the insured person.
 
-**Hospital**
+#### Hospital
+
 An institution that the competent government authority has recognized as a hospital or sanatorium. The institution is intended for nursing, examination, or treatment of the sick.

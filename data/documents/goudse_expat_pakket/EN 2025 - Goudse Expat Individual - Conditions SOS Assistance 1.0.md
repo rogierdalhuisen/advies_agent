@@ -40,7 +40,10 @@ SOS assistance is intended for emergency situations during a stay abroad. If an 
 
 ### 1.1 What is, and what is not insured?
 
-**1.1.1 What is insured?**
+This section provides a summary of the covered extraordinary expenses and specific exclusions applicable to the SOS assistance insurance.
+
+#### 1.1.1 What is insured?
+
 You are insured for extraordinary expenses. Below you can read briefly what this entails. Do you want to know exactly what is reimbursed and when? Then read article 2.
 
 - You are insured for costs incurred as a result of the medical evacuation of an insured person.
@@ -48,7 +51,8 @@ You are insured for extraordinary expenses. Below you can read briefly what this
 - If a family member in the first or second degree becomes seriously ill, or does such a family member die? Then you are insured for the costs that the insured person incurs to return to the home country.
 - Expenses related to the death of an insured person and the tracing, rescue or recovery of an insured person are also insured. We only reimburse these costs if they are unforeseen and unexpected.
 
-**1.1.2 What is not insured?**
+#### 1.1.2 What is not insured?
+
 The insurances of your Individual Expatriate Package have extensive coverage. However, we do not reimburse everything. In addition to the exclusions in the general terms and conditions, the SOS assistance insurance has the following exclusions.
 
 - The insured is not insured for costs that are not uncertain at the time the insurance is taken out. We therefore do not reimburse SOS assistance if:
@@ -58,6 +62,10 @@ The insurances of your Individual Expatriate Package have extensive coverage. Ho
 - The insured is not insured at sea outside territorial waters. Are you back within territorial waters or on the mainland? Then you are again insured for extraordinary costs.
 
 ### 1.2 Where is the insured covered?
+
+The geographic scope of this insurance is defined below.
+
+#### 1.2.1 Coverage area
 
 The insured has worldwide coverage.
 
@@ -71,7 +79,7 @@ This article explains what we reimburse per event or treatment.
 
 This article explains what we reimburse per event or treatment. The maximum compensation for all travel and accommodation costs below together is €7.500 per insurance year.
 
-**2.1.1 Early return of the insured(s)**
+#### 2.1.1 Early return of the insured(s)
 
 **What do we reimburse?**
 
@@ -85,7 +93,7 @@ This article explains what we reimburse per event or treatment. The maximum comp
 - At the time of applying for the insurance, it was not foreseeable that this family member would die or be in mortal danger.
 - Approval was given by De Goudse Alarmcentrale.
 
-**2.1.2 Family members travelling to the country of residence if the insured is in mortal danger.**
+#### 2.1.2 Family members travelling to the country of residence if the insured is in mortal danger.
 
 **What do we reimburse?**
 
@@ -98,7 +106,7 @@ This article explains what we reimburse per event or treatment. The maximum comp
 - The insured has not yet died before the time of departure.
 - Approval has been given by De Goudse Alarmcentrale.
 
-**2.1.3 Unexpectedly longer stay outside the country of residence**
+#### 2.1.3 Unexpectedly longer stay outside the country of residence
 
 **What do we reimburse?**
 
@@ -114,7 +122,9 @@ This article explains what we reimburse per event or treatment. The maximum comp
 
 ### 2.2 Death
 
-**2.2.1 Transport of the remains of an insured person**
+This section details the reimbursements and arrangements provided in the event of the death of an insured person.
+
+#### 2.2.1 Transport of the remains of an insured person
 
 **What do we reimburse?**
 
@@ -134,7 +144,7 @@ This article explains what we reimburse per event or treatment. The maximum comp
 
 - We do not reimburse the costs of cremation or burial in the home country.
 
-**2.2.2 Burial or cremation in the country of temporary residence**
+#### 2.2.2 Burial or cremation in the country of temporary residence
 
 **What do we reimburse?**
 
@@ -146,6 +156,10 @@ This article explains what we reimburse per event or treatment. The maximum comp
 - Approval has been given by De Goudse Alarm Center.
 
 ### 2.3 Costs of search, rescue, and recovery
+
+Coverage details for emergency locating and rescue operations.
+
+#### 2.3.1 Search and rescue operations
 
 **What do we reimburse?**
 
@@ -160,7 +174,7 @@ This article explains what we reimburse per event or treatment. The maximum comp
 
 Medical evacuation may be necessary if the medically necessary treatment is not possible at the place of residence. The Goudse Alarm Center then determines in which hospital this medically necessary assistance can be provided. The insured person is evacuated to this hospital. Even if this is a hospital in another country.
 
-**2.4.1 Medical evacuation of the insured person**
+#### 2.4.1 Medical evacuation of the insured person
 
 **What do we reimburse?**
 
@@ -173,7 +187,7 @@ Medical evacuation may be necessary if the medically necessary treatment is not 
 - The Goudse Alarm Center assesses at the time of the report whether the treatment is medically necessary.
 - The Goudse Alarm Center carries out the evacuation itself or has it carried out.
 
-**2.4.2 Costs of one accompanying insured person**
+#### 2.4.2 Costs of one accompanying insured person
 
 **What do we reimburse?**
 
@@ -184,7 +198,7 @@ Medical evacuation may be necessary if the medically necessary treatment is not 
 - The insured person who is being evacuated is in mortal danger; or
 - The insured person who is being evacuated is a child under the age of 21.
 
-**2.4.3 Return journey after medical evacuation**
+#### 2.4.3 Return journey after medical evacuation
 
 **What do we reimburse?**
 
@@ -205,9 +219,17 @@ If an insured party has suffered damage, they naturally want it to be compensate
 
 ### 3.1 What should an insured party do in the event of damage or illness, or an accident or death?
 
+Procedures for reporting incidents and contacting the appropriate assistance centers.
+
+#### 3.1.1 Reporting an incident
+
 It depends on the situation how an insured party contacts us. In some cases, there is an obligation to immediately call De Goudse Alarm Centre. In other cases, it is sufficient to send a claim form.
 
 ### 3.2 What information is required in the event of damage or illness, or an accident or death?
+
+A list of documentation necessary to process a claim for reimbursement.
+
+#### 3.2.1 Required documentation for claims
 
 Has an insured party incurred extraordinary costs or medical expenses? Then you or an insured party send us:
 
@@ -222,7 +244,12 @@ Has an insured party incurred extraordinary costs or medical expenses? Then you 
 
 ## Glossary
 
-**Extraordinary costs**
+### Explanation
+
+This section provides definitions for key terms used in this policy.
+
+#### Extraordinary costs
+
 Extraordinary costs are costs that you could not have foreseen. Extraordinary costs are for example:
 
 - costs to trace you or your family members if you are missing;
@@ -230,13 +257,16 @@ Extraordinary costs are costs that you could not have foreseen. Extraordinary co
 - in the event of death abroad: the costs of bringing the mortal remains to the home country.
 - costs of transporting sick or injured people under medical supervision.
 
-**Day care**
+#### Day care
+
 With day care, an insured person receives less than 24 hours of (bed) care in a hospital. This is necessary because an examination or treatment takes place on the same day. A specialist carries out the examination or treatment.
 
-**Europe**
+#### Europe
+
 Europe, including Iceland, the countries bordering the Mediterranean, the Baltic and the Black Sea, Madeira, the Canary Islands, the Azores and the Commonwealth of Independent States (CIS) in the east up to the Oerol Mountains.
 
-**Family member in the first or second degree**
+#### Family member in the first or second degree
+
 This includes the following persons:
 
 - Spouse
@@ -248,10 +278,12 @@ This includes the following persons:
 - Grandfathers and grandmothers
 - Grandchildren
 
-**General practitioner**
+#### General practitioner
+
 A doctor who practices general practice. This means that the doctor provides general practitioner care at the insured person's home and/or during the doctor's consultation hours. The general practitioner's practice is located in the foreign place of residence of the insured person or in the immediate vicinity thereof.
 
-**Children**
+#### Children
+
 This includes:
 
 - Minor children, including foster children and stepchildren.
@@ -260,29 +292,38 @@ This includes:
   - live away from home for a study (full-time daytime education).
 - Unmarried children, including foster and stepchildren, who live in a nursing home in the home country that is recognized by the government.
 
-**Country of temporary residence**
+#### Country of temporary residence
+
 This is the country where the insured person lives and works outside his home country.
 
-**Medical necessity**
+#### Medical necessity
+
 The necessity of nursing, examination, or treatment according to generally recognized medical-scientific standards.
 
-**Travel expenses**
+#### Travel expenses
+
 Costs of transport according to the lowest class (for example, second class for train transport in the Netherlands). The Goudse Alarmcentrale designates the means of transport.
 
-**Specialist**
+#### Specialist
+
 A practicing physician who is authorised to work as a specialist at the place of treatment, in accordance with the standards that apply there.
 
-**You/your**
+#### You/your
+
 The person who entered into the insurance contract. You are listed on the policy schedule as the policyholder. You have taken out the insurance for yourself and/or other persons. These are the insured.
 
-**Accommodation costs**
+#### Accommodation costs
+
 Costs for staying in a hotel or guesthouse.
 
-**Insured person(s)**
+#### Insured person(s)
+
 Every person listed as insured on the policy. This can be you and your family members or your employee and his or her family members.
 
-**We/us/our**
+#### We/us/our
+
 Goudse Schadeverzekeringen N.V., also abbreviated as De Goudse.
 
-**Hospital**
+#### Hospital
+
 A facility that the competent government agency has recognized as a hospital or sanatorium. The facility is intended for nursing, research, or treatment of the sick.
