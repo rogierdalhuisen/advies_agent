@@ -9,7 +9,6 @@ from typing import List, Optional
 from src.ingestion.config.settings import IngestionSettings, load_settings
 from src.ingestion.loaders.markdown_loader import MarkdownLoader
 from src.ingestion.chunkers.base import Chunk
-from src.ingestion.chunkers.hierarchical import HierarchicalChunker
 from src.ingestion.chunkers.hybrid import HybridChunker
 from src.ingestion.embedders.factory import EmbedderFactory
 from src.ingestion.indexers.qdrant_indexer import QdrantIndexer
@@ -44,20 +43,14 @@ class IngestionPipeline:
         documents_dir = Path(self.settings.documents_dir)
         self.loader = MarkdownLoader(base_documents_dir=documents_dir)
 
-        # Chunker (hierarchical or hybrid)
-        if self.settings.chunking.strategy == "hierarchical":
-            self.chunker = HierarchicalChunker(
-                headers_to_split=self.settings.chunking.headers_to_split,
-                strip_headers=self.settings.chunking.strip_headers
-            )
-        else:  # hybrid
-            self.chunker = HybridChunker(
-                headers_to_split=self.settings.chunking.headers_to_split,
-                max_chunk_size=self.settings.chunking.max_chunk_size,
-                chunk_overlap=self.settings.chunking.chunk_overlap,
-                size_threshold=self.settings.chunking.size_threshold,
-                strip_headers=self.settings.chunking.strip_headers
-            )
+        # Chunker (hybrid only - always prepends headers to chunks)
+        self.chunker = HybridChunker(
+            headers_to_split=self.settings.chunking.headers_to_split,
+            max_chunk_size=self.settings.chunking.max_chunk_size,
+            chunk_overlap=self.settings.chunking.chunk_overlap,
+            size_threshold=self.settings.chunking.size_threshold,
+            strip_headers=self.settings.chunking.strip_headers
+        )
 
         # Embedder
         self.embeddings = EmbedderFactory.create(self.settings.embedding)

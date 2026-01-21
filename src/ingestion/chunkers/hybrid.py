@@ -25,7 +25,7 @@ class HybridChunker(Chunker):
         max_chunk_size: int = 1000,
         chunk_overlap: int = 100,
         size_threshold: int = 800,
-        strip_headers: bool = False
+        strip_headers: bool = True
     ):
         """
         Initialize hybrid chunker.
@@ -35,17 +35,18 @@ class HybridChunker(Chunker):
             max_chunk_size: Maximum characters per chunk
             chunk_overlap: Overlap between size-based chunks
             size_threshold: Split chunks larger than this
-            strip_headers: Whether to remove headers from content
+            strip_headers: Whether to remove headers from content (always True, headers prepended manually)
         """
         self.max_chunk_size = max_chunk_size
         self.chunk_overlap = chunk_overlap
         self.size_threshold = size_threshold
-        self.strip_headers = strip_headers
+        # Always strip headers - we'll prepend them manually to all chunks
+        self.strip_headers = True
 
         # Hierarchical splitter
         self.header_splitter = MarkdownHeaderTextSplitter(
             headers_to_split_on=headers_to_split,
-            strip_headers=strip_headers
+            strip_headers=True
         )
 
         # Size-based splitter for large chunks
@@ -82,6 +83,9 @@ class HybridChunker(Chunker):
             if header_doc.metadata:
                 chunk_metadata.update(header_doc.metadata)
 
+            # Build header context for this chunk
+            header_context = self._build_header_context(chunk_metadata)
+
             # Check if chunk is too large
             if len(chunk_text) > self.size_threshold:
                 # Split large chunk while preserving header context
@@ -93,9 +97,15 @@ class HybridChunker(Chunker):
                 final_chunks.extend(sub_chunks)
                 global_chunk_index += len(sub_chunks)
             else:
+                # Prepend header context to chunk content
+                if header_context:
+                    content_with_headers = f"{header_context}\n\n{chunk_text}"
+                else:
+                    content_with_headers = chunk_text
+
                 # Keep chunk as is
                 chunk = Chunk(
-                    content=chunk_text,
+                    content=content_with_headers,
                     metadata=chunk_metadata,
                     chunk_index=global_chunk_index
                 )
