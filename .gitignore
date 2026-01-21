@@ -11,3 +11,4 @@ logs/
 data/documents/chunks/
 
 src/retrieval/notebook.ipynb
+notebooks/
