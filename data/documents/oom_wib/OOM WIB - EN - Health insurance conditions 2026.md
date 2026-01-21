@@ -607,7 +607,7 @@ The reimbursement for the costs of direct transport of mortal remains to the cou
 - any other costs for the transport of mortal remains.
   The costs of carrying ritual ablutions, burial or cremation are not covered.
 
-## Special costs
+### Special costs
 
 We reimburse the following special costs:
 
@@ -634,27 +634,70 @@ The War and Kindred Risks cover does not cover the following situations:
 
 In the following situations we will not reimburse the costs of treatment due to illness or accident, unless explicitly stated otherwise on your policy sheet.
 
-We will not reimburse any costs in respect of:
+### We will not reimburse any costs in respect of:
 
-- **Home medicine cabinet and/or over-the-counter medicines.** Costs of over-the-counter medicines, including when prescribed by a doctor.
-- **Vitamins and dietary supplements.**
-- **Malaria medication and vaccinations.** The costs of malaria prophylaxis and vaccinations not listed in clause 7.
-- **Dentures.**
-- **Addiction care.** Cost of staying in an addiction treatment institution.
-- **Gender operations.** Cost of sex change surgery and associated costs.
-- **Surrogacy.** Costs for pregnancy, childbirth and maternity care in the case of surrogacy. This also applies to unexpected emergencies.
-- **Medical examinations and certificates.** Costs for medical examinations and certificates for medical checks that are required to obtain a job or, for example, a driving licence, or suitability for a particular sport.
-- **WLZ or WMO.** Costs of treatments or provisions that fall under the Dutch Long-Term Care Act (WLZ) or Social Support Act (WMO), such as home care, unless we explicitly mention them in these conditions.
+#### Home medicine cabinet and/or over-the-counter medicines.
 
-The following situations are not covered by this insurance:
+Costs of over-the-counter medicines, including when prescribed by a doctor.
 
-- **Nuclear reaction.** If the damage or loss is caused by a nuclear reaction, other than in medical treatment applied to the insured person.
-- **Other insurance.** If you had not taken out this insurance, would you be able to make a claim for compensation, payment or assistance under another insurance policy, legislation or other provision? In that case, this insurance with OOM shall be the 'payer of last resort'. In any event, we will only reimburse you for costs incurred in excess of the amount that you are entitled to claim under such other insurance, legislation or provision. Or the amount that you would have been entitled to claim had you not entered into this insurance with OOM. Article 7:961 part 1 of the Dutch Civil Code (BW) does not apply.
-- **Misleading information.** If you or another person entitled to payment under this insurance deliberately misleads us by failing to inform us or misinforming us regarding any fact or circumstance, except in cases where the misleading information does not justify this exclusion.
-- **Incorrect representation of events.** If you represent events incorrectly or give an account that is damaging to our interests, unless this incorrect representation is not sufficiently essential to justify the exclusion. However, we will restrict your right to payment under this insurance. If a payment has already been made, we will claim our losses from you. If you deliberately represent events incorrectly in order to mislead us, under no circumstances will you be entitled to any reimbursement of costs.
-- **Hijacking, strike, uprising or terrorism.** If the damage is associated with or caused by your participation in a hijacking, strike, uprising or act of terrorism.
-- **Crime.** If the damage is associated with or caused by your committing (or assisting in) a crime.
-- **Recklessness.** Costs resulting from deliberate, conscious or unintentional recklessness by you or anyone else with an interest in a payment under this insurance.
-- **Sanction rules.** There are national and international general and sanction rules that may prohibit us from selling insurance to you. It is also possible we are not allowed to reimburse claims. We are not permitted to sell you insurance or reimburse claims if it is apparent that it is prohibited to do business with you or to provide a financial service under the terms of the sanctions legislation or regulations. If, after the start of the insurance, it is apparent that you, an insured person, an insured item or another interested party is directly or indirectly involved in acts, transactions or events that violate a sanctions law. Or, if it appears that you or another interested party is included on a national or international sanctions list. If this is the case: we will not reimburse any claim; we will temporarily or permanently suspend cover; the general or financial interests of a person, company, government or other entity will be excluded from the insurance; or we can terminate the insurance.
+#### Vitamins and dietary supplements.
 
-The original Dutch Terms and Conditions of this insurance policy are not affected by this English translation. In the case of any dispute, the original Dutch text shall prevail.
+#### Malaria medication and vaccinations.
+
+The costs of malaria prophylaxis and vaccinations not listed in clause 7.
+
+#### Dentures.
+
+#### Addiction care.
+
+Cost of staying in an addiction treatment institution.
+
+#### Gender operations.
+
+Cost of sex change surgery and associated costs.
+
+#### Surrogacy.
+
+Costs for pregnancy, childbirth and maternity care in the case of surrogacy. This also applies to unexpected emergencies.
+
+#### Medical examinations and certificates.
+
+Costs for medical examinations and certificates for medical checks that are required to obtain a job or, for example, a driving licence, or suitability for a particular sport.
+
+#### WLZ or WMO.
+
+Costs of treatments or provisions that fall under the Dutch Long-Term Care Act (WLZ) or Social Support Act (WMO), such as home care, unless we explicitly mention them in these conditions.
+
+### The following situations are not covered by this insurance:
+
+#### Nuclear reaction.
+
+If the damage or loss is caused by a nuclear reaction, other than in medical treatment applied to the insured person.
+
+#### Other insurance.
+
+If you had not taken out this insurance, would you be able to make a claim for compensation, payment or assistance under another insurance policy, legislation or other provision? In that case, this insurance with OOM shall be the 'payer of last resort'. In any event, we will only reimburse you for costs incurred in excess of the amount that you are entitled to claim under such other insurance, legislation or provision. Or the amount that you would have been entitled to claim had you not entered into this insurance with OOM. Article 7:961 part 1 of the Dutch Civil Code (BW) does not apply.
+
+#### Misleading information.
+
+If you or another person entitled to payment under this insurance deliberately misleads us by failing to inform us or misinforming us regarding any fact or circumstance, except in cases where the misleading information does not justify this exclusion.
+
+#### Incorrect representation of events.
+
+If you represent events incorrectly or give an account that is damaging to our interests, unless this incorrect representation is not sufficiently essential to justify the exclusion. However, we will restrict your right to payment under this insurance. If a payment has already been made, we will claim our losses from you. If you deliberately represent events incorrectly in order to mislead us, under no circumstances will you be entitled to any reimbursement of costs.
+
+#### Hijacking, strike, uprising or terrorism.
+
+If the damage is associated with or caused by your participation in a hijacking, strike, uprising or act of terrorism.
+
+#### Crime.
+
+If the damage is associated with or caused by your committing (or assisting in) a crime.
+
+#### Recklessness.
+
+Costs resulting from deliberate, conscious or unintentional recklessness by you or anyone else with an interest in a payment under this insurance.
+
+#### Sanction rules.
+
+There are national and international general and sanction rules that may prohibit us from selling insurance to you. It is also possible we are not allowed to reimburse claims. We are not permitted to sell you insurance or reimburse claims if it is apparent that it is prohibited to do business with you or to provide a financial service under the terms of the sanctions legislation or regulations. If, after the start of the insurance, it is apparent that you, an insured person, an insured item or another interested party is directly or indirectly involved in acts, transactions or events that violate a sanctions law. Or, if it appears that you or another interested party is included on a national or international sanctions list. If this is the case: we will not reimburse any claim; we will temporarily or permanently suspend cover; the general or financial interests of a person, company, government or other entity will be excluded from the insurance; or we can terminate the insurance.

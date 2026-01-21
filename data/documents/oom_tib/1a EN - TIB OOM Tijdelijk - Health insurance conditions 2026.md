@@ -23,18 +23,20 @@ If the policy sheet states that you have taken out OOM Temporary Residence Abroa
 
 ## What do we mean by?
 
-**Cost price**
+### Cost price
+
 In the terms and conditions we often state that we reimburse the cost price. By this we mean that we reimburse the full rate charged by the health care provider (for example, a general practitioner, therapist or specialist) for the medical treatments. However, OOM does have the ability to negotiate with the health care provider regarding the rate charged.
 
-**Maternity care**
+### Maternity care
+
 Care by a maternity nurse, for mother and child, and household chores.
 
-**Country of origin and domicile**
+### Country of origin and domicile
 
 - **Country of origin:** The country where you lived before moving abroad or the country of which you are a national.
 - **Domicile:** The place where you live. Generally, this place will be the centre of your daily life. We determine where you live on the basis of your legal, economic and social connection with a country and your connections with the country of origin. For example: which country you are registered in as a resident or where you work and pay taxes.
 
-**War and kindred risks**
+### War and kindred risks
 
 - **Armed conflict:** if nations or other organised parties fight with one another or one contends against the other, in either case using military weapons. Or armed action by United Nations peacekeeping forces.
 - **Civil war:** a more or less organised violent conflict between inhabitants of a single nation, involving a significant proportion of the inhabitants.
@@ -45,13 +47,15 @@ Care by a maternity nurse, for mother and child, and household chores.
 
 This war and kindred risks terminology forms part of the text filed at the District Court of The Hague by the Verbond van Verzekeraars in Nederland (Dutch Association of Insurers) on 2 November 1981.
 
-**Accident**
+### Accident
+
 Sudden and direct external assault causing you physical injury capable of being identified by medical means.
 
-**Hospital**
+### Hospital
+
 An institution authorised by the competent authorities where, in the event of illness, you can be nursed, treated and examined. This description also includes any institution specifically intended for rehabilitation and a sanatorium. Rest homes, convalescent homes and nursing homes are not included.
 
-# 1. Where is your insurance valid?
+## 1. Where is your insurance valid?
 
 You are insured in one of the five regions. Your policy sheet states the region in which you are insured. Below is an overview of what is covered in each region:
 
@@ -74,11 +78,12 @@ If you do receive medical care in a region not covered by your insurance, the fo
 - **Care in the United States:** If you are insured for region B+, B, C+ or C, you will not be reimbursed for medical expenses in the United States.
 - **Care in other more expensive regions:** If you are insured for region B, C+ or C and incur costs in a higher region other than the United States, we will reimburse 50% of the costs if they are included in your cover.
 
-# 2. In which circumstances will we make a payment?
+## 2. In which circumstances will we make a payment?
 
 We only reimburse medical costs you incur during the term of your insurance.
 
-**Maximum insured amount**
+### Maximum insured amount
+
 There is a maximum insured amount for healthcare insurance. This is the amount that OOM Verzekeringen pays per insured person in one insurance year or insured period for all medical costs together. This amount is:
 
 - **Light cover:** Up to € 1,500,000 per insured person per insured year or insured period if you are insured for a shorter period.
@@ -87,10 +92,12 @@ There is a maximum insured amount for healthcare insurance. This is the amount t
 
 Also, OOM will not reimburse any amount that exceeds the maximum charge rates approved by the appropriate authorities.
 
-**Medical necessity**
+### Medical necessity
+
 If and to the extent it is medically necessary, we will reimburse the costs of medical assistance, as described in clause 7 of these terms and conditions. By medical necessity we mean that the necessity is based on generally recognised, scientific medical considerations. The treatment, test or examination is generally accepted according to medical standards.
 
-**Wide choice of care**
+### Wide choice of care
+
 There's a wide choice of healthcare providers across the world. In certain cases, you are required to request our approval in advance. When this applies, you can read about it in this article. But it's important to note that in some countries, additional terms and conditions apply when you undergo medical treatment.
 
 We distinguish between:
@@ -101,19 +108,23 @@ We distinguish between:
 
 This distinction makes it clear in advance which treatments require prior authorisation, and helps OOM to carefully and efficiently provide assistance and settle claims. If you contact the OOM Assistance Centre in advance, you will receive authorisation for the treatment and information about the hospital or healthcare provider where the necessary treatment can be carried out. If applicable, the OOM Assistance Centre will provide a payment guarantee to the relevant healthcare provider. The costs will then be handled directly by OOM Assistance Centre with the hospital or healthcare provider.
 
-**United States of America**
+### United States of America
+
 For in-patient, day-care and out-patient treatment you are required to contact the OOM Assistance Centre in advance. Using your UHC patient card also counts as authorisation. Note: If you do not receive prior authorisation from the OOM Assistance Centre, you will not be entitled to reimbursement of the treatment costs.
 
-**Singapore, Malaysia, Indonesia, China, Hong Kong, Thailand, Mexico and the United Arab Emirates**
+### Singapore, Malaysia, Indonesia, China, Hong Kong, Thailand, Mexico and the United Arab Emirates
+
 In these countries, you must contact the OOM Assistance Centre prior to any in-patient or day-care treatment. For out-patient treatment, you're free to choose any health care provider as long as you follow the instructions of the OOM Assistance Centre. Note: If you do not receive prior authorisation from the OOM Assistance Centre, you will not be entitled to reimbursement of the in-patient or day-care treatment costs.
 
-**Other countries**
+### Other countries
+
 In all other countries, you are free to choose the provider for any in-patient, day-care or out-patient treatments.
 
-**Acute care**
+### Acute care
+
 For acute care, i.e. care that is necessary within minutes or hours to prevent serious damage to your health, or without which there is a risk of death, you are not required to contact the OOM Assistance Centre prior to the treatment. We are, for course, also here to help you in such situations.
 
-# 3. Which cover options are available for the OOM Temporary Residence Abroad Insurance
+## 3. Which cover options are available for the OOM Temporary Residence Abroad Insurance
 
 With the OOM Temporary Residence Abroad Insurance you can choose different levels of cover:
 
@@ -123,18 +134,21 @@ With the OOM Temporary Residence Abroad Insurance you can choose different level
 
 The differences between these cover options are set out in clause 7.
 
-**SOS cover**
+### SOS cover
+
 If you have health insurance with Light, Regular or Comfort cover, you are automatically entitled to SOS cover. You can also take out SOS cover alone. In that case, we will only reimburse the costs described in these terms and conditions under the heading "Which costs do we reimburse under SOS cover?"
 
-**OOM Dental cover**
+### OOM Dental cover
+
 In addition to Light, Regular or Comfort cover, you can take out OOM Dental cover. This insures you for dental costs up to a maximum amount. This maximum amount applies for dental costs per insured person per insured year. OOM Dental cover can only be taken out in combination with health insurance.
 
-**War and Kindred Risks cover**
+### War and Kindred Risks cover
+
 If you have health insurance with Light, Regular or Comfort cover, you are automatically entitled to War and Kindred Risks cover. It is not possible to take out War and Kindred Risks cover separately.
 
 These special terms and conditions explain which costs we reimburse for each cover option.
 
-# 4. Are your children also insured?
+## 4. Are your children also insured?
 
 If you inform us of the birth of your child in writing within one month, your child is insured from birth and any congenital diseases or defects are also covered. If you do not notify us in time, you can make an application accompanied by a health declaration. If we accept your child, he or she will be insured from the date of the acceptance.
 
@@ -142,7 +156,7 @@ Your child will automatically receive the same cover and own risk excess as you.
 
 If you adopt a child, your child is not automatically insured with us. In that case, you can make an application accompanied by a health declaration. If we accept your child, he or she will be insured from the date of the acceptance. If you are a mother insured with us and you and your new baby have to spend more time in hospital, we will reimburse the costs for both mother and child.
 
-# 5. What should you do if you have a claim?
+## 5. What should you do if you have a claim?
 
 Inform us of any events eligible for a payment under this insurance as soon as possible.
 
@@ -152,7 +166,7 @@ Inform us of any events eligible for a payment under this insurance as soon as p
 - 1-844-588-1222 (for the United States of America)
 - 24 hours a day, 7 days a week, assistance provided in Dutch
 
-**In which situations:**
+### In which situations:
 
 - hospitalisation outside the Netherlands (except in the US);
 - death of the insured person;
@@ -166,7 +180,8 @@ Inform us of any events eligible for a payment under this insurance as soon as p
 - Never reimburse the costs to a healthcare provider yourself if a payment guarantee has been issued by the OOM Assistance Centre. Even if the healthcare provider offers you a discount if you pay immediately;
 - Bear in mind that a medical assessment is necessary for a payment guarantee in the event of non-emergency, plannable medical care. This may take several days.
 
-**In all other cases, such as hospitalisation in the Netherlands, you should contact:**
+### In all other cases, such as hospitalisation in the Netherlands, you should contact:
+
 **OOM Verzekeringen**
 
 - Telephone: +31 (0)70 353 21 00 (during office hours in the Netherlands, 8.30 a.m. to 5 p.m.)
@@ -175,19 +190,21 @@ Inform us of any events eligible for a payment under this insurance as soon as p
 
 You do not need to inform us separately of events that are non-urgent, but which we do reimburse under this insurance. You can upload claims to "MijnOOM". The general terms and conditions set out your other obligations, such as your obligation to cooperate with the investigation to assess a claim, and the consequences if you fail to comply with your obligations.
 
-# 6. How do we process claims?
+## 6. How do we process claims?
 
 When we receive a claim from you, we first check whether the costs incurred are eligible for reimbursement. And if so, what is the reimbursement amount. In determining this amount we take into consideration a number of aspects, including the maximum reimbursement amount. You can also submit claims using our online customer portal "Mijn OOM".
 
-**Does an excess apply?**
+## Does an excess apply?
+
 You may have opted for an excess to apply to your Light, Regular or Comfort cover. This excess applies per insured person per insured year. If the period insured is shorter than a year, then the excess applies for the period insured. You select the excess amount when applying for the insurance and this amount is stated on your policy sheet. No excess applies for SOS cover or OOM Dental cover. If you are hospitalised in one insured year and only discharged from hospital in the following insured year, the excess only applies once. We pay the amount remaining after any excess has been deducted. We will transfer this amount to you in Euros, unless we have agreed otherwise with you. We reserve the right to recover from you by direct debit any excess amount that we have paid to you.
 
 If cover under your insurance is suspended due to late payment, cover will recommence on the day following the date on which we have received all overdue premiums (and collection charges, if applicable).
 
-**Foreign currencies**
+## Foreign currencies
+
 If you send a bill to us that has been charged in a foreign currency, we will convert the amount charged into Euros at the exchange rate applicable on the day the event occurred. For bills for health insurance or SOS insurance, we use the exchange rate on the invoice date. We use the exchange rate published at http://finance.yahoo.com.
 
-# 7. Which medical treatments are covered by your OOM Temporary Residence Abroad Insurance?
+## 7. Which medical treatments are covered by your OOM Temporary Residence Abroad Insurance?
 
 The medical treatments and costs that we reimburse depend on your cover. For each type of treatment or cost we set out below the reimbursement you are entitled to under the various cover options. For treatment by a health care provider (for example a general practitioner, therapist or specialist), the provider must be accredited by an authorised body and authorised to carry out such treatment.
 
@@ -479,7 +496,7 @@ We reimburse alternative healthcare such as osteopathy, homeopathy, acupuncture 
 
 - The alternative healthcare provider must be registered with an accredited professional body in the country where the treatment takes place.
 
-# 8. Which dental costs do we reimburse under OOM Dental cover?
+## 8. Which dental costs do we reimburse under OOM Dental cover?
 
 As part of the OOM Temporary Residence Abroad Insurance you can take out OOM Dental cover, which insures you for dental costs up to a maximum amount. This maximum amount applies per insured year or insured period if you are insured for a shorter period. If you have taken out this option, the insured amount is stated on your policy sheet. No excess or patient contribution applies.
 
@@ -504,7 +521,7 @@ The following conditions apply for OOM Dental cover:
 - Specialist care such as the removal of a wisdom tooth by an oral surgeon can be claimed on your healthcare insurance.
 - If dental costs resulting from an accident exceed the maximum insured amount for the health insurance, the additional costs can be claimed under this OOM Dental cover. Costs falling within the excess under the health insurance cannot be claimed under the OOM Dental cover.
 
-# 9. Which costs do we reimburse under SOS cover?
+## 9. Which costs do we reimburse under SOS cover?
 
 #### Search and rescue
 
@@ -554,7 +571,7 @@ We reimburse the following special costs:
   - or the travel and accommodation costs of up to one other insured person (a person who also has a current SOS insurance policy with OOM Verzekeringen) returning to the Netherlands at the same time due to the life-threatening illness or death.
 - We reimburse the costs of flight tickets and hotel accommodation up to a maximum of € 2,000 per event. The costs of meals, drinks etc. are excluded.
 
-# 10. Which costs do we reimburse under War and Kindred Risks cover?
+## 10. Which costs do we reimburse under War and Kindred Risks cover?
 
 War and kindred risks loss is damage or loss caused by armed conflict, civil war, civil disturbance, uprising, incitement or mutiny (see also "What do we mean by...?"). If you have health insurance and/or SOS insurance, you are automatically entitled to War and Kindred Risks cover. This allows you to submit claims for medical expenses and/or SOS costs as a result of war and kindred risk. The cover for healthcare costs from damage as a result of war and kindred risk is equal to the cover of your healthcare insurance.
 
@@ -565,31 +582,74 @@ The War and Kindred Risks cover does not cover the following situations:
 - Damage caused by or arising from war and kindred risk occurring in the Netherlands.
 - Should you suffer damage as a result of terrorism, we will reimburse the costs normally covered by your insurance under the terrorism cover (see "In which circumstances will we make a payment" in the General Terms and Conditions).
 
-# 11. Which medical treatments and other costs are not covered by your OOM Temporary Residence Abroad Insurance?
+## 11. Which medical treatments and other costs are not covered by your OOM Temporary Residence Abroad Insurance?
 
 In the following situations we will not reimburse the costs of treatment due to illness or accident, unless explicitly stated otherwise on your policy sheet.
 
-We will not reimburse any costs in respect of:
+### We will not reimburse any costs in respect of:
 
-- **Home medicine cabinet and/or over-the-counter medicines.** Costs of over-the-counter medicines, including when prescribed by a doctor.
-- **Vitamins and dietary supplements.**
-- **Malaria medication and vaccinations.** The costs of malaria prophylaxis and vaccinations not listed in clause 7.
-- **Dentures.**
-- **Addiction care.** Cost of staying in an addiction treatment institution.
-- **Gender operations.** Cost of sex change surgery and associated costs.
-- **Surrogacy.** Costs for pregnancy, childbirth and maternity care in the case of surrogacy. This also applies to unexpected emergencies.
-- **Medical examinations and certificates.** Costs for medical examinations and certificates for medical checks that are required to obtain a job or, for example, a driving licence, or suitability for a particular sport.
-- **WLZ or WMO.** Costs of treatments or provisions that fall under the Dutch Long-Term Care Act (WLZ) or Social Support Act (WMO), such as home care, unless we explicitly mention them in these conditions.
+#### Home medicine cabinet and/or over-the-counter medicines.
 
-The following situations are not covered by this insurance:
+Costs of over-the-counter medicines, including when prescribed by a doctor.
 
-- **Nuclear reaction.** If the damage or loss is caused by a nuclear reaction.
-- **Other insurance.** If you had not taken out this insurance, would you be able to make a claim for compensation, payment or assistance under another insurance policy, legislation or other provision? In that case, this insurance with OOM shall be the 'payer of last resort'. In any event, we will only reimburse you for costs incurred in excess of the amount that you are entitled to claim under such other insurance, legislation or provision. Or the amount that you would have been entitled to claim had you not entered into this insurance with OOM. Article 7:961 part 1 of the Dutch Civil Code (BW) does not apply.
-- **Misleading information.** If you or another person entitled to payment under this insurance deliberately misleads us by failing to inform us or misinforming us regarding any fact or circumstance, except in cases where the misleading information does not justify this exclusion.
-- **Incorrect representation of events.** If you represent events incorrectly or give an account that is damaging to our interests, unless this incorrect representation is not sufficiently essential to justify the exclusion. However, we will restrict your right to payment under this insurance. If a payment has already been made, we will claim our losses from you. If you deliberately represent events incorrectly in order to mislead us, under no circumstances will you be entitled to any reimbursement of costs.
-- **Hijacking, strike, uprising or terrorism.** If the damage is associated with or caused by your participation in a hijacking, strike, uprising or act of terrorism.
-- **Crime.** If the damage is associated with or caused by your committing (or assisting in) a crime.
-- **Recklessness.** Costs resulting from deliberate, conscious or unintentional recklessness by you or anyone else with an interest in a payment under this insurance.
-- **Sanction rules.** There are national and international general and sanction rules that may prohibit us from selling insurance to you. It is also possible we are not allowed to reimburse claims. We are not permitted to sell you insurance or reimburse claims if it is apparent that it is prohibited to do business with you or to provide a financial service under the terms of the sanctions legislation or regulations. If, after the start of the insurance, it is apparent that you, an insured person, an insured item or another interested party is directly or indirectly involved in acts, transactions or events that violate a sanctions law. Or, if it appears that you or another interested party is included on a national or international sanctions list. If this is the case: we will not reimburse any claim; we will temporarily or permanently suspend cover; the general or financial interests of a person, company, government or other entity will be excluded from the insurance; or we can terminate the insurance.
+#### Vitamins and dietary supplements.
 
-The original Dutch Terms and Conditions of this insurance policy are not affected by this English translation. In the case of any dispute, the original Dutch text shall prevail.
+#### Malaria medication and vaccinations.
+
+The costs of malaria prophylaxis and vaccinations not listed in clause 7.
+
+#### Dentures.
+
+#### Addiction care.
+
+Cost of staying in an addiction treatment institution.
+
+#### Gender operations.
+
+Cost of sex change surgery and associated costs.
+
+#### Surrogacy.
+
+Costs for pregnancy, childbirth and maternity care in the case of surrogacy. This also applies to unexpected emergencies.
+
+#### Medical examinations and certificates.
+
+Costs for medical examinations and certificates for medical checks that are required to obtain a job or, for example, a driving licence, or suitability for a particular sport.
+
+#### WLZ or WMO.
+
+Costs of treatments or provisions that fall under the Dutch Long-Term Care Act (WLZ) or Social Support Act (WMO), such as home care, unless we explicitly mention them in these conditions.
+
+### The following situations are not covered by this insurance:
+
+#### Nuclear reaction.
+
+If the damage or loss is caused by a nuclear reaction.
+
+#### Other insurance.
+
+If you had not taken out this insurance, would you be able to make a claim for compensation, payment or assistance under another insurance policy, legislation or other provision? In that case, this insurance with OOM shall be the 'payer of last resort'. In any event, we will only reimburse you for costs incurred in excess of the amount that you are entitled to claim under such other insurance, legislation or provision. Or the amount that you would have been entitled to claim had you not entered into this insurance with OOM. Article 7:961 part 1 of the Dutch Civil Code (BW) does not apply.
+
+#### Misleading information.
+
+If you or another person entitled to payment under this insurance deliberately misleads us by failing to inform us or misinforming us regarding any fact or circumstance, except in cases where the misleading information does not justify this exclusion.
+
+#### Incorrect representation of events.
+
+If you represent events incorrectly or give an account that is damaging to our interests, unless this incorrect representation is not sufficiently essential to justify the exclusion. However, we will restrict your right to payment under this insurance. If a payment has already been made, we will claim our losses from you. If you deliberately represent events incorrectly in order to mislead us, under no circumstances will you be entitled to any reimbursement of costs.
+
+#### Hijacking, strike, uprising or terrorism.
+
+If the damage is associated with or caused by your participation in a hijacking, strike, uprising or act of terrorism.
+
+#### Crime.
+
+If the damage is associated with or caused by your committing (or assisting in) a crime.
+
+#### Recklessness.
+
+Costs resulting from deliberate, conscious or unintentional recklessness by you or anyone else with an interest in a payment under this insurance.
+
+#### Sanction rules.
+
+There are national and international general and sanction rules that may prohibit us from selling insurance to you. It is also possible we are not allowed to reimburse claims. We are not permitted to sell you insurance or reimburse claims if it is apparent that it is prohibited to do business with you or to provide a financial service under the terms of the sanctions legislation or regulations. If, after the start of the insurance, it is apparent that you, an insured person, an insured item or another interested party is directly or indirectly involved in acts, transactions or events that violate a sanctions law. Or, if it appears that you or another interested party is included on a national or international sanctions list. If this is the case: we will not reimburse any claim; we will temporarily or permanently suspend cover; the general or financial interests of a person, company, government or other entity will be excluded from the insurance; or we can terminate the insurance.
