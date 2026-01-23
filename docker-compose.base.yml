@@ -1,5 +1,12 @@
 version: '3.8'
 
+networks:
+  agent_network:
+    driver: bridge
+  shared_network:
+    name: shared_db_network
+    driver: bridge
+
 services:
   # Qdrant Vector Database
   qdrant:
@@ -38,6 +45,11 @@ services:
       - QDRANT_GRPC_PORT=6334
       - PYTHONUNBUFFERED=1
       - ENVIRONMENT=${ENVIRONMENT:-production}
+      - POSTGRES_HOST=expat_insurance_db
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
     healthcheck:
       test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
       interval: 30s
@@ -46,11 +58,8 @@ services:
       start_period: 40s
     networks:
       - agent_network
+      - shared_network
 
 volumes:
   qdrant_storage:
     driver: local
-
-networks:
-  agent_network:
-    driver: bridge

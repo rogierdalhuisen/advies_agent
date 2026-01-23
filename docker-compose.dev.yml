@@ -15,7 +15,7 @@ services:
       # Mount .env for accessing environment variables
       - ./.env:/app/.env
     ports:
-      - "8000:8000"  # Expose for local development
+      - "8001:8000"  # Expose for local development
       - "5678:5678"  # Debug port (e.g., for debugpy)
     environment:
       - ENVIRONMENT=development
