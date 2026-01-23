@@ -25,7 +25,17 @@ OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 # Outside Docker: QDRANT_HOST=http://localhost:6333 (exposed port)
 QDRANT_HOST = os.getenv("QDRANT_HOST", "http://localhost:6333")
 
-#
+# PostgreSQL Database (external adviesaanvragen database)
+# Supports POSTGRES_*, POSTEGRES_* (legacy typo), and DB_* variable names
+POSTGRES_HOST = os.getenv("POSTGRES_HOST") or os.getenv("POSTEGRES_HOST", "localhost")
+POSTGRES_PORT = int(os.getenv("POSTGRES_PORT") or os.getenv("POSTEGRES_PORT", "5432"))
+POSTGRES_DB = os.getenv("POSTGRES_DB") or os.getenv("POSTEGRES_NAME") or os.getenv("DB_NAME", "")
+POSTGRES_USER = os.getenv("POSTGRES_USER") or os.getenv("POSTEGRES_USER") or os.getenv("DB_USER", "")
+POSTGRES_PASSWORD = os.getenv("POSTGRES_PASSWORD") or os.getenv("POSTEGRES_PASSWORD") or os.getenv("DB_PASSWORD", "")
+
+def get_postgres_url() -> str:
+    """Build PostgreSQL connection URL from environment variables."""
+    return f"postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRES_HOST}:{POSTGRES_PORT}/{POSTGRES_DB}"
 
 
 
