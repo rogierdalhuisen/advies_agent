@@ -1,12 +1,3 @@
-"""Database module for accessing external PostgreSQL data."""
+"""Database module for AdviesAanvragen."""
 
-from src.database.connection import get_connection, DatabaseConnection
-from src.database.models import AdviesAanvraag
-from src.database.repository import AdviesAanvragenRepository
-
-__all__ = [
-    "get_connection",
-    "DatabaseConnection",
-    "AdviesAanvraag",
-    "AdviesAanvragenRepository",
-]
+from src.database.repository import get_all, get_recent_24h, get_by_email

@@ -1,98 +1,93 @@
 #!/usr/bin/env python3
-"""Simple script to load AdviesAanvragen data.
+"""Extract AdviesAanvragen data to JSON.
 
 Usage:
-    # Run directly to see stats and recent aanvragen
-    uv run python scripts/load_aanvragen.py
+    uv run python scripts/load_aanvragen.py --all
+    uv run python scripts/load_aanvragen.py --recent
+    uv run python scripts/load_aanvragen.py --email user@example.com
 
-    # Import in Python/Jupyter for interactive use
-    from scripts.load_aanvragen import get_by_id, get_recent, search
-
-    user = get_by_id(42)
-    print(user.full_name, user.to_context_dict())
+To change which fields are extracted, edit EXTRACT_POSITIONS in:
+    src/database/repository.py
 """
 
+import json
 import os
 import sys
+from datetime import date, datetime
 from pathlib import Path
 
-# Add project root to path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
+os.environ.setdefault("POSTGRES_HOST", "localhost")
 
-os.environ.setdefault("POSTGRES_HOST", "localhost")  # For local dev
+from src.database import get_all, get_recent_24h, get_by_email
 
-from src.database import AdviesAanvragenRepository, AdviesAanvraag
-
-
-def get_repo() -> AdviesAanvragenRepository:
-    """Get repository instance."""
-    return AdviesAanvragenRepository()
+OUTPUT_FILE = PROJECT_ROOT / "data" / "user_data" / "user_data.json"
 
 
-def get_by_id(aanvraag_id: int) -> AdviesAanvraag | None:
-    """Load a single aanvraag by ID."""
-    return get_repo().get_by_id(aanvraag_id)
+def serialize(obj):
+    """JSON serializer for dates/datetimes."""
+    if isinstance(obj, (date, datetime)):
+        return obj.isoformat()
+    return str(obj)
 
 
-def get_by_email(email: str) -> list[AdviesAanvraag]:
-    """Load all aanvragen for an email address."""
-    return get_repo().get_by_email(email)
+def clean_row(row: dict) -> dict:
+    """Clean row: serialize dates, keep all fields (null if empty)."""
+    return {k: serialize(v) if isinstance(v, (date, datetime)) else v
+            for k, v in row.items()}
 
 
-def get_recent(limit: int = 10) -> list[AdviesAanvraag]:
-    """Load most recent aanvragen."""
-    return get_repo().get_recent(limit)
+def load_existing() -> dict:
+    """Load existing data from JSON file."""
+    if OUTPUT_FILE.exists():
+        with open(OUTPUT_FILE) as f:
+            return {item["aanvraag_id"]: item for item in json.load(f)}
+    return {}
 
 
-def search(
-    destination: str = None,
-    zkv: bool = None,
-    aov: bool = None,
-    limit: int = 10
-) -> list[AdviesAanvraag]:
-    """Search aanvragen with filters.
-
-    Args:
-        destination: Filter by country (partial match)
-        zkv: Filter by health insurance interest (True/False)
-        aov: Filter by disability insurance interest (True/False)
-        limit: Max results to return
-    """
-    return get_repo().search(
-        destination=destination,
-        interested_zkv=zkv,
-        interested_aov=aov,
-        limit=limit
-    )
+def save_data(data: dict):
+    """Save data to JSON file."""
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(OUTPUT_FILE, "w") as f:
+        json.dump(list(data.values()), f, indent=2, ensure_ascii=False)
 
 
-def stats() -> dict:
-    """Get database statistics."""
-    return get_repo().get_statistics()
+def extract_and_save(rows: list[dict]) -> int:
+    """Extract and merge with existing data."""
+    existing = load_existing()
+    for row in rows:
+        cleaned = clean_row(row)
+        existing[cleaned["aanvraag_id"]] = cleaned
+    save_data(existing)
+    return len(rows)
 
 
-def print_aanvraag(a: AdviesAanvraag, verbose: bool = False):
-    """Pretty print an aanvraag."""
-    print(f"[{a.aanvraag_id}] {a.full_name}")
-    print(f"    Destination: {a.destination}")
-    print(f"    ZKV: {a.wants_health_insurance}, AOV: {a.wants_disability_insurance}")
-    if verbose:
-        print(f"    Email: {a.email}")
-        print(f"    Family: {len(a.family_members)} members")
-        if a.zkv_dekkingsvariant:
-            print(f"    Coverage: {a.zkv_dekkingsvariant}")
+def main():
+    if len(sys.argv) < 2:
+        print("Usage:")
+        print("  --all           Extract all aanvragen")
+        print("  --recent        Extract last 24 hours")
+        print("  --email EMAIL   Extract by email")
+        sys.exit(1)
+
+    arg = sys.argv[1]
+
+    if arg == "--all":
+        count = extract_and_save(get_all())
+        print(f"Extracted {count} aanvragen (all)")
+    elif arg == "--recent":
+        count = extract_and_save(get_recent_24h())
+        print(f"Extracted {count} aanvragen (last 24h)")
+    elif arg == "--email" and len(sys.argv) > 2:
+        count = extract_and_save(get_by_email(sys.argv[2]))
+        print(f"Extracted {count} aanvragen for {sys.argv[2]}")
+    else:
+        print("Invalid arguments")
+        sys.exit(1)
+
+    print(f"Saved to: {OUTPUT_FILE}")
 
 
-# Quick usage when run directly
 if __name__ == "__main__":
-    print("=== Database Stats ===")
-    s = stats()
-    print(f"Total requests: {s['total_requests']}")
-    print(f"ZKV interested: {s['zkv_interested']}")
-    print(f"Unique destinations: {s['unique_destinations']}")
-
-    print("\n=== Recent 5 Aanvragen ===")
-    for a in get_recent(5):
-        print_aanvraag(a)
-        print()
+    main()
