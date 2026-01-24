@@ -1,0 +1,279 @@
+{
+  "aanvraag_id": 119,
+  "calculation_date": "2026-01-24",
+  "deductible_requested": 500.0,
+  "family": [
+    {
+      "role": "main",
+      "age": 32,
+      "birth_date": "1993-11-26"
+    }
+  ],
+  "premiums": {
+    "oom_wib": {
+      "Comfort": {
+        "total": 744.26,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 744.26
+        }
+      },
+      "Deluxe": {
+        "total": 1184.08,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1184.08
+        }
+      },
+      "Regular": {
+        "total": 510.96,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 510.96
+        }
+      }
+    },
+    "allianz_globetrotter": {
+      "Standaard - All-In pakket": {
+        "total": 46.2,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 46.2
+        }
+      },
+      "Standaard - Extra pakket": {
+        "total": 25.25,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 25.25
+        }
+      },
+      "Super - All-In pakket": {
+        "total": 57.45,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 57.45
+        }
+      },
+      "Super - Extra pakket": {
+        "total": 36.5,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 36.5
+        }
+      }
+    },
+    "goudse_expat_pakket": {
+      "Excellent": {
+        "total": 1935.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1935.0
+        }
+      },
+      "Optimaal": {
+        "total": 1565.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1565.0
+        }
+      },
+      "Standaard": {
+        "total": 1255.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1255.0
+        }
+      }
+    },
+    "oom_tib": {
+      "Comfort": {
+        "total": 516.85,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 516.85
+        }
+      },
+      "Light": {
+        "total": 166.76,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 166.76
+        }
+      },
+      "Regular": {
+        "total": 354.45,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 354.45
+        }
+      }
+    },
+    "goudse_ngo_zendelingen": {
+      "Standard": {
+        "total": 1710.0,
+        "deductible": 250.0,
+        "per_person": {
+          "main": 1710.0
+        }
+      }
+    },
+    "special_isis": {
+      "Standaard - All-in": {
+        "total": 36.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 36.0
+        }
+      },
+      "Standaard - Basis": {
+        "total": 25.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 25.0
+        }
+      },
+      "Standaard - Extra": {
+        "total": 31.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 31.0
+        }
+      },
+      "Super - All-in": {
+        "total": 49.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 49.0
+        }
+      },
+      "Super - Basis": {
+        "total": 35.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 35.0
+        }
+      },
+      "Super - Extra": {
+        "total": 42.5,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 42.5
+        }
+      },
+      "Super+ - All-in": {
+        "total": 56.5,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 56.5
+        }
+      },
+      "Super+ - Basis": {
+        "total": 42.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 42.0
+        }
+      },
+      "Super+ - Extra": {
+        "total": 50.0,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 50.0
+        }
+      }
+    },
+    "globality_yougenio": {
+      "Classic": {
+        "total": 534.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 534.0
+        }
+      },
+      "Essential": {
+        "total": 293.0,
+        "deductible": 0,
+        "per_person": {
+          "main": 293.0
+        }
+      },
+      "Plus": {
+        "total": 1094.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1094.0
+        }
+      },
+      "Top": {
+        "total": 1364.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1364.0
+        }
+      }
+    },
+    "expatriate_group": {
+      "Primary PLUS Plan": {
+        "total": 1392.3816891937095,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1392.3816891937095
+        }
+      },
+      "Primary PLUS lite Plan": {
+        "total": 1218.3339780444958,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1218.3339780444958
+        }
+      },
+      "Primary Plan": {
+        "total": 1188.1333984688795,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 1188.1333984688795
+        }
+      },
+      "Select Plan": {
+        "total": 2276.3846288138684,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 2276.3846288138684
+        }
+      }
+    },
+    "International Expat Insurance": {
+      "BRONZE": {
+        "total": 244.0,
+        "deductible": 300.0,
+        "per_person": {
+          "main": 244.0
+        }
+      },
+      "ESSENTIAL": {
+        "total": 138.0,
+        "deductible": 0,
+        "per_person": {
+          "main": 138.0
+        }
+      },
+      "GOLD": {
+        "total": 544.0,
+        "deductible": 500.0,
+        "per_person": {
+          "main": 544.0
+        }
+      }
+    },
+    "goudse_working_nomad": {
+      "Basis": {
+        "total": 55.5,
+        "deductible": 100.0,
+        "per_person": {
+          "main": 55.5
+        }
+      }
+    }
+  }
+}
