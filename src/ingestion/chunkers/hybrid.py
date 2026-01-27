@@ -174,8 +174,8 @@ class HybridChunker(Chunker):
         """
         headers = []
 
-        # Extract headers in order (header_1, header_2, etc.)
-        for i in range(1, 5):  # Support up to h4
+        # Extract headers in order (header_2, header_3, etc.) - skip header_1
+        for i in range(2, 5):  # Support h2 to h4 (skip h1)
             header_key = f"header_{i}"
             if header_key in metadata and metadata[header_key]:
                 # Add appropriate number of # symbols
