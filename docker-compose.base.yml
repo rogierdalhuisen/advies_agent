@@ -47,9 +47,9 @@ services:
       - ENVIRONMENT=${ENVIRONMENT:-production}
       - POSTGRES_HOST=expat_insurance_db
       - POSTGRES_PORT=5432
-      - POSTGRES_DB=${DB_NAME}
-      - POSTGRES_USER=${DB_USER}
-      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_DB=${POSTEGRES_NAME}
+      - POSTGRES_USER=${POSTEGRES_USER}
+      - POSTGRES_PASSWORD=${POSTEGRES_PASSWORD}
     healthcheck:
       test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
       interval: 30s
