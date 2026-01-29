@@ -15,7 +15,7 @@ Instead of using brittle CSS selectors that break when pages are redesigned, we 
 ## 📁 Module Structure
 
 ```
-src/scraping/
+src/ingestion/scraping/
 ├── __init__.py           # Module exports
 ├── config.py             # URL configuration for all insurances
 ├── llm_parser.py         # Gemini Flash-based HTML → Markdown parser
@@ -39,7 +39,7 @@ src/scraping/
 
 ## 📝 Configuration
 
-Edit `src/scraping/config.py` to add the URL for each insurance provider (one URL per provider):
+Edit `src/ingestion/scraping/config.py` to add the URL for each insurance provider (one URL per provider):
 
 ```python
 "goudse_expat_pakket": InsuranceURLConfig(
@@ -74,7 +74,7 @@ python scripts/scrape_insurance_data.py --dry-run
 
 ```python
 import asyncio
-from src.scraping import InsuranceScraper
+from src.ingestion.scraping import InsuranceScraper
 
 async def scrape_insurance():
     scraper = InsuranceScraper()
@@ -128,7 +128,7 @@ Test the scraper with a single provider first:
 
 ```python
 import asyncio
-from src.scraping import scrape_insurance_data
+from src.ingestion.scraping import scrape_insurance_data
 
 # Scrape one provider
 results = asyncio.run(scrape_insurance_data("goudse_expat_pakket"))

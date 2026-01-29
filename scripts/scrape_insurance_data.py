@@ -25,8 +25,8 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import click
-from src.scraping import InsuranceScraper
-from src.scraping.config import get_all_configs, get_provider_config
+from src.ingestion.scraping import InsuranceScraper
+from src.ingestion.scraping.config import get_all_configs, get_provider_config
 
 # Configure logging
 logging.basicConfig(
@@ -65,7 +65,7 @@ def main(provider: str, dry_run: bool, list_providers: bool):
             if config.url:
                 click.echo(f"    URL: {config.url}")
             else:
-                click.echo(f"    ⚠️  No URL configured yet (add to src/scraping/config.py)")
+                click.echo(f"    ⚠️  No URL configured yet (add to src/ingestion/scraping/config.py)")
             if config.description:
                 click.echo(f"    {config.description}")
             click.echo()
@@ -90,7 +90,7 @@ def main(provider: str, dry_run: bool, list_providers: bool):
         # Check if URL is configured
         if not config.url:
             click.echo(f"⚠️  No URL configured for {provider}")
-            click.echo("Add URL to src/scraping/config.py before scraping")
+            click.echo("Add URL to src/ingestion/scraping/config.py before scraping")
             sys.exit(1)
 
     else:
