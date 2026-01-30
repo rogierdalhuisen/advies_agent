@@ -1,34 +1,66 @@
-"""Self-reflective RAG graph with retrieval, reranking, grading, and query rewriting."""
+"""Self-reflective RAG agent with retrieval, reranking, grading, and query rewriting."""
 
 from langgraph.graph import StateGraph, START, END
+from langchain_core.language_models import BaseChatModel
 
+from src.retrieval.retriever import InsuranceRetriever
+from src.retrieval.reranker.reranker import Reranker
 from .state import RetrieverState
-from .nodes import retrieve, rerank, grade, rewrite, generate
+from .config import DEFAULTS
+from .nodes import make_retrieve, make_rerank, make_grade, make_rewrite, make_generate
 
 
-def route_after_grading(state: RetrieverState) -> str:
-    """Route based on grading result: generate or rewrite."""
-    if state.evaluation_status in ("direct", "indirect"):
-        return "generate"
-    if state.retries >= state.max_retries:
-        return "generate"
-    return "rewrite"
+class RetrieverAgent:
+    """Self-reflective RAG agent. Inject dependencies or use defaults."""
 
+    def __init__(
+        self,
+        retriever: InsuranceRetriever | None = None,
+        reranker: Reranker | None = None,
+        grading_llm: BaseChatModel | None = None,
+        rewrite_llm: BaseChatModel | None = None,
+        generation_llm: BaseChatModel | None = None,
+    ):
+        self.retriever = retriever or DEFAULTS["retriever"]()
+        self.reranker = reranker or DEFAULTS["reranker"]()
+        self.grading_llm = grading_llm or DEFAULTS["grading_llm"]()
+        self.rewrite_llm = rewrite_llm or DEFAULTS["rewrite_llm"]()
+        self.generation_llm = generation_llm or DEFAULTS["generation_llm"]()
+        self.graph = self._build_graph()
 
-# Build graph
-workflow = StateGraph(RetrieverState)
+    def _build_graph(self):
+        workflow = StateGraph(RetrieverState)
 
-workflow.add_node("retrieve", retrieve)
-workflow.add_node("rerank", rerank)
-workflow.add_node("grade", grade)
-workflow.add_node("rewrite", rewrite)
-workflow.add_node("generate", generate)
+        workflow.add_node("retrieve", make_retrieve(self.retriever))
+        workflow.add_node("rerank", make_rerank(self.reranker))
+        workflow.add_node("grade", make_grade(self.retriever, self.grading_llm))
+        workflow.add_node("rewrite", make_rewrite(self.rewrite_llm))
+        workflow.add_node("generate", make_generate(self.retriever, self.generation_llm))
 
-workflow.add_edge(START, "retrieve")
-workflow.add_edge("retrieve", "rerank")
-workflow.add_edge("rerank", "grade")
-workflow.add_conditional_edges("grade", route_after_grading, {"generate": "generate", "rewrite": "rewrite"})
-workflow.add_edge("rewrite", "retrieve")
-workflow.add_edge("generate", END)
+        workflow.add_edge(START, "retrieve")
+        workflow.add_edge("retrieve", "rerank")
+        workflow.add_edge("rerank", "grade")
+        workflow.add_conditional_edges(
+            "grade",
+            self._route_after_grading,
+            {"generate": "generate", "rewrite": "rewrite"},
+        )
+        workflow.add_edge("rewrite", "retrieve")
+        workflow.add_edge("generate", END)
 
-graph = workflow.compile()
+        return workflow.compile()
+
+    @staticmethod
+    def _route_after_grading(state: RetrieverState) -> str:
+        if state.evaluation_status in ("direct", "indirect"):
+            return "generate"
+        if state.retries >= state.max_retries:
+            return "generate"
+        return "rewrite"
+
+    def invoke(self, query: str, insurance_provider: str) -> dict:
+        """Convenience method to run the graph."""
+        return self.graph.invoke({
+            "original_query": query,
+            "insurance_provider": insurance_provider,
+        })
