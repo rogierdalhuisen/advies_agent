@@ -1,8 +1,8 @@
-"""Reranker module for re-ordering retrieved documents."""
+"""Reranker module for re-ordering retrieved documents via SiliconFlow."""
 
 import requests
 import json
-from typing import List, Tuple
+from typing import List
 from langchain_core.documents import Document
 
 from .config import (
@@ -12,21 +12,21 @@ from .config import (
     RERANKER_MODEL
 )
 
-class RemoteReranker:
-    """Independent reranker using remote inference APIs (Cross-Encoder style)."""
+class Reranker:
+    """Independent reranker using SiliconFlow's Qwen Reranker."""
 
     def __init__(
         self, 
         api_url: str = RERANKER_API_URL, 
         api_key: str = RERANKER_API_KEY,
-        provider: str = RERANKER_PROVIDER
+        model: str = RERANKER_MODEL
     ):
         self.api_url = api_url
+        self.model = model
         self.headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json"
         }
-        self.provider = provider
 
     def rerank(self, query: str, documents: List[Document], top_n: int = 5) -> List[Document]:
         """
@@ -35,18 +35,18 @@ class RemoteReranker:
         if not documents:
             return []
 
-        # 1. Prepare Text Pairs
+        # 1. Prepare Text List
         doc_texts = [doc.page_content for doc in documents]
         
-        # 2. Get Scores (Provider specific logic)
-        if self.provider == "huggingface":
-            scores = self._call_huggingface(query, doc_texts)
-        elif self.provider == "cohere":
-            scores = self._call_cohere(query, doc_texts)
-        else:
-            raise ValueError(f"Unsupported provider: {self.provider}")
+        # 2. Call SiliconFlow API
+        try:
+            scores = self._call_siliconflow(query, doc_texts)
+        except Exception as e:
+            print(f"Reranking failed: {e}. Returning original order.")
+            return documents[:top_n]
 
         # 3. Attach scores and Sort
+        # SiliconFlow returns scores in a specific order, we map them back
         for doc, score in zip(documents, scores):
             doc.metadata["rerank_score"] = score
 
@@ -59,40 +59,33 @@ class RemoteReranker:
 
         return ranked_docs[:top_n]
 
-    def _call_huggingface(self, query: str, texts: List[str]) -> List[float]:
-        """Calls HF Inference API (Standard Cross-Encoder Payload)."""
+    def _call_siliconflow(self, query: str, texts: List[str]) -> List[float]:
+        """Calls SiliconFlow Rerank API."""
         payload = {
-            "inputs": {
-                "source_sentence": query,
-                "sentences": texts
-            }
+            "model": self.model,
+            "query": query,
+            "documents": texts,
+            "return_documents": False,
+            "top_n": len(texts)  # Score all documents provided
         }
         
         response = requests.post(self.api_url, headers=self.headers, json=payload)
         response.raise_for_status()
         
-        # HF typically returns a flat list of scores
-        return response.json()
-
-    def _call_cohere(self, query: str, texts: List[str]) -> List[float]:
-        """Calls Cohere Rerank API."""
-        payload = {
-            "model": RERANKER_MODEL,
-            "query": query,
-            "documents": texts,
-            "top_n": len(texts) # Rank all, let main function slice
-        }
-        
-        # Note: Cohere URL is standard, usually not in config unless custom endpoint
-        url = "https://api.cohere.ai/v1/rerank"
-        response = requests.post(url, headers=self.headers, json=payload)
-        response.raise_for_status()
-        
         data = response.json()
         
-        # Map results back to original order (Cohere returns sorted list with indices)
+        # The API returns a list of results with indices:
+        # { "results": [ {"index": 0, "relevance_score": 0.9}, {"index": 2, ...} ] }
+        # We need to map these back to the original list order [doc0, doc1, doc2]
+        
         scores = [0.0] * len(texts)
-        for result in data["results"]:
-            scores[result["index"]] = result["relevance_score"]
-            
+        if "results" in data:
+            for item in data["results"]:
+                idx = item.get("index")
+                score = item.get("relevance_score")
+                if idx is not None and 0 <= idx < len(scores):
+                    scores[idx] = score
+                    
         return scores
+    
+reranker = Reranker()

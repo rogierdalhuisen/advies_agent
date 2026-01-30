@@ -53,14 +53,14 @@ class InsuranceRetriever:
             sparse_vector_name=SPARSE_VECTOR_NAME,
         )
 
-    def search_company(
-        self, query: str, company: str, k: int = 5
+    def retrieve_company_docs(
+        self, query: str, insurance_provider: str, k: int = 5
     ) -> list:
         """Search for documents matching a query filtered by insurance company.
 
         Args:
             query: The search query.
-            company: The insurance company name to filter by.
+            insurance_provider: The insurance provider name to filter by.
             k: Number of results to return.
 
         Returns:
@@ -69,8 +69,8 @@ class InsuranceRetriever:
         qdrant_filter = Filter(
             must=[
                 FieldCondition(
-                    key="metadata.company",
-                    match=MatchValue(value=company),
+                    key="metadata.insurance_provider",
+                    match=MatchValue(value=insurance_provider),
                 )
             ]
         )
@@ -83,7 +83,7 @@ class InsuranceRetriever:
 
         return results
 
-    def search(self, query: str, k: int = 5) -> list:
+    def retrieve_docs(self, query: str, k: int = 5) -> list:
         """Search for documents matching a query without filtering.
 
         Args:
