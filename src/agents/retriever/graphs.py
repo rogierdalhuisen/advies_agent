@@ -1,31 +1,20 @@
 """Self-reflective RAG agent with retrieval, reranking, grading, and query rewriting."""
 
 from langgraph.graph import StateGraph, START, END
-from langchain_core.language_models import BaseChatModel
-
-from src.retrieval.retriever import InsuranceRetriever
-from src.retrieval.reranker.reranker import Reranker
 from .state import RetrieverState
-from .config import DEFAULTS
+from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm
 from .nodes import make_retrieve, make_rerank, make_grade, make_rewrite, make_generate
 
 
 class RetrieverAgent:
-    """Self-reflective RAG agent. Inject dependencies or use defaults."""
+    """Self-reflective RAG agent. All configuration comes from config.py."""
 
-    def __init__(
-        self,
-        retriever: InsuranceRetriever | None = None,
-        reranker: Reranker | None = None,
-        grading_llm: BaseChatModel | None = None,
-        rewrite_llm: BaseChatModel | None = None,
-        generation_llm: BaseChatModel | None = None,
-    ):
-        self.retriever = retriever or DEFAULTS["retriever"]()
-        self.reranker = reranker or DEFAULTS["reranker"]()
-        self.grading_llm = grading_llm or DEFAULTS["grading_llm"]()
-        self.rewrite_llm = rewrite_llm or DEFAULTS["rewrite_llm"]()
-        self.generation_llm = generation_llm or DEFAULTS["generation_llm"]()
+    def __init__(self):
+        self.retriever = retriever
+        self.reranker = reranker
+        self.grading_llm = grading_llm
+        self.rewrite_llm = rewrite_llm
+        self.generation_llm = generation_llm
         self.graph = self._build_graph()
 
     def _build_graph(self):
