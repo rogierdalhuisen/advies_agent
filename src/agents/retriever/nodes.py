@@ -23,7 +23,7 @@ class GradeResult(BaseModel):
 def make_retrieve(retriever: InsuranceRetriever):
     def retrieve(state: RetrieverState) -> dict:
         query = state.current_query or state.original_query
-        results = retriever.retrieve_company_docs(query, state.insurance_provider, k=10)
+        results = retriever.retrieve_company_docs(query, state.insurance_provider, k=15)
         return {"documents": [doc for doc, _ in results], "current_query": query}
     return retrieve
 
@@ -71,7 +71,8 @@ def make_generate(retriever: InsuranceRetriever, llm):
         prompt = f"Query: {state.original_query}\n\nDocuments:\n{docs_text}\n\n"
 
         if state.evaluation_status == "direct":
-            prompt += "Answer the query based on the documents above. Give a concise and accurate answer with respect to the query."
+            prompt += "Answer the query based on the documents above. Give a concise and accurate answer with respect to the query"
+                      
         else:
             prompt += (
                 "The documents don't answer the query directly but contain "
