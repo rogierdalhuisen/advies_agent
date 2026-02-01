@@ -105,6 +105,8 @@ services:
       - ./src:/app/src
       - ./data:/app/data
       - ./.env:/app/.env
+      - ./src/frontend/public:/app/public
+      - ./src/frontend/.chainlit:/app/.chainlit
     environment:
       - ENVIRONMENT=development
       - LOG_LEVEL=DEBUG

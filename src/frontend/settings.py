@@ -63,7 +63,7 @@ def _render_comparer_node(node_name, node_output):
 AGENTS = {
     "retriever": {
         "class": RetrieverAgent,
-        "description": "Single-provider retrieval agent",
+        "description": "Stel vragen over een verzekering",
         "build_widgets": lambda: [
             Select(
                 id="provider",
@@ -81,7 +81,7 @@ AGENTS = {
     },
     "comparer": {
         "class": ComparerAgent,
-        "description": "Compare multiple insurance providers",
+        "description": "Vergelijk verschillende verzekeringen",
         "build_widgets": lambda: [
             Select(
                 id="provider_1",
