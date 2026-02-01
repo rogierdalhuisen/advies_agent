@@ -117,6 +117,21 @@ case "$1" in
         docker-compose $COMPOSE_FILES logs -f jupyter
         ;;
 
+    chainlit)
+        echo -e "${GREEN}Opening Chainlit UI in browser...${NC}"
+        echo -e "${GREEN}Chainlit: http://localhost:8000${NC}"
+        if command -v open &> /dev/null; then
+            open "http://localhost:8000"
+        elif command -v xdg-open &> /dev/null; then
+            xdg-open "http://localhost:8000"
+        fi
+        ;;
+
+    chainlit-logs)
+        echo -e "${GREEN}Viewing Chainlit logs...${NC}"
+        docker-compose $COMPOSE_FILES logs -f chainlit
+        ;;
+
     clean)
         echo -e "${RED}Removing all containers, volumes, and images...${NC}"
         read -p "Are you sure? This will delete all data. (y/N) " -n 1 -r
@@ -154,6 +169,8 @@ case "$1" in
         echo "  qdrant-ui    - Open Qdrant dashboard in browser"
         echo "  jupyter      - Open JupyterLab in browser"
         echo "  jupyter-logs - View JupyterLab logs"
+        echo "  chainlit     - Open Chainlit UI in browser"
+        echo "  chainlit-logs - View Chainlit logs"
         echo "  status       - Show container status"
         echo "  clean        - Remove all containers, volumes, and images"
         echo ""

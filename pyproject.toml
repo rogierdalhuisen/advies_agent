@@ -26,4 +26,5 @@ dependencies = [
     "pydantic>=2.12.3",
     "qdrant-client>=1.15.1",
     "seaborn>=0.13.2",
+    "chainlit>=2.0.0",
 ]
