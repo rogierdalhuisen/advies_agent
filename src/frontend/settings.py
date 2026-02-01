@@ -22,9 +22,48 @@ INSURANCE_PROVIDERS = [
 
 DEFAULT_PROVIDER_INDEX = 0
 
+
+# --- Per-agent node renderers ---
+# Return (label, text) for intermediate display, or None to skip.
+
+
+def _render_retriever_node(node_name, node_output):
+    if node_name == "retrieve":
+        docs = node_output.get("documents", [])
+        return ("Retrieving documents", f"Retrieved **{len(docs)}** documents")
+    if node_name == "rerank":
+        docs = node_output.get("documents", [])
+        lines = []
+        for i, doc in enumerate(docs, 1):
+            score = doc.metadata.get("rerank_score", "n/a")
+            source = doc.metadata.get("source", "unknown")
+            lines.append(f"{i}. `{source}` (score: {score})")
+        return ("Reranking documents", "\n".join(lines) or "No documents after reranking")
+    if node_name == "grade":
+        status = node_output.get("evaluation_status", "")
+        return ("Grading relevance", f"Evaluation: **{status}**")
+    if node_name == "rewrite":
+        query = node_output.get("current_query", "")
+        retries = node_output.get("retries", 0)
+        return ("Rewriting query", f"Rewritten query (attempt {retries}): *{query}*")
+    return None
+
+
+def _render_comparer_node(node_name, node_output):
+    if node_name == "retrieve_all":
+        results = node_output.get("provider_results", [])
+        lines = [f"- **{r.insurance_provider}**" for r in results]
+        return ("Retrieving all providers", "\n".join(lines) or "Retrieving...")
+    return None
+
+
+# --- Agent registry ---
+
+
 AGENTS = {
     "retriever": {
         "class": RetrieverAgent,
+        "description": "Single-provider retrieval agent",
         "build_widgets": lambda: [
             Select(
                 id="provider",
@@ -38,9 +77,11 @@ AGENTS = {
             "insurance_provider": session.get("provider"),
         },
         "output_key": "answer",
+        "render_node": _render_retriever_node,
     },
     "comparer": {
         "class": ComparerAgent,
+        "description": "Compare multiple insurance providers",
         "build_widgets": lambda: [
             Select(
                 id="provider_1",
@@ -72,6 +113,7 @@ AGENTS = {
             ],
         },
         "output_key": "comparison",
+        "render_node": _render_comparer_node,
     },
 }
 

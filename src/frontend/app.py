@@ -1,75 +1,67 @@
-"""Chainlit frontend with dynamic agent selection."""
+"""Chainlit frontend with dynamic agent selection via ChatProfiles."""
 
 import chainlit as cl
-from chainlit.input_widget import Select
 
 from src.frontend.settings import AGENTS, AGENT_NAMES, DEFAULT_AGENT
 
 
-def _build_widgets(agent_name: str) -> list:
-    """Build the full widget list: agent selector + agent-specific widgets."""
-    agent_select = Select(
-        id="agent",
-        label="Agent",
-        values=AGENT_NAMES,
-        initial_index=AGENT_NAMES.index(agent_name),
-    )
-    return [agent_select] + AGENTS[agent_name]["build_widgets"]()
-
-
-RESERVED_KEYS = {"agent", "agent_name"}
-
-
-def _store_settings(settings: dict):
-    """Persist widget values into user_session, skipping reserved keys."""
-    for key, value in settings.items():
-        if key not in RESERVED_KEYS:
-            cl.user_session.set(key, value)
+@cl.set_chat_profiles
+async def chat_profiles():
+    """Define agent profiles shown in the header dropdown."""
+    return [
+        cl.ChatProfile(
+            name=name,
+            markdown_description=config["description"],
+        )
+        for name, config in AGENTS.items()
+    ]
 
 
 @cl.on_chat_start
 async def on_chat_start():
-    """Initialize the default agent and present settings."""
-    agent_name = DEFAULT_AGENT
-    agent = AGENTS[agent_name]["class"]()
+    """Initialize the selected agent and present its settings."""
+    agent_name = cl.user_session.get("chat_profile") or DEFAULT_AGENT
+    config = AGENTS[agent_name]
+    agent = config["class"]()
 
     cl.user_session.set("agent_name", agent_name)
     cl.user_session.set("agent", agent)
 
-    settings = await cl.ChatSettings(_build_widgets(agent_name)).send()
-    _store_settings(settings)
+    settings = await cl.ChatSettings(config["build_widgets"]()).send()
+    for key, value in settings.items():
+        cl.user_session.set(key, value)
 
     await cl.Message(content=f"**{agent_name}** agent ready.").send()
 
 
 @cl.on_settings_update
 async def on_settings_update(settings):
-    """Handle setting changes; re-send widgets when agent type changes."""
-    new_agent_name = settings.get("agent", cl.user_session.get("agent_name"))
-    old_agent_name = cl.user_session.get("agent_name")
-
-    if new_agent_name != old_agent_name:
-        agent = AGENTS[new_agent_name]["class"]()
-        cl.user_session.set("agent_name", new_agent_name)
-        cl.user_session.set("agent", agent)
-
-        new_settings = await cl.ChatSettings(_build_widgets(new_agent_name)).send()
-        _store_settings(new_settings)
-
-        await cl.Message(content=f"Switched to **{new_agent_name}** agent.").send()
-    else:
-        _store_settings(settings)
+    """Store updated provider settings."""
+    for key, value in settings.items():
+        cl.user_session.set(key, value)
 
 
 @cl.on_message
 async def on_message(message: cl.Message):
-    """Dispatch the query to the active agent and send the result."""
-    agent_name = cl.user_session.get("agent_name")
+    """Stream the active agent's graph and display intermediate steps."""
     agent = cl.user_session.get("agent")
-    config = AGENTS[agent_name]
+    config = AGENTS[cl.user_session.get("agent_name")]
 
     inputs = config["build_inputs"](message.content, cl.user_session)
-    result = await agent.graph.ainvoke(inputs)
+    render_node = config["render_node"]
+    output_key = config["output_key"]
 
-    answer = result.get(config["output_key"], "No answer generated.")
-    await cl.Message(content=answer).send()
+    final_answer = ""
+
+    async for event in agent.graph.astream(inputs, stream_mode="updates"):
+        for node_name, node_output in event.items():
+            if output_key in node_output:
+                final_answer = node_output[output_key]
+
+            rendered = render_node(node_name, node_output)
+            if rendered:
+                label, text = rendered
+                async with cl.Step(name=label) as step:
+                    step.output = text
+
+    await cl.Message(content=final_answer or "No answer generated.").send()
