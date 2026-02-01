@@ -1,11 +1,13 @@
-"""Node functions for the self-reflective RAG retriever graph."""
+"""Node functions for the comparer agent."""
 
 from typing import Literal
+from concurrent.futures import ThreadPoolExecutor
+
 from pydantic import BaseModel, Field
 
 from src.retrieval.retriever import InsuranceRetriever
 from src.retrieval.reranker.reranker import Reranker
-from .state import RetrieverState
+from .state import RetrieverState, ComparerState, ProviderResult
 
 
 class GradeResult(BaseModel):
@@ -18,6 +20,9 @@ class GradeResult(BaseModel):
             "miss: docs do not answer the query at all."
         )
     )
+
+
+# --- Single-provider retriever nodes (used inside the subgraph) ---
 
 
 def make_retrieve(retriever: InsuranceRetriever):
@@ -72,7 +77,6 @@ def make_generate(retriever: InsuranceRetriever, llm):
 
         if state.evaluation_status == "direct":
             prompt += "Answer the query based on the documents above. Give a concise and accurate answer with respect to the query"
-                      
         else:
             prompt += (
                 "The documents don't answer the query directly but contain "
@@ -86,3 +90,54 @@ def make_generate(retriever: InsuranceRetriever, llm):
             text = "".join(block["text"] for block in text if block.get("type") == "text")
         return {"answer": text}
     return generate
+
+
+# --- Outer comparer nodes ---
+
+
+def make_retrieve_all(retriever_subgraph):
+    """Run the retriever subgraph for each provider in parallel."""
+
+    def retrieve_all(state: ComparerState) -> dict:
+        def run_for_provider(provider: str) -> ProviderResult:
+            result = retriever_subgraph.invoke({
+                "original_query": state.original_query,
+                "insurance_provider": provider,
+            })
+            return ProviderResult(
+                insurance_provider=provider,
+                answer=result["answer"],
+            )
+
+        with ThreadPoolExecutor(max_workers=len(state.insurance_providers)) as pool:
+            results = list(pool.map(run_for_provider, state.insurance_providers))
+
+        return {"provider_results": results}
+
+    return retrieve_all
+
+
+def make_compare(llm):
+    """Compare and summarize results across providers."""
+
+    def compare(state: ComparerState) -> dict:
+        results_text = "\n\n".join(
+            f"### {r.insurance_provider}\n{r.answer}"
+            for r in state.provider_results
+        )
+        providers = ", ".join(r.insurance_provider for r in state.provider_results)
+
+        response = llm.invoke(
+            f"Query: {state.original_query}\n\n"
+            f"Below are the answers for each insurance provider ({providers}):\n\n"
+            f"{results_text}\n\n"
+            "Compare and summarize the differences and similarities between "
+            "these insurance providers with respect to the query. "
+            "Highlight key differences, advantages, and disadvantages of each."
+        )
+        text = response.content
+        if isinstance(text, list):
+            text = "".join(block["text"] for block in text if block.get("type") == "text")
+        return {"comparison": text}
+
+    return compare

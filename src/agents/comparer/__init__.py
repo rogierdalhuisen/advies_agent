@@ -1,1 +1,1 @@
-from .graphs import RetrieverAgent
+from .graphs import ComparerAgent

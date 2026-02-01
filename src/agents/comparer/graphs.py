@@ -1,55 +1,73 @@
-"""Self-reflective RAG agent with retrieval, reranking, grading, and query rewriting."""
+"""Comparer agent: runs retrieval for multiple providers in parallel, then compares."""
 
 from langgraph.graph import StateGraph, START, END
-from .state import RetrieverState
+from .state import RetrieverState, ComparerState
 from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm
-from .nodes import make_retrieve, make_rerank, make_grade, make_rewrite, make_generate
+from .nodes import (
+    make_retrieve, make_rerank, make_grade, make_rewrite, make_generate,
+    make_retrieve_all, make_compare,
+)
 
 
-class RetrieverAgent:
-    """Self-reflective RAG agent. All configuration comes from config.py."""
+def _build_retriever_subgraph():
+    """Build the single-provider retriever subgraph (retrieve → rerank → grade → rewrite loop → generate)."""
+    workflow = StateGraph(RetrieverState)
+
+    workflow.add_node("retrieve", make_retrieve(retriever))
+    workflow.add_node("rerank", make_rerank(reranker))
+    workflow.add_node("grade", make_grade(retriever, grading_llm))
+    workflow.add_node("rewrite", make_rewrite(rewrite_llm))
+    workflow.add_node("generate", make_generate(retriever, generation_llm))
+
+    workflow.add_edge(START, "retrieve")
+    workflow.add_edge("retrieve", "rerank")
+    workflow.add_edge("rerank", "grade")
+    workflow.add_conditional_edges(
+        "grade",
+        _route_after_grading,
+        {"generate": "generate", "rewrite": "rewrite"},
+    )
+    workflow.add_edge("rewrite", "retrieve")
+    workflow.add_edge("generate", END)
+
+    return workflow.compile()
+
+
+def _route_after_grading(state: RetrieverState) -> str:
+    if state.evaluation_status in ("direct", "indirect"):
+        return "generate"
+    if state.retries >= state.max_retries:
+        return "generate"
+    return "rewrite"
+
+
+class ComparerAgent:
+    """Runs retrieval for 2-3 insurance providers in parallel, then compares results."""
 
     def __init__(self):
-        self.retriever = retriever
-        self.reranker = reranker
-        self.grading_llm = grading_llm
-        self.rewrite_llm = rewrite_llm
-        self.generation_llm = generation_llm
+        self.retriever_subgraph = _build_retriever_subgraph()
         self.graph = self._build_graph()
 
     def _build_graph(self):
-        workflow = StateGraph(RetrieverState)
+        workflow = StateGraph(ComparerState)
 
-        workflow.add_node("retrieve", make_retrieve(self.retriever))
-        workflow.add_node("rerank", make_rerank(self.reranker))
-        workflow.add_node("grade", make_grade(self.retriever, self.grading_llm))
-        workflow.add_node("rewrite", make_rewrite(self.rewrite_llm))
-        workflow.add_node("generate", make_generate(self.retriever, self.generation_llm))
+        workflow.add_node("retrieve_all", make_retrieve_all(self.retriever_subgraph))
+        workflow.add_node("compare", make_compare(generation_llm))
 
-        workflow.add_edge(START, "retrieve")
-        workflow.add_edge("retrieve", "rerank")
-        workflow.add_edge("rerank", "grade")
-        workflow.add_conditional_edges(
-            "grade",
-            self._route_after_grading,
-            {"generate": "generate", "rewrite": "rewrite"},
-        )
-        workflow.add_edge("rewrite", "retrieve")
-        workflow.add_edge("generate", END)
+        workflow.add_edge(START, "retrieve_all")
+        workflow.add_edge("retrieve_all", "compare")
+        workflow.add_edge("compare", END)
 
         return workflow.compile()
 
-    @staticmethod
-    def _route_after_grading(state: RetrieverState) -> str:
-        if state.evaluation_status in ("direct", "indirect"):
-            return "generate"
-        if state.retries >= state.max_retries:
-            return "generate"
-        return "rewrite"
+    def invoke(self, query: str, insurance_providers: list[str]) -> dict:
+        """Run the comparer graph.
 
-    def invoke(self, query: str, insurance_provider: str) -> dict:
-        """Convenience method to run the graph."""
+        Args:
+            query: The insurance question to answer.
+            insurance_providers: List of 2-3 provider names to compare.
+        """
         return self.graph.invoke({
             "original_query": query,
-            "insurance_provider": insurance_provider,
+            "insurance_providers": insurance_providers,
         })
