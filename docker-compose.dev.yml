@@ -72,6 +72,26 @@ services:
     networks:
       - agent_network
 
+  # PostgreSQL for Chainlit chat history
+  postgres_chainlit:
+    image: postgres:16-alpine
+    container_name: advies_agent_chainlit_db
+    environment:
+      - POSTGRES_USER=chainlit
+      - POSTGRES_PASSWORD=chainlit
+      - POSTGRES_DB=chainlit
+    volumes:
+      - chainlit_pg_data:/var/lib/postgresql/data
+      - ./docker/chainlit_db_init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U chainlit"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: "no"
+    networks:
+      - agent_network
+
   # Chainlit frontend for agent testing
   chainlit:
     build:
@@ -95,11 +115,19 @@ services:
       - POSTGRES_HOST=expat_insurance_db
       - POSTGRES_PORT=5432
       - PYTHONPATH=/app:/app/src/retrieval
+      - CHAINLIT_AUTH_SECRET=dev-secret-key-change-in-production
+      - CHAINLIT_DB_URL=postgresql+asyncpg://chainlit:chainlit@postgres_chainlit:5432/chainlit
     command: chainlit run src/frontend/app.py --host 0.0.0.0 --port 8000 -w
     depends_on:
       qdrant:
+        condition: service_healthy
+      postgres_chainlit:
         condition: service_healthy
     restart: "no"
     networks:
       - agent_network
       - shared_network
+
+volumes:
+  chainlit_pg_data:
+    driver: local

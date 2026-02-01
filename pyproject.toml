@@ -27,4 +27,7 @@ dependencies = [
     "qdrant-client>=1.15.1",
     "seaborn>=0.13.2",
     "chainlit>=2.0.0",
+    "asyncpg>=0.30.0",
+    "sqlalchemy>=2.0.0",
+    "greenlet>=3.0.0",
 ]

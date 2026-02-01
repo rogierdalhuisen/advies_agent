@@ -1,8 +1,29 @@
 """Chainlit frontend with dynamic agent selection via ChatProfiles."""
 
+import os
+
 import chainlit as cl
+from chainlit.data.sql_alchemy import SQLAlchemyDataLayer
 
 from src.frontend.settings import AGENTS, AGENT_NAMES, DEFAULT_AGENT
+
+
+# --- Data layer for chat history persistence ---
+
+@cl.data_layer
+def get_data_layer():
+    conninfo = os.environ.get(
+        "CHAINLIT_DB_URL",
+        "postgresql+asyncpg://chainlit:chainlit@postgres_chainlit:5432/chainlit",
+    )
+    return SQLAlchemyDataLayer(conninfo=conninfo)
+
+
+# --- Auto-authenticate every request (no login screen) ---
+
+@cl.header_auth_callback
+def header_auth_callback(headers: dict):
+    return cl.User(identifier="dev", metadata={"role": "admin", "provider": "header"})
 
 
 @cl.set_chat_profiles
@@ -32,6 +53,17 @@ async def on_chat_start():
         cl.user_session.set(key, value)
 
     await cl.Message(content=f"**{agent_name}** agent ready.").send()
+
+
+@cl.on_chat_resume
+async def on_chat_resume(thread):
+    """Restore the agent when reopening an old chat."""
+    agent_name = thread.get("metadata", {}).get("agent_name", DEFAULT_AGENT)
+    config = AGENTS.get(agent_name, AGENTS[DEFAULT_AGENT])
+    agent = config["class"]()
+
+    cl.user_session.set("agent_name", agent_name)
+    cl.user_session.set("agent", agent)
 
 
 @cl.on_settings_update
