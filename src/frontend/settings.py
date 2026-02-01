@@ -61,7 +61,7 @@ def _render_comparer_node(node_name, node_output):
 
 
 AGENTS = {
-    "retriever": {
+    "Retriever": {
         "class": RetrieverAgent,
         "description": "Stel vragen over een verzekering",
         "build_widgets": lambda: [
@@ -79,7 +79,7 @@ AGENTS = {
         "output_key": "answer",
         "render_node": _render_retriever_node,
     },
-    "comparer": {
+    "Vergelijker": {
         "class": ComparerAgent,
         "description": "Vergelijk verschillende verzekeringen",
         "build_widgets": lambda: [
@@ -117,5 +117,5 @@ AGENTS = {
     },
 }
 
-DEFAULT_AGENT = "retriever"
+DEFAULT_AGENT = "Retriever"
 AGENT_NAMES = list(AGENTS.keys())
