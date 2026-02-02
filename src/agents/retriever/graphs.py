@@ -47,9 +47,11 @@ class RetrieverAgent:
             return "generate"
         return "rewrite"
 
-    def invoke(self, query: str, insurance_provider: str) -> dict:
+    def invoke(self, query: str, insurance_provider: str, k: int = 15, top_n: int = 5) -> dict:
         """Convenience method to run the graph."""
         return self.graph.invoke({
             "original_query": query,
             "insurance_provider": insurance_provider,
+            "k": k,
+            "top_n": top_n,
         })

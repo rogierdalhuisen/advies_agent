@@ -23,14 +23,14 @@ class GradeResult(BaseModel):
 def make_retrieve(retriever: InsuranceRetriever):
     def retrieve(state: RetrieverState) -> dict:
         query = state.current_query or state.original_query
-        results = retriever.retrieve_company_docs(query, state.insurance_provider, k=15)
+        results = retriever.retrieve_company_docs(query, state.insurance_provider, k=state.k)
         return {"documents": [doc for doc, _ in results], "current_query": query}
     return retrieve
 
 
 def make_rerank(reranker: Reranker):
     def rerank(state: RetrieverState) -> dict:
-        return {"documents": reranker.rerank(state.current_query, state.documents, top_n=5)}
+        return {"documents": reranker.rerank(state.current_query, state.documents, top_n=state.top_n)}
     return rerank
 
 

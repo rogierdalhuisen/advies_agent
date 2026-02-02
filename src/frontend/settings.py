@@ -1,6 +1,6 @@
 """Configuration and agent registry for the Chainlit frontend."""
 
-from chainlit.input_widget import Select
+from chainlit.input_widget import Select, Slider
 
 from src.agents.retriever import RetrieverAgent
 from src.agents.comparer import ComparerAgent
@@ -71,10 +71,28 @@ AGENTS = {
                 values=INSURANCE_PROVIDERS,
                 initial_index=DEFAULT_PROVIDER_INDEX,
             ),
+            Slider(
+                id="k",
+                label="Documents to retrieve (k)",
+                initial=15,
+                min=1,
+                max=50,
+                step=1,
+            ),
+            Slider(
+                id="top_n",
+                label="Documents after reranking (top_n)",
+                initial=5,
+                min=1,
+                max=20,
+                step=1,
+            ),
         ],
         "build_inputs": lambda query, session: {
             "original_query": query,
             "insurance_provider": session.get("provider"),
+            "k": int(session.get("k", 15)),
+            "top_n": int(session.get("top_n", 5)),
         },
         "output_key": "answer",
         "render_node": _render_retriever_node,
@@ -101,6 +119,22 @@ AGENTS = {
                 values=["none"] + INSURANCE_PROVIDERS,
                 initial_index=0,
             ),
+            Slider(
+                id="k",
+                label="Documents to retrieve (k)",
+                initial=15,
+                min=1,
+                max=50,
+                step=1,
+            ),
+            Slider(
+                id="top_n",
+                label="Documents after reranking (top_n)",
+                initial=5,
+                min=1,
+                max=20,
+                step=1,
+            ),
         ],
         "build_inputs": lambda query, session: {
             "original_query": query,
@@ -111,6 +145,8 @@ AGENTS = {
                     session.get("provider_3"),
                 ] if p and p != "none"
             ],
+            "k": int(session.get("k", 15)),
+            "top_n": int(session.get("top_n", 5)),
         },
         "output_key": "comparison",
         "render_node": _render_comparer_node,

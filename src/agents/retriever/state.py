@@ -16,3 +16,5 @@ class RetrieverState(BaseModel):
     answer: str = ""
     retries: int = 0
     max_retries: int = 3
+    k: int = 15
+    top_n: int = 5

@@ -16,6 +16,8 @@ class RetrieverState(BaseModel):
     answer: str = ""
     retries: int = 0
     max_retries: int = 3
+    k: int = 15
+    top_n: int = 5
 
 
 class ProviderResult(BaseModel):
@@ -32,3 +34,5 @@ class ComparerState(BaseModel):
     insurance_providers: List[str] = Field(default_factory=list)
     provider_results: List[ProviderResult] = Field(default_factory=list)
     comparison: str = ""
+    k: int = 15
+    top_n: int = 5

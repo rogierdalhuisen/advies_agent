@@ -60,14 +60,18 @@ class ComparerAgent:
 
         return workflow.compile()
 
-    def invoke(self, query: str, insurance_providers: list[str]) -> dict:
+    def invoke(self, query: str, insurance_providers: list[str], k: int = 15, top_n: int = 5) -> dict:
         """Run the comparer graph.
 
         Args:
             query: The insurance question to answer.
             insurance_providers: List of 2-3 provider names to compare.
+            k: Number of documents to retrieve.
+            top_n: Number of documents to keep after reranking.
         """
         return self.graph.invoke({
             "original_query": query,
             "insurance_providers": insurance_providers,
+            "k": k,
+            "top_n": top_n,
         })
