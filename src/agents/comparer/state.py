@@ -14,6 +14,7 @@ class RetrieverState(BaseModel):
     documents: List[Document] = Field(default_factory=list)
     evaluation_status: Literal["direct", "indirect", "miss", ""] = ""
     answer: str = ""
+    premium_data: str = ""
     retries: int = 0
     max_retries: int = 3
     k: int = 15
@@ -34,5 +35,6 @@ class ComparerState(BaseModel):
     insurance_providers: List[str] = Field(default_factory=list)
     provider_results: List[ProviderResult] = Field(default_factory=list)
     comparison: str = ""
+    premium_data: str = ""
     k: int = 15
     top_n: int = 5

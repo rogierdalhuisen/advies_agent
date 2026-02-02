@@ -16,8 +16,8 @@ INSURANCE_COLUMN_TO_FOLDER = {
     "WIB": "oom_wib",
     "TIB": "oom_tib",
     "NGO": "goudse_ngo_zendelingen",
-    "IEI": "International Expat Insurance",
-    "Allianz_Health": "allianz_globetrotter",  # or allianz_care
+    "IEI": "international_expat_insurance",
+    "Allianz_Health": "allianz_care",  # or allianz_care
     "Globality": "globality_yougenio",
     "TEG_Health": "expatriate_group",
     "Cigna_Global": "cigna_global_care",

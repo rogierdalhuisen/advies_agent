@@ -2,8 +2,8 @@
 
 from langgraph.graph import StateGraph, START, END
 from .state import RetrieverState
-from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm
-from .nodes import make_retrieve, make_rerank, make_grade, make_rewrite, make_generate
+from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm, routing_llm, tools
+from .nodes import make_retrieve, make_rerank, make_grade, make_rewrite, make_generate, make_route
 
 
 class RetrieverAgent:
@@ -15,18 +15,22 @@ class RetrieverAgent:
         self.grading_llm = grading_llm
         self.rewrite_llm = rewrite_llm
         self.generation_llm = generation_llm
+        self.routing_llm = routing_llm
+        self.tools = tools
         self.graph = self._build_graph()
 
     def _build_graph(self):
         workflow = StateGraph(RetrieverState)
 
+        workflow.add_node("route", make_route(self.routing_llm, self.tools))
         workflow.add_node("retrieve", make_retrieve(self.retriever))
         workflow.add_node("rerank", make_rerank(self.reranker))
         workflow.add_node("grade", make_grade(self.retriever, self.grading_llm))
         workflow.add_node("rewrite", make_rewrite(self.rewrite_llm))
         workflow.add_node("generate", make_generate(self.retriever, self.generation_llm))
 
-        workflow.add_edge(START, "retrieve")
+        workflow.add_edge(START, "route")
+        workflow.add_edge("route", "retrieve")
         workflow.add_edge("retrieve", "rerank")
         workflow.add_edge("rerank", "grade")
         workflow.add_conditional_edges(

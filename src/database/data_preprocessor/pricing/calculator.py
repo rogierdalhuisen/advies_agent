@@ -227,8 +227,9 @@ class PremiumCalculator:
         region = None
         insurance_column = FOLDER_TO_INSURANCE_COLUMN.get(insurance_folder)
         if insurance_column and country:
-            region = get_region_for_country(country, insurance_column, self.region_df)
-            result.region_used = str(region) if region else None
+            raw_region = get_region_for_country(country, insurance_column, self.region_df)
+            region = str(raw_region) if raw_region is not None else None
+            result.region_used = region
 
         # Get all coverage levels
         coverage_levels = self._get_coverage_levels(premium_data)
@@ -300,7 +301,11 @@ class PremiumCalculator:
         user_record = user_records[0]
         return self.calculate_from_record(user_record)
 
-    def calculate_from_record(self, user_record: dict) -> PremiumCalculationOutput:
+    def calculate_from_record(
+        self,
+        user_record: dict,
+        selected_insurance_folders: Optional[list[str]] = None,
+    ) -> PremiumCalculationOutput:
         """
         Calculate premiums from a user record dict directly.
 
@@ -309,6 +314,8 @@ class PremiumCalculator:
 
         Args:
             user_record: User data dictionary
+            selected_insurance_folders: Only calculate for these providers.
+                If None, calculates for all available providers.
 
         Returns:
             Complete premium calculation output
@@ -337,8 +344,8 @@ class PremiumCalculator:
             departure_date=departure_date,
         )
 
-        # Calculate for all insurances with premium data
-        insurance_folders = get_all_insurance_folders()
+        # Calculate for selected insurances (or all if none specified)
+        insurance_folders = selected_insurance_folders or get_all_insurance_folders()
 
         for folder in insurance_folders:
             result = self._calculate_insurance_premiums(

@@ -73,7 +73,12 @@ def make_generate(retriever: InsuranceRetriever, llm):
         docs_text = "\n---\n".join(
             retriever.format_document_with_context(doc) for doc in state.documents
         )
-        prompt = f"Query: {state.original_query}\n\nDocuments:\n{docs_text}\n\n"
+        prompt = f"Query: {state.original_query}\n\n"
+
+        if state.premium_data:
+            prompt += f"Premium data:\n{state.premium_data}\n\n"
+
+        prompt += f"Documents:\n{docs_text}\n\n"
 
         if state.evaluation_status == "direct":
             prompt += "Answer the query based on the documents above. Give a concise and accurate answer with respect to the query"
@@ -84,6 +89,9 @@ def make_generate(retriever: InsuranceRetriever, llm):
                 "say that relates to the query."
             )
 
+        if state.premium_data:
+            prompt += "\n\nAlso use the premium data provided to give pricing information."
+
         response = llm.invoke(prompt)
         text = response.content
         if isinstance(text, list):
@@ -93,6 +101,25 @@ def make_generate(retriever: InsuranceRetriever, llm):
 
 
 # --- Outer comparer nodes ---
+
+
+def make_route(llm, tools):
+    """Router node: uses LLM tool-calling to decide pricing vs retrieval."""
+    llm_with_tools = llm.bind_tools(tools)
+
+    def route(state: ComparerState) -> dict:
+        response = llm_with_tools.invoke(state.original_query)
+
+        if response.tool_calls:
+            tool_call = response.tool_calls[0]
+            # Inject the known providers from state instead of relying on the LLM
+            tool_call["args"]["insurance_providers"] = state.insurance_providers
+            result = tools[0].invoke(tool_call["args"])
+            return {"premium_data": result}
+
+        return {"premium_data": ""}
+
+    return route
 
 
 def make_retrieve_all(retriever_subgraph):
@@ -129,14 +156,24 @@ def make_compare(llm):
         )
         providers = ", ".join(r.insurance_provider for r in state.provider_results)
 
-        response = llm.invoke(
-            f"Query: {state.original_query}\n\n"
+        prompt = f"Query: {state.original_query}\n\n"
+
+        if state.premium_data:
+            prompt += f"Premium data:\n{state.premium_data}\n\n"
+
+        prompt += (
             f"Below are the answers for each insurance provider ({providers}):\n\n"
             f"{results_text}\n\n"
             "Compare and summarize the differences and similarities between "
             "these insurance providers with respect to the query. "
             "Highlight key differences, advantages, and disadvantages of each."
+            "Do not make up information that is not in the given chunks."
         )
+
+        if state.premium_data:
+            prompt += "\n\nAlso use the premium data provided to compare pricing."
+
+        response = llm.invoke(prompt)
         text = response.content
         if isinstance(text, list):
             text = "".join(block["text"] for block in text if block.get("type") == "text")

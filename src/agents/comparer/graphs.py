@@ -2,15 +2,15 @@
 
 from langgraph.graph import StateGraph, START, END
 from .state import RetrieverState, ComparerState
-from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm
+from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm, routing_llm, tools
 from .nodes import (
     make_retrieve, make_rerank, make_grade, make_rewrite, make_generate,
-    make_retrieve_all, make_compare,
+    make_retrieve_all, make_compare, make_route,
 )
 
 
 def _build_retriever_subgraph():
-    """Build the single-provider retriever subgraph (retrieve → rerank → grade → rewrite loop → generate)."""
+    """Build the single-provider retriever subgraph (retrieve -> rerank -> grade -> rewrite loop -> generate)."""
     workflow = StateGraph(RetrieverState)
 
     workflow.add_node("retrieve", make_retrieve(retriever))
@@ -51,10 +51,12 @@ class ComparerAgent:
     def _build_graph(self):
         workflow = StateGraph(ComparerState)
 
+        workflow.add_node("route", make_route(routing_llm, tools))
         workflow.add_node("retrieve_all", make_retrieve_all(self.retriever_subgraph))
         workflow.add_node("compare", make_compare(generation_llm))
 
-        workflow.add_edge(START, "retrieve_all")
+        workflow.add_edge(START, "route")
+        workflow.add_edge("route", "retrieve_all")
         workflow.add_edge("retrieve_all", "compare")
         workflow.add_edge("compare", END)
 

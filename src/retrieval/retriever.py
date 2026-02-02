@@ -5,7 +5,7 @@ from langchain_qdrant import QdrantVectorStore, RetrievalMode, FastEmbedSparse
 from qdrant_client import QdrantClient
 from qdrant_client.models import Filter, FieldCondition, MatchValue
 
-from config import (
+from .config import (
     EMBEDDING_MODEL,
     SPARSE_EMBEDDING_MODEL,
     COLLECTION_NAME,

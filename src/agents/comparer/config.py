@@ -5,6 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain_google_genai import ChatGoogleGenerativeAI
 from src.retrieval.retriever import retriever
 from src.retrieval.reranker.reranker import reranker
+from src.tools import calculate_premiums
 
 retriever = retriever
 reranker = reranker
@@ -15,3 +16,5 @@ generation_llm = ChatGoogleGenerativeAI(
     temperature=0.8,
     google_api_key=os.getenv("GEMINI_API_KEY")  # Use GEMINI_API_KEY from .env
 )
+routing_llm = ChatOpenAI(model="gpt-5-mini", temperature=0)
+tools = [calculate_premiums]

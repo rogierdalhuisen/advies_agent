@@ -15,9 +15,13 @@ INSURANCE_PROVIDERS = [
     "goudse_expat_pakket",
     "goudse_ngo_zendelingen",
     "goudse_working_nomad",
+    "img_",
+    "international_expat_insurance",
+    "msh",
     "oom_tib",
     "oom_wib",
     "special_isis",
+   
 ]
 
 DEFAULT_PROVIDER_INDEX = 0
@@ -27,7 +31,19 @@ DEFAULT_PROVIDER_INDEX = 0
 # Return (label, text) for intermediate display, or None to skip.
 
 
+def _render_route_node(node_name, node_output):
+    if node_name == "route":
+        premium_data = node_output.get("premium_data", "")
+        if premium_data:
+            return ("Routing query", "Pricing query detected — using calculator tool")
+        return ("Routing query", "Document retrieval query — using RAG pipeline")
+    return None
+
+
 def _render_retriever_node(node_name, node_output):
+    result = _render_route_node(node_name, node_output)
+    if result:
+        return result
     if node_name == "retrieve":
         docs = node_output.get("documents", [])
         return ("Retrieving documents", f"Retrieved **{len(docs)}** documents")
@@ -50,6 +66,9 @@ def _render_retriever_node(node_name, node_output):
 
 
 def _render_comparer_node(node_name, node_output):
+    result = _render_route_node(node_name, node_output)
+    if result:
+        return result
     if node_name == "retrieve_all":
         results = node_output.get("provider_results", [])
         lines = [f"- **{r.insurance_provider}**" for r in results]

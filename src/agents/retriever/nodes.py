@@ -1,7 +1,11 @@
 """Node functions for the self-reflective RAG retriever graph."""
 
+import json
+import logging
 from typing import Literal
 from pydantic import BaseModel, Field
+
+logger = logging.getLogger(__name__)
 
 from src.retrieval.retriever import InsuranceRetriever
 from src.retrieval.reranker.reranker import Reranker
@@ -63,22 +67,51 @@ def make_rewrite(llm):
     return rewrite
 
 
+def make_route(llm, tools):
+    """Router node: uses LLM tool-calling to decide pricing vs retrieval."""
+    llm_with_tools = llm.bind_tools(tools)
+
+    def route(state: RetrieverState) -> dict:
+        response = llm_with_tools.invoke(state.original_query)
+
+        if response.tool_calls:
+            tool_call = response.tool_calls[0]
+            # Inject the known provider from state instead of relying on the LLM
+            tool_call["args"]["insurance_providers"] = [state.insurance_provider]
+            logger.info("Calculator tool called with args: %s", json.dumps(tool_call["args"], ensure_ascii=False))
+            result = tools[0].invoke(tool_call["args"])
+            logger.info("Calculator tool result: %s", result)
+            return {"premium_data": result}
+
+        logger.info("No tool call made by routing LLM")
+        return {"premium_data": ""}
+
+    return route
+
+
 def make_generate(retriever: InsuranceRetriever, llm):
     def generate(state: RetrieverState) -> dict:
         docs_text = "\n---\n".join(
             retriever.format_document_with_context(doc) for doc in state.documents
         )
-        prompt = f"Query: {state.original_query}\n\nDocuments:\n{docs_text}\n\n"
+        prompt = f"Query: {state.original_query}\n\n"
+
+        if state.premium_data:
+            prompt += f"Premium data:\n{state.premium_data}\n\n"
+
+        prompt += f"Documents:\n{docs_text}\n\n"
 
         if state.evaluation_status == "direct":
             prompt += "Answer the query based on the documents above. Give a concise and accurate answer with respect to the query"
-                      
         else:
             prompt += (
                 "The documents don't answer the query directly but contain "
                 "relevant indirect information. Summarize what the documents "
                 "say that relates to the query."
             )
+
+        if state.premium_data:
+            prompt += "\n\nAlso use the premium data provided to give pricing information."
 
         response = llm.invoke(prompt)
         text = response.content
