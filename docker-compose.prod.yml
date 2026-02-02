@@ -37,6 +37,45 @@ services:
           cpus: '1'
           memory: 1G
 
+  db:
+    restart: unless-stopped
+    # Don't expose port externally in production
+    ports: []
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '0.5'
+          memory: 512M
+
+  web:
+    restart: unless-stopped
+    ports:
+      - "${DJANGO_PORT:-8002}:8000"
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 1G
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+
+  metabase:
+    restart: unless-stopped
+    ports:
+      - "${METABASE_PORT:-3000}:3000"
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 2G
+        reservations:
+          cpus: '0.25'
+          memory: 512M
+
 volumes:
   agent_data:
     driver: local

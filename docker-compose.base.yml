@@ -1,9 +1,6 @@
 networks:
   agent_network:
     driver: bridge
-  shared_network:
-    name: shared_db_network
-    driver: bridge
 
 services:
   # Qdrant Vector Database
@@ -43,11 +40,11 @@ services:
       - QDRANT_GRPC_PORT=6334
       - PYTHONUNBUFFERED=1
       - ENVIRONMENT=${ENVIRONMENT:-production}
-      - POSTGRES_HOST=expat_insurance_db
+      - POSTGRES_HOST=db
       - POSTGRES_PORT=5432
-      - POSTGRES_DB=${POSTEGRES_NAME}
-      - POSTGRES_USER=${POSTEGRES_USER}
-      - POSTGRES_PASSWORD=${POSTEGRES_PASSWORD}
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
     healthcheck:
       test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
       interval: 30s
@@ -56,8 +53,76 @@ services:
       start_period: 40s
     networks:
       - agent_network
-      - shared_network
+
+  # PostgreSQL Database (Django / Metabase)
+  db:
+    image: postgres:16
+    container_name: expat_insurance_db
+    environment:
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_INITDB_ARGS: "--encoding=UTF-8 --lc-collate=C --lc-ctype=C"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./src/database/docker/db_init:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER} -d ${DB_NAME}"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+    networks:
+      - agent_network
+
+  # Django Web Application
+  web:
+    build:
+      context: ./src/database
+      dockerfile: Dockerfile
+    container_name: expat_insurance_web
+    command: python src/manage.py runserver 0.0.0.0:8000
+    environment:
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_HOST=db
+      - POSTGRES_PORT=5432
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - agent_network
+
+  # Metabase Business Intelligence
+  metabase:
+    image: metabase/metabase:latest
+    container_name: expat_insurance_metabase
+    environment:
+      MB_DB_TYPE: postgres
+      MB_DB_DBNAME: ${DB_NAME}
+      MB_DB_PORT: 5432
+      MB_DB_USER: ${DB_USER}
+      MB_DB_PASS: ${DB_PASSWORD}
+      MB_DB_HOST: db
+      MB_EMOJI_IN_LOGS: "false"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - agent_network
 
 volumes:
   qdrant_storage:
-    driver: local
+    external: true
+    name: advies_agent_qdrant_storage
+  postgres_data:
+    external: true
+    name: joho_database_postgres_data

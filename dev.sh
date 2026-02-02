@@ -102,21 +102,6 @@ case "$1" in
         fi
         ;;
 
-    jupyter)
-        echo -e "${GREEN}Opening JupyterLab in browser...${NC}"
-        echo -e "${GREEN}JupyterLab: http://localhost:8888${NC}"
-        if command -v open &> /dev/null; then
-            open "http://localhost:8888"
-        elif command -v xdg-open &> /dev/null; then
-            xdg-open "http://localhost:8888"
-        fi
-        ;;
-
-    jupyter-logs)
-        echo -e "${GREEN}Viewing JupyterLab logs...${NC}"
-        docker-compose $COMPOSE_FILES logs -f jupyter
-        ;;
-
     chainlit)
         echo -e "${GREEN}Opening Chainlit UI in browser...${NC}"
         echo -e "${GREEN}Chainlit: http://localhost:8000${NC}"
@@ -130,6 +115,31 @@ case "$1" in
     chainlit-logs)
         echo -e "${GREEN}Viewing Chainlit logs...${NC}"
         docker-compose $COMPOSE_FILES logs -f chainlit
+        ;;
+
+    django-shell)
+        echo -e "${GREEN}Opening Django shell...${NC}"
+        docker-compose $COMPOSE_FILES exec web python src/manage.py shell
+        ;;
+
+    migrate)
+        echo -e "${GREEN}Running Django migrations...${NC}"
+        docker-compose $COMPOSE_FILES exec web python src/manage.py migrate "${@:2}"
+        ;;
+
+    metabase)
+        echo -e "${GREEN}Opening Metabase in browser...${NC}"
+        echo -e "${GREEN}Metabase: http://localhost:3000${NC}"
+        if command -v open &> /dev/null; then
+            open "http://localhost:3000"
+        elif command -v xdg-open &> /dev/null; then
+            xdg-open "http://localhost:3000"
+        fi
+        ;;
+
+    db-shell)
+        echo -e "${GREEN}Opening PostgreSQL shell...${NC}"
+        docker-compose $COMPOSE_FILES exec db psql -U "${DB_USER:-postgres}" -d "${DB_NAME:-expat_insurance}"
         ;;
 
     clean)
@@ -153,31 +163,34 @@ case "$1" in
         echo "Usage: ./dev.sh [command]"
         echo ""
         echo "Commands:"
-        echo "  up           - Start services (foreground)"
-        echo "  upd          - Start services (detached/background)"
-        echo "  build        - Build images"
-        echo "  rebuild      - Rebuild and start services"
-        echo "  rebuild-deps - Rebuild images from scratch (use after adding dependencies)"
-        echo "  down         - Stop services"
-        echo "  restart      - Restart services"
-        echo "  logs [svc]   - View logs (optionally for specific service)"
-        echo "  shell        - Open bash shell in agent container"
-        echo "  python       - Open Python REPL in agent container"
-        echo "  run [module] - Run Python module (e.g., ./dev.sh run src.ingestion.index_dekkingen)"
-        echo "  test [args]  - Run pytest in agent container"
-        echo "  format       - Format code with black and ruff"
-        echo "  qdrant-ui    - Open Qdrant dashboard in browser"
-        echo "  jupyter      - Open JupyterLab in browser"
-        echo "  jupyter-logs - View JupyterLab logs"
-        echo "  chainlit     - Open Chainlit UI in browser"
+        echo "  up            - Start services (foreground)"
+        echo "  upd           - Start services (detached/background)"
+        echo "  build         - Build images"
+        echo "  rebuild       - Rebuild and start services"
+        echo "  rebuild-deps  - Rebuild images from scratch (use after adding dependencies)"
+        echo "  down          - Stop services"
+        echo "  restart       - Restart services"
+        echo "  logs [svc]    - View logs (optionally for specific service)"
+        echo "  shell         - Open bash shell in agent container"
+        echo "  python        - Open Python REPL in agent container"
+        echo "  run [module]  - Run Python module (e.g., ./dev.sh run src.ingestion.index_dekkingen)"
+        echo "  test [args]   - Run pytest in agent container"
+        echo "  format        - Format code with black and ruff"
+        echo "  qdrant-ui     - Open Qdrant dashboard in browser"
+        echo "  chainlit      - Open Chainlit UI in browser"
         echo "  chainlit-logs - View Chainlit logs"
-        echo "  status       - Show container status"
-        echo "  clean        - Remove all containers, volumes, and images"
+        echo "  django-shell  - Open Django management shell"
+        echo "  migrate       - Run Django migrations"
+        echo "  metabase      - Open Metabase in browser"
+        echo "  db-shell      - Open PostgreSQL shell"
+        echo "  status        - Show container status"
+        echo "  clean         - Remove all containers, volumes, and images"
         echo ""
         echo "Examples:"
-        echo "  ./dev.sh up            # Start in foreground"
-        echo "  ./dev.sh logs agent    # View agent logs"
-        echo "  ./dev.sh test -v       # Run tests with verbose output"
-        echo "  ./dev.sh jupyter       # Open JupyterLab"
+        echo "  ./dev.sh up              # Start in foreground"
+        echo "  ./dev.sh logs agent      # View agent logs"
+        echo "  ./dev.sh test -v         # Run tests with verbose output"
+        echo "  ./dev.sh django-shell    # Open Django shell"
+        echo "  ./dev.sh db-shell        # Connect to PostgreSQL"
         ;;
 esac

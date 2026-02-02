@@ -40,38 +40,6 @@ services:
       - "6334:6334"
     restart: "no"  # Don't auto-restart in dev mode
 
-  # JupyterLab for interactive development
-  jupyter:
-    build:
-      context: .
-      dockerfile: Dockerfile
-      target: development
-    container_name: advies_agent_jupyter
-    ports:
-      - "8888:8888"  # JupyterLab interface
-    volumes:
-      # Mount source code - notebooks can stay in src/
-      - ./src:/app/src
-      - ./main.py:/app/main.py
-      - ./data:/app/data
-      - ./logs:/app/logs
-      # Mount .env for accessing environment variables
-      - ./.env:/app/.env
-    environment:
-      - ENVIRONMENT=development
-      - LOG_LEVEL=DEBUG
-      - PYTHONDONTWRITEBYTECODE=1
-      - QDRANT_HOST=qdrant
-      - QDRANT_PORT=6333
-      - QDRANT_GRPC_PORT=6334
-    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root --ServerApp.token='' --ServerApp.password='' --ServerApp.allow_origin='*' --ServerApp.disable_check_xsrf=True
-    depends_on:
-      qdrant:
-        condition: service_healthy
-    restart: "no"
-    networks:
-      - agent_network
-
   # PostgreSQL for Chainlit chat history
   postgres_chainlit:
     image: postgres:16-alpine
@@ -114,7 +82,7 @@ services:
       - QDRANT_HOST=qdrant
       - QDRANT_PORT=6333
       - QDRANT_GRPC_PORT=6334
-      - POSTGRES_HOST=expat_insurance_db
+      - POSTGRES_HOST=db
       - POSTGRES_PORT=5432
       - PYTHONPATH=/app:/app/src/retrieval
       - CHAINLIT_AUTH_SECRET=dev-secret-key-change-in-production
@@ -128,8 +96,28 @@ services:
     restart: "no"
     networks:
       - agent_network
-      - shared_network
+
+  # PostgreSQL Database - dev overrides
+  db:
+    ports:
+      - "5432:5432"
+    restart: "no"
+
+  # Django Web Application - dev overrides
+  web:
+    volumes:
+      - ./src/database:/app
+    ports:
+      - "8002:8000"
+    restart: "no"
+
+  # Metabase - dev overrides
+  metabase:
+    ports:
+      - "3000:3000"
+    restart: "no"
 
 volumes:
   chainlit_pg_data:
-    driver: local
+    external: true
+    name: advies_agent_chainlit_pg_data
