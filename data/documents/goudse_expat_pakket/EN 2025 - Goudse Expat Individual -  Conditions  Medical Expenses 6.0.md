@@ -81,1008 +81,1172 @@ These conditions are a translation, this translation has been done with care. Ho
 
 ---
 
-## 1. What does the coverage of the Medical Expenses insurance entail?
+## 1 What does the coverage of the Medical Expenses insurance entail?
 
-This article lists what is covered and what is not within the Medical Expenses insurance. You will also find information on how the premium for this insurance has been calculated. The three available coverages for medical expenses are: Standard, Optimal and Excellent. Your policy states what is insured.
+This article lists what is covered and what is not within the Medical Expenses
+insurance. You will also find information on how the premium for this insurance has
+been calculated. The three available coverages for medical expenses are: Standard,
+Optimal and Excellent. Your policy states what is insured.
 
-### 1.1 Scope of Coverage and Reimbursement
+### 1.1 What is covered?
 
-#### 1.1.1 Entitlement to Medically Necessary Costs
+#### 1.1.1 The insured person is entitled to reimbursement for medically necessary costs
 
-The insured person is entitled to reimbursement for medically necessary costs resulting from an accident, illness, or pregnancy. All costs must comply with the attending physician's treatment decision and involve reasonable and customary charges. Certain additional costs may also be eligible for reimbursement.
+Medically necessary costs that are the result of an accident, illness, or pregnancy.
+The costs must comply with the treatment decision of the attending physician. This
+involves reasonable and customary charges. The insured person is also entitled to
+reimbursement of some additional costs.
 
-#### 1.1.2 Maximum Reimbursement and Age-Related Limits
+#### 1.1.2 There is a maximum reimbursement
 
-A maximum insured amount applies per event (illness), which varies based on the age of the insured person:
+For insured persons aged 0 to 66, a maximum insured amount applies of €
+2.000.000,
 
-**Insured persons aged 0 to 66:**
+- per event (illness). In the regions C and D (see article 1.4) a lower
+  maximum insured amount applies for congenital defects of € 1.000.000 per event
+  (illness). This only applies to children who were born after the inception date of the
+  insurance.
+  For insured persons from the age of 67 a lower maximum insured amount applies of:
+  – € 100.000,
+- per insured person per event (illness);
+  – € 150.000,
+- per insured person in the event of an accident;
+  – € 150.000,
+- per insured person per event (illness) in the United States.
+  Did a treatment commence before the insured turned 67? And is this treatment
+  continued after the 67th birthday? Then the lower maximum applies for that part of the
+  costs incurred from the 67th birthday onwards.
+  After the 72nd birthday, the coverage is no longer extended. The cover therefore ends
+  between the 72nd and 73rd birthday. The exact date of termination is the contract
+  renewal date of the insurance (see the policy schedule)
 
-- General maximum: € 2.000.000,- per event.
-- Congenital defects (Regions C and D): € 1.000.000,- per event (only for children born after the inception date).
+#### 1.1.3 Prior approval required
 
-**Insured persons aged 67 and older:**
+If it is stated in the terms and conditions that prior approval is required for a specific
+treatment, then:
+In that case, the insured person must first obtain permission before undergoing
+treatment either from De Goudse Alarmcentrale or – in the US – from GMMI. In some
+cases, after approval is given, it may be mandatory to use certain healthcare
+providers that have demonstrated and provided high-quality and cost-effective care.
+If no permission is given, this may result in denial or limitation of our compensation.
 
-- Per event (illness): € 100.000,-
-- Per event (accident): € 150.000,-
-- Per event (illness) in the United States: € 150.000,-
+#### 1.1.4 Sometimes an insured person is under the obligation to take the Dutch Basisverzekering (Dutch healthcare insurance)
 
-**Important age thresholds:**
+Does the insured person also have a Dutch health insurance (Basisverzekering)? Or
+another local insurance for which he receives a reduced rate for his Goudse health
+insurance? Then declarations must first be sent to that health insurer. What if the
+costs are not or only partially covered by the Dutch healthcare insurer? In that case
+the insured person can claim for extra reimbursement with us. We reimburse up to
+the maximum reimbursement of the chosen coverage (Standard, Optimal or
+Excellent).
 
-- **Transition at 67:** If treatment starts before 67 and continues after, the lower maximum applies to all costs incurred from the 67th birthday onwards.
-- **Termination at 72:** Coverage is not extended after the 72nd birthday. Cover ends on the contract renewal date between the 72nd and 73rd birthday.
+#### 1.1.5 The insured sometimes is covered for costs after permanent return
 
-#### 1.1.3 Prior Approval and Mandatory Healthcare Providers
+What if the insured person returns permanently to The Netherlands and cannot apply
+for the Basisverzekering? In that case the insured person is entitled to coverage
+under the Wet langdurige zorg (Wlz). However, sometimes a waiting period applies. If
+that is the case, we will reimburse the costs that occur during this potential waiting
+period. This concerns costs that are covered according to the coverage overview. We
+will reimburse costs following the definitive return to the Netherlands for a maximum
+period of twelve months.
 
-Prior approval is mandatory when specified in the terms and conditions.
+##### 1.1.6 Medical costs during a stay outside of the insured region
 
-- **Contact:** Permission must be obtained from De Goudse Alarmcentrale (or GMMI in the US) before undergoing treatment.
-- **Consequences:** Failure to obtain permission may result in denial or limitation of compensation.
-- **Provider Choice:** After approval, we may mandate the use of specific high-quality, cost-effective healthcare providers.
+Have you closed your package for regions A, B or C (see article 1.4)? In this article
+your can read for which medical costs the insured person is insured during a
+temporary stay in a country outside this region.
+Medical necessary care
+We only reimburse the costs of medically necessary care during a stay outside the
+region if this care cannot wait until the moment that the insured person plans to
+return. These are costs that arise from an accident, illness, or pregnancy. The need
+for medical care must have arisen during your trip and may not have been foreseen.
+Obligation to cooperate on return to land within the region
+We can determine that after the first necessary care the further treatment must be
+done within the insured region. We then pay the costs for transport to the hospital in
+the region. If the insured person is younger than 21 years of age, we also reimburse
+the costs for a supervisor.
 
-#### 1.1.4 Interaction with Dutch Basisverzekering or Local Insurance
+### 1.2 What is not covered
 
-If an insured person holds a Dutch health insurance (Basisverzekering) or another local insurance (often indicated by a reduced premium rate), the following applies:
+We provide extensive coverage. Yet, we may not always provide cover for everything.
+In addition to the exclusions in the General Terms and Conditions, the Medical
+Expenses insurance has the following exclusions:
 
-- **Primary Claim:** Declarations must first be submitted to the primary health insurer.
-- **Secondary Claim:** We provide extra reimbursement for costs not covered by the primary insurer, up to the maximum of the chosen coverage (Standard, Optimal, or Excellent).
+#### 1.2.1 The insured person is not covered for any pre-existing health conditions
 
-#### 1.1.5 Coverage after Permanent Return to the Netherlands
+The insured person will not be reimbursed for costs related to any pre-existing health
+conditions if the following applies. The insured person suffers from a disease or
+defect that existed before taking out this insurance. You or the insured person were
+already aware of this disease or defect. Or the insured person already had complaints
+due to this disease or defect. The policyholder may claim for reimbursement of the expenses only if we were notified of any existing medical conditions and we accepted
+the existing medical conditions.
 
-If the insured person returns permanently to the Netherlands and cannot immediately apply for the Basisverzekering:
+#### 1.2.2 The insured is not insured for personal contributions and certificates
 
-- **Wlz Waiting Period:** We reimburse costs occurring during the potential waiting period for the Wet langdurige zorg (Wlz).
-- **Duration:** This coverage is limited to a maximum of twelve months following the definitive return.
+We do not reimburse any personal contributions. We also do not pay for delivery of
+written documents (certificates).
 
-#### 1.1.6 Medical Costs during Temporary Stay Outside Insured Region
+#### 1.2.3 Excess per insurance year
 
-For packages in regions A, B, or C, coverage during temporary stays in excluded regions is limited as follows:
+On the policy the yearly excess is stated. The insured can claim a benefit if the costs
+exceed this amount. If your hospitalization runs in a subsequent insurance year, then
+the date you entered is decisive.
+If the insurance is stopped during a year, then the excess for that partial year remains
+the same as it would have been for a complete insurance year. The excess applies to
+all reimbursements together. If we receive a claim, we check how high the
+reimbursement would be if there was no excess. Then we deduct the deductible
+amount. If the excess is not fully 'used up' the remaining part is deducted from the
+next claim(s). For specific components, there may be an additional excess. This will
+be stated on the coverage overview.
 
-- **Emergency Necessity:** We only reimburse medically necessary care that cannot wait until the return to the insured region. The need must have arisen during the trip and been unforeseen.
-- **Repatriation for Treatment:** We reserve the right to determine that further treatment must take place within the insured region after initial emergency care.
-- **Transport & Supervision:** We pay for transport to a hospital within the insured region. For insured persons under 21, costs for a supervisor are also reimbursed.
+#### 1.2.4 The insured is not ensured after the end of the insurance
 
-### 1.2 Exclusions and Deductibles
-
-#### 1.2.1 Exclusion of Pre-existing Health Conditions
-
-The insured person is not covered for costs related to any pre-existing health conditions if:
-
-- The disease or defect existed before taking out this insurance.
-- The policyholder or insured person was already aware of the disease or defect.
-- The insured person already experienced complaints due to this disease or defect.
-
-**Exception:** Reimbursement is only possible if De Goudse was explicitly notified of the condition and has formally accepted it in writing.
-
-#### 1.2.2 Personal Contributions and Certificates
-
-We do not provide reimbursement for:
-
-- **Personal contributions:** Any mandatory own payments required by other insurers or regulations.
-- **Certificates:** Costs for the delivery of written documents or medical statements.
-
-#### 1.2.3 Annual Excess (Deductible) and Application
-
-The policy schedule states the yearly excess amount. Benefits are only payable for costs exceeding this amount.
-
-- **Calculation:** We first determine the eligible reimbursement and then deduct the (remaining) excess.
-- **Carry-over:** If the excess is not fully used by a single claim, the remainder is deducted from subsequent claims within the same insurance year.
-- **Hospitalization:** For stays spanning two insurance years, the admission date determines which year's excess applies.
-- **Partial Years:** If the insurance is terminated mid-year, the full annual excess still applies to that period.
-- **Additional Excess:** Specific components may have a separate, additional excess as stated in the coverage overview.
-
-#### 1.2.4 Termination of Coverage and Future Costs
-
-No reimbursement is provided for medical costs incurred after the insurance has terminated. This exclusion applies even if the accident or illness that caused the costs occurred while the insurance was still active.
+Do you have medical costs that were made after the insurance is terminated? Then
+this will not be reimbursed, even if the event that led to these charges took place
+when you were insured.
 
 ### 1.3 What are the general agreements?
 
-#### 1.3.1 Disclosure of existing medical conditions
+#### 1.3.1
 
-The insured informs us in writing which illness, disorders or symptoms exist at the time of application. If we accept these, they shall be covered (potentially with certain restrictions) and documented in a clause on the policy.
+The insured informs us of prior knowledge of existing conditions
+The insured informs us in writing which illness, disorders or symptoms exist. The
+insured does this at the time he applies for the insurance. If we accept the illness ,
+disorders, or symptoms? Then we will cover these, or they shall be covered with
+certain restrictions. If we do so and you agree, then we will put this in a clause on the
+policy of your insurance.
 
-#### 1.3.2 Compliance with reimbursement conditions
+#### 1.3.2
 
-For reimbursements in articles 2, 3 and 4, conditions and obligations in article 1.6 must be met. Entitlement to compensation depends on all insured persons following these rules.
+You and the insured will meet the conditions in case of a reimbursement
+For some reimbursements in articles 2, 3 and 4 there are conditions to be met. In
+addition to these conditions the obligations laid down in article 1.6 need to be
+complied to. It is important that all the insured persons follow this. Only then are you
+entitled to compensation.
 
-#### 1.3.3 Responsibility for local insurance requirements
+#### 1.3.3
 
-Countries often have specific health insurance requirements. The insured is personally responsible for meeting these. Any fines for not complying with local laws are the insured's own responsibility.
+You are responsible for ensuring that your health insurance meets local requirements
+Countries often have specific requirements in the field of health insurance. The
+insured is personally responsible for ensuring that he meets these requirements. If he
+gets a fine for not complying to local laws, then this is his own responsibility.
 
-### 1.4 Where does the insurance coverage apply?
+### 1.4
 
-The insured is always insured in Europe (region A). Is the country of residence (see policy schedule) outside Europe? Then the coverage applies to the larger region B (see below). Is the country of residence also not in that region? Then the cover applies in the even larger region C. Is the country of residence also not in that region? Then the cover applies worldwide (region D).
-
-- **Region A:** Europe
-- **Region B:** World excluding Canada, China, Hong Kong, Japan, Singapore, United Arab Emirates and USA (including region A)
-- **Region C:** Canada, China, Hong Kong, Japan, Singapore, and the United Arab Emirates (including regions A and B)
-- **Region D:** USA (including regions A, B and C)
-
-In addition, there is also coverage outside the covered region in some cases, for example in the event of an urgent unexpected hospitalization. You can read what is covered in Article 1.1.4.
+Where does the insurance coverage apply?
+The insured is always insured in Europe (region A). Is the country of residence (see
+policy schedule) outside Europe? Then the coverage applies to the larger region B
+(see below). Is the country of residence also not in that region? Then the cover applies in the even larger region C. Is the country of residence also not in that region?
+Then the cover applies worldwide (region D).
+Region A: Europe
+Region B: World excluding Canada, China, Hong Kong, Japan, Singapore, United
+Arab Emirates and USA (including region A)
+Region C: Canada, China, Hong Kong, Japan, Singapore, and the United Arab
+Emirates (including regions A and B)
+Region D: USA (including regions A, B and C)
+In addition, there is also coverage outside the covered region in some cases, for
+example in the event of an urgent unexpected hospitalization. You can read what is
+covered in Article 1.1.4.
 
 ### 1.5 What premium do you pay?
 
 #### 1.5.1 You pay an age-related premium
 
-You pay an age-related premium. For insured persons up to the age of 21 a lower premium applies. What happens when the insured person turns 21? As of the following year the adult premium will apply.
+You pay an age-related premium. For insured persons up to the age of 21 a lower
+premium applies. What happens when the insured person turns 21? As of the
+following year the adult premium will apply.
 
 #### 1.5.2 The premium can change when the geographical region changes
 
-What if there is a change in the country of residence of your employee? It is possible that the country involved is categorised within another geographical region. It is important that you inform us of any changes. In that event we will calculate a new premium that starts from the day of the change. We will not require any additional medical questionnaire in case of a change in the geographical region.
+What if there is a change in the country of residence of your employee? It is possible
+that the country involved is categorised within another geographical region. It is
+important that you inform us of any changes. In that event we will calculate a new
+premium that starts from the day of the change. We will not require any additional
+medical questionnaire in case of a change in the geographical region.
 
 ### 1.6 Which obligations apply?
 
 #### 1.6.1 Obligation to inform Goudse Emergency Assistance when hospitalized
 
-Prior to a hospital admission, you must notify Goudse Emergency Assistance. In case of an emergency admittance, notification must occur within 48 hours.
+Prior to an admission to a hospital, you or an insured person must notify the Goudse
+Emergency Assistance of this. Is an emergency hospital admittance needed? In that
+case you or the insured person notifies the Goudse Emergency Assistance within 48
+hours.
 
-#### 1.6.2 Obligation to provide a medical referral
+#### 1.6.2 Obligations to provide a referral
 
-The insured must provide a referral from a general physician or specialist if required. These conditions determine whether a referral is necessary for specific treatments.
+An insured person is under the obligation to provide a referral of a general physician
+or a medical specialist if required by us. Please note: These conditions indicate
+whether a referral is necessary to obtain treatment.
 
-#### 1.6.3 Obligation to provide an itemised invoice
+#### 1.6.3 Obligations to provide an itemised invoice
 
-To receive an appropriate reimbursement, the insured must provide a fully itemised invoice for all incurred costs.
+The insured will provide an itemised invoice which will enable us to provide an
+appropriate reimbursement.
 
-#### 1.6.4 Obligation to cooperate with information requests
+#### 1.6.4 Obligations to cooperate with informing us
 
-The insured must fully cooperate and provide all necessary information if requested by our medical advisor or other employees.
+The insured will fully cooperate and provide us with information if our medical advisor
+or any other employee requires them to do so.
 
-#### 1.6.5 Obligation to cooperate with medical examinations
+#### 1.6.5 Obligations to cooperate with a request for a medical examination
 
-If required by us, the insured must undergo a medical examination or hospital observation. We will reimburse the costs associated with such requests.
+The insured will fully cooperate with a medical examination or a medical observation
+in a hospital if we require them to do so. We will reimburse the costs involved.
 
 ### 1.7 Applying for health insurance on permanent return to, or long-term stay in, The Netherlands
 
-There is no cover in the Netherlands if the insured has an insurance obligation for the Dutch basic insurance according to the Health Insurance Act (Zvw), or another statutory provision.
+There is no cover in the Netherlands if the insured has an insurance obligation for the
+Dutch basic insurance according to the Health Insurance Act (Zvw), or another
+statutory provision.
 
----
+## 2 What right of reimbursement does the insured have with the Standard, Optimal and Excellent cover?
 
-## 2. What right of reimbursement does the insured have with the Standard, Optimal and Excellent cover?
+This article lists what will be reimbursed per treatment. The treatments mentioned
+below are covered under the Standard, Optimal and Excellent cover. Article 3 lists
+treatments that are also covered if you opted for Optimal or Excellent cover. Article 4
+lists treatments that are only covered if you opted for the Excellent cover.
 
-This article lists what will be reimbursed per treatment. The treatments mentioned below are covered under the Standard, Optimal and Excellent cover. Article 3 lists treatments that are also covered if you opted for Optimal or Excellent cover. Article 4 lists treatments that are only covered if you opted for the Excellent cover.
-
-**Important for all insured that live in the U.S.A.**
-**Sometimes an insured person in the U.S.A. gets a partial reimbursement for a treatment**
-An insured person who lives in the U.S.A. gets 80% of the regular reimbursement if he does not use the network of GMMI while he was able to do so. On www.gmmi.com you can find the hospitals and doctors that GMMI cooperates with. You can call GMMI 24 hours a day at number 001 800 694 9832.
+Important for all insured that live in the U.S.A.
+Sometimes an insured person in the U.S.A. gets a partial reimbursement for a
+treatment
+An insured person who lives in the U.S.A. gets 80% of the regular
+reimbursement if he does not use the network of GMMI while he was able to do
+so. On www.gmmi.com you can find the hospitals and doctors that GMMI
+cooperates with. You can call GMMI 24 hours a day at number 001 800 694
+9832 .
 
 ### 2.1 Hospital
 
-**2.1.1 Admission**
+#### 2.1.1 Admission
 
-- **What will be reimbursed?**
-  - **Nursing costs;** Under the Optimal coverage we reimburse the costs for admission to a standard double or multiple-bedded hospital room. If there is no standard multi-person room available is, we will reimburse:
-    - in a public hospital 100% of the costs of a standard single room;
-    - in a private clinic 80% of the costs for a standard single room.
-      Under the Excellent coverage we reimburse the costs for admission to a standard single hospital room
-  - **Costs for specialist treatment;**
-  - **Additional costs;**
-  - A reimbursement for costs of nursing and treatment with a maximum of 365 days per illness.
+What will be reimbursed?
 
-**2.1.2 Day nursing**
+- Nursing costs; Under the Optimal coverage we reimburse the costs for admission
+  to a standard double or multiple-bedded hospital room. If there is no standard
+  multi-person room available is, we will reimburse:
+- in a public hospital 100% of the costs of a standard single room;
+- in a private clinic 80% of the costs for a standard single room.
+- Under the Excellent coverage we reimburse the costs for admission to a standard
+  single hospital room
+- Costs for specialist treatment;
+- Additional costs;
+  A reimbursement for costs of nursing and treatment with a maximum of 365 days per
+  illness.
 
-- **What will be reimbursed?**
-  - Costs for bedside nursing
-  - Additional costs
-  - Fees of a medical specialist.
+#### 2.1.2 Day nursing
+
+What will be reimbursed?
+
+- Costs for bedside nursing
+- Additional costs
+- Fees of a medical specialist.
 
 ### 2.2 Specialist treatment and outpatient treatment
 
 #### 2.2.1 Specialist treatment
 
-- **What will be reimbursed?**
-  - We reimburse the medical specialist's fees for the treatment that the insured person has received and the additional cost.
+What will be reimbursed?
+We reimburse the medical specialist's fees for the treatment that the insured person
+has received and the additional cost.
 
 #### 2.2.2 Outpatient treatment
 
-- **What will be reimbursed?**
-  - We reimburse the medical specialist's fees for the treatment that the insured person has received and the additional costs and the costs of laboratory research.
+What will be reimbursed?
+We reimburse the medical specialist's fees for the treatment that the insured person
+has received and the additional costs and the costs of laboratory research.
 
 ### 2.3 Treatment by a General practitioner
 
-- **What will be reimbursed?**
-  - General practitioner's fee for consultations and visits for medical treatment. If the costs mentioned below are not included in the consultation fee, we will reimburse these as well.
-  - Costs for laboratory examination and X-rays
-  - Electrocardiogram
-  - Minor surgery
+What will be reimbursed?
+General practitioner’s fee for consultations and visits for medical treatment.
+If the costs mentioned below are not included in the consultation fee, we will
+reimburse these as well.
+
+- Costs for laboratory examination and X-rays
+- Electrocardiogram
+- Minor surgery
 
 ### 2.4 Inpatient rehabilitation
 
-#### What do we reimburse?\*\*
+What do we reimburse?
+The costs for clinical rehabilitation up to a maximum period as stated on the coverage
+overview. Clinical rehabilitation includes research, advice, and treatment. It involves
+rehabilitation with hospitalization. The examination, advice or treatment is of
+specialist, paramedical, behavioural science and/or rehabilitation technology earth.
+What are the conditions?
 
-- The costs for clinical rehabilitation up to a maximum period as stated on the coverage overview.
-- Clinical rehabilitation includes research, advice, and treatment. It involves rehabilitation with hospitalization. The examination, advice or treatment is of specialist, paramedical, behavioural science and/or rehabilitation technology earth.
-
-#### What are the conditions?\*\*
-
-- Treatment is given based on the treatment plan drawn up by the medical specialist.
+- Treatment is given based on the treatment plan drawn up by the medical
+  specialist.
 - Rehabilitation takes place in an accredited hospital.
 - In the case of congenital abnormalities, the rehabilitation must:
-  - show functional improvement and measurable progression along the way to achieving certain functional goals;
-  - give a real chance of achieving the maximum achievable potential for the insured person;
-  - the functional goals must be attainable within a clear period.
+  o show functional improvement and measurable progression along the way
+  to achieving certain functional goals;
+  o give a real chance of achieving the maximum achievable potential for the
+  insured person;
+  o the functional goals must be attainable within a clear period.
 - We have given prior consent.
 
 ### 2.5 Transportation costs
 
-#### 2.5.1 Patient transport reimbursement
+Patient transport to and from the hospital per road ambulance. The transport must be
+medically necessary.
+What will be reimbursed?
 
-Patient transport to and from the hospital per road ambulance. The transport must be medically necessary.
-
-- **What will be reimbursed?**
-  - Costs of patient transport to the nearest hospital.
-  - A maximum reimbursement per transport. The maximum reimbursement is stated on the coverage overview.
-
-#### 2.5.2 Conditions for transportation
-
-- **What are the conditions?**
-  - We only reimburse the transportation costs when needed for a medical treatment that is (partially) reimbursed by De Goudse.
-  - If more than one transport per insurance year is needed in case of illness, prior permission is required.
+- Costs of patient transport to the nearest hospital.
+- A maximum reimbursement per transport. The maximum reimbursement is stated
+  on the coverage overview.
+  What are the conditions?
+- We only reimburse the transportation costs when needed for a medical treatment
+  that is (partially) reimbursed by De Goudse.
+- If more than one transport per insurance year is needed in case of illness, prior
+  permission is required.
 
 ### 2.6 Dental surgery
 
-#### 2.6.1 Dental surgery reimbursement
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - In the event of admission to a hospital: Nursing expenses and costs related to dental surgery;
-  - In the event of outpatient treatment: Dental surgeon's fees for treatment that the insured person received;
-  - Additional costs.
-
-#### 2.6.2 Conditions and exclusions for dental surgery
-
-- **Which conditions apply?**
-  - If there is no admission to a hospital, the insured person needs a referral for the dental surgeon. The dentist should provide this referral. The insured person must provide this referral if we request so.
-- **What will not be reimbursed?**
-  - Treatments related to orthognathic jaw surgery performed by a dental surgeon.
+- In the event of admission to a hospital: Nursing expenses and costs related to
+  dental surgery;
+- In the event of outpatient treatment: Dental surgeon's fees for treatment that the
+  insured person received;
+- Additional costs.
+  Which conditions apply?
+  If there is no admission to a hospital, the insured person needs a referral for the
+  dental surgeon. The dentist should provide this referral. The insured person must
+  provide this referral if we request so.
+  What will not be reimbursed?
+  Treatments related to orthognathic jaw surgery performed by a dental surgeon.
 
 ### 2.7 Dental care following an accident
 
-#### 2.7.1 Accident-related dental care reimbursement
-
-- **What will be reimbursed?**
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **Which conditions apply?**
-  - Dental care is required because of an accident.
-- **What will not be reimbursed?**
-  - Other dental treatments. For this you can take out the Dental Expenses insurance.
+What will be reimbursed?
+We will reimburse a maximum sum per insured person per year of insurance
+according to the coverage overview.
+Which conditions apply?
+Dental care is required because of an accident.
+What will not be reimbursed?
+Other dental treatments. For this you can take out the Dental Expenses insurance.
 
 ### 2.8 Prescription drugs and dietary preparations
 
-#### 2.8.1 Prescription drugs coverage and exclusions
+#### 2.8.1 Prescription drugs
 
-- **What will be reimbursed?**
-  - We reimburse the costs of medicines.
-- **What will not be reimbursed?**
-  - Fortified goods and food supplements, in so far as this does not involve dietary preparations;
-  - Contraceptives (covered under Excellent cover only);
-  - Slimming products, laxatives, and cosmetics;
-  - Non-registered or alternative items, medicinal wines, and cod-liver oil products; Vitamin supplements;
-  - Remedies to prevent tropical diseases;
-  - Medicines that are available without prescription for instance, nose drops.
+What will be reimbursed?
+We reimburse the costs of medicines.
+What are the conditions?
 
-#### 2.8.2 Conditions for prescription drugs
+- Medications are prescribed by a general practitioner, a dentist, or a midwife.
+- The medication is supplied by a pharmacy or a dispensing general practitioner.
+- The medicine is used and traded as a medicine in the country of your treatment
+- The medicine is registered in the Netherlands and is included in the Drug
+  Reimbursement System in the Netherlands
+  (Geneesmiddelenvergoedingssysteem GVS). For medicines that are not
+  registered in GVS, but approved in the country of residence, a maximum
+  reimbursement period of 12 months applies. This is a one-off period during the
+  entire period that you are insured with us and cannot be extended.
+  What will not be reimbursed?
+- Fortified goods and food supplements, in so far as this does not involve dietary
+  preparations, as stated later in this article;
+- Contraceptives, however, these are covered under the Excellent cover;
+- Slimming products;
+- Non-registered or alternative items, medicinal wines, and cod-liver oil products;
+- Vitamin supplements;
+- Laxatives;
+- Cosmetics;
+- Remedies to prevent tropical diseases;
+- Medicines that are available without prescription for instance, nose drops.
 
-- **What are the conditions?**
-  - Medications are prescribed by a general practitioner, a dentist, or a midwife.
-  - The medication is supplied by a pharmacy or a dispensing general practitioner.
-  - The medicine is used and traded as a medicine in the country of your treatment.
-  - The medicine is registered in the Netherlands (GVS). For medicines approved in the country of residence but not registered in GVS, a maximum, one-off reimbursement period of 12 months applies during the entire insurance term.
+#### 2.8.2 Dietary preparations
 
-#### 2.8.3 Dietary preparations reimbursement
+What will be reimbursed?
+Costs of polymers, oligomers, monomers, and modular dietary preparations. A dietary
+preparation is dietary food that is produced and shaped differently when compared to
+regular food.
+What are the conditions?
 
-- **What will be reimbursed?**
-  - Costs of polymers, oligomers, monomers, and modular dietary preparations (specialized dietary food produced differently from regular food).
-
-#### 2.8.4 Conditions for dietary preparations
-
-- **What are the conditions?**
-  - We have given prior permission.
-  - The insured person is seriously affected by one of the following dysfunctions or allergies:
-    - Reabsorption disorder
-    - Food allergy
-    - Deglutition disorder
-    - Metabolic disorder
-    - Dysphagia.
+- We have given prior permission.
+- The insured person is seriously affected by one of the following dysfunctions or
+  allergies:
+- Reabsorption disorder
+- Food allergy
+- Deglutition disorder
+- Metabolic disorder
+- Dysphagia.
 
 ### 2.9 Organ transplants if the insured person receives the organ
 
-#### 2.9.1 Transplant costs and conditions for the insured person
+#### 2.9.1 Costs for insured persons
 
-- **What will be reimbursed?**
-  - Costs of organ transplants;
-  - Costs of tissue typing necessary for the transplant.
-- **What are the conditions?**
-  - The organ transplant takes place in an accredited institution authorized to perform the transplant, applying official local rates.
-  - The Goudse Emergency Assistance must have given prior permission.
+What will be reimbursed?
 
-#### 2.9.2 Coverage for donor-related expenses
+- Costs of organ transplants;
+- Costs of tissue typing necessary for the transplant.
+  What are the conditions?
+- The organ transplant takes place in an accredited institution that is authorised to
+  perform the transplant. This institution applies the official rates of the country
+  where the transplant is performed.
+- The Goudse Emergency Assistance have given prior permission.
 
-- **What will be reimbursed?**
-  - Costs of nursing and treatment of the donor related to hospital admission;
-  - Costs of tissue typing necessary for the transplant;
-  - Costs for follow-up care for up to a maximum of three months;
-  - Reimbursement is limited to a maximum in accordance with Dutch rates.
+#### 2.9.2 Donor costs
 
-#### 2.9.3 Conditions for donor reimbursement
+What will be reimbursed?
 
-- **What are the conditions?**
-  - Costs for nursing and treatment are only reimbursed if the donor is not covered by their own insurer.
-  - Follow-up care must be necessary because the donor was admitted for selection or removal of transplant material.
+- Costs of nursing and treatment of the donor related to an admission to a hospital;
+- Costs for follow-up care up to a maximum of three months;
+- Costs of tissue typing necessary for the transplant;
+- We will reimburse the costs up to a maximum in accordance with Dutch rates.
+  What are the conditions?
+- We will only reimburse the costs of nursing and treatment provided that the donor
+  is not reimbursed by his insurer.
+- The follow-up care is necessary because the donor was admitted to the hospital
+  for selection or removal of transplant material.
 
 ### 2.10 Cosmetic surgery
 
-#### 2.10.1 Coverage for reconstructive and cosmetic surgery
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - Surgery of mutilation because of an accident or illness;
-  - Surgery of serious birth defects (only for children born after the start of the insurance).
-- **What will not be reimbursed?**
-  - Procedures to improve appearance for personal circumstances or needs.
-
-#### 2.10.2 Conditions for cosmetic surgery
-
-- **What are the conditions?**
-  - Prior approval after submitting a budget to us;
-  - Treatment must be performed in a hospital.
+- Surgery of mutilation because of an accident;
+- Surgery of mutilation because of an illness;
+- Surgery of serious birth defects. This coverage only applies to children born after
+  the start of the insurance.
+  What are the conditions?
+- We have approved the costs after the insured person has submitted a budget to
+  us;
+- Treatment is performed in a hospital.
+  What will not be reimbursed?
+  We will not reimburse any procedures that will improve the insured’s appearance for
+  personal circumstances or needs.
 
 ### 2.11 Second Opinion
 
-#### 2.11.1 Reimbursement and conditions for Second Opinions
+What will be reimbursed?
+Costs for a second opinion by another medical specialist.
+What are the conditions?
 
-- **What will be reimbursed?**
-  - Costs for a second opinion by another medical specialist.
-- **What are the conditions?**
-  - The proposed treatment must be covered under this insurance;
-  - Requested by the insured person or the attending physician.
+- The proposed treatment is covered under this insurance;
+- The insured person or the attending physician requests the second opinion.
 
 ### 2.12 Home nursing
 
-#### 2.12.1 Home nursing coverage and exclusions
+What will be reimbursed?
+We reimburse the costs for part-time or periodic home nursing.
+What are the conditions?
 
-- **What will be reimbursed?**
-  - Costs for part-time or periodic home nursing.
-- **What is not covered?**
-  - Non-medical care (e.g., meals, housekeeping);
-  - Care from a family member or cohabitant.
-
-#### 2.12.2 Conditions for home nursing
-
-- **What are the conditions?**
-  - Prior permission required (additional conditions may apply);
-  - Provided by a nurse or care assistant;
-  - Must replace or shorten a medically necessary hospital stay.
+- The insured person asks permission for home nursing in advance. Additional
+  conditions may apply to acquire our permission;
+- Home nursing is provided by a nurse or care assistant;
+- Home nursing replaces a stay in the hospital that is medically necessary. Or
+  home nursing ensures that the insured person remains in hospital for a shorter
+  time.
+  What is not covered?
+- Non-medical care, such as providing meals, housekeeping or other non-medical
+  care help.
+- Care from a family member or someone living with the insured.
 
 ### 2.13 Language and speech therapy
 
-#### 2.13.1 Language and speech therapy reimbursement
+What will be reimbursed?
+Treatment by a language and speech therapist.
+What are the conditions?
+The treatment is prescribed by the general practitioner or the medical specialist.
+What will not be reimbursed?
+Treatment of language disorders related to dialects or non-native speakers.
 
-- **What will be reimbursed?**
-  - Treatment by a language and speech therapist.
-- **What are the conditions?**
-  - Prescribed by a general practitioner or medical specialist.
-- **What will not be reimbursed?**
-  - Treatment of language disorders related to dialects or non-native speakers.
+## 3 What extra rights to reimbursement does the insured person have under the Optimal or Excellent cover?
 
----
-
-## 3. What extra rights to reimbursement does the insured person have under the Optimal or Excellent cover?
-
-This article lists additional reimbursements available under the Optimal or Excellent cover. These reimbursements are supplementary to the reimbursements under the Standard cover.
+This article lists additional reimbursements available under the Optimal or Excellent
+cover. These reimbursements are supplementary to the reimbursements under the
+Standard cover.
 
 ### 3.1 Preventive youth care
 
-#### 3.1.1 Youth vaccinations and general checks reimbursement
+What will be reimbursed?
+We reimburse vaccinations and the costs for general checks. The maximum
+reimbursement can be found on the coverage overview.
+What are the conditions?
 
-- **What will be reimbursed?**
-  - Reimbursement for vaccinations and costs for general checks. The maximum reimbursement is specified in the coverage overview.
-
-#### 3.1.2 Conditions for preventive youth care
-
-- **What are the conditions?**
-  - Vaccinations must follow the Dutch immunisation schedule or Dutch LCR advice for the country of residence.
-  - Medication must be supplied by a pharmacy or a dispensing general practitioner.
-  - Vaccinations must be administered by a general practitioner or paediatrician.
-  - Checks must be performed by an infant welfare centre or general practitioner.
+- The vaccinations are given according to the Dutch immunisation schedule and/or
+  according to the advice formulated for the country of temporary residence by the
+  Dutch LCR (Agency for Travel Advice).
+- The medication is supplied by a pharmacy or a dispensing general practitioner.
+- A general practitioner or a paediatrician will administer the vaccinations.
+- The checks are always carried out by an infant welfare centre or general
+  practitioner.
 
 ### 3.2 Travel vaccinations
 
-#### 3.2.1 Travel vaccination coverage
+What will be reimbursed?
+We reimburse the costs of vaccinations for a trip abroad from the country of
+temporary residence up to the maximum reimbursement stated in the coverage
+overview.
+What are the conditions?
 
-- **What will be reimbursed?**
-  - Costs of vaccinations for trips abroad from the country of temporary residence, up to the maximum stated in the coverage overview.
-
-#### 3.2.2 Conditions for travel vaccinations
-
-- **What are the conditions?**
-  - Vaccinations must be obtained during the insurance term or within one month before the commencement date.
-  - Refer to the coverage overview for the specific maximum reimbursement limit.
+- The insured person obtains the vaccinations during the term of the insurance or
+  within a month before the commencement date of the insurance.
+- The maximum reimbursement can be found on the coverage overview.
 
 ### 3.3 Pregnancy and childbirth
 
-#### 3.3.1 Birth coverage and hospital stays
+#### 3.3.1 Birth
 
-- **What will be reimbursed?**
-  - We reimburse all costs of delivery. For example, the costs for the use of a clinic or hospital, the fee of the midwife or doctor and additional costs for mother and child.
-  - We reimburse the stay in the hospital after the delivery for the mother and the child up to 48 hours. We only reimburse longer stays if this is medically necessary, for example after a cesarean section.
-  - Is the birth guided by a birth coach? And are there no costs for a midwife or doctor? Then we will fully reimburse the costs of the birth coach.
-  - Does the birth coach work in addition to a doctor or midwife? Then the costs will only be reimbursed with the Excellent coverage in accordance with the conditions of article 4.1.4.
-- **What do we not reimburse?**
-  - We do not reimburse the costs for deluxe, executive, or other luxury rooms and suites.
+What will be reimbursed?
+We reimburse all costs of delivery. For example, the costs for the use of a clinic or
+hospital, the fee of the midwife or doctor and additional costs for mother and child.
+We reimburse the stay in the hospital after the delivery for the mother and the child up
+to 48 hours. We only reimburse longer stays if this is medically necessary, for
+example after a cesarean section.
+Is the birth guided by a birth coach? And are there no costs for a midwife or doctor?
+Then we will fully reimburse the costs of the birth coach. Does the birth coach work in
+addition to a doctor or midwife? Then the costs will only be reimbursed with the
+Excellent coverage in accordance with the conditions of article 4.1.4.
+Please note! Do not forget to add the child to the health insurance.
+We reimburse the usual costs incurred for the child in the first 48 hours after delivery
+on the mother's cover. But does the child need (intensive) medical care after delivery,
+for example admission to the neonatology department? Then we will only reimburse
+the costs if the child is insured with us. It is therefore important to arrange this as
+quickly as possible.
+Even if there are no special circumstances, it is important to add the child to the
+health insurance as soon as possible. In any case, do this within one month after
+birth. We will then accept the child without any health questions. If you wait longer, we
+may ask you to complete a health declaration for your child. This gives us the
+possibility to reject the application or accept it with restrictive conditions.
+What do we not reimburse?
+We do not reimburse the costs for deluxe, executive, or other luxury rooms and
+suites.
+When does the insured person contact the emergency center?
+– If the insured person is pregnant, she must contact the emergency center no later
+than 10 weeks before the due date of delivery.
+– Is the insured already pregnant before the commencement date of the
+insurance? The insured person will then contact the emergency center before the
+commencement date. Read below what this means for the reimbursement of
+costs.
+Deviating conditions during the first nine months after the commencement date or
+after changing the coverage
+There is always full coverage for unexpected complications during pregnancy that
+require the insured person to be admitted.
+• Pregnancy is not known on the effective date
+Does the insured person not know that she is pregnant on the commencement date
+of the insurance? Then there is full coverage for pregnancy and childbirth. To verify
+we would like to receive the results of the first ultrasound.
+• Pregnancy is known on the effective date
+Does the insured person know that she is pregnant on the commencement date?
+Then the following applies:
+– There is only coverage if:
 
-#### 3.3.2 Insuring the newborn child
+- the pregnant woman has been registered in the Municipal Personal Records
+  Database in the Netherlands for at least one year immediately prior to the
+  effective date; and
+- the partner and any children have the same health insurance option as the
+  pregnant woman; and
+- the pregnant woman is younger than 38 years old on the commencement
+  date of the insurance.
+  – During the first nine months of the insurance, the coverage is limited to the
+  maximum reimbursement on the coverage overview. The maximum
+  reimbursement does not apply to unexpected additional costs incurred for a
+  medically necessary caesarean section.
 
-- **Please note! Do not forget to add the child to the health insurance.**
-  - We reimburse the usual costs incurred for the child in the first 48 hours after delivery on the mother's cover. But does the child need (intensive) medical care after delivery, for example admission to the neonatology department? Then we will only reimburse the costs if the child is insured with us. It is therefore important to arrange this as quickly as possible.
-  - Even if there are no special circumstances, it is important to add the child to the health insurance as soon as possible. In any case, do this within one month after birth. We will then accept the child without any health questions. If you wait longer, we may ask you to complete a health declaration for your child. This gives us the possibility to reject the application or accept it with restrictive conditions.
+These conditions also apply if you change the coverage from Standard coverage to
+Optimal or Excellent coverage.
+In the United States, you must obtain prior permission from the hospital where you
+want to give birth
+The following applies to a birth in the United States. You must ask GMMI for
+permission to give birth in the hospital of your choice no later than ten weeks before
+the expected delivery date. If you do not receive permission, GMMI will offer you an
+alternative. If permission has not been given and you do not use the alternative
+offered by GMMI, we will reimburse a maximum of 50% of the costs.
 
-#### 3.3.3 Emergency center contact and prior knowledge of pregnancy
+#### 3.3.2 Midwife and check ups (during pregnancy)
 
-- **When does the insured person contact the emergency center?**
-  - If the insured person is pregnant, she must contact the emergency center no later than 10 weeks before the due date of delivery.
-  - Is the insured already pregnant before the commencement date of the insurance? The insured person will then contact the emergency center before the commencement date. Read below what this means for the reimbursement of costs.
-- **Pregnancy is not known on the effective date**
-  - Does the insured person not know that she is pregnant on the commencement date of the insurance? Then there is full coverage for pregnancy and childbirth. To verify we would like to receive the results of the first ultrasound.
-- **Pregnancy is known on the effective date**
-  - Does the insured person know that she is pregnant on the commencement date? Then the following applies:
-  - There is only coverage if:
-    - the pregnant woman has been registered in the Municipal Personal Records Database in the Netherlands for at least one year immediately prior to the effective date; and
-    - the partner and any children have the same health insurance option as the pregnant woman; and
-    - the pregnant woman is younger than 38 years old on the commencement date of the insurance.
-  - During the first nine months of the insurance, the coverage is limited to the maximum reimbursement on the coverage overview. The maximum reimbursement does not apply to unexpected additional costs incurred for a medically necessary caesarean section.
-  - These conditions also apply if you change the coverage from Standard coverage to Optimal or Excellent coverage.
+What will be reimbursed?
+We reimburse the costs for assistance from the midwife and for the following check-
+up ultrasounds:
+– early ultrasound (6 to 7 weeks);
+– term ultrasound (10 to 12 weeks);
+– structural ultrasound examination (20-week ultrasound);
+– growth ultrasound (approximately 30 weeks).
+If additional check-up ultrasounds are required on medical grounds or additional
+check-up ultrasounds are performed as standard in the country of residence, these
+will also be reimbursed if you submit the referral to us.
 
-#### 3.3.4 Special conditions for delivery in the United States
+#### 3.3.3 Prenatal screening
 
-- **In the United States, you must obtain prior permission from the hospital where you want to give birth**
-  - You must ask GMMI for permission to give birth in the hospital of your choice no later than ten weeks before the expected delivery date. If you do not receive permission, GMMI will offer you an alternative.
-  - If permission has not been given and you do not use the alternative offered by GMMI, we will reimburse a maximum of 50% of the costs.
+What will be reimbursed?
+We reimburse up to the maximum reimbursement as stated on the cover overview for
+the following investigations:
+– Combination test
+– Amniocentesis
+– Chorionic villus sampling
+– NIPT
+Is the examination necessary because there is a medical indication? Then we
+reimburse the cost.
+What are the conditions?
+The screening is carried out in a body recognized by the government.
 
-#### 3.3.5 Midwife and pregnancy check-ups
+#### 3.3.4 Abortion on medical grounds or because of established abnormalities
 
-- **What will be reimbursed?**
-  - We reimburse the costs for assistance from the midwife and for the following check-up ultrasounds:
-    - early ultrasound (6 to 7 weeks);
-    - term ultrasound (10 to 12 weeks);
-    - structural ultrasound examination (20-week ultrasound);
-    - growth ultrasound (approximately 30 weeks).
-  - If additional check-up ultrasounds are required on medical grounds or additional check-up ultrasounds are performed as standard in the country of residence, these will also be reimbursed if you submit the referral to us.
+What will be reimbursed?
+Costs for medical care and services.
+What are the conditions?
+– There is a medical indication or serious abnormalities have been found in the
+fetus.
+– A specialist performs the abortion.
+– The abortion takes place in a hospital
 
-#### 3.3.6 Prenatal screening
+#### 3.3.5 Maternity care
 
-- **What will be reimbursed?**
-  - We reimburse up to the maximum reimbursement as stated on the cover overview for the following investigations: Combination test, Amniocentesis, Chorionic villus sampling, NIPT.
-  - Is the examination necessary because there is a medical indication? Then we reimburse the cost.
-- **What are the conditions?**
-  - The screening is carried out in a body recognized by the government.
-
-#### 3.3.7 Abortion on medical grounds
-
-- **What will be reimbursed?**
-  - Costs for medical care and services.
-- **What are the conditions?**
-  - There is a medical indication or serious abnormalities have been found in the fetus.
-  - A specialist performs the abortion in a hospital.
-
-#### 3.3.8 Maternity care
-
-- **What will be reimbursed?**
-  - We reimburse the costs of maternity care up to the maximum reimbursement stated in the coverage overview.
-  - Was the insured admitted to hospital after giving birth? Then €125 per day will be deducted from the maximum reimbursement for each day that the insured is admitted to hospital after the birth. The insured person is always entitled to at least 2 days of maternity care at home. After a caesarean section, you are always entitled to at least five days.
-- **What are the conditions?**
-  - The maternity care starts on the date of delivery.
+What will be reimbursed?
+We reimburse the costs of maternity care up to the maximum reimbursement stated
+in the coverage overview. Was the insured admitted to hospital after giving birth?
+Then €125 per day will be deducted from the maximum reimbursement for each day
+that the insured is admitted to hospital after the birth. The insured person is always
+entitled to at least 2 days of maternity care at home, starting upon arrival home. After
+a caesarean section, you are always entitled to at least five days of maternity care
+after returning home.
+What are the conditions?
+The maternity care starts on the date of delivery.
 
 ### 3.4 Medical devices
 
-This section outlines the coverage and procedures for medical aids and therapeutic inserts. It defines the reimbursement criteria, the mandatory authorization process, and the technical standards used to evaluate claims for medical equipment.
+#### 3.4.1 Medical aids
 
-#### 3.4.1 Reimbursement for medical aids
+What do we reimburse?
+The costs of purchase, correction, replacement, and repair of medical devices are
+reimbursed in accordance with the Medical Aids Regulations up to the maximum
+reimbursement per insured person per insurance year according to the cover
+overview. We use the most current Medical Aids Regulations of the Zilveren Kruis.
+What are the conditions?
 
-- **What do we reimburse?**
-  - The costs of purchase, correction, replacement, and repair of medical devices are reimbursed in accordance with the Medical Aids Regulations up to the maximum reimbursement per insured person per insurance year according to the cover overview.
-  - We use the most current Medical Aids Regulations of the Zilveren Kruis.
-- **What will not be reimbursed?**
-  - Repair or replacement of a medical device that was damaged because of improper usage of the device.
+- The insured person will need to obtain prior authorisation from us.
+- The insured person is under the obligation to take good care of the medical
+  device.
+- The insured person is under the obligation to follow instructions of the experts.
+  This concerns instructions for use and maintenance of the medical device.
+- In case of replacement: the insured person no longer has a useable medical
+  device.
+- In case of replacement: every medical device has a period of use. We use the
+  period of use suggested in the guidelines of Dutch health care insurers.
+  What will not be reimbursed?
+  Repair or replacement of a medical device that was damaged because of improper
+  usage of the device.
 
-#### 3.4.2 Conditions and period of use
+#### 3.4.2 How can the insured person apply for authorisation?
 
-- **What are the conditions?**
-  - The insured person will need to obtain prior authorisation from us.
-  - The insured person is under the obligation to take good care of the medical device and follow expert instructions for use and maintenance.
-  - In case of replacement: the insured person no longer has a useable medical device.
-  - In case of replacement: every medical device has a period of use based on the guidelines of Dutch health care insurers.
+The insured person asks permission in writing to obtain a medical device stating the
+reason for use. He will also send a prescription from the attending medical specialist.
+What if the medical device gets damaged? In that event the insured person should
+report in writing what the damage is.
 
-#### 3.4.3 Authorisation application process
+#### 3.4.3 How do we assess whether the insured person obtains authorisation?
 
-- **How can the insured person apply for authorisation?**
-  - The insured person asks permission in writing stating the reason for use, accompanied by a prescription from the attending medical specialist.
-  - If a device is damaged, the insured person must report the specific damage in writing.
+We assess the written request on five aspects.
 
-#### 3.4.4 Assessment criteria for medical devices
+1. Is the purchase, replacement, change or repair necessary? Would the insured
+   person be unable to do without?
+2. Is the purchase, replacement, change or repair effective? Will it help the insured
+   person to function better?
+3. Is the purchase, replacement, change or repair not overly expensive?
+4. Is the purchase, replacement, change or repair not overly complicated?
+5. Does the medical device meet our quality requirements?
 
-We assess the written request on five aspects:
+#### 3.4.4 Therapeutic inserts
 
-1. **Necessity:** Is the purchase, replacement, change or repair truly necessary?
-2. **Effectiveness:** Will it help the insured person to function better?
-3. **Efficiency:** Is it not overly expensive?
-4. **Complexity:** Is it not overly complicated?
-5. **Quality:** Does the device meet our quality requirements?
+What will be reimbursed?
 
-#### 3.4.5 Therapeutic inserts
-
-- **What will be reimbursed?**
-  - Costs of therapeutic inserts up to a maximum sum per insured person per year according to the coverage overview.
-- **What are the conditions?**
-  - The therapeutic inserts must be prescribed by the attending physician.
-  - An accredited orthopaedic shoe technician must supply the inserts.
+- Costs of therapeutic inserts;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+- The therapeutic inserts must be prescribed by the attending physician.
+- An accredited orthopaedic shoe technician will supply the therapeutic inserts.
 
 ### 3.5 Breast correction
 
-This section covers the reimbursement for reconstructive breast surgery following medical procedures.
-
-#### 3.5.1 Breast reconstruction coverage
-
-- **What will be reimbursed?**
-  - Costs of a breast correction when the breast is removed due to a medical reason.
-- **What is the condition?**
-  - Prior permission is required.
+What will be reimbursed?
+Costs of a breast correction when the breast is removed due to a medical reason.
+What is the condition?
+Prior permission is required.
 
 ### 3.6 Outpatient rehabilitation
 
-This section details the support for rehabilitative care received outside of a hospital stay.
-
-#### 3.6.1 Outpatient rehabilitation reimbursement
-
-- **What will be reimbursed?**
-  - We reimburse the costs of outpatient rehabilitation up to a maximum number of treatments as stated on the coverage overview.
-- **What is the condition?**
-  - A general physician or specialist has referred the insured person.
+What will be reimbursed?
+We reimburse the costs of outpatient rehabilitation up to a maximum number of
+treatments as stated on the coverage overview.
+What is the condition?
+A general physician or specialist has referred the insured person.
 
 ### 3.7 Physiotherapy
 
-This section outlines the coverage for physical therapy, including specific professional requirements and exclusions for non-medical massage or gymnastics.
+What will be reimbursed?
+We reimburse the costs of treatment by a physiotherapist up to a maximum number
+of treatments as stated on the coverage overview.
+What are the conditions?
 
-#### 3.7.1 Physiotherapy coverage and manual therapy
-
-- **What will be reimbursed?**
-  - We reimburse the costs of treatment by a physiotherapist up to a maximum number of treatments as stated on the coverage overview.
-- **Note on Manual Therapy:** If the manual therapist is also a qualified physiotherapist, the treatment is reimbursed as physiotherapy.
-- **What will not be reimbursed?**
-  - Antenatal and postnatal gymnastic.
-  - Sports massage.
-  - Work and occupational therapy.
-  - Manual therapy (unless performed by a physiotherapist).
-
-#### 3.7.2 Conditions for physiotherapy
-
-- **What are the conditions?**
-  - The physiotherapist must be registered with a competent government authority.
-  - The treatment must be prescribed by a general practitioner or medical specialist.
+- The physiotherapist is registered with a competent government authority;
+- The treatment is prescribed by the general practitioner or the medical specialist.
+  What will not be reimbursed?
+- Antenatal and postnatal gymnastic.
+- Sports massage
+- Work and occupational therapy
+- Manual therapy.
+  Please note: What if the manual therapist is also a physiotherapist? In that case we
+  will reimburse the treatment. The manual therapy will be reimbursed as if
+  physiotherapy was involved.
 
 ### 3.8 Haemodialysis
 
-This section covers the specialized treatment for kidney failure, distinguishing between hospital-based care and the logistical requirements for home dialysis.
-
 #### 3.8.1 Haemodialysis in a hospital
 
-- **What will be reimbursed?**
-  - Costs for haemodialysis in a hospital or a clinic.
+What will be reimbursed?
+Costs for haemodialysis in a hospital or a clinic.
 
-#### 3.8.2 Haemodialysis at home: Equipment and supplies
+#### 3.8.2 Haemodialysis at home
 
-- **What will be reimbursed?**
-  - Rental costs of equipment and accessories for dialysis treatment.
-  - Costs of regular monitoring, maintenance, and replacement of the equipment.
-  - Chemicals and liquids needed for dialysis.
-  - Costs for necessary expert assistance provided at the dialysis centre.
-  - Additional costs for haemodialysis at home.
+What will be reimbursed?
 
-#### 3.8.3 Conditions for home dialysis
-
-- **What are the conditions?**
-  - The insured person must submit a cost estimate in advance; reimbursement is based on the approved estimate.
-  - Other costs are only reimbursed if they are reasonable and no statutory regulations for reimbursement exist.
+- Rental costs of equipment and accessories for dialysis treatment;
+- Costs of regular monitoring, maintenance, and replacement of the equipment for
+  dialysis;
+- Chemicals and liquids needed for dialysis;
+- Costs for necessary expert assistance provided at the dialysis centre;
+- Additional costs for haemodialysis at home.
+  What are the conditions?
+- The insured person will have to submit an estimation of the costs in advance.
+  Entitlement to reimbursement will be based on the approved estimate
+- We only reimburse other costs if these are reasonable. And when no statutory
+  regulations exist for reimbursement of these costs.
 
 ### 3.9 Paramedical care
 
-This section covers a diverse range of specialized therapeutic treatments, including stutter therapy, dietary advice, phlebology, and occupational therapy. It defines the specific reimbursement limits, the required professional accreditations for practitioners, and the necessity of medical referrals for these paramedical services.
+#### 3.9.1 Stutter therapy
 
-#### 3.9.1 Stutter therapy reimbursement
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - 100% of the costs of treatment by a speech therapist;
-  - Costs for a stay in an institution for stutter therapy;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - The insured must be referred by a general physician.
+- 100% of the costs of treatment by a speech therapist;
+- Costs for a stay in an institution for stutter therapy;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+  The insured must be referred by a general physician.
 
-#### 3.9.2 Dietary advice and referral
+#### 3.9.2 Dietary advice
 
-- **What will be reimbursed?**
-  - 100% of the costs for dietary advice by a dietician. Dietary advice entails information and advice on food and dietary habits with a medical purpose;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - The dietician is registered and approved;
-  - A general physician has referred the insured person.
+What will be reimbursed?
 
-#### 3.9.3 Treatment of varicose veins (Phlebology)
+- 100% of the costs for dietary advice by a dietician. Dietary advice entails
+  information and advice on food and dietary habits with a medical purpose;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+- The dietician is registered and approved;
+- A general physician has referred the insured person.
 
-- **What will be reimbursed?**
-  - 100% of the costs for the treatment of varicose veins by a phlebologist;
-  - All materials used by the phlebologist for the treatment;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - The authorities have accredited the phlebologist.
+#### 3.9.3 Treatment of varicose veins
 
-#### 3.9.4 Occupational therapy for self-sufficiency
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - Advice, instruction, training, and treatment.
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - An occupational therapist provides the advice, instruction, training, or treatment;
-  - The authorities have accredited the occupational therapist;
-  - The purpose of the occupational therapy is to promote or strengthen self-sufficiency;
-  - A general physician has referred the insured person.
+- 100% of the costs for the treatment of varicose veins by a phlebologist;
+- All materials used by the phlebologist for the treatment;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+  The authorities have accredited the phlebologist.
+
+#### 3.9.4 Occupational therapy
+
+What will be reimbursed?
+
+- Advice
+- Instruction
+- Training
+- Treatment
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+- An occupational therapist provides advice, instruction, training, or a treatment;
+- The authorities have accredited the occupational therapist;
+- The purpose of the occupational therapy is to promote or strengthen self-
+  sufficiency;
+- A general physician has referred the insured person.
 
 #### 3.9.5 Camouflage therapy
 
-- **What will be reimbursed?**
-  - 100% of the costs for camouflage therapy provided by a beautician or a skin therapist;
-  - 100% of the materials used during the therapy;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - A general physician has referred the insured person.
-  - We gave prior permission in writing.
+What will be reimbursed?
 
-#### 3.9.6 Podiatry and orthotics
+- 100% of the costs for camouflage therapy provided by a beautician or a skin
+  therapist;
+- 100% of the materials used during the therapy;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+- A general physician has referred the insured person.
+- We gave prior permission in writing.
 
-- **What will be reimbursed?**
-  - Treatment by a podology therapist;
-  - Preparation, production, and delivery of podotherapeutic insoles and orthosis;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - The authorities have accredited the podology therapist.
-- **What will not be reimbursed?**
-  - Costs of shoes
-  - Costs of adjustments of shoes.
+#### 3.9.6 Podiatry
 
-#### 3.9.7 Psoriasis outpatient treatment
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - A psoriasis treatment in a psoriasis treatment centre. Psoriasis is a chronic skin condition;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - A general physician has referred the insured person.
+- Treatment by a podology therapist;
+- Preparation, production, and delivery of podotherapeutic insoles and orthosis;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+  The authorities have accredited the podology therapist.
+  What will not be reimbursed?
+- Costs of shoes
+- Costs of adjustments of shoes.
+
+#### 3.9.7 Psoriasis outpatient’s treatment
+
+What will be reimbursed?
+
+- A psoriasis treatment in a psoriasis treatment centre. Psoriasis is a chronic skin
+  condition;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+  A general physician has referred the insured person.
 
 ### 3.10 Psychological or psychiatric care
 
-This section outlines the financial support for mental health services, distinguishing between outpatient therapy and inpatient stays in psychiatric institutions, including specific time limits and approval requirements.
+#### 3.10.1 Care without being institutionalized
 
-#### 3.10.1 Outpatient psychological or psychiatric care
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - 50% of the costs for psychological or psychiatric care.
-  - Reimbursement is limited to the maximum sum per insured person per year according to the coverage overview.
-- **What are the conditions?**
-  - Care must be provided by a recognized and registered psychologist.
-  - Prior written consent is mandatory; the insured must submit a treatment plan for approval before starting treatment.
+- 50% of the costs for psychological or psychiatric care.
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
+- A recognized and registered psychologist provides the psychological or
+  psychiatric care;
+- Prior to the treatment we have given written consent after the insured submitted a
+  treatment plan to us.
 
-#### 3.10.2 Inpatient psychiatric care
+#### 3.10.2 Psychiatric care when institutionalized
 
-- **What will be reimbursed?**
-  - Costs for admission to a psychiatric institution.
-  - Coverage is limited to a maximum of 365 days.
+What will be reimbursed?
+
+- Costs for admission to a psychiatric institution.
+- For a maximum of 365 days.
 
 ### 3.11 Dental care for insured persons up to age 21
 
-This section provides specialized dental coverage for children and young adults, focusing on routine and essential dental treatments.
+What will be reimbursed?
 
-#### 3.11.1 Youth dental care reimbursement
+- 75% of the costs for a dental treatment.
+- To the maximum reimbursement per insured per insurance year, according to the
+  coverage overview.
+  What are the conditions?
+- The insured persons are younger than 21 years.
+- The treatment is performed by a dentist or a by a service for youth dental care.
 
-- **What will be reimbursed?**
-  - 75% of the costs for a dental treatment.
-  - Limited to the maximum reimbursement per insurance year as stated in the coverage overview.
-- **What are the conditions?**
-  - The insured person must be younger than 21 years old.
-  - The treatment must be performed by a dentist or a youth dental care service.
+#### 3.12 Ronald McDonald house
 
-### 3.12 Ronald McDonald house
+What will be reimbursed?
+The personal contribution used exclusively for the costs of stay in the Ronald
+McDonald house.
+What are the conditions?
 
-This coverage supports parents staying near their hospitalized children, focusing on the specific personal contributions required by these facilities.
+- The child of an insured person has been admitted to a hospital;
+- The hospitalisation is medically necessary.
 
-#### 3.12.1 Support for Ronald McDonald house stays
+#### 3.13 Accommodation costs
 
-- **What will be reimbursed?**
-  - The personal contribution used exclusively for the costs of staying in a Ronald McDonald house.
-- **What are the conditions?**
-  - The child of the insured person must be admitted to a hospital.
-  - The hospitalization must be medically necessary.
+What will be reimbursed?
+We reimburse the necessary accommodation costs based on accommodation for you
+and possibly your partner. The maximum reimbursement can be found on the
+coverage overview.
+What are the conditions?
 
-### 3.13 Accommodation costs
-
-This section covers necessary lodging expenses for patients and partners when medical treatment is required away from their primary place of residence.
-
-#### 3.13.1 Reimbursement for accommodation
-
-- **What will be reimbursed?**
-  - Necessary accommodation costs for the patient and potentially their partner.
-  - The maximum reimbursement is specified in the coverage overview.
-- **What are the conditions?**
-  - Medical treatment must take place outside the insured person's place of residence.
-  - Reimbursement applies until the date of discharge.
+- You must undergo medical treatment outside your place of residence.
+- We reimburse accommodation costs until discharge.
 
 ---
 
-## 4. Which additional entitlements are included in the Excellent cover?
+## 4 Which additional entitlements are included in the Excellent cover?
 
-This chapter outlines the specific additional reimbursements available to policyholders with Excellent cover. These benefits are provided in addition to the standard and optimal coverage levels.
+This article lists additional reimbursements available under the Excellent cover. These
+reimbursements are supplementary to the reimbursements under the Standard or
+Optimal cover.
 
 ### 4.1 Pregnancy and birth
 
-The following sections detail the reimbursements related to pregnancy, childbirth, and fertility treatments under the Excellent cover.
-
 #### 4.1.1 Caesarean section
 
-- **What will be reimbursed?**
-  - Costs for medical care and services in the event of an elective caesarean section;
-  - The maximum reimbursement for pregnancy and birth as stated on the coverage overview also applies here.
+What will be reimbursed?
+Costs for medical care and services in the event of an elective caesarean section;
+The maximum reimbursement for pregnancy and birth as stated on the coverage
+overview also applies here.
 
 #### 4.1.2 Travel costs for selective childbirth in The Netherlands
 
 The insured woman may opt to give birth in The Netherlands.
+What will be reimbursed?
 
-- **What will be reimbursed?**
-  - 50% of the transportation costs (round trip) for the insured woman;
-  - 50% of the transportation expenses of co-insured children up to the age of 4.
-- **What are the conditions?**
-  - The insured person travels economy class;
-  - The insured person travels by airplane, train, or bus;
-  - The insured person travels to the Netherlands before the seventh month of the pregnancy.
-  - We have given permission in advance.
+- 50% of the transportation costs (round trip) for the insured woman;
+- 50% of the transportation expenses of co-insured children up to the age of 4.
+  What are the conditions?
+- The insured person travels economy class;
+- The insured person travels by airplane, train, or bus;
+- The insured person travels to the Netherlands before the seventh month of the
+  pregnancy.
+- We have given permission in advance.
 
 #### 4.1.3 Fertility treatment
 
-- **What will be reimbursed?**
-  - Costs of a fertility treatment;
-  - A maximum reimbursement including research and medication according to the coverage overview.
-- **What are the conditions?**
-  - It is the first pregnancy. The insured person does not have any children.
-  - The insured person has been referred by a gynaecologist or a urologist;
-  - A qualified gynaecologist performs the procedure;
-  - The gynaecologist performs the procedure in an institution with a permit;
-  - The insured woman is aged 39 or younger;
-  - A waiting period of 18 months applies.
-- **What will not be reimbursed?**
-  - Costs for donation of eggs and semen.
+What will be reimbursed?
+
+- Costs of a fertility treatment;
+- A maximum reimbursement including research and medication according to the
+  coverage overview.
+  What are the conditions?
+- It is the first pregnancy. The insured person does not have any children.
+- The insured person has been referred by a gynaecologist or a urologist;
+- A qualified gynaecologist performs the procedure;
+- The gynaecologist performs the procedure in an institution with a permit;
+- The insured woman is aged 39 or younger;
+- A waiting period of 18 months applies.
+  What will not be reimbursed?
+  Costs for donation of eggs and semen.
 
 #### 4.1.4 Birth companion
 
-- **What do we reimburse?**
-  - We reimburse the costs for a birth companion (Doula) up to the maximum reimbursement as stated on the coverage overview.
-- **What are the conditions?**
-  - The birth coach is present during the birth and provides services in addition to those of a doctor or midwife.
-  - The birth companion is trained to supervise childbirth.
-- **What do not we reimburse?**
-  - Support from a family member
+What do we reimburse?
+We reimburse the costs for a birth companion (Doula) up to the maximum
+reimbursement as stated on the coverage overview.
+What are the conditions?
+
+- The birth coach is present during the birth and provides services in addition to
+  those of a doctor or midwife.
+- The birth companion is trained to supervise childbirth.
+  What do not we reimburse?
+  Support from a family member
 
 #### 4.1.5 Sterilisation
 
-- **What will be reimbursed?**
-  - Costs for medical care and services.
-- **What are the conditions?**
-  - A medical specialist performs the sterilisation;
-  - The sterilisation takes place in a hospital;
-  - Male insured persons will be reimbursed up to a maximum equivalent to outpatient treatment;
-  - The insured person will require prior permission.
-- **What will not be reimbursed?**
-  - The reversal of a voluntary sterilisation.
+What will be reimbursed?
+Costs for medical care and services.
+What are the conditions?
+
+- A medical specialist performs the sterilisation;
+- The sterilisation takes place in a hospital;
+- Male insured persons will be reimbursed up to a maximum equivalent to
+  outpatient treatment; The insured person will require prior permission.
+  What will not be reimbursed?
+  The reversal of a voluntary sterilisation.
 
 #### 4.1.6 Abortion unwanted pregnancy
 
-- **What will be reimbursed?**
-  - Costs for medical care and services.
-- **What are the conditions?**
-  - A specialist performs the abortion;
-  - The abortion is performed in a hospital.
+What will be reimbursed?
+Costs for medical care and services.
+What are the conditions?
+
+- A specialist performs the abortion;
+- The abortion is performed in a hospital.
 
 ### 4.2 Medical examinations
 
-This section covers the reimbursements for preventive health checks and genetic diagnostic services.
-
 #### 4.2.1 Preventive medical care
 
-- **What will be reimbursed?**
-  - The costs of research by a GP or specialist are reimbursed for the following studies from the mentioned ages:
-    - cardiovascular examination by an ECG, blood pressure measurement and a cholesterol measurement. Once every two years from age 30 years.
-    - cervical cancer examination by a pap smear. Once every two years from the age of 30 years.
-    - prostate cancer research by a psa measurement. Once a year from the age of 50 years. And once a year from the age of 40 years if the prostate cancer occurs in the family at a relatively young age. (There are disadvantages to a PSA measurement. Make sure you are well informed)
-    - breast cancer research by a mammogram Twice in the age range 30-39 years. From age 40 every two years.
-    - intestinal cancer examination by the Faecal Occult Blood Test (FOBT). Once every 2 years from the age of 50 years. (There are disadvantages to a FOBT survey. Make sure you are well informed.)
-    - research into sexually transmitted diseases if there is an increased risk.
-    - diabetes research (type 2). Once every two years from age 30 years.
-    - total body scan. From the age of 50 years we will pay 70% once per 5 years with a maximum of € 1.000,-.
-    - vision and hearing test. Once per 2 years up to the age of 18 years.
-- **What are the conditions?**
-  - There is a 12-month waiting period for preventive medical care;
-  - We have given prior permission;
-  - The examination or treatment is performed by a medical specialist or a general practitioner.
-- **What will not be reimbursed?**
-  - Other preventive tests
-  - Costs for cell therapy
-  - The issue of medical certificates, in writing.
+What will be reimbursed?
+The costs of research by a GP or specialist are reimbursed for the following studies
+from the mentioned ages:
+
+- cardiovascular examination by an ECG, blood pressure measurement and a
+  cholesterol measurement. Once every two years from age 30 years.
+- cervical cancer examination by a pap smear. Once every two years from the age
+  of 30 years.
+- prostate cancer research by a psa measurement. Once a year from the age of 50
+  years. And once a year from the age of 40 years if the prostate cancer occurs in
+  the family at a relatively young age. (There are disadvantages to a PSA
+  measurement. Make sure you are well informed)
+- breast cancer research by a mammogram Twice in the age range 30-39 years.
+  From age 40 every two years.
+- intestinal cancer examination by the Faecal Occult Blood Test (FOBT). Once
+  every 2 years from the age of 50 years. (There are disadvantages to a FOBT
+  survey. Make sure you are well informed.)
+- research into sexually transmitted diseases if there is an increased risk.
+- diabetes research (type 2). Once every two years from age 30 years.
+- total body scan. From the age of 50 years we will pay 70% once per 5 years with
+  a maximum of € 1.000,-.
+- vision and hearing test. Once per 2 years up to the age of 18 years.
+  What are the conditions?
+- There is a 12-month waiting period for preventive medical care;
+- We have given prior permission;
+- The examination or treatment is performed by a medical specialist or a general
+  practitioner.
+  What will not be reimbursed?
+- Other preventive tests
+- Costs for cell therapy
+- The issue of medical certificates, in writing.
 
 #### 4.2.2 Genetic testing
 
-- **What will be reimbursed?**
-  - Costs for assistance from a centre for genetic testing. The support may include:
-    - Research of genetic anomalies by means of genealogical research;
-    - Chromosomal testing;
-    - Biochemical diagnosis;
-    - DNA analysis;
-    - Genetic counselling;
-    - Psychosocial counselling while taking genetic tests.
-- **What are the conditions?**
-  - The research has been prescribed by a general practitioner or a medical specialist.
+What will be reimbursed?
+Costs for assistance from a centre for genetic testing. The support may include:
+
+- Research of genetic anomalies by means of genealogical research;
+- Chromosomal testing;
+- Biochemical diagnosis;
+- DNA analysis;
+- Genetic counselling;
+- Psychosocial counselling while taking genetic tests.
+  What are the conditions?
+  The research has been prescribed by a general practitioner or a medical specialist.
 
 ### 4.3 Mastectomy for preventative reasons
 
-Reimbursement details for surgical procedures to prevent breast cancer in high-risk cases.
+What will be reimbursed?
 
-#### 4.3.1 Mastectomy coverage
-
-- **What will be reimbursed?**
-  - Nursing costs. We reimburse the nursing according to admission to a standard hospital room.
-  - Cost of specialist treatment.
-  - Additional costs.
-- **What are the conditions?**
-  - There is a high hereditary risk of breast cancer.
-  - We have given prior permission.
+- Nursing costs. We reimburse the nursing according to admission to a standard
+  hospital room.
+- Cost of specialist treatment.
+- Additional costs.
+  What are the conditions?
+- There is a high hereditary risk of breast cancer.
+- We have given prior permission.
 
 ### 4.4 Contraceptives
 
-Information regarding the reimbursement of various birth control methods.
+What will be reimbursed?
+100% of the costs for the following contraceptives:
 
-#### 4.4.1 Contraceptive methods
-
-- **What will be reimbursed?**
-  - 100% of the costs for the following contraceptives:
-    - the (injection) pill;
-    - the IUD;
-    - the experience;
-    - the hormone rod;
-    - the pessary.
-- **What are the conditions?**
-  - The contraceptives are prescribed by a general practitioner or a midwife.
-  - The contraceptives are supplied by a pharmacy or a dispensing general practitioner.
+- the (injection) pill;
+- the IUD;
+- the experience;
+- the hormone rod;
+- the pessary.
+  What are the conditions?
+- The contraceptives are prescribed by a general practitioner or a midwife.
+- The contraceptives are supplied by a pharmacy or a dispensing general
+  practitioner.
 
 ### 4.5 Care provided by an alternative physician or an alternative therapist
 
-This section details the conditions for reimbursing alternative and complementary medicine.
+What will be reimbursed?
 
-#### 4.5.1 Alternative therapist services
-
-- **What will be reimbursed?**
-  - Costs for care provided by an alternative physician or an alternative therapist;
-  - The maximum reimbursement is stated on the coverage overview.
-- **What are the conditions?**
-  - The alternative care provider is a member of an accredited national professional organisation.
-  - The professional organisation is set up to regulate alternative care providers;
-  - The insured person provides written proof of the membership if we require so;
-  - The consultation or treatment is provided for the purpose of medical treatment;
-  - The alternative care provider provides an individual treatment or consultation.
-- **What will not be reimbursed?**
-  - Treatment, examinations, and courses of a social nature;
-  - Treatment, examinations, and courses with a focus on well-being;
-  - Treatment, examinations, and courses with a focus on prevention;
-  - Psychotherapy provided by an alternative care provider;
-  - Spa treatments and travel;
-  - Treatment or consultation performed by the alternative care provider who is also the general practitioner.
+- Costs for care provided by an alternative physician or an alternative therapist;
+- The maximum reimbursement is stated on the coverage overview.
+  What are the conditions?
+- The alternative care provider is a member of an accredited national professional
+  organisation. The professional organisation is set up to regulate alternative care
+  providers;
+- The insured person provides written proof of the membership if we require so;
+- The consultation or treatment is provided for the purpose of medical treatment;
+- The alternative care provider provides an individual treatment or consultation.
+  What will not be reimbursed?
+- Treatment, examinations, and courses of a social nature;
+- Treatment, examinations, and courses with a focus on well-being;
+- Treatment, examinations, and courses with a focus on prevention;
+- Psychotherapy provided by an alternative care provider;
+- Spa treatments and travel;
+- Treatment or consultation performed by the alternative care provider who is also
+  the general practitioner.
 
 ### 4.6 Homeopathic medicine
 
-Provisions for the reimbursement of homeopathic medicinal products.
+What will be reimbursed?
 
-#### 4.6.1 Homeopathic reimbursement
+- Costs of homeopathic medicines;
+- We will reimburse a maximum sum per insured person per year of insurance
+  according to the coverage overview.
+  What are the conditions?
 
-- **What will be reimbursed?**
-  - Costs of homeopathic medicines;
-  - We will reimburse a maximum sum per insured person per year of insurance according to the coverage overview.
-- **What are the conditions?**
-  - The homeopathic medicines are prescribed by an alternative care provider or therapist;
-  - The medication is supplied by a pharmacy or a dispensing general practitioner.
+- The homeopathic medicines are prescribed by an alternative care provider or
+  therapist;
+- The medication is supplied by a pharmacy or a dispensing general practitioner.
 
 ### 4.7 Vision and hearing
 
-This section outlines reimbursements for sensory aids and specific corrective procedures.
-
 #### 4.7.1 Glasses and contact lenses
 
-- **What will be reimbursed?**
-  - We reimburse glasses or contact lenses up to the maximum reimbursement stated in the coverage overview.
-- **What are the conditions?**
-  - The glasses or contact lenses have at least a dioptre value of plus or minus 1.5;
-  - The glasses or contact lenses are supplied by an optician or optometrist;
-  - The glasses or contact lenses are needed for daily use;
-  - The maximum reimbursement applies to glasses and contact lenses together.
-- **What will not be reimbursed?**
-  - Sports glasses;
-  - Sunglasses;
-  - Other glasses not intended for daily use;
-  - Eye corrective treatments, such as laser treatment.
+What will be reimbursed?
+We reimburse glasses or contact lenses up to the maximum reimbursement stated in
+the coverage overview.
+What are the conditions?
+
+- The glasses or contact lenses have at least a dioptre value of plus or minus 1.5;
+- The glasses or contact lenses are supplied by an optician or optometrist;
+- The glasses or contact lenses are needed for daily use;
+- The maximum reimbursement applies to glasses and contact lenses together.
+  What will not be reimbursed?
+- Sports glasses;
+- Sunglasses;
+- Other glasses not intended for daily use;
+- Eye corrective treatments, such as laser treatment.
 
 #### 4.7.2 Eyelid correction
 
-- **What will be reimbursed?**
-  - 75% of the costs up to a maximum of € 1.000,- per year for an upper eyelid correction:
-    - If your pupil is covered by one third of the lower edge of your upper eyelid or by the overhanging skin fold when looking straight ahead.
-    - If there is a clear limitation of the lateral field of view. This is confirmed by pronounced drooping of the upper eyelid or an overhanging skin fold.
-    - In the case of demonstrably untreatable blemishes in the skin fold of the upper eyelid.
-- **What are the conditions?**
-  - You need a reference from your GP or medical specialist.
-  - We have given prior permission.
-- **What do we not reimburse?**
-  - Eye corrective treatments, such as laser treatment.
+What will be reimbursed?
+75% of the costs up to a maximum of € 1.000, - per year for an upper eyelid
+correction:
+
+- If your pupil is covered by one third of the lower edge of your upper eyelid or by
+  the overhanging skin fold when looking straight ahead.
+- If there is a clear limitation of the lateral field of view. This is confirmed by
+  pronounced drooping of the upper eyelid or an overhanging skin fold.
+- In the case of demonstrably untreatable blemishes in the skin fold of the upper
+  eyelid.
+  What are the conditions?
+- You need a reference from your GP or medical specialist.
+- We have given prior permission.
+  What do we not reimburse?
+  Eye corrective treatments, such as laser treatment.
 
 #### 4.7.3 Hearing aids
 
-- **What will be reimbursed?**
-  - Hearing aids following a hearing test;
-  - We will reimburse a maximum sum per five years of insurance according to the coverage overview.
-- **What are the conditions?**
-  - The insured person first must have a hearing test;
-  - The audiological centre will forward the results of the hearing test to us;
-  - We have given permission after we have assessed the hearing test.
-- **What will not be reimbursed?**
-  - Audiological (diagnostic) services.
+What will be reimbursed?
+
+- Hearing aids following a hearing test;
+- We will reimburse a maximum sum per five years of insurance according to the
+  coverage overview.
+
+What are the conditions?
+
+- The insured person first must have a hearing test;
+- The audiological centre will forward the results of the hearing test to us;
+- We have given permission after we have assessed the hearing test.
+  What will not be reimbursed?
+  Audiological (diagnostic) services.
 
 ### 4.8 Dental orthopaedic treatment
 
-Provisions for specific orthodontic care related to congenital conditions.
+What will be reimbursed?
+We reimburse the cost of an orthopaedic treatment for treatment of
 
-#### 4.8.1 Dental orthopaedics
-
-- **What will be reimbursed?**
-  - We reimburse the cost of an orthopaedic treatment for treatment of cleft lip and / or jaw slit and/or cleft palate.
-- **What are the conditions?**
-  - The treatment is carried out by an orthodontist.
-  - The doctor or dentist prescribes the treatment.
+- cleft lip and / or
+- jaw slit and / or
+- cleft palate.
+  What are the conditions?
+- The treatment is carried out by an orthodontist.
+- The doctor or dentist prescribes the treatment.
 
 ### 4.9 Orthodontic treatment for insured younger than 21 years
 
-General orthodontic benefits for children and young adults.
+What will be reimbursed?
+We reimburse the cost for an orthodontic treatment up to the maximum
+reimbursement according to the coverage overview.
+What are the conditions?
 
-#### 4.9.1 Orthodontics under 21
-
-- **What will be reimbursed?**
-  - We reimburse the cost for an orthodontic treatment up to the maximum reimbursement according to the coverage overview.
-- **What are the conditions?**
-  - The treatment is carried out by an orthodontist or dentist.
-  - The declaration is in line with rates in the country of residence or according to the country of residence approved tariff.
+- The treatment is carried out by an orthodontist or dentist.
+- The declaration is in line with rates in the country of residence or according to the
+  country of residence approved tariff.
 
 ### 4.10 Blood transport
 
-Reimbursement for the logistics of blood supplies for medical procedures.
-
-#### 4.10.1 Blood logistics
-
-- **What will be reimbursed?**
-  - Costs to transport blood
-- **What are the conditions?**
-  - The transport of blood is necessary for a necessary blood transfusion.
+What will be reimbursed?
+Costs to transport blood
+What are the conditions?
+The transport of blood is necessary for a necessary blood transfusion.
 
 ### 4.11 Quit smoking program
 
-Details for supported smoking cessation initiatives.
-
-#### 4.11.1 Smoking cessation
-
-- **What will be reimbursed?**
-  - We reimburse the costs of a smoking cessation program.
-- **What are the conditions?**
-  - The program has been drawn up by a general practitioner.
-  - We have given prior permission.
-  - We reimburse the costs once per lifetime for an insured person.
-
----
+What will be reimbursed?
+We reimburse the costs of a smoking cessation program.
+What are the conditions?
+– The program has been drawn up by a general practitioner.
+– We have given prior permission.
+– We reimburse the costs once per lifetime for an insured person.
 
 ## 5. How does the claim settlement work?
 

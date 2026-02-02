@@ -15,9 +15,9 @@ class EmbeddingSettings(BaseModel):
     """Embedding model configuration (non-sensitive)"""
 
     # Use OpenRouter as central hub for all models
-    provider: Literal["openrouter", "openai", "gemini"] = "openrouter"
-    model_name: str = "qwen/qwen3-embedding-8b" #"text-embedding-3-large" #   # Direct OpenAI format (remove "openai/" prefix for direct)
-    dimension: int = 4096  #3072 
+    provider: Literal["openrouter", "openai", "gemini"] = "openai"
+    model_name: str = "text-embedding-3-large" #"qwen/qwen3-embedding-8b"  # Direct OpenAI format (remove "openai/" prefix for direct)
+    dimension: int = 3072 # 4096  #
     batch_size: int = 100
 
     # OpenRouter settings
@@ -30,9 +30,9 @@ class ChunkingSettings(BaseModel):
     strategy: Literal["hierarchical", "hybrid"] = "hybrid"
 
     # Size-based settings
-    max_chunk_size: int = 1000  # Maximum characters per chunk
+    max_chunk_size: int = 100000000  # Maximum characters per chunk
     chunk_overlap: int = 100  # Overlap between chunks
-    size_threshold: int = 800  # Split chunks larger than this
+    size_threshold: int = 80000000  # Split chunks larger than this
 
     # Hierarchical settings
     headers_to_split: list[tuple[str, str]] = Field(
