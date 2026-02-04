@@ -41,6 +41,8 @@ class PreprocessedUser:
     # Work
     functieomschrijving: Optional[str] = None
     type_werkzaamheden: Optional[str] = None
+    verwacht_inkomen: Optional[str] = None
+    toelichting_verwacht_inkomen: Optional[str] = None
 
     # Insurance preferences
     interesse_internationale_aov: Optional[str] = None
@@ -207,6 +209,8 @@ def preprocess_user(aanvraag_id: int) -> PreprocessedUser:
         # Work
         functieomschrijving=raw.get("functieomschrijving"),
         type_werkzaamheden=raw.get("type_werkzaamheden"),
+        verwacht_inkomen=raw.get("verwacht_inkomen"),
+        toelichting_verwacht_inkomen=raw.get("toelichting_verwacht_inkomen"),
         # Insurance preferences
         interesse_internationale_aov=raw.get("interesse_internationale_aov"),
         interesse_zkv=raw.get("interesse_zkv"),
