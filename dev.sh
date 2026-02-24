@@ -156,6 +156,24 @@ case "$1" in
         echo -e "${GREEN}Container status:${NC}"
         docker-compose $COMPOSE_FILES ps
         ;;
+    grip)
+        echo -e "${GREEN}Running egrip synchronization (Local)...${NC}"
+        (cd src/database/src && python manage.py sync_egrip_data)
+        ;;
+    assu)
+        # macOS (BSD date) syntax:
+        # -v-1d subtracts one day
+        # +%F is shorthand for %Y-%m-%d
+        YESTERDAY=$(date -v-1d +%F)
+        TODAY=$(date +%F)
+
+        echo -e "${GREEN}Running assuportal synchronization (Local)...${NC}"
+        echo -e "${YELLOW}Period: $YESTERDAY to $TODAY${NC}"
+
+        (cd src/database/src && python3 manage.py sync_assuportal_data --all \
+            --datum-van "$YESTERDAY" \
+            --datum-tot "$TODAY")
+        ;;
 
     *)
         echo -e "${GREEN}Development Environment Helper${NC}"
@@ -192,5 +210,7 @@ case "$1" in
         echo "  ./dev.sh test -v         # Run tests with verbose output"
         echo "  ./dev.sh django-shell    # Open Django shell"
         echo "  ./dev.sh db-shell        # Connect to PostgreSQL"
+        echo "  grip          - Sync egrip (runs locally in src/database/src)"
+        echo "  assuportal   - Sync assuportal (runs locally in src/database/src)"
         ;;
 esac

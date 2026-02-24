@@ -13,3 +13,5 @@ data/documents/chunks/
 src/retrieval/notebook.ipynb
 notebooks/
 .chainlit/
+
+data/user_data.xlsx
