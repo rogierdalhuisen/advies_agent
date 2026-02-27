@@ -67,26 +67,26 @@ def make_rewrite(llm):
     return rewrite
 
 
-def make_route(llm, tools):
-    """Router node: uses LLM tool-calling to decide pricing vs retrieval."""
-    llm_with_tools = llm.bind_tools(tools)
+# def make_route(llm, tools):
+#     """Router node: uses LLM tool-calling to decide pricing vs retrieval."""
+#     llm_with_tools = llm.bind_tools(tools)
 
-    def route(state: RetrieverState) -> dict:
-        response = llm_with_tools.invoke(state.original_query)
+#     def route(state: RetrieverState) -> dict:
+#         response = llm_with_tools.invoke(state.original_query)
 
-        if response.tool_calls:
-            tool_call = response.tool_calls[0]
-            # Inject the known provider from state instead of relying on the LLM
-            tool_call["args"]["insurance_providers"] = [state.insurance_provider]
-            logger.info("Calculator tool called with args: %s", json.dumps(tool_call["args"], ensure_ascii=False))
-            result = tools[0].invoke(tool_call["args"])
-            logger.info("Calculator tool result: %s", result)
-            return {"premium_data": result}
+#         if response.tool_calls:
+#             tool_call = response.tool_calls[0]
+#             # Inject the known provider from state instead of relying on the LLM
+#             tool_call["args"]["insurance_providers"] = [state.insurance_provider]
+#             logger.info("Calculator tool called with args: %s", json.dumps(tool_call["args"], ensure_ascii=False))
+#             result = tools[0].invoke(tool_call["args"])
+#             logger.info("Calculator tool result: %s", result)
+#             return {"premium_data": result}
 
-        logger.info("No tool call made by routing LLM")
-        return {"premium_data": ""}
+#         logger.info("No tool call made by routing LLM")
+#         return {"premium_data": ""}
 
-    return route
+#     return route
 
 
 def make_generate(retriever: InsuranceRetriever, llm):
@@ -94,28 +94,45 @@ def make_generate(retriever: InsuranceRetriever, llm):
         docs_text = "\n---\n".join(
             retriever.format_document_with_context(doc) for doc in state.documents
         )
-        prompt = f"Query: {state.original_query}\n\n"
+        
+        # System Instructions for a "Synthesized but Strict" answer
+        base_instructions = (
+            "SYSTEM ROLE: You are a strict Insurance Policy Expert.\n"
+            "GOAL: Provide a direct, cohesive answer to the user's query using ONLY the provided documents.\n"
+            "LANGUAGE: Answer in the same language as the User Query.\n"
+            "STRICT RULES:\n"
+            "- NO ASSUMPTIONS: Do not say 'This likely means...' or 'Therefore, you are covered.'\n"
+            "- NO FORMATTING OVERLOAD: Do not simply list sections. Write a clear, professional answer.\n"
+            "- TERMINOLOGY: If a specific term is crucial (e.g., 'Extreme Sports'), keep the original term or put it in parentheses after the translation.\n"
+            "- VERBATIM: Use the exact conditions and exclusions found in the text.\n"
+            "- RELEVANCY: If a document is not relevant to the specific question, ignore it.\n"
+        )
 
-        if state.premium_data:
-            prompt += f"Premium data:\n{state.premium_data}\n\n"
-
-        prompt += f"Documents:\n{docs_text}\n\n"
+        prompt = f"{base_instructions}\n"
+        prompt += f"USER QUERY: {state.original_query}\n\n"
+        prompt += f"PROVIDED POLICY DOCUMENTS:\n{docs_text}\n\n"
 
         if state.evaluation_status == "direct":
-            prompt += "Answer the query based on the documents above. Give a concise and accurate answer with respect to the query"
+            prompt += (
+                "TASK: Answer the query directly. Start with the most relevant fact. "
+                "Quote the specific conditions or exclusions exactly as written in the documents "
+                "to support the answer. Do not add a concluding summary or personal advice."
+            )
         else:
             prompt += (
-                "The documents don't answer the query directly but contain "
-                "relevant indirect information. Summarize what the documents "
-                "say that relates to the query."
+                "TASK: The documents do not contain a direct answer. Provide a brief response "
+                "explaining what the documents *do* say regarding this topic, without "
+                "stretching the information to fit the query."
             )
 
-        if state.premium_data:
-            prompt += "\n\nAlso use the premium data provided to give pricing information."
+        prompt += "\n\nFINAL ANSWER:"
 
         response = llm.invoke(prompt)
         text = response.content
+        
         if isinstance(text, list):
             text = "".join(block["text"] for block in text if block.get("type") == "text")
-        return {"answer": text}
+            
+        return {"answer": text.strip()}
+        
     return generate

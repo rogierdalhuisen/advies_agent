@@ -1,0 +1,2 @@
+https://www.siliconflow.com/models/qwen3-reranker-8b
+https://openrouter.ai

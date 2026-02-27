@@ -17,5 +17,5 @@ class RetrieverState(BaseModel):
     retries: int = 0
     max_retries: int = 3
     premium_data: str = ""
-    k: int = 15
-    top_n: int = 5
+    k: int = 25
+    top_n: int = 8
