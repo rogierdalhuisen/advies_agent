@@ -11,6 +11,7 @@ import logging
 from typing import Optional, Tuple
 from datetime import datetime, date
 from django.db import transaction
+from django.utils import timezone as dj_timezone
 from pydantic import ValidationError
 
 from .models import AdviesAanvragen
@@ -211,6 +212,17 @@ def read_excel_aanvragen(file_path: str) -> Optional[pd.DataFrame]:
             logger.debug(f"Engine '{engine}' kon bestand niet lezen: {e}")
             continue
 
+    # Fallback: try reading as HTML table (some web exports save HTML as .xls)
+    try:
+        dfs = pd.read_html(file_path, header=0)
+        if dfs:
+            df = dfs[0]
+            logger.info(f"Excel gelezen als HTML tabel: {len(df)} rijen, {len(df.columns)} kolommen")
+            logger.info(f"Kolommen: {list(df.columns)}")
+            return df
+    except Exception as e:
+        logger.debug(f"HTML fallback kon bestand niet lezen: {e}")
+
     logger.error(
         f"Kon Excel niet lezen met beschikbare engines. "
         f"Installeer python-calamine (pip install python-calamine) of xlrd (pip install xlrd)."
@@ -253,7 +265,10 @@ def parse_excel_datetime(value) -> Optional[datetime]:
 
     # Already a datetime (pandas parsed it)
     if isinstance(value, (datetime, pd.Timestamp)):
-        return value.to_pydatetime() if isinstance(value, pd.Timestamp) else value
+        dt = value.to_pydatetime() if isinstance(value, pd.Timestamp) else value
+        if dt.tzinfo is None:
+            dt = dj_timezone.make_aware(dt)
+        return dt
 
     # String — try common formats
     value_str = str(value).strip()
@@ -263,7 +278,8 @@ def parse_excel_datetime(value) -> Optional[datetime]:
     for fmt in ['%d-%m-%Y %H:%M', '%d-%m-%Y %H:%M:%S', '%Y-%m-%d %H:%M:%S',
                 '%d/%m/%Y %H:%M', '%d-%m-%Y', '%Y-%m-%d']:
         try:
-            return datetime.strptime(value_str, fmt)
+            dt = datetime.strptime(value_str, fmt)
+            return dj_timezone.make_aware(dt)
         except ValueError:
             continue
 

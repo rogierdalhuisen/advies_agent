@@ -240,6 +240,549 @@ class AdviesAanvragen(models.Model):
         return f"Aanvraag {self.aanvraag_id} - {naam} naar {bestemming}"
 
 
+class AdviesAanvraagEngels(models.Model):
+    """
+    Flat model for English E-grip form data (Expat and Emigration Advice).
+    All fields are nullable because the form is dynamic.
+    """
+    aanvraag_id = models.AutoField(primary_key=True)
+    relatie = models.ForeignKey(Relaties, on_delete=models.CASCADE, related_name='adviesaanvragen_engels')
+
+    # Metadata
+    external_result_id = models.CharField(max_length=255, unique=True, db_index=True, null=True, blank=True)
+    form_id = models.CharField(max_length=50, default='engels-1')
+    ingediend_op = models.DateTimeField(null=True, blank=True)
+    referral_source = models.CharField(max_length=255, null=True, blank=True)
+    referral_medium = models.CharField(max_length=255, null=True, blank=True)
+    referral_campaign = models.CharField(max_length=500, null=True, blank=True)
+    aangemaakt_op = models.DateTimeField(default=timezone.now)
+
+    # ============================================================================
+    # PERSONAL DATA PRINCIPAL INSURED
+    # ============================================================================
+
+    advies_voor_mezelf = models.CharField(max_length=255, null=True, blank=True)
+    aanhef = models.CharField(max_length=50, null=True, blank=True)
+    voorletters_roepnaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    achternaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    geboortedatum = models.DateField(null=True, blank=True)
+    land_nationaliteit = models.CharField(max_length=255, null=True, blank=True)
+    email = models.EmailField(db_index=True, null=True, blank=True)
+    telefoonnummer = models.CharField(max_length=100, null=True, blank=True)
+    vaste_woonplaats = models.CharField(max_length=500, null=True, blank=True)
+
+    # ============================================================================
+    # MULTIPLE INSURED PERSONS
+    # ============================================================================
+
+    meerdere_verzekerden = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # ABROAD / SITUATION
+    # ============================================================================
+
+    bestemming_land = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    verwachte_duur_verblijf = models.CharField(max_length=255, null=True, blank=True)
+    vertrekdatum = models.DateField(null=True, blank=True, db_index=True)
+    vertrek_wanneer = models.DateField(null=True, blank=True)
+    verwachte_vertrekdatum = models.DateField(null=True, blank=True)
+    hoofdreden_verblijf = models.CharField(max_length=500, null=True, blank=True)
+
+    # ============================================================================
+    # WORK AND INCOME
+    # ============================================================================
+
+    werk_omschrijving = models.TextField(null=True, blank=True)
+    plannen_omschrijving = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # INCOME PROTECTION INSURANCE (AOV)
+    # ============================================================================
+
+    interesse_aov = models.CharField(max_length=255, null=True, blank=True)
+    loondienst_of_zelfstandig = models.CharField(max_length=255, null=True, blank=True)
+    bruto_jaarinkomen = models.CharField(max_length=255, null=True, blank=True)
+    bruto_salaris_inkomen = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # HEALTH INSURANCE
+    # ============================================================================
+
+    interesse_zkv = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    zkv_periode = models.CharField(max_length=255, null=True, blank=True)
+    zkv_periode_omschrijving_motivatie = models.TextField(null=True, blank=True)
+    zkv_periode_omschrijving = models.TextField(null=True, blank=True)
+    huidige_verzekeraar = models.CharField(max_length=255, null=True, blank=True)
+    voorkeur_verzekeraar = models.CharField(max_length=255, null=True, blank=True)
+    medische_bijzonderheden = models.CharField(max_length=255, null=True, blank=True)
+    medische_bijzonderheden_toelichting = models.TextField(null=True, blank=True)
+    specifieke_wensen_zkv = models.CharField(max_length=255, null=True, blank=True)
+    wensen_toelichting = models.TextField(null=True, blank=True)
+    dekking_zwangerschap = models.CharField(max_length=255, null=True, blank=True)
+    zwangerschap_toelichting = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # ADDITIONAL INSURANCES
+    # ============================================================================
+
+    andere_verzekeringen_interesse = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # REMARKS
+    # ============================================================================
+
+    opmerkingen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # BACKUP: Raw form data
+    # ============================================================================
+
+    raw_form_data = models.JSONField(null=True, blank=True)
+
+    class Meta:
+        db_table = 'adviesaanvragen_engels'
+        verbose_name_plural = 'Advies Aanvragen (Engels)'
+        indexes = [
+            models.Index(fields=['email', 'ingediend_op']),
+            models.Index(fields=['bestemming_land', 'vertrekdatum']),
+            models.Index(fields=['interesse_zkv', 'ingediend_op']),
+        ]
+
+    def __str__(self):
+        naam = f"{self.voorletters_roepnaam or ''} {self.achternaam or ''}".strip() or "Unknown"
+        bestemming = self.bestemming_land or "?"
+        return f"Aanvraag (EN) {self.aanvraag_id} - {naam} naar {bestemming}"
+
+
+class AdviesAanvraagBelgie(models.Model):
+    """
+    Flat model voor Belgisch E-grip formulier data.
+    Alle velden zijn nullable omdat het formulier dynamisch is.
+    """
+    aanvraag_id = models.AutoField(primary_key=True)
+    relatie = models.ForeignKey(Relaties, on_delete=models.CASCADE, related_name='adviesaanvragen_belgie')
+
+    # Metadata
+    external_result_id = models.CharField(max_length=255, unique=True, db_index=True, null=True, blank=True)
+    form_id = models.CharField(max_length=50, default='belgie-1')
+    ingediend_op = models.DateTimeField(null=True, blank=True)
+    referral_source = models.CharField(max_length=255, null=True, blank=True)
+    referral_medium = models.CharField(max_length=255, null=True, blank=True)
+    referral_campaign = models.CharField(max_length=500, null=True, blank=True)
+    aangemaakt_op = models.DateTimeField(default=timezone.now)
+
+    # ============================================================================
+    # PERSOONLIJKE GEGEVENS HOOFDVERZEKERDE
+    # ============================================================================
+
+    advies_voor_mezelf = models.CharField(max_length=255, null=True, blank=True)
+    aanhef = models.CharField(max_length=50, null=True, blank=True)
+    voorletters_roepnaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    achternaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    geboortedatum = models.DateField(null=True, blank=True)
+    land_nationaliteit = models.CharField(max_length=255, null=True, blank=True)
+    email = models.EmailField(db_index=True, null=True, blank=True)
+    telefoonnummer = models.CharField(max_length=100, null=True, blank=True)
+    vaste_woonplaats = models.CharField(max_length=500, null=True, blank=True)
+
+    # ============================================================================
+    # MEERDERE VERZEKERDEN
+    # ============================================================================
+
+    meerdere_verzekerden = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # SITUATIE EN PLANNEN
+    # ============================================================================
+
+    bestemming_land = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    verwachte_duur_verblijf = models.CharField(max_length=255, null=True, blank=True)
+    vertrekdatum = models.DateField(null=True, blank=True, db_index=True)
+    vertrek_wanneer = models.DateField(null=True, blank=True)
+    verwachte_vertrekdatum = models.DateField(null=True, blank=True)
+    hoofdreden_verblijf = models.CharField(max_length=500, null=True, blank=True)
+
+    # ============================================================================
+    # WERK EN INKOMEN
+    # ============================================================================
+
+    werk_omschrijving = models.TextField(null=True, blank=True)
+    plannen_omschrijving = models.TextField(null=True, blank=True)
+    salaris_uit_belgie = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # ARBEIDSONGESCHIKTHEIDSVERZEKERING (AOV)
+    # ============================================================================
+
+    interesse_aov = models.CharField(max_length=255, null=True, blank=True)
+    loondienst_of_zelfstandig = models.CharField(max_length=255, null=True, blank=True)
+    eigen_onderneming_3jaar = models.CharField(max_length=255, null=True, blank=True)
+    bruto_jaarinkomen = models.CharField(max_length=255, null=True, blank=True)
+    aov_geen_offerte_reden = models.TextField(null=True, blank=True)
+    loon_doorbetaald_bij_ziekte = models.CharField(max_length=500, null=True, blank=True)
+    toelichting_uitkering = models.TextField(null=True, blank=True)
+    bruto_salaris_inkomen = models.CharField(max_length=255, null=True, blank=True)
+    salaris_per_maand_jaar = models.CharField(max_length=255, null=True, blank=True)
+    bouwplaats_of_offshore = models.CharField(max_length=255, null=True, blank=True)
+    bouwplaats_hoe_vaak = models.CharField(max_length=255, null=True, blank=True)
+    gevaarlijke_stoffen = models.CharField(max_length=255, null=True, blank=True)
+    toelichting_gevaarlijke_stoffen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # ZIEKTEKOSTENVERZEKERING (ZKV)
+    # ============================================================================
+
+    interesse_zkv = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    zkv_geen_interesse_reden = models.TextField(null=True, blank=True)
+    zkv_dekkingsvariant = models.CharField(max_length=255, null=True, blank=True)
+    zkv_eigen_risico_voorkeur = models.CharField(max_length=255, null=True, blank=True)
+    zkv_eigen_risico_bedrag = models.CharField(max_length=255, null=True, blank=True)
+    zkv_periode = models.CharField(max_length=255, null=True, blank=True)
+    zkv_periode_omschrijving_motivatie = models.TextField(null=True, blank=True)
+    zkv_periode_omschrijving = models.TextField(null=True, blank=True)
+    huidige_verzekeraar = models.CharField(max_length=255, null=True, blank=True)
+    voorkeur_verzekeraar = models.CharField(max_length=255, null=True, blank=True)
+    medische_bijzonderheden = models.CharField(max_length=255, null=True, blank=True)
+    medische_bijzonderheden_toelichting = models.TextField(null=True, blank=True)
+    specifieke_wensen_zkv = models.CharField(max_length=255, null=True, blank=True)
+    wensen_toelichting = models.TextField(null=True, blank=True)
+    dekking_zwangerschap = models.CharField(max_length=255, null=True, blank=True)
+    zwangerschap_toelichting = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # SPORTEN EN ACTIVITEITEN
+    # ============================================================================
+
+    sporten_activiteiten = models.TextField(null=True, blank=True)
+    sport_semiprofessioneel = models.CharField(max_length=255, null=True, blank=True)
+    sport_professioneel_omschrijving = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # AANVULLENDE VERZEKERINGEN
+    # ============================================================================
+
+    andere_verzekeringen_interesse = models.TextField(null=True, blank=True)
+    overlijdensrisico_bedrag = models.CharField(max_length=255, null=True, blank=True)
+    overlijdensrisico_bedrag_anders = models.CharField(max_length=255, null=True, blank=True)
+    overlijdensrisico_bestemming = models.TextField(null=True, blank=True)
+    overlijdensrisico_bestemming_anders = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # OPMERKINGEN
+    # ============================================================================
+
+    opmerkingen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # MARKETING EN CONTACT
+    # ============================================================================
+
+    hoe_gevonden = models.CharField(max_length=255, null=True, blank=True)
+    welke_website = models.CharField(max_length=500, null=True, blank=True)
+    naam_werkgever = models.CharField(max_length=500, null=True, blank=True)
+    hoe_gevonden_overig = models.TextField(null=True, blank=True)
+    eerder_contact_joho = models.CharField(max_length=255, null=True, blank=True)
+    eerder_contact_keuze = models.CharField(max_length=255, null=True, blank=True)
+    naam_contactpersoon = models.CharField(max_length=500, null=True, blank=True)
+    eerder_contact_anders = models.TextField(null=True, blank=True)
+    advies_vorm = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # BACKUP: Volledige raw data
+    # ============================================================================
+
+    raw_form_data = models.JSONField(null=True, blank=True)
+
+    class Meta:
+        db_table = 'adviesaanvragen_belgie'
+        verbose_name_plural = 'Advies Aanvragen (België)'
+        indexes = [
+            models.Index(fields=['email', 'ingediend_op']),
+            models.Index(fields=['bestemming_land', 'vertrekdatum']),
+            models.Index(fields=['interesse_zkv', 'ingediend_op']),
+        ]
+
+    def __str__(self):
+        naam = f"{self.voorletters_roepnaam or ''} {self.achternaam or ''}".strip() or "Onbekend"
+        bestemming = self.bestemming_land or "?"
+        return f"Aanvraag (BE) {self.aanvraag_id} - {naam} naar {bestemming}"
+
+
+class AdviesAanvraagWoning(models.Model):
+    """
+    Flat model voor woningverzekering formulier data.
+    Alle velden zijn nullable omdat het formulier dynamisch is.
+    """
+    aanvraag_id = models.AutoField(primary_key=True)
+    relatie = models.ForeignKey(Relaties, on_delete=models.CASCADE, related_name='adviesaanvragen_woning')
+
+    # Metadata
+    external_result_id = models.CharField(max_length=255, unique=True, db_index=True, null=True, blank=True)
+    form_id = models.CharField(max_length=50, default='woning-1')
+    ingediend_op = models.DateTimeField(null=True, blank=True)
+    referral_source = models.CharField(max_length=255, null=True, blank=True)
+    referral_medium = models.CharField(max_length=255, null=True, blank=True)
+    referral_campaign = models.CharField(max_length=500, null=True, blank=True)
+    aangemaakt_op = models.DateTimeField(default=timezone.now)
+
+    # ============================================================================
+    # GEGEVENS AANVRAGER
+    # ============================================================================
+
+    voornaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    achternaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    geboortedatum = models.DateField(null=True, blank=True)
+    geslacht = models.CharField(max_length=50, null=True, blank=True)
+    email = models.EmailField(db_index=True, null=True, blank=True)
+    telefoonnummer = models.CharField(max_length=100, null=True, blank=True)
+    nationaliteit = models.CharField(max_length=255, null=True, blank=True)
+    woonland_buitenland = models.CharField(max_length=255, null=True, blank=True)
+    correspondentie_adres_nl = models.CharField(max_length=500, null=True, blank=True)
+    vertrekdatum = models.DateField(null=True, blank=True)
+    uitgeschreven_brp = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # GEGEVENS TE VERZEKEREN WONING
+    # ============================================================================
+
+    woning_straat_huisnummer = models.CharField(max_length=500, null=True, blank=True)
+    woning_postcode_plaats = models.CharField(max_length=255, null=True, blank=True)
+    woning_land = models.CharField(max_length=255, null=True, blank=True)
+    woning_gebruik = models.CharField(max_length=500, null=True, blank=True)
+    woning_gebruik_extra = models.TextField(null=True, blank=True)
+    soort_woning = models.CharField(max_length=255, null=True, blank=True)
+    bouwaard = models.CharField(max_length=255, null=True, blank=True)
+    dakbedekking = models.CharField(max_length=255, null=True, blank=True)
+    bijzonderheden_woning = models.TextField(null=True, blank=True)
+    woning_extra_info = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # VERZEKERINGEN WONING
+    # ============================================================================
+
+    interesse_verzekeringen = models.TextField(null=True, blank=True)
+    gewenste_startdatum = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # VERZEKERINGEN BUITENLAND
+    # ============================================================================
+
+    interesse_internationale_verzekeringen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # OPMERKINGEN
+    # ============================================================================
+
+    opmerkingen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # BACKUP: Volledige raw data
+    # ============================================================================
+
+    raw_form_data = models.JSONField(null=True, blank=True)
+
+    class Meta:
+        db_table = 'adviesaanvragen_woning'
+        verbose_name_plural = 'Advies Aanvragen (Woning)'
+        indexes = [
+            models.Index(fields=['email', 'ingediend_op']),
+        ]
+
+    def __str__(self):
+        naam = f"{self.voornaam or ''} {self.achternaam or ''}".strip() or "Onbekend"
+        adres = self.woning_postcode_plaats or self.woning_straat_huisnummer or "?"
+        return f"Aanvraag (Woning) {self.aanvraag_id} - {naam} - {adres}"
+
+
+class OfferteArbeidsOngeschiktheid(models.Model):
+    """
+    Flat model voor Offerte Arbeidsongeschiktheid formulier data.
+    Alle velden zijn nullable omdat het formulier dynamisch is.
+    """
+    aanvraag_id = models.AutoField(primary_key=True)
+    relatie = models.ForeignKey(Relaties, on_delete=models.CASCADE, related_name='offertes_ao')
+
+    # Metadata
+    external_result_id = models.CharField(max_length=255, unique=True, db_index=True, null=True, blank=True)
+    form_id = models.CharField(max_length=50, default='ao-1')
+    ingediend_op = models.DateTimeField(null=True, blank=True)
+    referral_source = models.CharField(max_length=255, null=True, blank=True)
+    referral_medium = models.CharField(max_length=255, null=True, blank=True)
+    referral_campaign = models.CharField(max_length=500, null=True, blank=True)
+    aangemaakt_op = models.DateTimeField(default=timezone.now)
+
+    # ============================================================================
+    # PERSOONLIJKE GEGEVENS
+    # ============================================================================
+
+    geslacht = models.CharField(max_length=50, null=True, blank=True)
+    achternaam = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    voorletters = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    geboortedatum = models.DateField(null=True, blank=True)
+    telefoonnummer = models.CharField(max_length=100, null=True, blank=True)
+    email = models.EmailField(db_index=True, null=True, blank=True)
+    nationaliteit = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # BESTEMMING EN VERTREK
+    # ============================================================================
+
+    bestemming_land = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    vertrekdatum = models.DateField(null=True, blank=True, db_index=True)
+    vertrek_wanneer = models.DateField(null=True, blank=True)
+    verwachte_vertrekdatum = models.DateField(null=True, blank=True)
+    verwachte_duur_verblijf = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # WERK EN INKOMEN
+    # ============================================================================
+
+    bruto_jaarinkomen = models.CharField(max_length=255, null=True, blank=True)
+    jaarrente_verzekerd_bedrag = models.CharField(max_length=255, null=True, blank=True)
+    werk_omschrijving = models.TextField(null=True, blank=True)
+    werkzaamheden = models.CharField(max_length=500, null=True, blank=True)
+    salaris_uit_nederland = models.CharField(max_length=255, null=True, blank=True)
+    loondienst_of_zelfstandig = models.CharField(max_length=255, null=True, blank=True)
+    eigen_onderneming_3jaar = models.CharField(max_length=255, null=True, blank=True)
+    loon_doorbetaald_bij_ziekte = models.CharField(max_length=500, null=True, blank=True)
+    toelichting_uitkering = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # WERKOMSTANDIGHEDEN
+    # ============================================================================
+
+    bouwplaats_of_offshore = models.CharField(max_length=255, null=True, blank=True)
+    bouwplaats_hoe_vaak = models.CharField(max_length=255, null=True, blank=True)
+    reist_veel_voor_werk = models.CharField(max_length=255, null=True, blank=True)
+    frequentie_vervoersmiddel = models.TextField(null=True, blank=True)
+    gevaarlijke_stoffen = models.CharField(max_length=255, null=True, blank=True)
+    toelichting_gevaarlijke_stoffen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # ZIEKTEKOSTENVERZEKERING
+    # ============================================================================
+
+    interesse_zkv = models.CharField(max_length=255, null=True, blank=True)
+    ziektekosten = models.CharField(max_length=255, null=True, blank=True)
+    huidige_verzekeraar_ziektekosten = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # LEVENSVERZEKERING
+    # ============================================================================
+
+    interesse_levensverzekering = models.CharField(max_length=255, null=True, blank=True)
+    levensverzekering = models.CharField(max_length=255, null=True, blank=True)
+    rookt = models.CharField(max_length=255, null=True, blank=True)
+    gewenste_verzekerde_som = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # OPMERKINGEN EN MARKETING
+    # ============================================================================
+
+    opmerkingen = models.TextField(null=True, blank=True)
+    hoe_gevonden = models.CharField(max_length=255, null=True, blank=True)
+    opmerkingen_2 = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # BACKUP: Volledige raw data
+    # ============================================================================
+
+    raw_form_data = models.JSONField(null=True, blank=True)
+
+    class Meta:
+        db_table = 'offertes_arbeidsongeschiktheid'
+        verbose_name_plural = 'Offertes Arbeidsongeschiktheid'
+        indexes = [
+            models.Index(fields=['email', 'ingediend_op']),
+            models.Index(fields=['bestemming_land', 'vertrekdatum']),
+        ]
+
+    def __str__(self):
+        naam = f"{self.voorletters or ''} {self.achternaam or ''}".strip() or "Onbekend"
+        bestemming = self.bestemming_land or "?"
+        return f"Offerte AO {self.aanvraag_id} - {naam} naar {bestemming}"
+
+
+class AllianzCareQuote(models.Model):
+    """
+    Flat model voor Allianz Care Quote formulier data.
+    Alle velden zijn nullable omdat het formulier dynamisch is.
+    """
+    aanvraag_id = models.AutoField(primary_key=True)
+    relatie = models.ForeignKey(Relaties, on_delete=models.CASCADE, related_name='allianz_care_quotes')
+
+    # Metadata
+    external_result_id = models.CharField(max_length=255, unique=True, db_index=True, null=True, blank=True)
+    form_id = models.CharField(max_length=50, default='allianz-1')
+    ingediend_op = models.DateTimeField(null=True, blank=True)
+    referral_source = models.CharField(max_length=255, null=True, blank=True)
+    referral_medium = models.CharField(max_length=255, null=True, blank=True)
+    referral_campaign = models.CharField(max_length=500, null=True, blank=True)
+    aangemaakt_op = models.DateTimeField(default=timezone.now)
+
+    # ============================================================================
+    # PERSONAL DATA
+    # ============================================================================
+
+    first_name = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    last_name = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    gender = models.CharField(max_length=50, null=True, blank=True)
+    email = models.EmailField(db_index=True, null=True, blank=True)
+    geboortedatum = models.DateField(null=True, blank=True)
+    nationaliteit = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # FAMILY MEMBERS
+    # ============================================================================
+
+    family_members = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # LOCATION AND STAY
+    # ============================================================================
+
+    country_of_origin = models.CharField(max_length=255, null=True, blank=True)
+    current_country = models.CharField(max_length=255, null=True, blank=True)
+    destination = models.CharField(max_length=255, null=True, blank=True, db_index=True)
+    purpose_of_stay = models.CharField(max_length=500, null=True, blank=True)
+    expected_duration = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # COVERAGE
+    # ============================================================================
+
+    area_of_cover = models.CharField(max_length=255, null=True, blank=True)
+    start_date = models.DateField(null=True, blank=True, db_index=True)
+    cover_inpatient = models.CharField(max_length=255, null=True, blank=True)
+    deductible_inpatient = models.CharField(max_length=255, null=True, blank=True)
+    deductible_outpatient = models.CharField(max_length=255, null=True, blank=True)
+
+    # ============================================================================
+    # REMARKS
+    # ============================================================================
+
+    opmerkingen = models.TextField(null=True, blank=True)
+
+    # ============================================================================
+    # BACKUP: Volledige raw data
+    # ============================================================================
+
+    raw_form_data = models.JSONField(null=True, blank=True)
+
+    class Meta:
+        db_table = 'allianz_care_quotes'
+        verbose_name_plural = 'Allianz Care Quotes'
+        indexes = [
+            models.Index(fields=['email', 'ingediend_op']),
+            models.Index(fields=['destination', 'start_date']),
+        ]
+
+    def __str__(self):
+        naam = f"{self.first_name or ''} {self.last_name or ''}".strip() or "Unknown"
+        dest = self.destination or "?"
+        return f"Allianz Quote {self.aanvraag_id} - {naam} naar {dest}"
+
+
 class Contracten(models.Model):
     contract_id = models.IntegerField(primary_key=True)
     polisnummer = models.CharField(max_length=255, blank=True)
