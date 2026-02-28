@@ -1,6 +1,6 @@
 """State definitions for the comparer agent."""
 
-from typing import List, Literal
+from typing import List, Literal, Optional
 from pydantic import BaseModel, Field
 from langchain_core.documents import Document
 
@@ -12,13 +12,10 @@ class RetrieverState(BaseModel):
     current_query: str = ""
     insurance_provider: str = ""
     documents: List[Document] = Field(default_factory=list)
-    evaluation_status: Literal["direct", "indirect", "miss", ""] = ""
+    evaluation_status: Optional[Literal["direct", "indirect", "miss"]] = None
     answer: str = ""
     premium_data: str = ""
     retries: int = 0
-    max_retries: int = 3
-    k: int = 15
-    top_n: int = 5
 
 
 class ProviderResult(BaseModel):
@@ -36,5 +33,3 @@ class ComparerState(BaseModel):
     provider_results: List[ProviderResult] = Field(default_factory=list)
     comparison: str = ""
     premium_data: str = ""
-    k: int = 15
-    top_n: int = 5

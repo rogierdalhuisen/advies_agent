@@ -25,17 +25,17 @@ class GradeResult(BaseModel):
 # --- Single-provider retriever nodes (used inside the subgraph) ---
 
 
-def make_retrieve(retriever: InsuranceRetriever):
+def make_retrieve(retriever: InsuranceRetriever, k: int = 15):
     def retrieve(state: RetrieverState) -> dict:
         query = state.current_query or state.original_query
-        results = retriever.retrieve_company_docs(query, state.insurance_provider, k=state.k)
+        results = retriever.retrieve_company_docs(query, state.insurance_provider, k=k)
         return {"documents": [doc for doc, _ in results], "current_query": query}
     return retrieve
 
 
-def make_rerank(reranker: Reranker):
+def make_rerank(reranker: Reranker, top_n: int = 5):
     def rerank(state: RetrieverState) -> dict:
-        return {"documents": reranker.rerank(state.current_query, state.documents, top_n=state.top_n)}
+        return {"documents": reranker.rerank(state.current_query, state.documents, top_n=top_n)}
     return rerank
 
 
@@ -130,8 +130,6 @@ def make_retrieve_all(retriever_subgraph):
             result = retriever_subgraph.invoke({
                 "original_query": state.original_query,
                 "insurance_provider": provider,
-                "k": state.k,
-                "top_n": state.top_n,
             })
             return ProviderResult(
                 insurance_provider=provider,

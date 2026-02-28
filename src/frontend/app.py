@@ -38,19 +38,29 @@ async def chat_profiles():
     ]
 
 
+def _build_agent(agent_name: str, settings: dict):
+    """Build agent with current settings (k, top_n passed as constructor args)."""
+    config = AGENTS[agent_name]
+    kwargs = {}
+    if "k" in settings:
+        kwargs["k"] = int(settings["k"])
+    if "top_n" in settings:
+        kwargs["top_n"] = int(settings["top_n"])
+    return config["class"](**kwargs)
+
+
 @cl.on_chat_start
 async def on_chat_start():
     """Initialize the selected agent and present its settings."""
     agent_name = cl.user_session.get("chat_profile") or DEFAULT_AGENT
-    config = AGENTS[agent_name]
-    agent = config["class"]()
 
-    cl.user_session.set("agent_name", agent_name)
-    cl.user_session.set("agent", agent)
-
-    settings = await cl.ChatSettings(config["build_widgets"]()).send()
+    settings = await cl.ChatSettings(AGENTS[agent_name]["build_widgets"]()).send()
     for key, value in settings.items():
         cl.user_session.set(key, value)
+
+    agent = _build_agent(agent_name, settings)
+    cl.user_session.set("agent_name", agent_name)
+    cl.user_session.set("agent", agent)
 
     await cl.Message(content=f"**{agent_name}** agent ready.").send()
 
@@ -68,9 +78,13 @@ async def on_chat_resume(thread):
 
 @cl.on_settings_update
 async def on_settings_update(settings):
-    """Store updated provider settings."""
+    """Store updated settings and rebuild agent if k/top_n changed."""
     for key, value in settings.items():
         cl.user_session.set(key, value)
+
+    agent_name = cl.user_session.get("agent_name")
+    agent = _build_agent(agent_name, settings)
+    cl.user_session.set("agent", agent)
 
 
 @cl.on_message

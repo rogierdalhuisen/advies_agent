@@ -9,44 +9,43 @@ from .nodes import (
 )
 
 
-def _build_retriever_subgraph():
-    """Build the single-provider retriever subgraph (retrieve -> rerank -> grade -> rewrite loop -> generate)."""
-    workflow = StateGraph(RetrieverState)
-
-    workflow.add_node("retrieve", make_retrieve(retriever))
-    workflow.add_node("rerank", make_rerank(reranker))
-    workflow.add_node("grade", make_grade(retriever, grading_llm))
-    workflow.add_node("rewrite", make_rewrite(rewrite_llm))
-    workflow.add_node("generate", make_generate(retriever, generation_llm))
-
-    workflow.add_edge(START, "retrieve")
-    workflow.add_edge("retrieve", "rerank")
-    workflow.add_edge("rerank", "grade")
-    workflow.add_conditional_edges(
-        "grade",
-        _route_after_grading,
-        {"generate": "generate", "rewrite": "rewrite"},
-    )
-    workflow.add_edge("rewrite", "retrieve")
-    workflow.add_edge("generate", END)
-
-    return workflow.compile()
-
-
-def _route_after_grading(state: RetrieverState) -> str:
-    if state.evaluation_status in ("direct", "indirect"):
-        return "generate"
-    if state.retries >= state.max_retries:
-        return "generate"
-    return "rewrite"
-
-
 class ComparerAgent:
     """Runs retrieval for 2-3 insurance providers in parallel, then compares results."""
 
-    def __init__(self):
-        self.retriever_subgraph = _build_retriever_subgraph()
+    def __init__(self, k: int = 15, top_n: int = 5, max_retries: int = 3):
+        self.max_retries = max_retries
+        self.retriever_subgraph = self._build_retriever_subgraph(k=k, top_n=top_n)
         self.graph = self._build_graph()
+
+    def _build_retriever_subgraph(self, k: int, top_n: int):
+        """Build the single-provider retriever subgraph."""
+        workflow = StateGraph(RetrieverState)
+
+        workflow.add_node("retrieve", make_retrieve(retriever, k=k))
+        workflow.add_node("rerank", make_rerank(reranker, top_n=top_n))
+        workflow.add_node("grade", make_grade(retriever, grading_llm))
+        workflow.add_node("rewrite", make_rewrite(rewrite_llm))
+        workflow.add_node("generate", make_generate(retriever, generation_llm))
+
+        workflow.add_edge(START, "retrieve")
+        workflow.add_edge("retrieve", "rerank")
+        workflow.add_edge("rerank", "grade")
+        workflow.add_conditional_edges(
+            "grade",
+            self._route_after_grading,
+            {"generate": "generate", "rewrite": "rewrite"},
+        )
+        workflow.add_edge("rewrite", "retrieve")
+        workflow.add_edge("generate", END)
+
+        return workflow.compile()
+
+    def _route_after_grading(self, state: RetrieverState) -> str:
+        if state.evaluation_status in ("direct", "indirect"):
+            return "generate"
+        if state.retries >= self.max_retries:
+            return "generate"
+        return "rewrite"
 
     def _build_graph(self):
         workflow = StateGraph(ComparerState)
@@ -62,18 +61,9 @@ class ComparerAgent:
 
         return workflow.compile()
 
-    def invoke(self, query: str, insurance_providers: list[str], k: int = 15, top_n: int = 5) -> dict:
-        """Run the comparer graph.
-
-        Args:
-            query: The insurance question to answer.
-            insurance_providers: List of 2-3 provider names to compare.
-            k: Number of documents to retrieve.
-            top_n: Number of documents to keep after reranking.
-        """
+    def invoke(self, query: str, insurance_providers: list[str]) -> dict:
+        """Run the comparer graph."""
         return self.graph.invoke({
             "original_query": query,
             "insurance_providers": insurance_providers,
-            "k": k,
-            "top_n": top_n,
         })

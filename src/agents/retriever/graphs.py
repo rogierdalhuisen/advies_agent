@@ -2,35 +2,32 @@
 
 from langgraph.graph import StateGraph, START, END
 from .state import RetrieverState
-from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm, routing_llm, tools
+from .config import retriever, reranker, grading_llm, rewrite_llm, generation_llm
 from .nodes import make_retrieve, make_rerank, make_grade, make_rewrite, make_generate
 
 
 class RetrieverAgent:
     """Self-reflective RAG agent. All configuration comes from config.py."""
 
-    def __init__(self):
+    def __init__(self, k: int = 25, top_n: int = 8, max_retries: int = 3):
         self.retriever = retriever
         self.reranker = reranker
         self.grading_llm = grading_llm
         self.rewrite_llm = rewrite_llm
         self.generation_llm = generation_llm
-        self.routing_llm = routing_llm
-        self.tools = tools
-        self.graph = self._build_graph()
+        self.max_retries = max_retries
+        self.graph = self._build_graph(k=k, top_n=top_n)
 
-    def _build_graph(self):
+    def _build_graph(self, k: int, top_n: int):
         workflow = StateGraph(RetrieverState)
 
-        #workflow.add_node("route", make_route(self.routing_llm, self.tools))
-        workflow.add_node("retrieve", make_retrieve(self.retriever))
-        workflow.add_node("rerank", make_rerank(self.reranker))
+        workflow.add_node("retrieve", make_retrieve(self.retriever, k=k))
+        workflow.add_node("rerank", make_rerank(self.reranker, top_n=top_n))
         workflow.add_node("grade", make_grade(self.retriever, self.grading_llm))
         workflow.add_node("rewrite", make_rewrite(self.rewrite_llm))
         workflow.add_node("generate", make_generate(self.retriever, self.generation_llm))
 
         workflow.add_edge(START, "retrieve")
-        #workflow.add_edge("route", "retrieve")
         workflow.add_edge("retrieve", "rerank")
         workflow.add_edge("rerank", "grade")
         workflow.add_conditional_edges(
@@ -43,19 +40,16 @@ class RetrieverAgent:
 
         return workflow.compile()
 
-    @staticmethod
-    def _route_after_grading(state: RetrieverState) -> str:
+    def _route_after_grading(self, state: RetrieverState) -> str:
         if state.evaluation_status in ("direct", "indirect"):
             return "generate"
-        if state.retries >= state.max_retries:
+        if state.retries >= self.max_retries:
             return "generate"
         return "rewrite"
 
-    def invoke(self, query: str, insurance_provider: str, k: int = 15, top_n: int = 5) -> dict:
+    def invoke(self, query: str, insurance_provider: str) -> dict:
         """Convenience method to run the graph."""
         return self.graph.invoke({
             "original_query": query,
             "insurance_provider": insurance_provider,
-            "k": k,
-            "top_n": top_n,
         })

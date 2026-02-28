@@ -111,8 +111,6 @@ AGENTS = {
         "build_inputs": lambda query, session: {
             "original_query": query,
             "insurance_provider": session.get("provider"),
-            "k": int(session.get("k", 15)),
-            "top_n": int(session.get("top_n", 5)),
         },
         "output_key": "answer",
         "render_node": _render_retriever_node,
@@ -165,8 +163,6 @@ AGENTS = {
                     session.get("provider_3"),
                 ] if p and p != "none"
             ],
-            "k": int(session.get("k", 15)),
-            "top_n": int(session.get("top_n", 5)),
         },
         "output_key": "comparison",
         "render_node": _render_comparer_node,
