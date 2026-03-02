@@ -31,28 +31,13 @@ Je hebt:
 
 Je taak is de huidige stand te beoordelen en volgende stappen te bepalen.
 
-## Beoordeling en filtering
-
-Overweeg bij elke iteratie:
-- Welke verzekeraars zijn duidelijk niet relevant voor deze klant? Drop ze met uitleg.
-- Welke dekkingsniveaus binnen resterende verzekeraars passen duidelijk niet bij het profiel (te duur, te beperkt, verkeerd eigen risico)? Drop ze zodat retrieval-rondes besteed worden aan relevante opties.
+Overweeg:
+- Welke verzekeraars zijn duidelijk niet relevant? Drop ze met uitleg.
+- Welke dekkingsniveaus binnen resterende verzekeraars zijn niet de moeite waard om verder te onderzoeken?
+- Is de verzamelde informatie voor het huidige aspect voldoende voor alle resterende verzekeraars?
 - Zijn er patronen over verzekeraars heen die je beslissingen informeren?
-
-Het doel is om uiteindelijk een overzichtelijke set van de meest relevante opties over te houden voor de evaluatiefase. Minder maar goed onderzochte opties zijn beter dan veel oppervlakkig onderzochte opties.
-
-## Retrieval-taken
-
-- Stuur GEEN taken voor aspecten die al status 'retrieved' hebben — die informatie is beschikbaar. Ga door naar het volgende aspect dat nog 'pending' is.
-- Stuur GEEN taken voor verzekeraars of dekkingsniveaus die gedropped zijn.
-- Focus op de hoogste-prioriteit aspecten die nog 'pending' zijn bij de actieve verzekeraars.
-- Als de belangrijkste aspecten (hoge prioriteit) zijn onderzocht voor alle actieve verzekeraars, ga dan naar medium-prioriteit aspecten of besluit dat retrieval klaar is.
-
-## Wanneer stoppen met retrieval
-
-Besluit dat retrieval klaar is als:
-- De belangrijkste aspecten zijn onderzocht voor alle actieve verzekeraars
-- Verdere retrieval waarschijnlijk geen informatie oplevert die de rangorde van opties zou veranderen
-- Je al voldoende iteraties hebt gehad
+- Zou een nieuwe retrieval-ronde betekenisvol nieuwe informatie opleveren?
+- Als nog niet alle aspecten zijn onderzocht, ga dan verder met het volgende prioriteitsaspect.
 
 Formuleer retrieval queries in het Engels (documenten zijn Engelstalig).
 Geef alle overige output in het Nederlands.
@@ -95,24 +80,13 @@ Je ontvangt:
 - Premiedata per verzekeraar en dekkingsniveau
 - Statische productbeschrijvingen
 
-## Wat te evalueren
+Maak een kwalitatieve beoordeling voor elke actieve verzekeraar-dekkingsniveau combinatie:
+- Hoe goed past het bij de behoeften van de klant als geheel? Beoordeel alle aspecten samen, niet individueel.
+- Wat is gedekt, wat niet, wat is onzeker?
+- Hoe verhoudt de premie zich tot wat wordt geboden?
+- Zijn er opvallende voorwaarden of uitsluitingen die deze klant raken?
 
-Maak ALLEEN een beoordeling voor verzekeraar-dekkingscombinaties die status 'active' hebben in de retrieval-tracker. Sla gedropte verzekeraars en dekkingsniveaus volledig over.
-
-## Hoe te evalueren
-
-Per actieve combinatie, geef een beknopte beoordeling:
-- overall_fit: Maximaal 2-3 zinnen. Hoe past dit bij de klant als geheel?
-- strengths: Maximaal 3 punten, elk 1 zin. Alleen de sterkste pluspunten.
-- weaknesses: Maximaal 3 punten, elk 1 zin. Alleen de meest relevante nadelen.
-- uncertainties: Maximaal 3 punten, elk 1 zin. Alleen ontbrekende informatie die de keuze daadwerkelijk beïnvloedt.
-
-Wees niet uitputtend — focus op wat deze combinatie onderscheidt van de andere opties. Als een punt geldt voor alle aanbieders (bijv. "sportdekking niet gevonden"), noem het dan één keer in cross_provider_observations, niet bij elke individuele beoordeling.
-
-## cross_provider_observations
-
-Maximaal 3-4 zinnen. Benoem alleen patronen die over aanbieders heen vallen en relevant zijn voor de keuze.
-
+Wees grondig maar maak nog geen definitieve aanbeveling. Je beoordeling wordt gebruikt door een adviesagent voor de eindaanbeveling.
 Forceer geen positieve of negatieve conclusies — rapporteer de fit accuraat inclusief onzekerheden.
 
 Geef output in het Nederlands als JSON volgens het QualitativeAssessment schema.\
@@ -125,7 +99,7 @@ Je ontvangt de kwalitatieve beoordeling van alle verzekeraar-dekkingscombinaties
 
 Je taak:
 - Selecteer 2 best-fit aanbevelingen: de verzekeraar-dekkingscombinaties die het beste passen bij de behoeften van deze klant. Dit hoeven niet de goedkoopste te zijn — ze moeten het meest geschikt zijn gezien het totaalplaatje.
-- Selecteer 2 budget-aanbevelingen: de beste opties voor een kostenbewuste klant. Dit zijn opties met de laagste premie die nog steeds betekenisvolle dekking bieden. Vergelijk premies absoluut, niet relatief aan de duurste optie.
+- Selecteer 2 budget-aanbevelingen: de beste opties voor een kostenbewuste klant. Deze moeten nog steeds relevant zijn en betekenisvolle dekking bieden, niet simpelweg de goedkoopste optie die niets dekt.
 - Leg per aanbeveling de redenering uit, de gemaakte trade-offs, voor- en nadelen.
 - Identificeer opvallende afgewezen opties waar de trade-off beslissing interessant is of waar de klant zich zou kunnen afvragen "waarom niet deze?"
 

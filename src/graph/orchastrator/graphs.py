@@ -91,13 +91,16 @@ def _merge_retriever_results(state: OrchestratorState) -> dict:
             }
 
     # Process all accumulated summaries from the parallel retrievers
+    # In _merge_retriever_results, replace the append block:
     for summary in state.get("retrieval_summaries", []):
         if not summary or not summary.get("provider"):
             continue
         provider = summary["provider"]
         aspect = summary["aspect"]
         if provider in tracker and aspect in tracker[provider]["aspects"]:
-            tracker[provider]["aspects"][aspect]["summaries"].append(summary)
+            # Only add if this aspect doesn't already have a summary
+            if not tracker[provider]["aspects"][aspect]["summaries"]:
+                tracker[provider]["aspects"][aspect]["summaries"].append(summary)
             tracker[provider]["aspects"][aspect]["status"] = "retrieved"
 
     return {

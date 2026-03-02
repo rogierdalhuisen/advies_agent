@@ -13,7 +13,7 @@ from langgraph.prebuilt import ToolNode, tools_condition
 
 from .state import RetrieverSubState
 from .schemas import RetrievalSummary
-from .config import retriever_llm, insurance_retriever, reranker
+from .config import gpt5_2_llm, insurance_retriever, reranker
 from .prompts import RETRIEVER_AGENT_PROMPT_TEMPLATE
 
 
@@ -100,7 +100,7 @@ def _build_system_message(state: RetrieverSubState) -> SystemMessage:
 
 def retriever_agent_node(state: RetrieverSubState) -> dict:
     """Call the retriever LLM with tools."""
-    llm_with_tools = retriever_llm.bind_tools(RETRIEVER_TOOLS)
+    llm_with_tools = gpt5_2_llm.bind_tools(RETRIEVER_TOOLS)
 
     system_msg = _build_system_message(state)
     messages = [system_msg] + state["messages"]

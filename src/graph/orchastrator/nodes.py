@@ -4,7 +4,7 @@ import json
 
 from langchain_core.messages import SystemMessage, HumanMessage
 
-from .config import opus_llm, retriever_llm
+from .config import opus_llm, gpt5_2_llm
 from .state import OrchestratorState
 from .schemas import (
     ParsedConstraints,
@@ -22,7 +22,7 @@ from .prompts import (
 
 def user_agent_node(state: OrchestratorState) -> dict:
     """Parse user profile into structured constraints using Opus."""
-    llm = retriever_llm.with_structured_output(ParsedConstraints)
+    llm = gpt5_2_llm.with_structured_output(ParsedConstraints)
 
     response = llm.invoke([
         SystemMessage(content=USER_AGENT_PROMPT),
@@ -119,7 +119,7 @@ def route_after_assessment(state: OrchestratorState) -> str:
 
 def evaluator_step1_node(state: OrchestratorState) -> dict:
     """Produce qualitative assessment of all active provider-coverage combinations."""
-    llm = retriever_llm.with_structured_output(QualitativeAssessment)
+    llm = gpt5_2_llm.with_structured_output(QualitativeAssessment)
 
     context = {
         "parsed_constraints": state["parsed_constraints"],
@@ -138,7 +138,7 @@ def evaluator_step1_node(state: OrchestratorState) -> dict:
 
 def evaluator_step2_node(state: OrchestratorState) -> dict:
     """Produce final recommendation from qualitative assessment."""
-    llm = opus_llm.with_structured_output(FinalRecommendation)
+    llm = gpt5_2_llm.with_structured_output(FinalRecommendation)
 
     context = {
         "parsed_constraints": state["parsed_constraints"],

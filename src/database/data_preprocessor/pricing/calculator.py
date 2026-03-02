@@ -25,8 +25,24 @@ from .loaders import (
 )
 
 
+# Billing period per provider: "monthly" or "yearly".
+# Monthly premiums are multiplied by 12 to normalize all output to yearly amounts.
+PROVIDER_BILLING_PERIOD: dict[str, str] = {
+    "allianz_globetrotter": "monthly",
+    "expatriate_group": "monthly",
+    "globality_yougenio": "monthly",
+    "goudse_expat_pakket": "yearly",
+    "goudse_ngo_zendelingen": "yearly",
+    "goudse_working_nomad": "monthly",
+    "International Expat Insurance": "monthly",
+    "oom_tib": "monthly",
+    "oom_wib": "monthly",
+    "special_isis": "monthly",
+}
+
+
 class PremiumCalculator:
-    """Calculate insurance premiums based on user data."""
+    """Calculate insurance premiums based on user data. All output premiums are yearly."""
 
     def __init__(self):
         """Initialize calculator with region mapping."""
@@ -270,6 +286,16 @@ class PremiumCalculator:
 
             if actual_deductible is not None:
                 coverage_result.deductible = actual_deductible
+
+            # Normalize monthly premiums to yearly
+            if all_eligible:
+                period = PROVIDER_BILLING_PERIOD.get(insurance_folder, "yearly")
+                if period == "monthly":
+                    coverage_result.total_premium *= 12
+                    coverage_result.premium_per_person = {
+                        role: amount * 12
+                        for role, amount in coverage_result.premium_per_person.items()
+                    }
 
             # Only add if all members are eligible
             if all_eligible:

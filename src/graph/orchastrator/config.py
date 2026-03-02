@@ -12,7 +12,7 @@ from src.retrieval.reranker.reranker import Reranker
 opus_llm = ChatAnthropic(model="claude-opus-4-6", temperature=0.3)
 
 # GPT-5.2 for retriever ReAct agents
-retriever_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
+gpt5_2_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
 
 # Shared retrieval components
 insurance_retriever = InsuranceRetriever()
