@@ -67,27 +67,6 @@ def make_rewrite(llm):
     return rewrite
 
 
-# def make_route(llm, tools):
-#     """Router node: uses LLM tool-calling to decide pricing vs retrieval."""
-#     llm_with_tools = llm.bind_tools(tools)
-
-#     def route(state: RetrieverState) -> dict:
-#         response = llm_with_tools.invoke(state.original_query)
-
-#         if response.tool_calls:
-#             tool_call = response.tool_calls[0]
-#             # Inject the known provider from state instead of relying on the LLM
-#             tool_call["args"]["insurance_providers"] = [state.insurance_provider]
-#             logger.info("Calculator tool called with args: %s", json.dumps(tool_call["args"], ensure_ascii=False))
-#             result = tools[0].invoke(tool_call["args"])
-#             logger.info("Calculator tool result: %s", result)
-#             return {"premium_data": result}
-
-#         logger.info("No tool call made by routing LLM")
-#         return {"premium_data": ""}
-
-#     return route
-
 
 def make_generate(retriever: InsuranceRetriever, llm):
     def generate(state: RetrieverState) -> dict:

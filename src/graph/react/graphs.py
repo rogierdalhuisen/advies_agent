@@ -8,7 +8,6 @@ from .state import SingleAgentState
 from .prompts import build_system_prompt
 from .config import reasoning_llm, retriever_agent, load_product_descriptions
 from .tools import make_retriever_tool
-from src.tools import calculate_premiums
 
 
 class SingleReActAgent:
@@ -21,7 +20,7 @@ class SingleReActAgent:
     def __init__(self):
         self.llm = reasoning_llm
         self.retriever_tool = make_retriever_tool(retriever_agent)
-        self.tools = [self.retriever_tool, calculate_premiums]
+        self.tools = [self.retriever_tool]
         self.llm_with_tools = self.llm.bind_tools(self.tools)
         self.product_descriptions = load_product_descriptions()
         self.graph = self._build_graph()
@@ -53,12 +52,14 @@ class SingleReActAgent:
         self,
         user_constraints: str,
         insurance_providers: list[str],
+        calculated_premiums: str,
     ) -> dict:
         """Run the agent end-to-end.
 
         Args:
             user_constraints: Natural language description of client needs.
             insurance_providers: List of provider folder names to consider.
+            calculated_premiums: Calculated premium options for the client.
 
         Returns:
             Final state dict with 'recommendation' extracted from last AI message.
@@ -68,6 +69,7 @@ class SingleReActAgent:
             "user_constraints": user_constraints,
             "insurance_providers": insurance_providers,
             "product_descriptions": self.product_descriptions,
+            "calculated_premiums": calculated_premiums,
             "recommendation": "",
         }
 

@@ -11,4 +11,5 @@ class SingleAgentState(TypedDict):
     user_constraints: str
     insurance_providers: list[str]
     product_descriptions: str
+    calculated_premiums: str
     recommendation: str
