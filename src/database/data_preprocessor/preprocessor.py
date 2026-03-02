@@ -193,7 +193,7 @@ def preprocess_user(aanvraag_id: int) -> PreprocessedUser:
     # Build user object with all fields
     user = PreprocessedUser(
         aanvraag_id=aanvraag_id,
-        email=raw.get("email"),
+        #email=raw.get("email"),
         # Premium results
         premiums=premium_json.get("premiums", {}),
         family=premium_json.get("family", []),
