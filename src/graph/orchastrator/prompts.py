@@ -35,7 +35,7 @@ Je taak is de huidige stand te beoordelen en volgende stappen te bepalen.
 
 Overweeg bij elke iteratie:
 - Welke verzekeraars zijn duidelijk niet relevant voor deze klant? Drop ze met uitleg.
-- Welke dekkingsniveaus binnen resterende verzekeraars passen duidelijk niet bij het profiel (te duur, te beperkt, verkeerd eigen risico)? Drop ze zodat retrieval-rondes besteed worden aan relevante opties.
+- Welke dekkingsniveaus binnen resterende verzekeraars passen duidelijk niet bij het profiel (te duur, te beperkt, verkeerd eigen risico)? Drop ze via coverage_level_updates zodat retrieval-rondes besteed worden aan relevante opties. De verzekeraar zelf blijft actief voor de overige niveaus.
 - Zijn er patronen over verzekeraars heen die je beslissingen informeren?
 
 Het doel is om uiteindelijk een overzichtelijke set van de meest relevante opties over te houden voor de evaluatiefase. Minder maar goed onderzochte opties zijn beter dan veel oppervlakkig onderzochte opties.

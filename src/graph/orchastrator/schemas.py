@@ -47,9 +47,21 @@ class ProviderStatus(BaseModel):
     reason: str = Field(description="Explanation (Dutch)")
 
 
+class CoverageLevelUpdate(BaseModel):
+    """Status update for a specific coverage level within a provider."""
+    provider: str
+    coverage_level: str
+    status: Literal["active", "dropped"]
+    reason: str = ""
+
+
 class AssessmentResult(BaseModel):
     """Orchestrator's assessment of current retrieval state."""
     provider_updates: list[ProviderStatus]
+    coverage_level_updates: list[CoverageLevelUpdate] = Field(
+        default_factory=list,
+        description="Updates to individual coverage level statuses within active providers",
+    )
     retrieval_tasks: list[RetrievalTask]
     proceed_to_evaluation: bool
     notes: str = Field(description="Decision reasoning (Dutch)")

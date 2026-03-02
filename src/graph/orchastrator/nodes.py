@@ -20,6 +20,21 @@ from .prompts import (
 )
 
 
+def _filter_active_tracker(tracker: dict) -> dict:
+    """Return tracker with only active providers and active coverage levels."""
+    filtered = {}
+    for provider, pdata in tracker.items():
+        if pdata.get("status") != "active":
+            continue
+        active_levels = {
+            k: v for k, v in pdata.get("coverage_levels", {}).items()
+            if v.get("status") == "active"
+        }
+        if active_levels:
+            filtered[provider] = {**pdata, "coverage_levels": active_levels}
+    return filtered
+
+
 def user_agent_node(state: OrchestratorState) -> dict:
     """Parse user profile into structured constraints using Opus."""
     llm = gpt5_2_llm.with_structured_output(ParsedConstraints)
@@ -96,6 +111,13 @@ def orchestrator_assess_node(state: OrchestratorState) -> dict:
         if update.provider in tracker:
             tracker[update.provider]["status"] = update.status
 
+    # Update coverage level statuses
+    for cl_update in response.coverage_level_updates:
+        provider = cl_update.provider
+        level = cl_update.coverage_level
+        if provider in tracker and level in tracker[provider].get("coverage_levels", {}):
+            tracker[provider]["coverage_levels"][level]["status"] = cl_update.status
+
     # Append notes
     notes = list(state.get("orchestrator_notes", []))
     notes.append(f"Iteratie {state['retrieval_iteration']}: {response.notes}")
@@ -121,9 +143,11 @@ def evaluator_step1_node(state: OrchestratorState) -> dict:
     """Produce qualitative assessment of all active provider-coverage combinations."""
     llm = gpt5_2_llm.with_structured_output(QualitativeAssessment)
 
+    filtered_tracker = _filter_active_tracker(state["retrieval_tracker"])
+
     context = {
         "parsed_constraints": state["parsed_constraints"],
-        "retrieval_tracker": state["retrieval_tracker"],
+        "retrieval_tracker": filtered_tracker,
         "premiums": state["premiums"],
         "product_descriptions": state["product_descriptions"],
     }
@@ -140,9 +164,11 @@ def evaluator_step2_node(state: OrchestratorState) -> dict:
     """Produce final recommendation from qualitative assessment."""
     llm = gpt5_2_llm.with_structured_output(FinalRecommendation)
 
+    filtered_tracker = _filter_active_tracker(state["retrieval_tracker"])
+
     context = {
         "parsed_constraints": state["parsed_constraints"],
-        "retrieval_tracker": state["retrieval_tracker"],
+        "retrieval_tracker": filtered_tracker,
         "premiums": state["premiums"],
         "product_descriptions": state["product_descriptions"],
         "qualitative_assessment": state["qualitative_assessment"],
