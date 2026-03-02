@@ -4,7 +4,7 @@ import json
 
 from langchain_core.messages import SystemMessage, HumanMessage
 
-from .config import opus_llm
+from .config import opus_llm, retriever_llm
 from .state import OrchestratorState
 from .schemas import (
     ParsedConstraints,
@@ -22,7 +22,7 @@ from .prompts import (
 
 def user_agent_node(state: OrchestratorState) -> dict:
     """Parse user profile into structured constraints using Opus."""
-    llm = opus_llm.with_structured_output(ParsedConstraints)
+    llm = retriever_llm.with_structured_output(ParsedConstraints)
 
     response = llm.invoke([
         SystemMessage(content=USER_AGENT_PROMPT),
@@ -38,6 +38,8 @@ def build_initial_tracker_node(state: OrchestratorState) -> dict:
     premiums = state["premiums"]
     providers = state["available_providers"]
     aspects = parsed.get("retrieval_aspects", [])
+    if not isinstance(aspects, list):
+        aspects = []
 
     tracker = {}
     for provider in providers:
@@ -110,14 +112,14 @@ def route_after_assessment(state: OrchestratorState) -> str:
     tasks = state.get("retrieval_tasks", [])
     iteration = state.get("retrieval_iteration", 0)
 
-    if tasks and iteration < 4:
+    if tasks and iteration < 2:
         return "retrieve"
     return "evaluate"
 
 
 def evaluator_step1_node(state: OrchestratorState) -> dict:
     """Produce qualitative assessment of all active provider-coverage combinations."""
-    llm = opus_llm.with_structured_output(QualitativeAssessment)
+    llm = retriever_llm.with_structured_output(QualitativeAssessment)
 
     context = {
         "parsed_constraints": state["parsed_constraints"],

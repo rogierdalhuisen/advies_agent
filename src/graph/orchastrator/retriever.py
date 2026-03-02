@@ -120,16 +120,35 @@ def check_submit_and_extract(state: RetrieverSubState) -> dict:
         for tc in msg.tool_calls:
             if tc["name"] == "submit_summary":
                 args = tc["args"]
-                summary = RetrievalSummary(
-                    provider=args.get("provider", state["provider"]),
-                    aspect=args.get("aspect", state["aspect"]),
-                    overall_summary=args.get("overall_summary", ""),
-                    coverage_level_findings=args.get("coverage_level_findings", []),
-                    information_not_found=args.get("information_not_found", ""),
-                    confidence=args.get("confidence", "low"),
-                    ambiguities=args.get("ambiguities", ""),
-                )
-                return {"retrieval_summary": summary.model_dump()}
+                try:
+                    # GPT models may return empty strings instead of empty lists
+                    findings = args.get("coverage_level_findings", [])
+                    if not isinstance(findings, list):
+                        findings = []
+                    confidence_raw = str(args.get("confidence", "low")).lower()
+                    summary = RetrievalSummary(
+                        provider=args.get("provider", state["provider"]),
+                        aspect=args.get("aspect", state["aspect"]),
+                        overall_summary=args.get("overall_summary", ""),
+                        coverage_level_findings=findings,
+                        information_not_found=args.get("information_not_found", ""),
+                        confidence=confidence_raw if confidence_raw in ("high", "medium", "low") else "low",
+                        ambiguities=args.get("ambiguities", ""),
+                    )
+                    return {"retrieval_summary": summary.model_dump()}
+                except Exception as e:
+                    # Fallback: don't let a parsing error kill the whole graph
+                    print(f"[retriever] Warning: failed to parse submit_summary args: {e}")
+                    fallback = RetrievalSummary(
+                        provider=state["provider"],
+                        aspect=state["aspect"],
+                        overall_summary=args.get("overall_summary", "Samenvatting kon niet worden verwerkt."),
+                        coverage_level_findings=[],
+                        information_not_found="Parsing van retriever output is mislukt.",
+                        confidence="low",
+                        ambiguities=str(e),
+                    )
+                    return {"retrieval_summary": fallback.model_dump()}
 
     return {}
 

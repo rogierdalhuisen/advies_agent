@@ -13,9 +13,18 @@ class RetrievalAspect(BaseModel):
     priority: Literal["high", "medium", "low"]
 
 
+class CoreConstraints(BaseModel):
+    """Core client parameters for insurance recommendation."""
+    age: int = Field(description="Client age")
+    destination: str = Field(description="Travel destination")
+    duration: str = Field(description="Trip or coverage duration")
+    employment_type: str = Field(description="Type of employment")
+    trip_type: str = Field(description="Type of trip (single, multi, etc.)")
+
+
 class ParsedConstraints(BaseModel):
     """Structured interpretation of a client's insurance needs."""
-    core: dict = Field(description="age, destination, duration, employment_type, trip_type")
+    core: CoreConstraints = Field(description="age, destination, duration, employment_type, trip_type")
     interpreted_needs: list[str] = Field(description="Explicit and implicit needs (Dutch)")
     context_notes: list[str] = Field(description="Existing policies, budget, special circumstances (Dutch)")
     potential_trade_offs: list[str] = Field(description="Tensions in client situation (Dutch)")

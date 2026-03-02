@@ -1,7 +1,10 @@
 """Main hierarchical orchestrator graph with Send() pattern for parallel retrieval."""
 
+import uuid
+
 from langgraph.graph import StateGraph, START, END
 from langgraph.types import Send
+from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.messages import HumanMessage
 
 from .state import OrchestratorState
@@ -148,7 +151,7 @@ class HierarchicalAgent:
         workflow.add_edge("evaluator_step1", "evaluator_step2")
         workflow.add_edge("evaluator_step2", END)
 
-        return workflow.compile()
+        return workflow.compile(checkpointer=MemorySaver())
 
     def _build_initial_state(
         self,
@@ -175,12 +178,17 @@ class HierarchicalAgent:
             "recommendation": {},
         }
 
+    def _make_config(self, thread_id: str | None = None) -> dict:
+        """Build a LangGraph config with a thread_id for checkpointing."""
+        return {"configurable": {"thread_id": thread_id or uuid.uuid4().hex}}
+
     def invoke(
         self,
         user_profile: dict,
         premiums: dict,
         available_providers: list[str],
         product_descriptions: dict | None = None,
+        thread_id: str | None = None,
     ) -> dict:
         """Run the hierarchical orchestrator end-to-end.
 
@@ -190,6 +198,8 @@ class HierarchicalAgent:
             available_providers: List of provider names to consider.
             product_descriptions: Static product descriptions per provider.
                                   If None, uses auto-loaded descriptions.
+            thread_id: Optional thread ID for checkpointing. If None, a random
+                       ID is generated. Re-use the same ID to resume a failed run.
 
         Returns:
             Final state dict with 'recommendation' containing FinalRecommendation.
@@ -197,7 +207,7 @@ class HierarchicalAgent:
         initial_state = self._build_initial_state(
             user_profile, premiums, available_providers, product_descriptions
         )
-        return self.graph.invoke(initial_state)
+        return self.graph.invoke(initial_state, config=self._make_config(thread_id))
 
     def stream(
         self,
@@ -206,6 +216,7 @@ class HierarchicalAgent:
         available_providers: list[str],
         product_descriptions: dict | None = None,
         stream_mode: str = "updates",
+        thread_id: str | None = None,
     ):
         """Stream orchestrator execution, yielding state updates per node.
 
@@ -216,6 +227,8 @@ class HierarchicalAgent:
             product_descriptions: Static product descriptions per provider.
             stream_mode: "updates" (delta per node), "values" (full state per node),
                          or "debug" (detailed checkpoint info).
+            thread_id: Optional thread ID for checkpointing. If None, a random
+                       ID is generated. Re-use the same ID to resume a failed run.
 
         Yields:
             State updates per completed node (format depends on stream_mode).
@@ -223,4 +236,6 @@ class HierarchicalAgent:
         initial_state = self._build_initial_state(
             user_profile, premiums, available_providers, product_descriptions
         )
-        yield from self.graph.stream(initial_state, stream_mode=stream_mode)
+        yield from self.graph.stream(
+            initial_state, config=self._make_config(thread_id), stream_mode=stream_mode
+        )

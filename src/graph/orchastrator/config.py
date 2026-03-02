@@ -9,7 +9,7 @@ from src.retrieval.reranker.reranker import Reranker
 
 
 # Opus for orchestrator, user agent, and evaluators
-opus_llm = ChatAnthropic(model="claude-opus-4.6", temperature=0.3)
+opus_llm = ChatAnthropic(model="claude-opus-4-6", temperature=0.3)
 
 # GPT-5.2 for retriever ReAct agents
 retriever_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
