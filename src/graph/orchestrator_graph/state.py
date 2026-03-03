@@ -35,12 +35,3 @@ class OrchestratorState(TypedDict):
     qualitative_assessment: dict  # QualitativeAssessment schema
     recommendation: dict  # FinalRecommendation schema
 
-
-class RetrieverSubState(TypedDict):
-    """Subgraph state for each retriever invocation."""
-    messages: Annotated[list[AnyMessage], add_messages]
-    provider: str
-    query: str
-    aspect: str
-    product_description: str
-    retrieval_summary: dict  # Set when submit_summary is called

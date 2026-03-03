@@ -45,6 +45,9 @@ services:
       - POSTGRES_DB=${DB_NAME}
       - POSTGRES_USER=${DB_USER}
       - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - LANGCHAIN_TRACING_V2=true                                                                                                                                                                           
+      - LANGCHAIN_API_KEY=${LANGCHAIN_API_KEY}
+      
     healthcheck:
       test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
       interval: 30s

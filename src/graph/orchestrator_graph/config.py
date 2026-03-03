@@ -11,8 +11,15 @@ from src.retrieval.reranker.reranker import Reranker
 # Opus for orchestrator, user agent, and evaluators
 opus_llm = ChatAnthropic(model="claude-opus-4-6", temperature=0.3)
 
-# GPT-5.2 for retriever ReAct agents
-gpt5_2_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
+#trade off llm
+tradeoff_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
+
+# GPT-5.2 for retriever summarization
+summary_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
+
+# Lightweight models for retriever pipeline (grading and rewriting)
+grading_llm = ChatOpenAI(model="gpt-5-mini-2025-08-07", temperature=0)
+rewrite_llm = ChatOpenAI(model="gpt-5-mini-2025-08-07", temperature=0.3)
 
 # Shared retrieval components
 insurance_retriever = InsuranceRetriever()
