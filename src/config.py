@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 from dotenv import load_dotenv
+from sqlalchemy import true
 
 # .parent is de 'src' map
 SRC_ROOT = Path(__file__).resolve().parent
@@ -21,6 +22,11 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 SILICONFLOW_API_KEY = os.getenv("SILICONFLOW_API_KEY")
+
+LANGSMITH_TRACING=true                                                                                                                                                                                  
+LANGSMITH_API_KEY=os.getenv("LANGSMITH_API_KEY")                 
+LANGSMITH_PROJECT=os.getenv("LANGSMITH_PROJECT", "joho")
+LANGSMITH_ENDPOINT=os.getenv("LANGSMITH_ENDPOINT", "https://api.smith.langchain.com")
 
 # Hosts
 # In Docker: QDRANT_HOST=qdrant (service name)

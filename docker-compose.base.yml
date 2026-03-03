@@ -45,8 +45,10 @@ services:
       - POSTGRES_DB=${DB_NAME}
       - POSTGRES_USER=${DB_USER}
       - POSTGRES_PASSWORD=${DB_PASSWORD}
-      - LANGCHAIN_TRACING_V2=true                                                                                                                                                                           
-      - LANGCHAIN_API_KEY=${LANGCHAIN_API_KEY}
+      - LANGSMITH_TRACING=true
+      - LANGSMITH_API_KEY=${LANGSMITH_API_KEY}
+      - LANGSMITH_PROJECT=joho
+      - LANGSMITH_ENDPOINT=https://api.smith.langchain.com
       
     healthcheck:
       test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
