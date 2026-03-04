@@ -9,72 +9,112 @@ from src.retrieval.retriever import InsuranceRetriever
 from src.retrieval.reranker.reranker import Reranker
 from ..schemas import RetrievalSummary
 from .state import RetrieverState
-from .prompts import GRADING_PROMPT, REWRITE_PROMPT, SUMMARIZE_PROMPT
+from .prompts import VERIFY_PROMPT, REWRITE_PROMPT, SUMMARIZE_PROMPT
 
 logger = logging.getLogger(__name__)
 
+# Keywords that trigger pregnancy-related retrieval boost
+PREGNANCY_KEYWORDS: set[str] = {
+    "pregnancy", "maternity", "zwangerschap", "bevalling", "prenatal", "zwanger",
+}
 
-class GradeResult(BaseModel):
-    """3-way classification of document relevance."""
 
-    status: Literal["direct", "indirect", "miss"] = Field(
+class VerifyResult(BaseModel):
+    """3-way verification of document relevance with missing-info tracking."""
+
+    status: Literal["complete", "partial", "miss"] = Field(
         description=(
-            "direct: docs answer the query directly. "
-            "indirect: docs explain why something is excluded or answer indirectly. "
+            "complete: docs fully answer the query. "
+            "partial: docs answer part of the query but information is missing. "
             "miss: docs do not answer the query at all."
         )
     )
+    missing_info: str = Field(
+        default="",
+        description="What information is still missing (populated when status='partial').",
+    )
+
+
+def _has_pregnancy_keywords(text: str) -> bool:
+    """Check if text contains any pregnancy-related keywords (case-insensitive)."""
+    text_lower = text.lower()
+    return any(kw in text_lower for kw in PREGNANCY_KEYWORDS)
 
 
 def make_retrieve(retriever: InsuranceRetriever, k: int = 30):
-    """Create a retrieve node that searches the vector store filtered by provider."""
+    """Create a retrieve node with pregnancy keyword boost and retained-doc merging."""
 
     def retrieve(state: RetrieverState) -> dict:
         query = state.get("current_query") or state["query"]
         provider = state["provider"]
-        results = retriever.retrieve_company_docs(query, provider, k=k)
-        docs = [doc for doc, _score in results] if results else []
-        return {"documents": docs, "current_query": query}
+
+        # Pregnancy boost: increase k for broader recall
+        effective_k = 50 if _has_pregnancy_keywords(query) else k
+
+        results = retriever.retrieve_company_docs(query, provider, k=effective_k)
+        new_docs = [doc for doc, _score in results] if results else []
+
+        # Merge with retained documents from previous loops
+        retained = state.get("retained_documents", [])
+        merged = retained + new_docs
+
+        return {"documents": merged, "current_query": query}
 
     return retrieve
 
 
-def make_rerank(reranker: Reranker, top_n: int = 8):
-    """Create a rerank node that reranks retrieved documents."""
+def make_rerank(reranker: Reranker, top_n: int = 8, rewrite_top_n: int = 12):
+    """Create a rerank node with dynamic top_n based on retries and pregnancy boost."""
 
     def rerank(state: RetrieverState) -> dict:
         query = state.get("current_query") or state["query"]
-        reranked = reranker.rerank(query, state.get("documents", []), top_n=top_n)
+
+        # Determine effective top_n
+        if _has_pregnancy_keywords(query):
+            effective_top_n = 15
+        elif state.get("retries", 0) > 0:
+            effective_top_n = rewrite_top_n
+        else:
+            effective_top_n = top_n
+
+        reranked = reranker.rerank(query, state.get("documents", []), top_n=effective_top_n)
         return {"documents": reranked}
 
     return rerank
 
 
-def make_grade(retriever: InsuranceRetriever, llm):
-    """Create a grade node that classifies document relevance (direct/indirect/miss)."""
+def make_verify(retriever: InsuranceRetriever, llm):
+    """Create a verify node that classifies document relevance (complete/partial/miss)."""
 
-    def grade(state: RetrieverState) -> dict:
+    def verify(state: RetrieverState) -> dict:
         query = state.get("current_query") or state["query"]
         docs = state.get("documents", [])
         docs_text = "\n---\n".join(
             retriever.format_document_with_context(doc) for doc in docs
         )
-        prompt = GRADING_PROMPT.format(query=query, docs_text=docs_text)
-        result = llm.with_structured_output(GradeResult).invoke(prompt)
-        return {"evaluation_status": result.status}
+        prompt = VERIFY_PROMPT.format(query=query, docs_text=docs_text)
+        result = llm.with_structured_output(VerifyResult).invoke(prompt)
+        return {"evaluation_status": result.status, "missing_info": result.missing_info}
 
-    return grade
+    return verify
+
+
+def save_documents(state: RetrieverState) -> dict:
+    """Save current documents to retained_documents before a rewrite loop."""
+    return {"retained_documents": state.get("documents", [])}
 
 
 def make_rewrite(llm):
-    """Create a rewrite node that rewrites the query on a miss."""
+    """Create a rewrite node that uses missing_info to target gaps."""
 
     def rewrite(state: RetrieverState) -> dict:
         original_query = state["query"]
         current_query = state.get("current_query") or original_query
+        missing_info = state.get("missing_info", "")
         prompt = REWRITE_PROMPT.format(
             original_query=original_query,
             current_query=current_query,
+            missing_info=missing_info,
         )
         msg = llm.invoke(prompt)
         retries = state.get("retries", 0)
@@ -95,11 +135,13 @@ def make_summarize(retriever: InsuranceRetriever, llm):
         provider = state["provider"]
         aspect = state["aspect"]
         product_description = state.get("product_description", "Geen beschrijving beschikbaar.")
+        evaluation_status = state.get("evaluation_status", "complete")
 
         prompt = SUMMARIZE_PROMPT.format(
             aspect=aspect,
             provider=provider,
             product_description=product_description,
+            evaluation_status=evaluation_status,
             docs_text=docs_text,
         )
 

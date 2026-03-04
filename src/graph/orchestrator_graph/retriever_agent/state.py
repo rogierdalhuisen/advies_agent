@@ -26,5 +26,7 @@ class RetrieverState(TypedDict):
     # --- Pipeline-internal keys ---
     documents: list[Document]
     current_query: str
-    evaluation_status: Optional[Literal["direct", "indirect", "miss"]]
+    evaluation_status: Optional[Literal["complete", "partial", "miss"]]
     retries: int
+    retained_documents: list[Document]
+    missing_info: str

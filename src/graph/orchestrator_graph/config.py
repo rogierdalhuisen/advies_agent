@@ -2,7 +2,8 @@
 
 from langchain_anthropic import ChatAnthropic
 from langchain_openai import ChatOpenAI
-
+from langchain_google_genai import ChatGoogleGenerativeAI
+import os
 from src.config import DATA_DIR
 from src.retrieval.retriever import InsuranceRetriever
 from src.retrieval.reranker.reranker import Reranker
@@ -18,7 +19,12 @@ tradeoff_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
 summary_llm = ChatOpenAI(model="gpt-5.2", temperature=0.3)
 
 # Lightweight models for retriever pipeline (grading and rewriting)
-grading_llm = ChatOpenAI(model="gpt-5-mini-2025-08-07", temperature=0)
+verifier_llm = ChatGoogleGenerativeAI(
+    model="gemini-3-flash-preview",
+    temperature=0.5,
+    google_api_key=os.getenv("GEMINI_API_KEY")  
+)
+
 rewrite_llm = ChatOpenAI(model="gpt-5-mini-2025-08-07", temperature=0.3)
 
 # Shared retrieval components
@@ -41,3 +47,4 @@ def load_product_descriptions() -> dict[str, str]:
         if content:
             descriptions[md_file.stem] = content
     return descriptions
+
