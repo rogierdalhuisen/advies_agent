@@ -15,7 +15,7 @@ from .orchestrator import (
     orchestrator_assess_node,
     route_after_assessment,
 )
-from .retriever import retriever
+from .retriever_agent import retriever_agent
 from .tradeoff_agent import evaluator_step1_node, evaluator_step2_node
 
 
@@ -25,7 +25,7 @@ def _run_retriever(state: dict) -> dict:
     Receives input from Send() with provider, query, aspect, product_description.
     Returns a single retrieval_summary wrapped in a list for the operator.add reducer.
     """
-    result = retriever.invoke({
+    result = retriever_agent.invoke({
         "messages": [HumanMessage(content=state["query"])],
         "provider": state["provider"],
         "query": state["query"],

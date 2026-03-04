@@ -53,4 +53,4 @@ def build_retriever_subgraph(k: int = 30, top_n: int = 8, max_retries: int = 1):
     return subgraph.graph
 
 
-retriever = build_retriever_subgraph()
+retriever_agent = build_retriever_subgraph()
