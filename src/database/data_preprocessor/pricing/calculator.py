@@ -398,16 +398,24 @@ class PremiumCalculator:
                     ...
                 },
                 ...
+            },
+            "regions": {
+                "insurance_name": "region_name",
+                ...
             }
         }
         """
         premiums = {}
+        regions = {}
 
         for insurance_name, result in output.results.items():
             if not result.has_premiums or not result.coverage_premiums:
                 continue
 
             premiums[insurance_name] = {}
+            if result.region_used:
+                regions[insurance_name] = result.region_used
+                
             for coverage in result.coverage_premiums:
                 if coverage.eligible:
                     premiums[insurance_name][coverage.coverage_name] = {
@@ -434,4 +442,5 @@ class PremiumCalculator:
                 for m in output.family_members
             ],
             "premiums": premiums,
+            "regions": regions,
         }

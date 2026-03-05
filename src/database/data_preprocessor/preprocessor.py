@@ -26,6 +26,7 @@ class PreprocessedUser:
 
     # Premium calculation results
     premiums: dict = field(default_factory=dict)
+    regions: dict = field(default_factory=dict)
     family: list = field(default_factory=list)
     departure_date: Optional[date] = None
     deductible_requested: Optional[float] = None
@@ -196,6 +197,7 @@ def preprocess_user(aanvraag_id: int) -> PreprocessedUser:
         #email=raw.get("email"),
         # Premium results
         premiums=premium_json.get("premiums", {}),
+        regions=premium_json.get("regions", {}),
         family=premium_json.get("family", []),
         departure_date=departure_date,
         deductible_requested=premium_json.get("deductible_requested"),

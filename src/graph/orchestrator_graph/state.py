@@ -14,6 +14,7 @@ class OrchestratorState(TypedDict):
     # Input (set once at start)
     user_profile: dict
     premiums: dict  # provider -> coverage_level -> {total, deductible, per_person}
+    regions: dict  # provider -> region_name
     product_descriptions: dict  # provider -> static markdown
     available_providers: list[str]
 

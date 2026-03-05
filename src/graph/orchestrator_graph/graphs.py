@@ -159,6 +159,7 @@ class HierarchicalAgent:
         self,
         user_profile: dict,
         premiums: dict,
+        regions: dict,
         available_providers: list[str],
         product_descriptions: dict | None = None,
     ) -> dict:
@@ -168,6 +169,7 @@ class HierarchicalAgent:
             "messages": [],
             "user_profile": user_profile,
             "premiums": premiums,
+            "regions": regions,
             "product_descriptions": descriptions,
             "available_providers": available_providers,
             "parsed_constraints": {},
@@ -188,6 +190,7 @@ class HierarchicalAgent:
         self,
         user_profile: dict,
         premiums: dict,
+        regions: dict,
         available_providers: list[str],
         product_descriptions: dict | None = None,
         thread_id: str | None = None,
@@ -197,6 +200,7 @@ class HierarchicalAgent:
         Args:
             user_profile: Client profile data from the advice form.
             premiums: Premiums keyed by provider -> coverage_level -> amounts.
+            regions: Regions used for premium calculation by provider.
             available_providers: List of provider names to consider.
             product_descriptions: Static product descriptions per provider.
                                   If None, uses auto-loaded descriptions.
@@ -207,7 +211,7 @@ class HierarchicalAgent:
             Final state dict with 'recommendation' containing FinalRecommendation.
         """
         initial_state = self._build_initial_state(
-            user_profile, premiums, available_providers, product_descriptions
+            user_profile, premiums, regions, available_providers, product_descriptions
         )
         return self.graph.invoke(initial_state, config=self._make_config(thread_id))
 
@@ -215,6 +219,7 @@ class HierarchicalAgent:
         self,
         user_profile: dict,
         premiums: dict,
+        regions: dict,
         available_providers: list[str],
         product_descriptions: dict | None = None,
         stream_mode: str = "updates",
@@ -225,6 +230,7 @@ class HierarchicalAgent:
         Args:
             user_profile: Client profile data from the advice form.
             premiums: Premiums keyed by provider -> coverage_level -> amounts.
+            regions: Regions used for premium calculation by provider.
             available_providers: List of provider names to consider.
             product_descriptions: Static product descriptions per provider.
             stream_mode: "updates" (delta per node), "values" (full state per node),
@@ -236,7 +242,7 @@ class HierarchicalAgent:
             State updates per completed node (format depends on stream_mode).
         """
         initial_state = self._build_initial_state(
-            user_profile, premiums, available_providers, product_descriptions
+            user_profile, premiums, regions, available_providers, product_descriptions
         )
         yield from self.graph.stream(
             initial_state, config=self._make_config(thread_id), stream_mode=stream_mode
