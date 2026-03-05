@@ -1,12 +1,14 @@
 .env
-__pycache__/
+**pycache**/
 .venv/
 
 # Jupyter Notebook
+
 .ipynb_checkpoints/
-*.ipynb_checkpoints
+\*.ipynb_checkpoints
 
 # Logs and data directories
+
 logs/
 data/documents/chunks/
 
@@ -15,4 +17,5 @@ notebooks/
 .chainlit/
 
 data/user_data.xls
+data/user_data/user_data.json
 experiments/
