@@ -153,3 +153,9 @@ def get_by_email(email: str) -> list[dict]:
     """Get aanvragen by email with selected fields."""
     cols = get_columns()
     return _fetch(f"SELECT {cols} FROM {TABLE} WHERE email = %s ORDER BY ingediend_op DESC", (email,))
+
+
+def get_by_aanvraag_id(aanvraag_id: int) -> list[dict]:
+    """Get a single aanvraag by its ID."""
+    cols = get_columns()
+    return _fetch(f"SELECT {cols} FROM {TABLE} WHERE aanvraag_id = %s", (aanvraag_id,))

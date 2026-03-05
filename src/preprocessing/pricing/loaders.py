@@ -8,31 +8,21 @@ from typing import Optional
 import pandas as pd
 
 from src.config import DATA_DIR, DOCUMENTS_DIR
+from src.providers import PROVIDERS
 
 
-# Mapping from region_mapping.xlsx columns to insurance folder names
-INSURANCE_COLUMN_TO_FOLDER = {
-    "GEP": "goudse_expat_pakket",
-    "WIB": "oom_wib",
-    "TIB": "oom_tib",
-    "NGO": "goudse_ngo_zendelingen",
-    "IEI": "international_expat_insurance",
-    "Allianz_Health": "allianz_care",  # or allianz_care
-    "Globality": "globality_yougenio",
-    "TEG_Health": "expatriate_group",
-    "Cigna_Global": "cigna_global_care",
-    "Cigna_Close_Care": "cigna_close_care",
-    "Special_ISIS": "special_isis",
-    "Goudse_WN": "goudse_working_nomad",
+# Build column-to-folder and folder-to-column mappings from the providers registry
+INSURANCE_COLUMN_TO_FOLDER: dict[str, str] = {
+    p.region_column: name
+    for name, p in PROVIDERS.items()
+    if p.region_column
 }
 
-# Reverse mapping
-FOLDER_TO_INSURANCE_COLUMN = {v: k for k, v in INSURANCE_COLUMN_TO_FOLDER.items()}
+FOLDER_TO_INSURANCE_COLUMN: dict[str, str] = {v: k for k, v in INSURANCE_COLUMN_TO_FOLDER.items()}
 
 
 def parse_premium_value(value: str | float | None) -> Optional[float]:
-    """
-    Parse premium values from various formats to float.
+    """Parse premium values from various formats to float.
 
     Handles formats like:
     - "1.375,-" (Dutch format)
@@ -115,16 +105,15 @@ def get_region_for_country(
     insurance_column: str,
     region_df: Optional[pd.DataFrame] = None
 ) -> Optional[str]:
-    """
-    Get the region code for a country and insurance.
+    """Get the region code for a country and insurance.
 
     Args:
-        country: Country name (in Dutch)
-        insurance_column: Column name in region mapping (e.g., "GEP", "WIB")
-        region_df: Pre-loaded region DataFrame (optional)
+        country: Country name (in Dutch).
+        insurance_column: Column name in region mapping (e.g., "GEP", "WIB").
+        region_df: Pre-loaded region DataFrame (optional).
 
     Returns:
-        Region code or None if not found
+        Region code or None if not found.
     """
     if region_df is None:
         region_df = load_region_mapping()
@@ -142,14 +131,13 @@ def get_region_for_country(
 
 
 def load_premium_data(insurance_folder: str) -> Optional[list[dict]]:
-    """
-    Load premium data for an insurance provider.
+    """Load premium data for an insurance provider.
 
     Args:
-        insurance_folder: Folder name under data/documents/
+        insurance_folder: Folder name under data/documents/.
 
     Returns:
-        List of premium records or None if no premiums file exists
+        List of premium records or None if no premiums file exists.
     """
     premium_path = DOCUMENTS_DIR / insurance_folder / "premiums.json"
 
@@ -171,35 +159,14 @@ def get_all_insurance_folders() -> list[str]:
     return folders
 
 
-def load_user_data(aanvraag_id: Optional[int] = None) -> list[dict]:
-    """
-    Load user data from user_data.json.
-
-    Args:
-        aanvraag_id: Optional specific aanvraag to filter
-
-    Returns:
-        List of user records (or single record if aanvraag_id specified)
-    """
-    user_data_path = DATA_DIR / "user_data" / "user_data.json"
-
-    if not user_data_path.exists():
-        raise FileNotFoundError(f"User data not found at {user_data_path}")
-
-    with open(user_data_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    if aanvraag_id is not None:
-        data = [d for d in data if d.get('aanvraag_id') == aanvraag_id]
-
-    return data
+DEFAULT_DEDUCTIBLE = 500.0
 
 
-def parse_user_deductible(user_record: dict) -> Optional[float]:
-    """
-    Parse the user's preferred deductible from form data.
+def parse_user_deductible(user_record: dict) -> float:
+    """Parse the user's preferred deductible from form data.
 
     Checks zkv_eigen_risico_voorkeur first, then zkv_eigen_risico_bedrag.
+    Falls back to DEFAULT_DEDUCTIBLE (500) if neither is set.
     """
     # First check the dropdown preference
     pref = user_record.get('zkv_eigen_risico_voorkeur')
@@ -215,4 +182,4 @@ def parse_user_deductible(user_record: dict) -> Optional[float]:
         if parsed is not None:
             return parsed
 
-    return None
+    return DEFAULT_DEDUCTIBLE

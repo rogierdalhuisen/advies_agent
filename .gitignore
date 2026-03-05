@@ -6,6 +6,9 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
+# Preprocessed user cache (keep .gitkeep)
+data/preprocessed/*.json
+
 # Logs and data directories
 logs/
 data/documents/chunks/

@@ -5,6 +5,8 @@ from typing import Optional
 
 import pandas as pd
 
+from src.providers import PROVIDERS
+
 from .models import (
     CoveragePremium,
     FamilyMember,
@@ -18,27 +20,10 @@ from .loaders import (
     get_region_for_country,
     load_premium_data,
     load_region_mapping,
-    load_user_data,
     parse_deductible_value,
     parse_premium_value,
     parse_user_deductible,
 )
-
-
-# Billing period per provider: "monthly" or "yearly".
-# Monthly premiums are multiplied by 12 to normalize all output to yearly amounts.
-PROVIDER_BILLING_PERIOD: dict[str, str] = {
-    "allianz_globetrotter": "monthly",
-    "expatriate_group": "monthly",
-    "globality_yougenio": "monthly",
-    "goudse_expat_pakket": "yearly",
-    "goudse_ngo_zendelingen": "yearly",
-    "goudse_working_nomad": "monthly",
-    "International Expat Insurance": "monthly",
-    "oom_tib": "monthly",
-    "oom_wib": "monthly",
-    "special_isis": "monthly",
-}
 
 
 class PremiumCalculator:
@@ -57,10 +42,12 @@ class PremiumCalculator:
                 self._premium_cache[insurance_folder] = data
         return self._premium_cache.get(insurance_folder)
 
-    def _parse_birth_date(self, date_str: Optional[str]) -> Optional[date]:
-        """Parse birth date string to date object."""
+    def _parse_birth_date(self, date_str: Optional[str | date]) -> Optional[date]:
+        """Parse birth date string (or date object) to date object."""
         if not date_str:
             return None
+        if isinstance(date_str, date):
+            return date_str
         try:
             return date.fromisoformat(date_str)
         except (ValueError, TypeError):
@@ -71,11 +58,10 @@ class PremiumCalculator:
         user_record: dict,
         reference_date: Optional[date] = None
     ) -> list[FamilyMember]:
-        """
-        Extract family members from user record.
+        """Extract family members from user record.
 
         Args:
-            user_record: User data dictionary
+            user_record: User data dictionary.
             reference_date: Date to calculate age as of (departure date).
                            If None, uses today's date.
         """
@@ -113,11 +99,10 @@ class PremiumCalculator:
         deductible: Optional[float],
         coverage: str
     ) -> Optional[tuple[float, float]]:
-        """
-        Find matching premium for age, region, deductible, and coverage.
+        """Find matching premium for age, region, deductible, and coverage.
 
         Returns:
-            Tuple of (premium_value, actual_deductible) or None if no match
+            Tuple of (premium_value, actual_deductible) or None if no match.
         """
         candidates = []
 
@@ -242,9 +227,19 @@ class PremiumCalculator:
         # Get region for this insurance
         region = None
         insurance_column = FOLDER_TO_INSURANCE_COLUMN.get(insurance_folder)
-        if insurance_column and country:
+        if insurance_column:
+            if not country:
+                # Provider requires region but no destination — skip
+                result.has_premiums = False
+                result.notes.append("No destination country provided; region required")
+                return result
             raw_region = get_region_for_country(country, insurance_column, self.region_df)
-            region = str(raw_region) if raw_region is not None else None
+            if raw_region is None or (isinstance(raw_region, float) and pd.isna(raw_region)):
+                # Country not found in region mapping for this provider — skip
+                result.has_premiums = False
+                result.notes.append(f"Country '{country}' has no region mapping for {insurance_column}")
+                return result
+            region = str(raw_region)
             result.region_used = region
 
         # Get all coverage levels
@@ -287,9 +282,10 @@ class PremiumCalculator:
             if actual_deductible is not None:
                 coverage_result.deductible = actual_deductible
 
-            # Normalize monthly premiums to yearly
+            # Normalize monthly premiums to yearly using providers registry
             if all_eligible:
-                period = PROVIDER_BILLING_PERIOD.get(insurance_folder, "yearly")
+                provider = PROVIDERS.get(insurance_folder)
+                period = provider.billing_period if provider else "yearly"
                 if period == "monthly":
                     coverage_result.total_premium *= 12
                     coverage_result.premium_per_person = {
@@ -307,20 +303,20 @@ class PremiumCalculator:
         return result
 
     def calculate_for_user(self, aanvraag_id: int) -> PremiumCalculationOutput:
-        """
-        Calculate premiums for a specific user request.
+        """Calculate premiums for a specific user request.
 
         Ages are calculated as of the departure date (vertrekdatum) if provided,
         otherwise as of today's date.
 
         Args:
-            aanvraag_id: The request ID to calculate for
+            aanvraag_id: The request ID to calculate for.
 
         Returns:
-            Complete premium calculation output
+            Complete premium calculation output.
         """
-        # Load user data
-        user_records = load_user_data(aanvraag_id)
+        from src.database.repository import get_by_aanvraag_id
+
+        user_records = get_by_aanvraag_id(aanvraag_id)
         if not user_records:
             raise ValueError(f"No user data found for aanvraag_id {aanvraag_id}")
 
@@ -332,19 +328,18 @@ class PremiumCalculator:
         user_record: dict,
         selected_insurance_folders: Optional[list[str]] = None,
     ) -> PremiumCalculationOutput:
-        """
-        Calculate premiums from a user record dict directly.
+        """Calculate premiums from a user record dict directly.
 
         Ages are calculated as of the departure date (vertrekdatum) if provided,
         otherwise as of today's date.
 
         Args:
-            user_record: User data dictionary
+            user_record: User data dictionary.
             selected_insurance_folders: Only calculate for these providers.
                 If None, calculates for all available providers.
 
         Returns:
-            Complete premium calculation output
+            Complete premium calculation output.
         """
         aanvraag_id = user_record.get('aanvraag_id', 0)
 
@@ -385,8 +380,7 @@ class PremiumCalculator:
         return output
 
     def to_simple_json(self, output: PremiumCalculationOutput) -> dict:
-        """
-        Convert output to simplified JSON format.
+        """Convert output to simplified JSON format.
 
         Returns format:
         {
@@ -415,7 +409,7 @@ class PremiumCalculator:
             premiums[insurance_name] = {}
             if result.region_used:
                 regions[insurance_name] = result.region_used
-                
+
             for coverage in result.coverage_premiums:
                 if coverage.eligible:
                     premiums[insurance_name][coverage.coverage_name] = {

@@ -1,5 +1,4 @@
-"""
-Main preprocessor for user data.
+"""Main preprocessor for user data.
 
 Combines premium calculation with clean field extraction.
 """
@@ -9,17 +8,18 @@ from datetime import date
 from typing import Optional
 
 from .pricing.calculator import PremiumCalculator
-from .pricing.loaders import load_user_data
+from .cache import load_from_cache, save_to_cache
+from .normalizer import llm_normalize
 
 
 @dataclass
 class PreprocessedUser:
-    """
-    Complete preprocessed user data for advice generation.
+    """Complete preprocessed user data for advice generation.
 
     All user fields (except premium calculation fields) are directly accessible
     as attributes. Premium data is calculated and stored separately.
     """
+
     # Identifiers
     aanvraag_id: int
     email: Optional[str] = None
@@ -142,59 +142,90 @@ class PreprocessedUser:
         return sorted(all_premiums, key=lambda x: x["total"])
 
 
-# Fields used for premium calculation (not copied to user object directly)
-_PREMIUM_FIELDS = {
-    "geboortedatum",
-    "land_nationaliteit",
-    "partner_geboortedatum",
-    "kind1_geboortedatum",
-    "kind2_geboortedatum",
-    "kind3_geboortedatum",
-    "kind4_geboortedatum",
-}
+def preprocess_user(
+    email: str | None = None,
+    aanvraag_id: int | None = None,
+) -> PreprocessedUser:
+    """Preprocess user data for advice generation.
 
-
-def preprocess_user(aanvraag_id: int) -> PreprocessedUser:
-    """
-    Preprocess user data for advice generation.
+    Fetches from Postgres, normalizes fields via LLM, calculates premiums,
+    and caches the result.
 
     Args:
-        aanvraag_id: The request ID to process
+        email: Email to look up (returns most recent aanvraag).
+        aanvraag_id: Direct aanvraag ID lookup.
 
     Returns:
-        PreprocessedUser with all data accessible as attributes
+        PreprocessedUser with all data accessible as attributes.
+
+    Raises:
+        ValueError: If no user data found or neither email nor aanvraag_id given.
 
     Example:
-        >>> user = preprocess_user(118)
-        >>> user.functieomschrijving
-        'Mud-engineer in HDD drilling...'
+        >>> user = preprocess_user(aanvraag_id=92)
+        >>> user.bestemming_land
+        'Thailand'
         >>> user.wants_zkv
-        False
-        >>> user.get_cheapest_per_insurance()
+        True
     """
-    records = load_user_data(aanvraag_id)
+    from src.database.repository import get_by_email, get_by_aanvraag_id
+
+    if email is None and aanvraag_id is None:
+        raise ValueError("Provide either email or aanvraag_id")
+
+    # Resolve aanvraag_id from email if needed
+    if aanvraag_id is None:
+        records = get_by_email(email)
+        if not records:
+            raise ValueError(f"No user data found for email {email}")
+        aanvraag_id = records[0]["aanvraag_id"]
+
+    # Check cache
+    cached = load_from_cache(aanvraag_id)
+    if cached is not None:
+        return cached
+
+    # Fetch from Postgres
+    records = get_by_aanvraag_id(aanvraag_id)
     if not records:
         raise ValueError(f"No user data found for aanvraag_id {aanvraag_id}")
 
     raw = records[0]
 
-    # Calculate premiums
-    calculator = PremiumCalculator()
-    premium_output = calculator.calculate_from_record(raw)
-    premium_json = calculator.to_simple_json(premium_output)
+    # LLM normalize ambiguous fields (infers bestemming_land, cleans deductible, etc.)
+    normalized = llm_normalize(raw)
+    raw.update(normalized)
+
+    # Calculate premiums only if we have a destination
+    premium_json: dict = {
+        "premiums": {},
+        "regions": {},
+        "family": [],
+        "departure_date": None,
+        "deductible_requested": None,
+    }
+    destination = raw.get("bestemming_land")
+    if destination and str(destination).strip() and destination != "Onbekend":
+        calculator = PremiumCalculator()
+        premium_output = calculator.calculate_from_record(raw)
+        premium_json = calculator.to_simple_json(premium_output)
 
     # Parse departure date
     departure_date = None
-    if premium_json.get("departure_date"):
+    raw_departure = premium_json.get("departure_date") or raw.get("vertrekdatum")
+    if raw_departure:
         try:
-            departure_date = date.fromisoformat(premium_json["departure_date"])
+            if isinstance(raw_departure, date):
+                departure_date = raw_departure
+            else:
+                departure_date = date.fromisoformat(str(raw_departure))
         except (ValueError, TypeError):
             pass
 
     # Build user object with all fields
     user = PreprocessedUser(
         aanvraag_id=aanvraag_id,
-        #email=raw.get("email"),
+        email=raw.get("email"),
         # Premium results
         premiums=premium_json.get("premiums", {}),
         regions=premium_json.get("regions", {}),
@@ -246,17 +277,7 @@ def preprocess_user(aanvraag_id: int) -> PreprocessedUser:
         _raw=raw,
     )
 
+    # Cache for future use
+    save_to_cache(user)
+
     return user
-
-
-def preprocess_all_users() -> list[PreprocessedUser]:
-    """Preprocess all users in the database."""
-    records = load_user_data()
-    results = []
-    for record in records:
-        try:
-            user = preprocess_user(record["aanvraag_id"])
-            results.append(user)
-        except Exception as e:
-            print(f"Error processing {record.get('aanvraag_id')}: {e}")
-    return results

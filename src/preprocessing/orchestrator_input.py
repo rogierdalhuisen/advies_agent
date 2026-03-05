@@ -1,22 +1,23 @@
-"""Preprocessing module that transforms a PreprocessedUser into orchestrator inputs."""
+"""Transform a PreprocessedUser into orchestrator graph inputs."""
 
 from dataclasses import fields
 
-from src.database.data_preprocessor import PreprocessedUser
-from .config import load_product_descriptions
+from .preprocessor import PreprocessedUser
+from src.graph.orchestrator_graph.config import load_product_descriptions
 
 # Fields that are passed separately or should not be in user_profile
 _EXCLUDE_FROM_PROFILE = {"premiums", "regions", "_raw"}
 
 
 def prepare_orchestrator_input(preprocessed_user: PreprocessedUser) -> dict:
-    """Transform a PreprocessedUser into the four inputs expected by the hierarchical orchestrator.
+    """Transform a PreprocessedUser into the inputs expected by the hierarchical orchestrator.
 
     Args:
         preprocessed_user: A fully preprocessed user with calculated premiums.
 
     Returns:
-        Dict with keys: user_profile, premiums, regions, available_providers, product_descriptions.
+        Dict with keys: user_profile, premiums, regions, available_providers,
+        product_descriptions.
     """
     # 1. Build user_profile: all dataclass fields except premiums and _raw, stripping None values
     user_profile = {}
@@ -33,7 +34,7 @@ def prepare_orchestrator_input(preprocessed_user: PreprocessedUser) -> dict:
 
     # 2. Premiums are already in the right format: provider -> coverage_level -> {total, deductible, per_person}
     premiums = preprocessed_user.premiums
-    
+
     # Regions: provider -> region_name
     regions = preprocessed_user.regions
 
@@ -55,4 +56,3 @@ def prepare_orchestrator_input(preprocessed_user: PreprocessedUser) -> dict:
         "available_providers": available_providers,
         "product_descriptions": product_descriptions,
     }
-

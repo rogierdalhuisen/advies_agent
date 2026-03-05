@@ -4,26 +4,9 @@ from chainlit.input_widget import Select, Slider
 
 from src.agents.retriever import RetrieverAgent
 from src.agents.comparer import ComparerAgent
+from src.providers import ALL_PROVIDER_NAMES
 
-INSURANCE_PROVIDERS = [
-    "ACS",
-    "allianz_care",
-    "allianz_globetrotter",
-    "cigna_close_care",
-    "cigna_global_care",
-    "expatriate_group",
-    "globality_yougenio",
-    "goudse_expat_pakket",
-    "goudse_ngo_zendelingen",
-    "goudse_working_nomad",
-    "img_",
-    "international_expat_insurance",
-    "msh",
-    "oom_tib",
-    "oom_wib",
-    "special_isis",
-   
-]
+INSURANCE_PROVIDERS = sorted(ALL_PROVIDER_NAMES)
 
 DEFAULT_PROVIDER_INDEX = 0
 

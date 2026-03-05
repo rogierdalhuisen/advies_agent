@@ -9,29 +9,14 @@ from datetime import datetime
 import re
 import hashlib
 
+from src.providers import PROVIDERS
+
 
 class MetadataExtractor:
     """Extract metadata from file paths and content"""
 
-    # Map folder names to human-readable display names
-    COMPANY_DISPLAY_NAMES = {
-        "ACS": "ACS International",
-        "allianz_care": "Allianz Care",
-        "allianz_globetrotter": "Allianz Globetrotter",
-        "cigna_close_care": "Cigna Close Care",
-        "cigna_global_care": "Cigna Global Care",
-        "expatriate_group": "Expatriate Group",
-        "globality_yougenio": "Globality Yougenio",
-        "goudse_expat_pakket": "Goudse Expat Package",
-        "goudse_ngo_zendelingen": "Goudse NGO Zendelingen",
-        "goudse_working_nomad": "Goudse Working Nomad",
-        "IMG_": "IMG (International Medical Group)",
-        "International Expat Insurance": "International Expat Insurance",
-        "MSH": "MSH International",
-        "oom_tib": "OOM TIB",
-        "oom_wib": "OOM WIB",
-        "special_isis": "Special ISIS",
-    }
+    # Build display names from the global providers registry
+    COMPANY_DISPLAY_NAMES = {name: p.display_name for name, p in PROVIDERS.items()}
 
     def extract_from_path(self, file_path: Path, base_dir: Path) -> dict:
         """

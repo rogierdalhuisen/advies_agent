@@ -6,7 +6,7 @@ from typing import Optional
 
 from langchain_core.tools import tool
 
-from src.database.data_preprocessor.pricing.calculator import PremiumCalculator
+from src.preprocessing.pricing.calculator import PremiumCalculator
 
 
 @tool
