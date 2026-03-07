@@ -47,7 +47,6 @@
 - `nationality` (was er niet) — filtert welke verzekeraars getoond worden
 - `duration` (was er niet) — filtert welke verzekeraars getoond worden
 - `main_reasons` (was er niet) — filtert welke verzekeraars getoond worden
-- `region` veld verwijderd — wordt server-side bepaald per verzekeraar
 
 ### Response
 
@@ -58,93 +57,148 @@
     "age": 35,
     "destination": "Spain",
     "has_partner": true,
-    "children_count": 2
+    "children_count": 2,
+    "duration": "1-2 jaar"
   },
   "Internationale Ziektekostenverzekeringen": {
     "Allianz Global": {
       "Budget": {
-        "0": 89,
-        "250": 78,
-        "500": 67,
-        "1000": 56,
-        "2500": 45
+        "premies": { "0": 89, "250": 78, "500": 67, "1000": 56, "2500": 45 },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": false,
+          "maternity": false
+        }
       },
       "Medium": {
-        "0": 125,
-        "250": 112,
-        "500": 98,
-        "1000": 85,
-        "2500": 72
+        "premies": { "0": 125, "250": 112, "500": 98, "1000": 85, "2500": 72 },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": true,
+          "maternity": false
+        }
       },
       "Top": {
-        "0": 156,
-        "250": 142,
-        "500": 128,
-        "1000": 114,
-        "2500": 100
-      },
-      "coverage": {
-        "inpatient": true,
-        "outpatient": true,
-        "dental": true,
-        "maternity": false
+        "premies": {
+          "0": 156,
+          "250": 142,
+          "500": 128,
+          "1000": 114,
+          "2500": 100
+        },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": true,
+          "maternity": true
+        }
       }
     },
     "Goudse Expat Pakket": {
       "Budget": {
-        "0": 76,
-        "250": 68,
-        "500": 59,
-        "1000": 51,
-        "2500": "website"
+        "premies": {
+          "0": 76,
+          "250": 68,
+          "500": 59,
+          "1000": 51,
+          "2500": "website"
+        },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": false,
+          "maternity": false
+        }
       },
       "Medium": {
-        "0": 98,
-        "250": 87,
-        "500": 76,
-        "1000": 65,
-        "2500": null
-      },
-      "coverage": {
-        "inpatient": true,
-        "outpatient": true,
-        "dental": false,
-        "maternity": false
+        "premies": { "0": 98, "250": 87, "500": 76, "1000": 65, "2500": null },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": true,
+          "maternity": false
+        }
       }
     }
   },
   "Internationale Reisverzekeringen": {
     "Allianz Global": {
-      "Budget": { "0": 34, "250": 31, "500": 28, "1000": 25, "2500": 22 },
-      "Medium": { "0": 52, "250": 47, "500": 42, "1000": 37, "2500": 32 },
-      "Top": { "0": 71, "250": 64, "500": 57, "1000": 50, "2500": 43 },
-      "coverage": {
-        "inpatient": false,
-        "outpatient": true,
-        "dental": false,
-        "maternity": false
+      "Budget": {
+        "premies": { "0": 34, "250": 31, "500": 28, "1000": 25, "2500": 22 },
+        "coverage": {
+          "inpatient": false,
+          "outpatient": true,
+          "dental": false,
+          "maternity": false
+        }
+      },
+      "Medium": {
+        "premies": { "0": 52, "250": 47, "500": 42, "1000": 37, "2500": 32 },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": false,
+          "maternity": false
+        }
+      },
+      "Top": {
+        "premies": { "0": 71, "250": 64, "500": 57, "1000": 50, "2500": 43 },
+        "coverage": {
+          "inpatient": true,
+          "outpatient": true,
+          "dental": true,
+          "maternity": false
+        }
       }
     }
   }
 }
 ```
 
+**Filtering:** Verzekeringen die niet beschikbaar zijn voor de opgegeven duur,
+nationaliteit of hoofdreden verschijnen niet in de response. Dit wordt
+afgehandeld door het backend filter in `src/vergelijker/`.
+
 **Nieuw t.o.v. oude response:**
 
 - `session_id` — koppelt resultaten aan chatsessie
 - `input_summary` — samenvatting voor weergave op resultatenpagina
-- `coverage` object per verzekeraar — voor de negatief-filter checkboxes
+- `coverage` object per dekkingsniveau — voor de negatief-filter checkboxes
 
 ### Waarden in de response
 
-| JSON waarde               | Weergave in tabel                     |
-| ------------------------- | ------------------------------------- |
-| Getal (bijv. `89`)        | €89/mnd                               |
-| `"website"`               | "Zie website"                         |
-| `null`                    | ✗ (kruisje, niet beschikbaar)         |
-| Ontbrekend dekkingsniveau | Kolom niet tonen voor die verzekeraar |
+| JSON waarde                               | Weergave in tabel             |
+| ----------------------------------------- | ----------------------------- |
+| Getal (bijv. `89`)                        | €89/mnd                       |
+| `"website"`                               | "Zie website"                 |
+| `null` , `nvt`, or anything that is empty | ✗ (kruisje, niet beschikbaar) |
 
 ---
+
+### Backend premielogica
+
+De premieberekening bestaat uit twee stappen in `src/vergelijker/`:
+
+**1. Filter (nieuw te bouwen):**
+
+- Input: duur, nationaliteit, hoofdreden verblijf
+- Databron: Excel bestand (nog te maken) met per verzekering welke
+  duur/nationaliteit/reden geldig zijn
+- Output: lijst van verzekeringen die in aanmerking komen
+
+**2. Calculator (bestaand, aan te passen):**
+
+- Input: age, destination, departure_date, has_partner, age_partner,
+  children, child_ages
+- Output: premies per verzekering per dekkingsniveau per eigen risico
+- Bestaande code in `src/vergelijker/`, moet aangepast worden om de
+  nieuwe response structuur (coverage per niveau) te leveren
+
+Beide stappen vallen buiten scope van de web-implementatie.
+De web-laag gaat ervan uit dat de JSON response structuur zoals
+hierboven beschreven wordt aangeleverd door `compare_service.py`.
 
 ## Resultatenpagina (`/tool/resultaten`)
 
