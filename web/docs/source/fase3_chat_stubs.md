@@ -9,6 +9,7 @@ Nu alleen de **aansluitpunten** bouwen. De AI-implementatie komt later.
 ## Chat UI Design
 
 ### Weergave
+
 - Vast blok onderaan de resultatenpagina (altijd zichtbaar)
 - Chat-stijl: bubbels (klant rechts, AI links)
 - Vaste hoogte (bijv. 400px), scrollbaar
@@ -17,6 +18,7 @@ Nu alleen de **aansluitpunten** bouwen. De AI-implementatie komt later.
 - Auto-scroll naar nieuw bericht
 
 ### Suggestie-chips
+
 Klikbare voorbeeldvragen boven het tekstveld:
 
 ```
@@ -28,6 +30,7 @@ Klikbare voorbeeldvragen boven het tekstveld:
 - Verdwijnen na eerste vraag (of blijven, te bepalen)
 
 ### Antwoord formatting
+
 - AI antwoorden worden server-side gerenderd als HTML (markdown → HTML)
 - Python `markdown` package voor conversie
 - Ondersteunt: bold, lijstjes, tabelletjes
@@ -49,18 +52,20 @@ async def chat(request: ChatRequest):
 ```
 
 **Request:**
+
 ```json
 {
   "message": "Wat dekt een Budget pakket?",
   "history": [
-    {"role": "user", "content": "Hallo"},
-    {"role": "assistant", "content": "Hallo! Hoe kan ik helpen?"}
+    { "role": "user", "content": "Hallo" },
+    { "role": "assistant", "content": "Hallo! Hoe kan ik helpen?" }
   ],
   "session_id": "abc123"
 }
 ```
 
 **Response (later, SSE stream):**
+
 ```
 data: {"token": "Een"}
 data: {"token": " Budget"}
@@ -90,25 +95,25 @@ async def set_chat_context(session_id: str):
 ```html
 <section id="chat-section" class="chat-section">
   <h2>Stel een vraag</h2>
-  
+
   <!-- Suggestie chips -->
   <div class="chat-chips">
     {% for chip in config.CHAT_SUGGESTIE_CHIPS %}
-      <button class="chip">{{ chip }}</button>
+    <button class="chip">{{ chip }}</button>
     {% endfor %}
   </div>
-  
+
   <!-- Berichten container -->
   <div id="chat-messages" class="chat-messages">
     <p class="chat-placeholder">Stel een vraag over de verzekeringen...</p>
   </div>
-  
+
   <!-- Invoerveld -->
   <div class="chat-input">
-    <input type="text" placeholder="Typ uw vraag..." disabled>
+    <input type="text" placeholder="Typ uw vraag..." disabled />
     <button disabled>Verstuur</button>
   </div>
-  
+
   <p class="chat-notice">Chat wordt binnenkort beschikbaar.</p>
 </section>
 ```
@@ -116,9 +121,7 @@ async def set_chat_context(session_id: str):
 ### partials/chat_message.html
 
 ```html
-<div class="chat-bubble chat-bubble--{{ role }}">
-  {{ content | safe }}
-</div>
+<div class="chat-bubble chat-bubble--{{ role }}">{{ content | safe }}</div>
 ```
 
 ---
@@ -131,7 +134,7 @@ async def set_chat_context(session_id: str):
 class ChatService:
     """
     Stub voor chat service. Interface gedefinieerd, implementatie later.
-    
+
     Later:
     - Koppeling met LangGraph orchestrator
     - Chat history management (sessie-gebaseerd)
@@ -139,7 +142,7 @@ class ChatService:
     - SSE streaming responses
     - Markdown → HTML conversie
     """
-    
+
     async def send_message(
         self,
         message: str,
@@ -148,7 +151,7 @@ class ChatService:
     ) -> str:
         # STUB
         return "Chat is nog niet beschikbaar."
-    
+
     async def set_context(self, session_id: str, compare_results: dict):
         # STUB
         pass
@@ -172,15 +175,10 @@ De chat moet weten wat de klant heeft vergeleken. Flow:
 In `resultaten.html`:
 
 ```html
-{% block extra_tools %}
-  {# 
-    Toekomstige componenten hier toevoegen.
-    Elk component is een apart partial template.
-    Voorbeeld:
-    {% include "partials/callback_request.html" %}
-    {% include "partials/document_download.html" %}
-  #}
-{% endblock %}
+{% block extra_tools %} {# Toekomstige componenten hier toevoegen. Elk component
+is een apart partial template. Voorbeeld: {% include
+"partials/callback_request.html" %} {% include "partials/document_download.html"
+%} #} {% endblock %}
 ```
 
 ---
@@ -205,3 +203,4 @@ In `resultaten.html`:
 - [ ] SSE streaming implementatie details
 - [ ] LangGraph koppeling
 - [ ] Chat history strategie (max N berichten, token limiet)
+- [ ] Opslaan van gevraagde vragen klanten

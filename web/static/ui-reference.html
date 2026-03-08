@@ -1,0 +1,1847 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UI Reference — expatverzekering.nl Tool</title>
+
+  <style>
+    /* =========================================================
+       DESIGN TOKENS (CSS Custom Properties)
+       Exact overgenomen van expatverzekering.nl (joho-1.0.94)
+       ========================================================= */
+    :root {
+      --color-yellow-grey:    230, 216, 172;
+      --color-beige:          248, 244, 231;
+      --color-beige-light:    253, 251, 247;
+      --color-blue-primary:   0, 114, 218;
+      --color-blue-light:     67, 148, 223;
+      --color-blue-medium:    0, 86, 166;
+      --color-blue-harmony:   14, 11, 230;
+      --color-blue-dark:      0, 46, 89;
+      --color-grey-dark:      227, 235, 238;
+      --color-grey:           227, 235, 238;
+      --color-grey-medium:    217, 221, 222;
+      --color-grey-light:     242, 246, 247;
+      --color-red:            217, 32, 22;
+      --color-green:          0, 140, 53;
+      --color-grey-placeholder: 190, 196, 198;
+      --color-white:          255, 255, 255;
+      --color-black:          0, 0, 0;
+      --color-green-chat:     37, 211, 102;
+    }
+
+    /* =========================================================
+       FONTS
+       ========================================================= */
+    @font-face {
+      font-family: Poppins;
+      src: url("https://www.expatverzekering.nl/assets/joho-1.0.94/fonts/Poppins-Regular.woff2") format("woff2");
+      font-weight: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: Poppins;
+      src: url("https://www.expatverzekering.nl/assets/joho-1.0.94/fonts/Poppins-Medium.woff2") format("woff2");
+      font-weight: 500;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: Poppins;
+      src: url("https://www.expatverzekering.nl/assets/joho-1.0.94/fonts/Poppins-SemiBold.woff2") format("woff2");
+      font-weight: 600;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: "Zilla Slab";
+      src: url("https://www.expatverzekering.nl/assets/joho-1.0.94/fonts/ZillaSlab-SemiBold.woff2") format("woff2");
+      font-weight: 600;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: "Zilla Slab";
+      src: url("https://www.expatverzekering.nl/assets/joho-1.0.94/fonts/ZillaSlab-Bold.woff2") format("woff2");
+      font-weight: bold;
+      font-display: swap;
+    }
+
+    /* =========================================================
+       BASE / RESET
+       ========================================================= */
+    *, *::before, *::after { box-sizing: border-box; }
+    html { font-size: 16px; }
+    body {
+      font-family: Poppins, sans-serif;
+      font-size: 18px;
+      line-height: 1.6;
+      color: rgb(var(--color-black));
+      background: #F5F7F8;
+      margin: 0;
+      padding: 0;
+    }
+    h1, h2, h3, h4, p { margin: 0; }
+    a { color: rgb(var(--color-blue-primary)); text-decoration: underline; }
+    a:hover { text-decoration: none; }
+
+    /* =========================================================
+       REFERENCE PAGE LAYOUT
+       ========================================================= */
+    .ref-page { max-width: 1260px; margin: 0 auto; padding: 40px 20px 80px; }
+    .ref-page__title {
+      font-family: "Zilla Slab", sans-serif;
+      font-size: 48px;
+      font-weight: 600;
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .ref-page__subtitle {
+      font-size: 18px;
+      color: rgb(var(--color-grey-placeholder));
+      margin-bottom: 40px;
+    }
+    .ref-section {
+      margin-bottom: 60px;
+      padding-bottom: 40px;
+      border-bottom: 1px solid rgb(var(--color-grey));
+    }
+    .ref-section:last-child { border-bottom: none; }
+    .ref-section__title {
+      font-family: Poppins, sans-serif;
+      font-size: 24px;
+      font-weight: 600;
+      color: rgb(var(--color-blue-primary));
+      border-bottom: 2px solid rgb(var(--color-blue-primary));
+      padding-bottom: 10px;
+      margin-bottom: 30px;
+    }
+    .ref-section__label {
+      font-size: 14px;
+      font-weight: 600;
+      color: rgb(var(--color-grey-placeholder));
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 12px;
+      margin-top: 24px;
+    }
+    .ref-row {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      margin-bottom: 16px;
+    }
+    .ref-swatch {
+      width: 60px;
+      height: 60px;
+      border-radius: 12px;
+      border: 1px solid rgb(var(--color-grey));
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      padding-bottom: 4px;
+    }
+    .ref-swatch span {
+      font-size: 9px;
+      color: #FFF;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    }
+    .ref-dark-bg {
+      background: rgb(var(--color-blue-dark));
+      padding: 30px;
+      border-radius: 20px;
+      margin-bottom: 16px;
+    }
+
+    /* =========================================================
+       BUTTONS
+       ========================================================= */
+    .btn-primary {
+      font-family: Poppins, sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      color: #FFF;
+      background-color: rgb(var(--color-blue-primary));
+      border: 1px solid rgb(var(--color-blue-primary));
+      border-radius: 30px;
+      padding: 9px 30px 8px;
+      line-height: 21px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(var(--color-blue-primary), 0.3),
+                  0 0 4px rgba(var(--color-blue-primary), 0.2);
+      transition: box-shadow 0.2s ease;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-primary:hover {
+      box-shadow: 0 1px 2px rgba(var(--color-blue-primary), 0.3),
+                  0 0 4px rgba(var(--color-blue-primary), 0.2);
+      color: #FFF;
+    }
+
+    .btn-primary-arrow {
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      color: #FFF;
+      background-color: rgb(var(--color-blue-primary));
+      border: 1px solid rgb(var(--color-blue-primary));
+      border-radius: 30px;
+      padding: 11px 52px 11px 30px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(var(--color-blue-primary), 0.3),
+                  0 0 4px rgba(var(--color-blue-primary), 0.2);
+      transition: box-shadow 0.2s ease;
+      text-decoration: none;
+      display: inline-block;
+      position: relative;
+    }
+    .btn-primary-arrow::after {
+      content: "\203A";
+      position: absolute;
+      right: 24px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 20px;
+    }
+    .btn-primary-arrow:hover {
+      box-shadow: 0 1px 2px rgba(var(--color-blue-primary), 0.3),
+                  0 0 4px rgba(var(--color-blue-primary), 0.2);
+      color: #FFF;
+    }
+
+    .btn-secondary {
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      color: #FFF;
+      background-color: transparent;
+      border: 1px solid #FFF;
+      border-radius: 30px;
+      padding: 12px 30px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      transition: all 0.2s ease;
+    }
+    .btn-secondary:hover {
+      background-color: rgb(var(--color-blue-primary));
+      border-color: rgb(var(--color-blue-primary));
+      color: #FFF;
+    }
+
+    .btn-arrow-white {
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      color: rgb(var(--color-blue-dark));
+      background-color: #FFF;
+      border: 1px solid #FFF;
+      border-radius: 30px;
+      padding: 13px 52px 12px 30px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      position: relative;
+      transition: all 0.2s ease;
+    }
+    .btn-arrow-white::after {
+      content: "\203A";
+      position: absolute;
+      right: 24px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 20px;
+    }
+    .btn-arrow-white:hover {
+      background-color: rgb(var(--color-blue-primary));
+      border-color: rgb(var(--color-blue-primary));
+      color: #FFF;
+    }
+
+    .btn-text-arrow {
+      font-family: Poppins, sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      color: #000;
+      background: transparent;
+      border: none;
+      padding: 0 20px 0 0;
+      text-decoration: underline;
+      cursor: pointer;
+      position: relative;
+      display: inline-block;
+    }
+    .btn-text-arrow::after {
+      content: "\203A";
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    /* =========================================================
+       FORM ELEMENTS
+       ========================================================= */
+    .formfield {
+      margin-bottom: 24px;
+    }
+    .formfield__label {
+      display: block;
+      font-family: Poppins, sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      color: #000;
+      margin-bottom: 8px;
+    }
+    .formfield__label--required::after {
+      content: " *";
+      color: rgb(var(--color-red));
+    }
+    .formfield__input {
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      height: 40px;
+      padding: 7px 20px;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 30px;
+      background-color: #FFF;
+      color: #000;
+      width: 100%;
+      max-width: 480px;
+    }
+    .formfield__input::placeholder {
+      color: rgb(var(--color-grey-placeholder));
+    }
+    .formfield__input:focus {
+      outline: none;
+      border-color: rgb(var(--color-blue-primary));
+    }
+    .formfield__select {
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      height: 40px;
+      padding: 7px 40px 7px 20px;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 30px;
+      background-color: #FFF;
+      color: #000;
+      width: 100%;
+      max-width: 480px;
+      appearance: none;
+      cursor: pointer;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23000' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+      background-position: right 15px center;
+      background-repeat: no-repeat;
+      background-size: 12px;
+    }
+    .formfield__select:focus {
+      outline: none;
+      border-color: rgb(var(--color-blue-primary));
+    }
+    .formfield__helper {
+      font-size: 14px;
+      color: rgb(var(--color-grey-placeholder));
+      margin-top: 6px;
+    }
+    .formfield__message {
+      font-size: 12px;
+      margin-top: 10px;
+    }
+    .formfield--error .formfield__input {
+      border-color: rgb(var(--color-red));
+      color: rgb(var(--color-red));
+    }
+    .formfield--error .formfield__message {
+      color: rgb(var(--color-red));
+    }
+    .formfield--ok .formfield__input {
+      border-color: rgb(var(--color-green));
+    }
+
+    .formfield__radio-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .formfield__radio-label {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 18px;
+      cursor: pointer;
+    }
+    .formfield__radio-label input[type="radio"] {
+      width: 18px;
+      height: 18px;
+      accent-color: rgb(var(--color-blue-primary));
+    }
+
+    .formfield__checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .formfield__checkbox-label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .formfield__checkbox-label input[type="checkbox"] {
+      width: 18px;
+      height: 18px;
+      accent-color: rgb(var(--color-blue-primary));
+    }
+
+    /* =========================================================
+       FORM SECTION TITLES
+       ========================================================= */
+    .form-section__title {
+      font-family: Poppins, sans-serif;
+      font-size: 24px;
+      font-weight: 600;
+      color: rgb(var(--color-blue-primary));
+      border-bottom: 2px solid rgb(var(--color-blue-primary));
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+      margin-top: 40px;
+    }
+    .form-section__title:first-child { margin-top: 0; }
+
+    /* =========================================================
+       SUBMIT BUTTON
+       ========================================================= */
+    .form__submit {
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      color: #FFF;
+      background-color: rgb(var(--color-blue-primary));
+      border: 1px solid rgb(var(--color-blue-primary));
+      border-radius: 30px;
+      padding: 13px 52px 12px 30px;
+      cursor: pointer;
+      width: 100%;
+      max-width: 480px;
+      margin-top: 30px;
+      box-shadow: 0 4px 8px rgba(var(--color-blue-primary), 0.3),
+                  0 0 4px rgba(var(--color-blue-primary), 0.2);
+      transition: box-shadow 0.2s ease;
+      position: relative;
+    }
+    .form__submit::after {
+      content: "\203A";
+      position: absolute;
+      right: 24px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 20px;
+    }
+    .form__submit:hover {
+      box-shadow: 0 1px 2px rgba(var(--color-blue-primary), 0.3),
+                  0 0 4px rgba(var(--color-blue-primary), 0.2);
+    }
+    .form__submit--loading {
+      pointer-events: none;
+      opacity: 0.7;
+    }
+    .form__submit--loading::after {
+      content: "";
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border: 2px solid rgba(255,255,255,0.3);
+      border-top-color: #FFF;
+      border-radius: 50%;
+      animation: spin 0.6s linear infinite;
+      position: static;
+      transform: none;
+      margin-left: 10px;
+      vertical-align: middle;
+    }
+
+    /* =========================================================
+       TOGGLE
+       ========================================================= */
+    .toggle {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .toggle__switch {
+      width: 48px;
+      height: 26px;
+      background: rgb(var(--color-grey-medium));
+      border-radius: 13px;
+      position: relative;
+      transition: background 0.2s ease;
+      flex-shrink: 0;
+    }
+    .toggle__switch::after {
+      content: "";
+      width: 22px;
+      height: 22px;
+      background: #FFF;
+      border-radius: 50%;
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      transition: transform 0.2s ease;
+    }
+    .toggle--active .toggle__switch {
+      background: rgb(var(--color-blue-primary));
+    }
+    .toggle--active .toggle__switch::after {
+      transform: translateX(22px);
+    }
+    .toggle__label { font-size: 18px; }
+
+    /* =========================================================
+       COUNTER
+       ========================================================= */
+    .counter {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .counter__btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 1px solid rgb(var(--color-grey));
+      background: #FFF;
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: rgb(var(--color-blue-primary));
+      transition: border-color 0.15s ease;
+    }
+    .counter__btn:hover { border-color: rgb(var(--color-blue-primary)); }
+    .counter__value {
+      font-size: 18px;
+      font-weight: 600;
+      min-width: 24px;
+      text-align: center;
+    }
+
+    /* =========================================================
+       CARDS
+       ========================================================= */
+    .card {
+      background: #FFF;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 20px;
+      padding: 40px;
+    }
+    .card--summary {
+      background: rgb(var(--color-grey-light));
+      border: none;
+      padding: 20px 30px;
+    }
+    .summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .summary__text { font-size: 16px; }
+
+    /* =========================================================
+       FILTER CHIPS
+       ========================================================= */
+    .filter-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 16px;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 30px;
+      background: #FFF;
+      font-family: Poppins, sans-serif;
+      font-size: 14px;
+      color: #000;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      user-select: none;
+    }
+    .filter-chip:hover { border-color: rgb(var(--color-blue-primary)); }
+    .filter-chip.active {
+      background-color: rgb(var(--color-blue-primary));
+      color: #FFF;
+      border-color: rgb(var(--color-blue-primary));
+    }
+
+    .filters {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      margin-bottom: 30px;
+    }
+    .filters__group { display: flex; flex-direction: column; gap: 8px; }
+    .filters__label {
+      font-size: 14px;
+      font-weight: 600;
+      color: #000;
+    }
+    .filters__chips { display: flex; gap: 8px; flex-wrap: wrap; }
+
+    /* =========================================================
+       TABLE — gebaseerd op live vergelijk.expatverzekering.nl
+       ========================================================= */
+    .table-container {
+      overflow-x: auto;
+    }
+    .table-wrapper {
+      border-radius: 0;
+      border: none;
+      box-shadow: none;
+      background: #FFF;
+      overflow: hidden;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      border: none;
+      background: transparent;
+    }
+    table td, table th {
+      padding: 16px;
+      border-bottom: none;
+      vertical-align: middle;
+    }
+    table thead th {
+      font-size: 17.6px;
+      font-weight: 600;
+      color: rgb(var(--color-blue-primary));
+      background: rgb(var(--color-grey-light));
+      text-align: left;
+    }
+    table thead th:not(:first-child) { text-align: right; }
+
+    .result-row { cursor: pointer; transition: background-color 0.15s ease; }
+    .result-row:hover { background-color: #EDF1F3; }
+    .result-row:nth-child(4n+3) { background-color: #F8F9FA; }
+
+    .cell-insurer {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .cell-insurer__logo {
+      width: 80px;
+      height: 50px;
+      object-fit: contain;
+      border-radius: 4px;
+      background: transparent;
+      flex-shrink: 0;
+    }
+    .cell-insurer__name {
+      font-size: 17.6px;
+      font-weight: 600;
+      color: #000;
+      background: transparent;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      text-align: left;
+      font-family: inherit;
+    }
+    .cell-insurer__toggle {
+      margin-left: auto;
+      font-size: 14px;
+      color: rgb(var(--color-blue-primary));
+      flex-shrink: 0;
+      transition: transform 0.2s ease;
+    }
+    .result-row.expanded .cell-insurer__toggle {
+      transform: rotate(180deg);
+    }
+
+    .cell-price {
+      text-align: right;
+      font-size: 18px;
+      font-weight: 700;
+      color: #000;
+      white-space: nowrap;
+    }
+    .cell-price--unavailable {
+      color: rgb(var(--color-red));
+      font-size: 18px;
+      font-weight: 400;
+    }
+    .cell-price--website {
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .detail-row td { padding: 0 !important; border-bottom: none; }
+    .detail-panel {
+      background: #F8F9FA;
+      padding: 24px;
+      display: block;
+    }
+    .detail-panel__description {
+      font-size: 17.6px;
+      font-weight: 400;
+      color: #666;
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+    .detail-panel__links {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .detail-panel__link {
+      display: inline-block;
+      font-size: 14px;
+      font-weight: 500;
+      color: rgb(var(--color-blue-primary));
+      background: transparent;
+      border: 1px solid rgb(var(--color-blue-primary));
+      border-radius: 4px;
+      padding: 6px 12px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .detail-panel__link:hover {
+      background: rgb(var(--color-blue-primary));
+      color: #FFF;
+    }
+
+    .results-section {
+      margin-bottom: 40px;
+      background: #FFF;
+      border: 1px solid #DEE2E6;
+      border-radius: 20px;
+      padding: 24px;
+    }
+    .results-section__title {
+      font-family: Poppins, sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      color: rgb(var(--color-blue-primary));
+      line-height: 32px;
+      margin-bottom: 8px;
+    }
+    .results-section__subtitle {
+      font-size: 14px;
+      font-weight: 400;
+      color: #666;
+      margin-bottom: 24px;
+    }
+    .filters-card {
+      background: #FFF;
+      border: 1px solid #DEE2E6;
+      border-radius: 20px;
+      padding: 24px;
+      margin-bottom: 30px;
+    }
+
+    /* =========================================================
+       BADGES
+       ========================================================= */
+    .badge {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 2px 8px;
+      border-radius: 10px;
+    }
+    .badge--available {
+      background: rgba(var(--color-green), 0.1);
+      color: rgb(var(--color-green));
+    }
+    .badge--unavailable {
+      background: rgba(var(--color-red), 0.1);
+      color: rgb(var(--color-red));
+    }
+    .badge--website {
+      background: rgba(var(--color-blue-primary), 0.1);
+      color: rgb(var(--color-blue-primary));
+    }
+
+    /* =========================================================
+       LOADING STATES
+       ========================================================= */
+    .skeleton {
+      background: linear-gradient(90deg,
+        rgb(var(--color-grey-light)) 25%,
+        rgb(var(--color-grey)) 50%,
+        rgb(var(--color-grey-light)) 75%);
+      background-size: 200% 100%;
+      animation: skeleton-loading 1.5s infinite;
+      border-radius: 20px;
+    }
+    @keyframes skeleton-loading {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+    .spinner {
+      width: 24px;
+      height: 24px;
+      border: 3px solid rgb(var(--color-grey));
+      border-top-color: rgb(var(--color-blue-primary));
+      border-radius: 50%;
+      animation: spin 0.6s linear infinite;
+      display: inline-block;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* =========================================================
+       CHAT SECTION (stub)
+       ========================================================= */
+    .chat-section {
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 20px;
+      padding: 30px;
+      margin-top: 40px;
+    }
+    .chat-section__title {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .chat-chips {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+    .chip {
+      font-family: Poppins, sans-serif;
+      font-size: 14px;
+      padding: 8px 16px;
+      border: 1px solid rgb(var(--color-blue-primary));
+      border-radius: 30px;
+      background: #FFF;
+      color: rgb(var(--color-blue-primary));
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .chip:hover {
+      background: rgb(var(--color-blue-primary));
+      color: #FFF;
+    }
+    .chat-messages {
+      height: 200px;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 16px;
+      overflow-y: auto;
+      background: rgb(var(--color-grey-light));
+    }
+    .chat-placeholder {
+      color: rgb(var(--color-grey-placeholder));
+      font-size: 14px;
+    }
+    .chat-input {
+      display: flex;
+      gap: 8px;
+    }
+    .chat-input input {
+      flex: 1;
+      font-family: Poppins, sans-serif;
+      font-size: 16px;
+      height: 40px;
+      padding: 7px 20px;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 30px;
+      background: #FFF;
+    }
+    .chat-input input:focus {
+      outline: none;
+      border-color: rgb(var(--color-blue-primary));
+    }
+    .chat-notice {
+      font-size: 14px;
+      color: rgb(var(--color-grey-placeholder));
+      margin-top: 8px;
+    }
+
+    /* =========================================================
+       SITE HEADER
+       ========================================================= */
+    .site-header {
+      background: #FFF;
+      border-bottom: 1px solid rgb(var(--color-grey));
+      position: relative;
+      z-index: 20;
+    }
+    .site-header__top {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 8px 20px;
+      display: flex;
+      justify-content: flex-end;
+      gap: 20px;
+      font-size: 12px;
+    }
+    .site-header__top a {
+      color: #000;
+      text-decoration: none;
+    }
+    .site-header__top a:hover { text-decoration: underline; }
+    .site-header__main {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 12px 20px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .site-header__logo { height: 44px; }
+    .site-header__site-name {
+      font-family: "Zilla Slab", sans-serif;
+      font-size: 22px;
+      font-weight: 600;
+      color: rgb(var(--color-blue-primary));
+      text-decoration: none;
+    }
+    .site-header__actions { display: flex; gap: 12px; align-items: center; }
+    .site-header__nav {
+      background: #000;
+      padding: 0;
+    }
+    .site-header__nav-inner {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      gap: 0;
+    }
+    .site-header__nav-link {
+      color: #FFF;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      transition: background 0.15s ease;
+    }
+    .site-header__nav-link:hover {
+      background: rgba(255,255,255,0.1);
+      color: #FFF;
+    }
+
+    /* =========================================================
+       HERO SECTION — compact block like expatverzekering.nl pages
+       ========================================================= */
+    .hero-results {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      background: #FFF;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 20px;
+      padding: 24px 30px;
+      margin-bottom: 20px;
+    }
+    .hero-results__left {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .hero-results__logo { height: 44px; }
+    .hero-results__title {
+      font-family: "Zilla Slab", sans-serif;
+      font-size: 28px;
+      font-weight: 600;
+      color: rgb(var(--color-blue-primary));
+    }
+    .hero-results__subtitle {
+      font-size: 14px;
+      color: #666;
+      margin-top: 4px;
+      line-height: 1.5;
+    }
+    .hero-results__image { height: 80px; flex-shrink: 0; }
+
+    /* =========================================================
+       RESULTS OUTER WRAPPER
+       ========================================================= */
+    .results-outer {
+      max-width: 1260px;
+      margin: 0 auto 40px;
+      padding: 30px;
+      background: #FFF;
+      border: 1px solid rgb(var(--color-grey));
+      border-radius: 24px;
+    }
+
+    /* =========================================================
+       SITE FOOTER
+       ========================================================= */
+    .site-footer__interaction {
+      background: rgb(var(--color-blue-primary));
+      padding: 24px 0;
+    }
+    .site-footer__interaction-inner {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+    .site-footer__interaction-inner img { height: 36px; }
+    .site-footer__social {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      color: #FFF;
+      font-size: 14px;
+      font-weight: 600;
+    }
+    .site-footer__social a {
+      color: #FFF;
+      text-decoration: none;
+      font-weight: 400;
+    }
+    .site-footer__social a:hover { text-decoration: underline; }
+    .site-footer__overview {
+      background: rgb(var(--color-blue-medium));
+      padding: 24px 0;
+    }
+    .site-footer__overview-inner {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      gap: 60px;
+      color: #FFF;
+      font-size: 12px;
+    }
+    .site-footer__col h4 {
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: #FFF;
+    }
+    .site-footer__col a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+      display: block;
+      line-height: 1.8;
+    }
+    .site-footer__col a:hover { color: #FFF; }
+    .site-footer__bottom {
+      background: rgb(var(--color-blue-dark));
+      padding: 14px 0;
+    }
+    .site-footer__bottom-inner {
+      max-width: 1220px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: rgba(255,255,255,0.6);
+      font-size: 12px;
+    }
+    .site-footer__bottom a {
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      margin-left: 20px;
+    }
+    .site-footer__bottom a:hover { color: #FFF; }
+
+    /* =========================================================
+       ERROR ALERT
+       ========================================================= */
+    .alert {
+      padding: 16px 20px;
+      border-radius: 12px;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    .alert--error {
+      background: rgba(var(--color-red), 0.08);
+      color: rgb(var(--color-red));
+      border: 1px solid rgba(var(--color-red), 0.2);
+    }
+    .alert--success {
+      background: rgba(var(--color-green), 0.08);
+      color: rgb(var(--color-green));
+      border: 1px solid rgba(var(--color-green), 0.2);
+    }
+    .alert--info {
+      background: rgba(var(--color-blue-primary), 0.08);
+      color: rgb(var(--color-blue-primary));
+      border: 1px solid rgba(var(--color-blue-primary), 0.2);
+    }
+  </style>
+</head>
+<body>
+
+<div class="ref-page">
+
+  <!-- ============================================ -->
+  <!-- PAGE TITLE                                    -->
+  <!-- ============================================ -->
+  <h1 class="ref-page__title">UI Reference</h1>
+  <p class="ref-page__subtitle">
+    Visuele referentie voor de expatverzekering.nl vergelijkingstool.
+    Alle styling is gebaseerd op computed CSS van de live site.
+    <br>Dit bestand kan verwijderd worden na definitieve implementatie.
+  </p>
+
+  <!-- ============================================ -->
+  <!-- 1. KLEUREN                                    -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Kleuren</h2>
+
+    <p class="ref-section__label">Primair</p>
+    <div class="ref-row">
+      <div class="ref-swatch" style="background: rgb(var(--color-blue-primary));"><span>#0072DA</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-blue-light));"><span>#4394DF</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-blue-medium));"><span>#0056A6</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-blue-dark));"><span>#002E59</span></div>
+    </div>
+
+    <p class="ref-section__label">Grijs</p>
+    <div class="ref-row">
+      <div class="ref-swatch" style="background: rgb(var(--color-grey-light)); border-color: #ccc;"><span style="color:#666">#F2F6F7</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-grey)); border-color: #ccc;"><span style="color:#666">#E3EBEE</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-grey-medium)); border-color: #ccc;"><span style="color:#666">#D9DDDE</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-grey-placeholder));"><span>#BEC4C6</span></div>
+    </div>
+
+    <p class="ref-section__label">Feedback</p>
+    <div class="ref-row">
+      <div class="ref-swatch" style="background: rgb(var(--color-red));"><span>#D92016</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-green));"><span>#008C35</span></div>
+    </div>
+
+    <p class="ref-section__label">Beige / Accent</p>
+    <div class="ref-row">
+      <div class="ref-swatch" style="background: rgb(var(--color-beige)); border-color: #ccc;"><span style="color:#666">#F8F4E7</span></div>
+      <div class="ref-swatch" style="background: rgb(var(--color-beige-light)); border-color: #ccc;"><span style="color:#666">#FDFBF7</span></div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 2. TYPOGRAFIE                                 -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Typografie</h2>
+
+    <h1 style="font-family: 'Zilla Slab', sans-serif; font-size: 48px; font-weight: 600; line-height: 1.2; margin-bottom: 20px;">
+      Heading 1 — Zilla Slab 48px/600
+    </h1>
+    <h2 style="font-size: 24px; font-weight: 600; margin-bottom: 16px;">
+      Heading 2 — Poppins 24px/600
+    </h2>
+    <h3 style="font-size: 14px; font-weight: 600; margin-bottom: 16px;">
+      Heading 3 — Poppins 14px/600
+    </h3>
+    <p style="font-size: 18px; line-height: 1.6; margin-bottom: 16px;">
+      Body text — Poppins 18px/400. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Dit is de standaard paragraaf tekst zoals gebruikt op expatverzekering.nl.
+    </p>
+    <p style="font-size: 14px; margin-bottom: 16px;">
+      Small text — Poppins 14px/400. Gebrukt voor labels, metadata, en hulptekst.
+    </p>
+    <p style="font-size: 12px; color: rgb(var(--color-grey-placeholder));">
+      Meta text — Poppins 12px. Footer links, timestamps.
+    </p>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 3. BUTTONS                                    -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Buttons</h2>
+
+    <p class="ref-section__label">Primary</p>
+    <div class="ref-row">
+      <button class="btn-primary">Vergelijk verzekeringen</button>
+      <a class="btn-primary-arrow" href="#">Vraag advies</a>
+    </div>
+
+    <p class="ref-section__label">Secondary / Ghost (op donkere achtergrond)</p>
+    <div class="ref-dark-bg">
+      <div class="ref-row">
+        <a class="btn-secondary" href="#">Lees verder</a>
+        <a class="btn-arrow-white" href="#">Volg ons stappenplan</a>
+      </div>
+    </div>
+
+    <p class="ref-section__label">Text link</p>
+    <div class="ref-row">
+      <a class="btn-text-arrow" href="#">Bekijk alle verzekeraars</a>
+    </div>
+
+    <p class="ref-section__label">Submit (full width)</p>
+    <div style="max-width: 480px;">
+      <button class="form__submit">Vergelijk verzekeringen</button>
+    </div>
+    <div style="max-width: 480px; margin-top: 16px;">
+      <button class="form__submit form__submit--loading">Bezig met laden...</button>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 4. FORM INPUTS                                -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Formulier Elementen</h2>
+
+    <div style="max-width: 720px;">
+      <div class="card">
+        <h2 class="form-section__title" style="margin-top: 0;">Uw gegevens</h2>
+
+        <div class="formfield">
+          <label class="formfield__label formfield__label--required">Geboortedatum</label>
+          <input type="date" class="formfield__input" value="1990-05-15">
+        </div>
+
+        <div class="formfield">
+          <label class="formfield__label formfield__label--required">Nationaliteit</label>
+          <div class="formfield__radio-group">
+            <label class="formfield__radio-label"><input type="radio" name="nat" checked> Nederland</label>
+            <label class="formfield__radio-label"><input type="radio" name="nat"> Belgie</label>
+            <label class="formfield__radio-label"><input type="radio" name="nat"> Anders</label>
+          </div>
+        </div>
+
+        <div class="formfield">
+          <label class="formfield__label formfield__label--required">Bestemmingsland</label>
+          <input type="text" class="formfield__input" placeholder="Bijv. Spanje">
+          <p class="formfield__helper">Typ het land waar u naartoe gaat</p>
+        </div>
+
+        <div class="formfield">
+          <label class="formfield__label formfield__label--required">Duur van verblijf</label>
+          <select class="formfield__select">
+            <option value="">Selecteer...</option>
+            <option>0-6 maanden</option>
+            <option>6-12 maanden</option>
+            <option selected>1-2 jaar</option>
+            <option>2-5 jaar</option>
+            <option>Langer dan 5 jaar</option>
+            <option>Permanent</option>
+          </select>
+        </div>
+
+        <div class="formfield">
+          <label class="formfield__label">Hoofdreden verblijf</label>
+          <div class="formfield__checkbox-group">
+            <label class="formfield__checkbox-label"><input type="checkbox" checked> Reizen</label>
+            <label class="formfield__checkbox-label"><input type="checkbox" checked> Werken</label>
+            <label class="formfield__checkbox-label"><input type="checkbox"> Pensioen</label>
+            <label class="formfield__checkbox-label"><input type="checkbox"> Anders</label>
+          </div>
+        </div>
+
+        <h2 class="form-section__title">Gezinssamenstelling</h2>
+
+        <div class="formfield">
+          <div class="toggle toggle--active" onclick="this.classList.toggle('toggle--active')">
+            <div class="toggle__switch"></div>
+            <span class="toggle__label">Ik heb een partner</span>
+          </div>
+        </div>
+
+        <div class="formfield">
+          <label class="formfield__label">Geboortedatum partner</label>
+          <input type="date" class="formfield__input" value="1992-08-20">
+        </div>
+
+        <div class="formfield">
+          <label class="formfield__label">Aantal kinderen</label>
+          <div class="counter">
+            <button type="button" class="counter__btn">-</button>
+            <span class="counter__value">2</span>
+            <button type="button" class="counter__btn">+</button>
+          </div>
+        </div>
+
+        <button class="form__submit" style="max-width: 100%;">Vergelijk verzekeringen</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 5. VALIDATION STATES                          -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Validatie States</h2>
+
+    <div style="max-width: 480px;">
+      <div class="formfield">
+        <label class="formfield__label">Normaal</label>
+        <input type="text" class="formfield__input" placeholder="Standaard veld">
+      </div>
+
+      <div class="formfield formfield--error">
+        <label class="formfield__label">Error state</label>
+        <input type="text" class="formfield__input" value="ongeldig@">
+        <p class="formfield__message">Vul een geldig e-mailadres in</p>
+      </div>
+
+      <div class="formfield formfield--ok">
+        <label class="formfield__label">Success state</label>
+        <input type="text" class="formfield__input" value="rogier@example.nl" style="color: rgb(var(--color-green));">
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 6. RESULTATEN PAGINA (header + hero + resultaten + footer) -->
+  <!-- ============================================ -->
+  <section class="ref-section" style="padding-bottom: 0; margin-bottom: 0; border-bottom: none;">
+    <h2 class="ref-section__title">Resultaten Pagina (volledige weergave)</h2>
+  </section>
+
+  <!-- === RESULTS OUTER WRAPPER === -->
+  <div style="background: #F5F7F8;">
+    <div class="results-outer" style="margin-left: auto; margin-right: auto; max-width: 1220px; padding: 20px 20px 20px;">
+
+      <!-- Hero block -->
+      <div class="hero-results">
+        <div>
+          <div class="hero-results__left">
+            <img class="hero-results__logo" src="img/joho_img/logo.png" alt="JoHo Insurances">
+            <h1 class="hero-results__title">Premievergelijking</h1>
+          </div>
+          <p class="hero-results__subtitle">
+            Vergelijk eenvoudig de premies van internationale ziektekostenverzekeringen en langlopende internationale reisverzekeringen.
+          </p>
+        </div>
+        <img class="hero-results__image" src="img/joho_img/reizen.png" alt="Reizen illustratie">
+      </div>
+
+      <!-- Input samenvatting -->
+      <div class="card card--summary" style="margin-bottom: 20px;">
+        <div class="summary">
+          <span class="summary__text">36 jaar, Spanje, ingangsdatum 01-04-2026</span>
+          <a class="btn-text-arrow" href="#">Wijzig gegevens</a>
+        </div>
+      </div>
+
+    <!-- Filters -->
+    <div class="filters-card">
+      <div class="filters" style="margin-bottom: 0;">
+        <div class="filters__group">
+          <label class="filters__label">Eigen risico</label>
+          <select class="formfield__select" style="width: 160px;">
+            <option>€0</option>
+            <option>€250</option>
+            <option selected>€500</option>
+            <option>€1.000</option>
+            <option>€2.500</option>
+          </select>
+        </div>
+        <div class="filters__group">
+          <label class="filters__label">Dekking vereist</label>
+          <div class="filters__chips">
+            <span class="filter-chip active" onclick="this.classList.toggle('active')">Inpatient</span>
+            <span class="filter-chip" onclick="this.classList.toggle('active')">Outpatient</span>
+            <span class="filter-chip active" onclick="this.classList.toggle('active')">Dental</span>
+            <span class="filter-chip" onclick="this.classList.toggle('active')">Maternity</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Ziektekostenverzekeringen -->
+    <div class="results-section">
+      <h2 class="results-section__title">Internationale Ziektekostenverzekeringen</h2>
+      <p class="results-section__subtitle">Eigen risico: €500 &bull; Totaalbedrag voor alle personen &bull; Maandelijkse premies</p>
+      <div class="table-container">
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th>Verzekeraar / Dekking</th>
+                <th>Budget</th>
+                <th>Medium</th>
+                <th>Top</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- 1. Goudse Expat Pakket -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/goudse.png" alt="Goudse logo">
+                    <button class="cell-insurer__name">Goudse Expat Pakket</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€137</td>
+                <td class="cell-price">€170</td>
+                <td class="cell-price">€203</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationaal verzekeringspakket expats, werkenden en ondernemers in het buitenland, met de Nederlandse of Belgische nationaliteit. Aan te vragen tot 60-jarige leeftijd, looptijd tot 72 jaar.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 2. OOM Wonen in het buitenland -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/oom.png" alt="OOM logo">
+                    <button class="cell-insurer__name">OOM Wonen in het buitenland</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€162</td>
+                <td class="cell-price">€203</td>
+                <td class="cell-price">€444</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationaal verzekeringspakket Expats, Emigranten, Reizigers en iedereen die langdurig in het buitenland verblijft. Aan te vragen tot 70-jarige leeftijd, looptijd levenslang.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 3. Cigna Global -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/cigna.png" alt="Cigna logo">
+                    <button class="cell-insurer__name">Cigna Global</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price cell-price--website">Website</td>
+                <td class="cell-price cell-price--website">Website</td>
+                <td class="cell-price cell-price--website">Website</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale ziektekostenverzekering voor Expats en Emigranten. Geen leeftijdslimiet bij aanvragen, looptijd levenslang.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 4. Allianz Healthcare -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/allianze_care.png" alt="Allianz logo">
+                    <button class="cell-insurer__name">Allianz Healthcare</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price cell-price--website">Website</td>
+                <td class="cell-price cell-price--website">Website</td>
+                <td class="cell-price cell-price--website">Website</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale ziektekostenverzekering voor Expats en Emigranten. Aan te vragen tot 75-jarige leeftijd, looptijd levenslang.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 5. Globality Yougenio -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/globality.png" alt="Globality logo">
+                    <button class="cell-insurer__name">Globality Yougenio</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€103</td>
+                <td class="cell-price">€177</td>
+                <td class="cell-price">€310</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale ziektekostenverzekering voor Expats en Emigranten. Geen leeftijdslimiet bij aanvragen, vanaf 65-jarige leeftijd is een medische keuring onderdeel van het aanvraagproces, looptijd levenslang.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 6. The Expatriate Group -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/expatriate.png" alt="TEG logo">
+                    <button class="cell-insurer__name">The Expatriate Group</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€106</td>
+                <td class="cell-price">€123</td>
+                <td class="cell-price">€200</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale ziektekostenverzekering met moratorium cover. Voor Expats en Emigranten. Aan te vragen tot 65-jarige leeftijd, looptijd levenslang.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 7. Goudse NGO/Zendelingen -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/goudse.png" alt="Goudse logo">
+                    <button class="cell-insurer__name">Goudse NGO/Zendelingen</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€160</td>
+                <td class="cell-price">€160</td>
+                <td class="cell-price"><span class="cell-price--unavailable">&#10007;</span></td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale verzekeringspakket, NGO werknemers, volunteers, zendelingen, lokale werknemers en ondernemers. Aan te vragen tot 60-jarige leeftijd, looptijd tot 72 jaar.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 8. International Expat Insurance (Henner) -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/henner.png" alt="Henner logo">
+                    <button class="cell-insurer__name">International Expat Insurance</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€138</td>
+                <td class="cell-price">€244</td>
+                <td class="cell-price">€544</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale verzekeringspakket expats, werkenden en ondernemers in het buitenland, met optioneel arbeidsongeschiktheid bij te verzekeren. Aan te vragen tot 60-jarige leeftijd, looptijd levenslang.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Reisverzekeringen -->
+    <div class="results-section">
+      <h2 class="results-section__title">Internationale Reisverzekeringen</h2>
+      <p class="results-section__subtitle">Totaalbedrag voor alle personen &bull; Maandelijks</p>
+      <div class="table-container">
+        <div class="table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th>Verzekeraar / Dekking</th>
+                <th>Budget</th>
+                <th>Medium</th>
+                <th>Top</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- 1. OOM Tijdelijk in het Buitenland -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/oom.png" alt="OOM logo">
+                    <button class="cell-insurer__name">OOM Tijdelijk in het Buitenland</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€56</td>
+                <td class="cell-price">€107</td>
+                <td class="cell-price">€171</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Verzekeringspakket voor reizigers en werkenden die tijdelijk (maximaal 2 jaar) in het buitenland verblijven. Eigen risico medische kosten minimaal €500.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 2. Allianz Globetrotter -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/allianz_globetrotter.png" alt="Allianz Globetrotter logo">
+                    <button class="cell-insurer__name">Allianz Globetrotter</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€47</td>
+                <td class="cell-price">€58</td>
+                <td class="cell-price"><span class="cell-price--unavailable">&#10007;</span></td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Uitgebreide reisverzekering, geschikt voor reizen en werken in het buitenland tot 24 maanden. Alleen af te sluiten bij vertrek uit Nederland.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 3. Special ISIS -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/goudse.png" alt="Special ISIS logo">
+                    <button class="cell-insurer__name">Special ISIS - all-in</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€40</td>
+                <td class="cell-price">€54</td>
+                <td class="cell-price">€63</td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Uitgebreide reisverzekering voor backpackers, studenten, digital nomads en vrijwilligers die tot 4 jaar reizen of werken. Wereldwijd dekking, inclusief avontuurlijke activiteiten.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <!-- 4. Safetywing Nomad Insurance -->
+              <tr class="result-row" onclick="this.classList.toggle('expanded'); this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? '' : 'none';">
+                <td>
+                  <div class="cell-insurer">
+                    <img class="cell-insurer__logo" src="img/logos/Safety_Wing.png" alt="SafetyWing logo">
+                    <button class="cell-insurer__name">Safetywing Nomad Insurance</button>
+                    <span class="cell-insurer__toggle">&#9660;</span>
+                  </div>
+                </td>
+                <td class="cell-price">€62</td>
+                <td class="cell-price">€94</td>
+                <td class="cell-price"><span class="cell-price--unavailable">&#10007;</span></td>
+              </tr>
+              <tr class="detail-row" style="display: none;">
+                <td colspan="4">
+                  <div class="detail-panel">
+                    <p class="detail-panel__description">
+                      Internationale reisverzekering van Safetywing. Looptijd verzekering 1 jaar. Inclusief sportdekking. Eigen risico medische kosten $250.
+                    </p>
+                    <div class="detail-panel__links">
+                      <a class="detail-panel__link" href="#">Website</a>
+                      <a class="detail-panel__link" href="#">Premie</a>
+                      <a class="detail-panel__link" href="#">Dekking</a>
+                      <a class="detail-panel__link" href="#">Aanvragen</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Chat sectie -->
+    <div class="chat-section">
+      <h2 class="chat-section__title">Stel een vraag</h2>
+
+      <div class="chat-chips">
+        <button class="chip">Wat dekt een Budget pakket?</button>
+        <button class="chip">Welke verzekering past bij mij?</button>
+        <button class="chip">Waarom verschilt de prijs?</button>
+      </div>
+
+      <div class="chat-messages">
+        <p class="chat-placeholder">Stel een vraag over de verzekeringen...</p>
+      </div>
+
+      <div class="chat-input">
+        <input type="text" placeholder="Typ uw vraag..." disabled>
+        <button class="btn-primary" disabled style="opacity: 0.5;">Verstuur</button>
+      </div>
+      <p class="chat-notice">Chat wordt binnenkort beschikbaar.</p>
+    </div>
+
+    </div><!-- /results-outer -->
+  </div><!-- /background wrapper -->
+
+  <!-- ============================================ -->
+  <!-- 7. BADGES                                     -->
+  <!-- ============================================ -->
+  <section class="ref-section" style="margin-top: 60px;">
+    <h2 class="ref-section__title">Badges</h2>
+
+    <div class="ref-row">
+      <span class="badge badge--available">Beschikbaar</span>
+      <span class="badge badge--unavailable">Niet beschikbaar</span>
+      <span class="badge badge--website">Zie website</span>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 8. LOADING STATES                             -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Loading States</h2>
+
+    <p class="ref-section__label">Skeleton Loader</p>
+    <div class="skeleton" style="height: 40px; max-width: 480px; margin-bottom: 12px;"></div>
+    <div class="skeleton" style="height: 40px; max-width: 320px; margin-bottom: 12px;"></div>
+    <div class="skeleton" style="height: 200px; margin-bottom: 20px;"></div>
+
+    <p class="ref-section__label">Spinner</p>
+    <div class="ref-row" style="align-items: center;">
+      <div class="spinner"></div>
+      <span style="font-size: 14px; color: rgb(var(--color-grey-placeholder));">Resultaten laden...</span>
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 9. ALERTS                                     -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Alerts</h2>
+
+    <div class="alert alert--error" style="margin-bottom: 12px;">
+      Er is iets misgegaan bij het ophalen van de resultaten. Probeer het opnieuw.
+    </div>
+    <div class="alert alert--success" style="margin-bottom: 12px;">
+      Uw gegevens zijn succesvol opgeslagen.
+    </div>
+    <div class="alert alert--info">
+      De premies zijn indicatief en kunnen afwijken. Neem contact op voor een exacte offerte.
+    </div>
+  </section>
+
+  <!-- ============================================ -->
+  <!-- 10. CARDS                                     -->
+  <!-- ============================================ -->
+  <section class="ref-section">
+    <h2 class="ref-section__title">Cards</h2>
+
+    <p class="ref-section__label">Standaard Card</p>
+    <div class="card" style="max-width: 480px; margin-bottom: 20px;">
+      <p style="font-size: 16px;">Dit is een standaard card met witte achtergrond,
+      border-radius 20px en 40px padding.</p>
+    </div>
+
+    <p class="ref-section__label">Summary Card</p>
+    <div class="card card--summary" style="max-width: 720px;">
+      <div class="summary">
+        <span class="summary__text">35 jaar, Spanje, met partner en 2 kinderen</span>
+        <a class="btn-text-arrow" href="#">Wijzig</a>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+</body>
+</html>
